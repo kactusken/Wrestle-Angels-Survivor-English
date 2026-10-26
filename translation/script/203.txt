@@ -1,0 +1,203 @@
+# Event script entry 203 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 203.64
+# President, used 6x
+JP （みんな元気に泳いでるな。）
+EN (Everyone's swimming happily.)
+
+@ 203.70
+# other, used 2x
+JP い～～や～～～ッ！
+EN Noooooo!
+
+@ 203.77
+# President, used 2x
+JP （……あの声は藤島？）
+EN (......Is that Fujishima's voice?)
+
+@ 203.104
+# President, used 2x
+JP 怪我でもしたか？
+JP それとも、サメでも出たか？
+EN Did you get hurt?
+EN Or was it a shark?
+
+@ 203.116
+# other, used 2x
+JP 水着が…。
+JP 水着が流されて～…。
+EN My swimsuit...
+EN My swimsuit got washed awaaay...
+
+@ 203.123
+# President, used 2x
+JP 水着が？
+EN Your swimsuit?
+
+@ 203.125
+# President, used 2x
+JP どこに流されたんだ？
+EN Washed away where?
+
+@ 203.131
+# other, used 2x
+JP そ、それが…水着が逃げて…。
+EN W-well... my swimsuit ran away...
+
+@ 203.138
+# President, used 2x
+JP 水着が…逃げる……？
+EN Your swimsuit... ran away......?
+
+@ 203.140
+# President, used 2x
+JP （なんだそれは…。
+JP 最近の水着は単体で泳ぐのか？）
+EN (What does that mean...
+EN Do swimsuits swim on their own now?)
+
+@ 203.146
+# other, used 2x
+JP ほら、あそこ…。
+EN Look, over there...
+
+@ 203.153
+# President, used 2x
+JP （指さす先を見ると。）
+EN (I looked where she was pointing.)
+
+@ 203.155
+# President, used 2x
+JP （たしかに水着は浮かんだり
+JP 沈んだりしながら移動している。）
+EN (Sure enough, the swimsuit is
+EN moving,
+EN bobbing up and sinking down.)
+
+@ 203.157
+# President, used 2x
+JP （ただ、波に流されている動きとは
+JP 明らかに違う。）
+EN (But it's clearly not moving
+EN with the waves.)
+
+@ 203.159
+# President, used 2x
+JP ……ん？
+JP 水着の下に何かいるな。
+EN ......Hm?
+EN There's something under it.
+
+@ 203.165
+# other, used 2x
+JP ……え？
+JP ホント？
+EN ......Huh?
+EN Really?
+
+@ 203.172
+# President, used 2x
+JP （そして、ソイツは浮かんできた。）
+EN (And then the thing surfaced.)
+
+@ 203.178
+# other, used 2x
+JP ウミガメ！？
+EN A sea turtle!?
+
+@ 203.185
+# President, used 2x
+JP カメに水着がひっかかってる
+JP みたいだな。
+EN Looks like your swimsuit's
+EN caught on the turtle.
+
+@ 203.187
+# President, used 2x
+JP （カメはしばらく水面付近を
+JP 泳いでいたが…。）
+EN (The turtle swam near the surface
+EN for a while, but...)
+
+@ 203.193
+# other, used 2x
+JP ああッ！
+JP 沈んだッ！
+EN Ahh!
+EN It dove!
+
+@ 203.200
+# President, used 2x
+JP まあ、カメだしな。
+JP 潜ることもあるだろ。
+EN Well, it's a turtle.
+EN They dive sometimes.
+
+@ 203.202
+# President, used 2x
+JP （それきり、カメは浮かんで
+JP こなかった。）
+EN (And the turtle never
+EN came back up.)
+
+@ 203.204
+# President, used 2x
+JP もうあきらめろ。
+JP タオル持ってきてやるから。
+EN Give it up.
+EN I'll bring you a towel.
+
+@ 203.210
+# other, used 2x
+JP そんなぁ！
+JP あれ西陣織の水着で
+JP 上だけで30万円するのに～！
+EN No way!
+EN That swimsuit was Nishijin silk!
+EN The top alone cost 300,000 yen!
+
+@ 203.217
+# President, used 2x
+JP どんな水着だ…。
+EN What kind of swimsuit is that...
+
+@ 203.219
+# President, used 2x
+JP （海に入る前に見ておけば
+JP 良かったな。）
+EN (I should've checked before
+EN she went in the water.)
+
+@ 203.225
+# other, used 2x
+JP あ～～ん！
+JP 私の水着～ッ！
+EN Waaaah!
+EN My swimsuit!
+
+@ 203.232
+# President, used 2x
+JP もうあきらめろって。
+EN I said give it up.
+
+@ 203.238
+# other, used 2x
+JP い～や～～～ッ！
+JP 私の西陣織～～ッ！
+EN Noooooo!
+EN My Nishijin siiilk!
+
+@ 203.245
+# President, used 2x
+JP （だから、そんな水着
+JP 付けて来るなって…。）
+EN (Then don't wear a swimsuit
+EN like that to the beach...)

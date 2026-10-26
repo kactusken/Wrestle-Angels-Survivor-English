@@ -1,0 +1,163 @@
+# Event script entry 094 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 094.88
+# wrestler (voiced), case 0, used 2x
+JP 入りますッ！
+JP なんでしょうか、社長？
+EN Coming in! What is it, Boss?
+
+@ 094.94
+# President, case 0, used 2x
+JP おお、来たか…。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN Oh, you're here... Actually,
+EN there's an offer for a photo book
+EN of you...
+
+@ 094.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集！？
+EN ...A photo book!?
+
+@ 094.116
+# wrestler (voiced), case 0, used 2x
+JP すると私が特撮ヒロインの
+JP コスチュームを着て、遊園地で
+JP 子供たちと握手しながら撮影を…。
+EN So I'll wear a tokusatsu heroine
+EN outfit for a shoot at a theme park,
+EN shaking hands with kids...
+
+@ 094.122
+# President, case 0, used 2x
+JP どういう写真集を
+JP 想像してるんだ？
+EN What kind of photo book are you
+EN imagining?
+
+@ 094.130
+# wrestler (voiced), case 0, used 2x
+JP …えっ？
+JP やっぱり戦う女としては
+JP 悪の組織と…。
+EN ...Huh? Well, as a fighting woman,
+EN naturally an evil organization...
+
+@ 094.136
+# President, case 0, used 2x
+JP いや、悪の組織は出ないから。
+JP 普通の水着の写真集だよ。
+EN No, there's no evil organization.
+EN It's an ordinary swimsuit photo
+EN book.
+
+@ 094.144
+# wrestler (voiced), case 0, used 2x
+JP なんだぁ…。
+EN Aww, man...
+
+@ 094.150
+# President, case 0, used 2x
+JP …本気でガッカリしてるな。
+EN ...You're seriously disappointed.
+
+@ 094.158
+# wrestler (voiced), case 0, used 4x
+JP だってぇ…。
+EN But...
+
+@ 094.164
+# President, case 0, used 2x
+JP だってじゃない。
+JP お前の仕事に対しての情熱は
+JP そんな安っぽいモノだったのか？
+EN No buts. Is your passion for your
+EN work really that cheap?
+
+@ 094.172
+# wrestler (voiced), case 0, used 2x
+JP ……ハッ！
+EN ......Ah!
+
+@ 094.180
+# wrestler (voiced), case 0, used 2x
+JP そ、そうですね！
+JP 私が間違ってました、キャプテン！
+EN Y-you're right! I was wrong,
+EN Captain!
+
+@ 094.186
+# President, case 0, used 2x
+JP キャプテンって誰だよ…。
+EN Who's "Captain"...?
+
+@ 094.191
+# President, case 0, used 2x
+JP （こいつはこんなに単純で
+JP 大丈夫なんだろうか…。）
+EN (Is it okay for her to be
+EN this simple-minded...?)
+
+@ 094.288
+# wrestler (voiced), case 0, used 2x
+JP 任務完了です、社長！
+EN Mission complete, Boss!
+
+@ 094.294
+# President, case 0, used 2x
+JP おお、なかなか良く撮れてるぞ。
+EN Oh, these came out pretty well.
+
+@ 094.303
+# wrestler (voiced), case 0, used 2x
+JP そりゃ負けられませんから！
+EN Well, I couldn't lose!
+
+@ 094.309
+# President, case 0, used 2x
+JP 負けるって…何に？
+EN Lose... to what?
+
+@ 094.317
+# wrestler (voiced), case 0, used 2x
+JP いろいろッ！
+EN All sorts of things!
+
+@ 094.323
+# President, case 0, used 2x
+JP そっ、そうか…。
+EN R-right...
+
+@ 094.331
+# wrestler (voiced), case 0, used 2x
+JP しかし今回の撮影で目が覚めました！
+JP 撮影もやってみると楽しいと！
+EN But this shoot opened my eyes!
+EN Photo shoots are fun once you try!
+
+@ 094.337
+# President, case 0, used 2x
+JP そうか。
+JP 良かったな。
+EN I see. Good for you.
+
+@ 094.344
+# other, case 0, used 2x
+JP 次こそは特撮ヒロインの
+JP コスチュームで遊園地に！
+EN Next time, the tokusatsu heroine
+EN outfit at the theme park!
+
+@ 094.351
+# President, case 0, used 2x
+JP それはないから…。
+EN That's not happening...

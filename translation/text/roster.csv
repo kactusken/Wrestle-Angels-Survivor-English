@@ -1,0 +1,486 @@
+key,id,field,japanese,english
+0.name,1,name,石川 涼美,Suzumi Ishikawa
+0.finisher,1,finisher,パワースラム,Power Slam
+1.name,2,name,永原 ちづる,Chizuru Nagahara
+1.finisher,2,finisher,ジャーマンスープレックス,German Suplex
+2.name,3,name,越後 しのぶ,Shinobu Echigo
+2.finisher,3,finisher,延髄斬り,Enzuigiri
+3.name,4,name,小川 ひかる,Hikaru Ogawa
+3.finisher,4,finisher,ストレッチプラム,Stretch Plum
+4.name,5,name,金森 麗子,Reiko Kanamori
+4.finisher,5,finisher,延髄斬り,Enzuigiri
+5.name,6,name,神田 幸子,Sachiko Kanda
+5.finisher,6,finisher,掌底,Palm Strike
+6.name,7,name,菊池 理宇,Riyu Kikuchi
+6.finisher,7,finisher,フランケンシュタイナー,Frankensteiner
+7.name,8,name,キューティー金井,Cutie Kanai
+7.finisher,8,finisher,ノーザンＬスープレックス,Northern Lights Suplex
+8.name,9,name,小縞 聡美,Satomi Kojima
+8.finisher,9,finisher,パワースラム,Power Slam
+9.name,10,name,斉藤 彰子,Akiko Saito
+9.finisher,10,finisher,飛燕脚,Flying Swallow Kick
+10.name,11,name,サンダー龍子,Thunder Ryuko
+10.finisher,11,finisher,プラズマサンダーボム,Plasma Thunder Bomb
+11.name,12,name,テディキャット堀,Teddy Cat Hori
+11.finisher,12,finisher,バックドロップ,Backdrop
+12.name,13,name,富沢 レイ,Rei Tomizawa
+12.finisher,13,finisher,サソリ固め,Scorpion Deathlock
+13.name,14,name,パンサー理沙子,Panther Risako
+13.finisher,14,finisher,キャプチュード,Capture Suplex
+14.name,15,name,ビューティ市ヶ谷,Beauty Ichigaya
+14.finisher,15,finisher,ビューティボム,Beauty Bomb
+15.name,16,name,藤島 瞳,Hitomi Fujishima
+15.finisher,16,finisher,フライングニールキック,Flying Neil Kick
+16.name,17,name,ブレード上原,Blade Uehara
+16.finisher,17,finisher,フランケンシュタイナー,Frankensteiner
+17.name,18,name,ボンバー来島,Bomber Kishima
+17.finisher,18,finisher,ナパームラリアート,Napalm Lariat
+18.name,19,name,マイティ祐希子,Mighty Yukiko
+18.finisher,19,finisher,ムーンサルトプレス,Moonsault Press
+19.name,20,name,南 利美,Toshimi Minami
+19.finisher,20,finisher,ネオ・サザンクロスロック,Neo Southern Cross Lock
+20.name,21,name,ミミ吉原,Mimi Yoshihara
+20.finisher,21,finisher,ドラゴンスリーパー,Dragon Sleeper
+21.name,22,name,武藤 めぐみ,Megumi Muto
+21.finisher,22,finisher,フライングニールキック,Flying Neil Kick
+22.name,23,name,渡辺 智美,Tomomi Watanabe
+22.finisher,23,finisher,コブラツイスト,Cobra Twist
+23.name,24,name,相羽 和希,Kazuki Aiba
+23.finisher,24,finisher,スターライトジャーマン,Starlight German
+24.name,25,name,オーガ朝比奈,Ogre Asahina
+24.finisher,25,finisher,スクラップバスター,Scrap Buster
+25.name,26,name,榎本 綾,Aya Enomoto
+25.finisher,26,finisher,ヒップアタック,Hip Attack
+26.name,27,name,フレイア鏡,Freya Kagami
+26.finisher,27,finisher,サソリ固め,Scorpion Deathlock
+27.name,28,name,カンナ神威,Kanna Kamui
+27.finisher,28,finisher,飛びつき腕ひしぎ逆十字,Flying Armbar
+28.name,29,name,草薙 みこと,Mikoto Kusanagi
+28.finisher,29,finisher,草薙流兜落とし,Kusanagi Helmet Drop
+29.name,30,name,小早川 志保,Shiho Kobayakawa
+29.finisher,30,finisher,フェイスクラッシャー,Face Crusher
+30.name,31,name,近藤 真琴,Makoto Kondo
+30.finisher,31,finisher,バックブロー,Back Blow
+31.name,32,name,真田 美幸,Miyuki Sanada
+31.finisher,32,finisher,斬馬迅,Horse-Slayer Gale
+32.name,33,name,ノエル白石,Noel Shiraishi
+32.finisher,33,finisher,ＳＴＯ,STO
+33.name,34,name,杉浦 美月,Mitsuki Sugiura
+33.finisher,34,finisher,アキレス腱固め,Achilles Hold
+34.name,35,name,ミシェール滝,Michelle Taki
+34.finisher,35,finisher,天空の羽衣,Celestial Robe
+35.name,36,name,伊達 遥,Haruka Date
+35.finisher,36,finisher,シャイニングウィザード,Shining Wizard
+36.name,37,name,辻 香澄,Kasumi Tsuji
+36.finisher,37,finisher,ノーザンＬスープレックス,Northern Lights Suplex
+37.name,38,name,フォクシー真帆,Foxy Maho
+37.finisher,38,finisher,フォクシードライバー,Foxy Driver
+38.name,39,name,中森 あずみ,Azumi Nakamori
+38.finisher,39,finisher,ドラゴンスクリュー,Dragon Screw
+39.name,40,name,成瀬 唯,Yui Naruse
+39.finisher,40,finisher,飛びつき腕ひしぎ逆十字,Flying Armbar
+40.name,41,name,野村 つばさ,Tsubasa Nomura
+40.finisher,41,finisher,Ｊネックブリーカー,Jumping Neckbreaker
+41.name,42,name,ドルフィン早瀬,Dolphin Hayase
+41.finisher,42,finisher,踵落とし,Axe Kick
+42.name,43,name,藤原 和美,Kazumi Fujiwara
+42.finisher,43,finisher,キャプチュード,Capture Suplex
+43.name,44,name,ロイヤル北条,Royal Hojo
+43.finisher,44,finisher,ロイヤルＤＤＴ,Royal DDT
+44.name,45,name,保科 優希,Yuki Hoshina
+44.finisher,45,finisher,ストレッチプラム,Stretch Plum
+45.name,46,name,サキュバス真鍋,Succubus Manabe
+45.finisher,46,finisher,フェイスクラッシャー,Face Crusher
+46.name,47,name,村上 千春,Chiharu Murakami
+46.finisher,47,finisher,ステップキック,Step Kick
+47.name,48,name,村上 千秋,Chiaki Murakami
+47.finisher,48,finisher,裏投げ,Uranage
+48.name,49,name,八島 静香,Shizuka Yajima
+48.finisher,49,finisher,パイルドライバー,Piledriver
+49.name,50,name,柳生 美冬,Mifuyu Yagyu
+49.finisher,50,finisher,雷神蹴,Thunder God Kick
+50.name,51,name,ライラ神威,Raira Kamui
+50.finisher,51,finisher,地獄落とし,Hell Drop
+51.name,52,name,ＲＩＫＫＡ,RIKKA
+51.finisher,52,finisher,無明蹴,Blind Kick
+52.name,53,name,葛城 早苗,Sanae Katsuragi
+52.finisher,53,finisher,シャイニングウィザード,Shining Wizard
+53.name,54,name,永沢 舞,Mai Nagasawa
+53.finisher,54,finisher,ノーザンＬスープレックス,Northern Lights Suplex
+54.name,55,name,真壁 那月,Natsuki Makabe
+54.finisher,55,finisher,エレガントブロー,Elegant Blow
+55.name,56,name,橘 みずき,Mizuki Tachibana
+55.finisher,56,finisher,フライングニールキック,Flying Neil Kick
+56.name,57,name,霧島 レイラ,Reira Kirishima
+56.finisher,57,finisher,ＳＴＯ,STO
+57.name,58,name,氷室 紫月,Shizuku Himuro
+57.finisher,58,finisher,ストレッチプラム,Stretch Plum
+58.name,59,name,結城 千種,Chigusa Yuki
+58.finisher,59,finisher,バックドロップ,Backdrop
+59.name,60,name,沢崎 光,Hikaru Sawazaki
+59.finisher,60,finisher,ジャーマンスープレックス,German Suplex
+60.name,61,name,芝田 美紀,Miki Shibata
+60.finisher,61,finisher,ニーリフト,Knee Lift
+61.name,62,name,神塩 ナナシー,Nanashi Kamishio
+61.finisher,62,finisher,フライングニールキック,Flying Neil Kick
+62.name,63,name,中江 里奈,Rina Nakae
+62.finisher,63,finisher,スクラップバスター,Scrap Buster
+63.name,64,name,マッキー上戸,Macky Ueto
+63.finisher,64,finisher,ジャーマンスープレックス,German Suplex
+64.name,65,name,ラッキー内田,Lucky Uchida
+64.finisher,65,finisher,アキレス腱固め,Achilles Hold
+65.name,66,name,秋山 美姫,Miki Akiyama
+65.finisher,66,finisher,サソリ固め,Scorpion Deathlock
+66.name,67,name,優香,Yuka
+66.finisher,67,finisher,ミサイルキック,Missile Kick
+67.name,68,name,グリズリー山本,Grizzly Yamamoto
+67.finisher,68,finisher,パイルドライバー,Piledriver
+68.name,101,name,ミネルヴァ石川,Minerva Ishikawa
+68.finisher,101,finisher,パワースラム,Power Slam
+69.name,102,name,ジャンヌ永原,Jeanne Nagahara
+69.finisher,102,finisher,ジャーマンスープレックス,German Suplex
+70.name,103,name,ジャスティス越後,Justice Echigo
+70.finisher,103,finisher,延髄斬り,Enzuigiri
+71.name,104,name,フローラ小川,Flora Ogawa
+71.finisher,104,finisher,ストレッチプラム,Stretch Plum
+72.name,105,name,ビーナス麗子,Venus Reiko
+72.finisher,105,finisher,延髄斬り,Enzuigiri
+73.name,106,name,ハリケーン神田,Hurricane Kanda
+73.finisher,106,finisher,掌底,Palm Strike
+74.name,107,name,エアリアル菊池,Aerial Kikuchi
+74.finisher,107,finisher,フランケンシュタイナー,Frankensteiner
+75.name,108,name,金井 美加,Mika Kanai
+75.finisher,108,finisher,ノーザンＬスープレックス,Northern Lights Suplex
+76.name,109,name,スカーレット小縞,Scarlet Kojima
+76.finisher,109,finisher,パワースラム,Power Slam
+77.name,110,name,コンバット斉藤,Combat Saito
+77.finisher,110,finisher,飛燕脚,Flying Swallow Kick
+78.name,111,name,吉田 龍子,Ryuko Yoshida
+78.finisher,111,finisher,プラズマサンダーボム,Plasma Thunder Bomb
+79.name,112,name,堀 咲恵,Sakie Hori
+79.finisher,112,finisher,バックドロップ,Backdrop
+80.name,113,name,富沢 礼子,Reiko Tomizawa
+80.finisher,113,finisher,サソリ固め,Scorpion Deathlock
+81.name,114,name,佐久間 理沙子,Risako Sakuma
+81.finisher,114,finisher,キャプチュード,Capture Suplex
+82.name,115,name,市ヶ谷 麗華,Reika Ichigaya
+82.finisher,115,finisher,ビューティボム,Beauty Bomb
+83.name,116,name,ハニービー藤島,Honeybee Fujishima
+83.finisher,116,finisher,フライングニールキック,Flying Neil Kick
+84.name,117,name,上原 今日子,Kyoko Uehara
+84.finisher,117,finisher,フランケンシュタイナー,Frankensteiner
+85.name,118,name,来島 恵理,Eri Kishima
+85.finisher,118,finisher,ナパームラリアート,Napalm Lariat
+86.name,119,name,新咲 祐希子,Yukiko Shinzaki
+86.finisher,119,finisher,ムーンサルトプレス,Moonsault Press
+87.name,120,name,ハイブリッド南,Hybrid Minami
+87.finisher,120,finisher,ネオ・サザンクロスロック,Neo Southern Cross Lock
+88.name,121,name,吉原 泉,Izumi Yoshihara
+88.finisher,121,finisher,ドラゴンスリーパー,Dragon Sleeper
+89.name,122,name,ジーニアス武藤,Genius Muto
+89.finisher,122,finisher,フライングニールキック,Flying Neil Kick
+90.name,123,name,ジュリア渡辺,Julia Watanabe
+90.finisher,123,finisher,コブラツイスト,Cobra Twist
+91.name,124,name,スターライト相羽,Starlight Aiba
+91.finisher,124,finisher,スターライトジャーマン,Starlight German
+92.name,125,name,朝比奈 優香,Yuka Asahina
+92.finisher,125,finisher,スクラップバスター,Scrap Buster
+93.name,126,name,ラズベリー榎本,Raspberry Enomoto
+93.finisher,126,finisher,ヒップアタック,Hip Attack
+94.name,127,name,鏡 明日香,Asuka Kagami
+94.finisher,127,finisher,サソリ固め,Scorpion Deathlock
+95.name,128,name,シャイニング神威,Shining Kamui
+95.finisher,128,finisher,飛びつき腕ひしぎ逆十字,Flying Armbar
+96.name,129,name,スイレン草薙,Suiren Kusanagi
+96.finisher,129,finisher,草薙流兜落とし,Kusanagi Helmet Drop
+97.name,130,name,ガイア小早川,Gaia Kobayakawa
+97.finisher,130,finisher,フェイスクラッシャー,Face Crusher
+98.name,131,name,サイクロン近藤,Cyclone Kondo
+98.finisher,131,finisher,バックブロー,Back Blow
+99.name,132,name,バーニング真田,Burning Sanada
+99.finisher,132,finisher,斬馬迅,Horse-Slayer Gale
+100.name,133,name,白石 なぎさ,Nagisa Shiraishi
+100.finisher,133,finisher,ＳＴＯ,STO
+101.name,134,name,ギムレット美月,Gimlet Mitsuki
+101.finisher,134,finisher,アキレス腱固め,Achilles Hold
+102.name,135,name,滝 翔子,Shoko Taki
+102.finisher,135,finisher,天空の羽衣,Celestial Robe
+103.name,136,name,フェニックス遥,Phoenix Haruka
+103.finisher,136,finisher,シャイニングウィザード,Shining Wizard
+104.name,137,name,マイトス香澄,Mitos Kasumi
+104.finisher,137,finisher,ノーザンＬスープレックス,Northern Lights Suplex
+105.name,138,name,中村 真帆,Maho Nakamura
+105.finisher,138,finisher,フォクシードライバー,Foxy Driver
+106.name,139,name,イージス中森,Aegis Nakamori
+106.finisher,139,finisher,ドラゴンスクリュー,Dragon Screw
+107.name,140,name,クラリッジ成瀬,Claridge Naruse
+107.finisher,140,finisher,飛びつき腕ひしぎ逆十字,Flying Armbar
+108.name,141,name,アプリコットつばさ,Apricot Tsubasa
+108.finisher,141,finisher,Ｊネックブリーカー,Jumping Neckbreaker
+109.name,142,name,早瀬 葵,Aoi Hayase
+109.finisher,142,finisher,踵落とし,Axe Kick
+110.name,143,name,ペガサス藤原,Pegasus Fujiwara
+110.finisher,143,finisher,キャプチュード,Capture Suplex
+111.name,144,name,北条 沙希,Saki Hojo
+111.finisher,144,finisher,ロイヤルＤＤＴ,Royal DDT
+112.name,145,name,フェアリー保科,Fairy Hoshina
+112.finisher,145,finisher,ストレッチプラム,Stretch Plum
+113.name,146,name,真鍋 つかさ,Tsukasa Manabe
+113.finisher,146,finisher,フェイスクラッシャー,Face Crusher
+114.name,147,name,セイレーン千春,Siren Chiharu
+114.finisher,147,finisher,ステップキック,Step Kick
+115.name,148,name,マーメイド千秋,Mermaid Chiaki
+115.finisher,148,finisher,裏投げ,Uranage
+116.name,149,name,アドミラル八島,Admiral Yajima
+116.finisher,149,finisher,パイルドライバー,Piledriver
+117.name,150,name,ライジン美冬,Raijin Mifuyu
+117.finisher,150,finisher,雷神脚,Raijin Kick
+118.name,151,name,ナイトメア神威,Nightmare Kamui
+118.finisher,151,finisher,地獄落とし,Hell Drop
+119.name,152,name,ＲＥＫＩ,REKI
+119.finisher,152,finisher,無明蹴,Blind Kick
+120.name,201,name,イザベラ・スミス,Isabella Smith
+120.finisher,201,finisher,ジャーマンスープレックス,German Suplex
+121.name,202,name,エレナ・ライアン,Elena Ryan
+121.finisher,202,finisher,掌底,Palm Strike
+122.name,203,name,カレン・ニールセン,Karen Nielsen
+122.finisher,203,finisher,裏拳,Backfist
+123.name,204,name,ゴールドフェンリル,Gold Fenrir
+123.finisher,204,finisher,フェンリルロック,Fenrir Lock
+124.name,205,name,シルバーフェンリル,Silver Fenrir
+124.finisher,205,finisher,フェンリルドライバー,Fenrir Driver
+125.name,206,name,シンディー・ウォン,Cindy Won
+125.finisher,206,finisher,膝撃錬弾,Forged Knee Bullet
+126.name,207,name,ファントムローズ１号,Phantom Rose No. 1
+126.finisher,207,finisher,フランケンシュタイナー,Frankensteiner
+127.name,208,name,ファントムローズ２号,Phantom Rose No. 2
+127.finisher,208,finisher,ＳＴＯ,STO
+128.name,209,name,ブリジット・ウォン,Bridget Won
+128.finisher,209,finisher,踵落とし,Axe Kick
+129.name,210,name,ヘレン・ニールセン,Helen Nielsen
+129.finisher,210,finisher,バックドロップ,Backdrop
+130.name,211,name,ローズ・ヒューイット,Rose Hewitt
+130.finisher,211,finisher,バスターローズ,Buster Rose
+131.name,212,name,ロザンヌ・チャン,Rosanne Chan
+131.finisher,212,finisher,タイガースープレックス,Tiger Suplex
+132.name,213,name,アニー・ビーチ,Anny Beach
+132.finisher,213,finisher,フライングニールキック,Flying Neil Kick
+133.name,214,name,アリス・スミルノフ,Alice Smirnov
+133.finisher,214,finisher,裏投げ,Uranage
+134.name,215,name,ウィン・ミラー,Win Mirror
+134.finisher,215,finisher,ストレッチプラム,Stretch Plum
+135.name,216,name,クリス・モーガン,Chris Morgan
+135.finisher,216,finisher,ポセイドンボンバー,Poseidon Bomber
+136.name,217,name,ザ・ＵＳＡ,The USA
+136.finisher,217,finisher,トマホークＤＤＴ,Tomahawk DDT
+137.name,218,name,ジェナ・メガライト,Jena Megalight
+137.finisher,218,finisher,ベリー・トゥ・バック,Belly-to-Back
+138.name,219,name,ジョディ・ビートン,Jody Beaton
+138.finisher,219,finisher,ノーザンＬスープレックス,Northern Lights Suplex
+139.name,220,name,ダークスターカオス,Darkstar Chaos
+139.finisher,220,finisher,ダークスターハンマー,Dark Star Hammer
+140.name,221,name,ダイナマイト・リン,Dynamite Rin
+140.finisher,221,finisher,ダイナマイトスパイク,Dynamite Spike
+141.name,222,name,チョチョカラス,Chocho Caras
+141.finisher,222,finisher,ムーンサルトプレス,Moonsault Press
+142.name,223,name,ディジー・クライ,Daisy Cry
+142.finisher,223,finisher,ハリケーンラッシュ,Hurricane Rush
+143.name,224,name,デスピナ・リブレ,Despina Libre
+143.finisher,224,finisher,フライングボディプレス,Flying Body Press
+144.name,225,name,ナスターシャ・ハン,Nastassja Han
+144.finisher,225,finisher,ＳＴＦ,STF
+145.name,226,name,マスクド・ミスティ,Masked Misty
+145.finisher,226,finisher,ジャーマンスープレックス,German Suplex
+146.name,227,name,レディ・コーディ,Lady Cody
+146.finisher,227,finisher,コーディクラッシュ,Cody Crush
+147.name,228,name,レミー・ダダーン,Remy Dadarne
+147.finisher,228,finisher,パワースラム,Power Slam
+148.name,229,name,アリシア・サンチェス,Alicia Sanchez
+148.finisher,229,finisher,Ｊネックブリーカー,Jumping Neckbreaker
+149.name,230,name,エミリー・ネルソン,Emily Nelson
+149.finisher,230,finisher,バックドロップ,Backdrop
+150.name,231,name,グレース・ハン,Grace Han
+150.finisher,231,finisher,延髄斬り,Enzuigiri
+151.name,232,name,ジーナ・デュラム,Gina Durham
+151.finisher,232,finisher,裏投げ,Uranage
+152.name,233,name,ジュリア・カーチス,Julia Curtis
+152.finisher,233,finisher,フェイスクラッシャー,Face Crusher
+153.name,234,name,ジョーカー・レディ,Joker Lady
+153.finisher,234,finisher,ジョーカーアタック,Joker Attack
+154.name,235,name,ソフィア・リチャーズ,Sophia Richards
+154.finisher,235,finisher,アキレス腱固め,Achilles Hold
+155.name,236,name,ソフィー・シエラ,Sophie Sierra
+155.finisher,236,finisher,パイルドライバー,Piledriver
+156.name,237,name,ターニャ・カルロス,Tanya Carlos
+156.finisher,237,finisher,ＤＤＴ,DDT
+157.name,238,name,パトリシア・ルイス,Patricia Lewis
+157.finisher,238,finisher,ハイキック,High Kick
+158.name,239,name,マユリ・シアター,Mayuri Theater
+158.finisher,239,finisher,ニーリフト,Knee Lift
+159.name,240,name,マリア・クロフォード,Maria Crawford
+159.finisher,240,finisher,サソリ固め,Scorpion Deathlock
+160.name,241,name,ミス・マスカレード,Miss Masquerade
+160.finisher,241,finisher,シャイニングウィザード,Shining Wizard
+161.name,242,name,ミレーヌ・シウバ,Mylene Silva
+161.finisher,242,finisher,ニーリフト,Knee Lift
+162.name,243,name,ユン・メイファ,Yun Meifa
+162.finisher,243,finisher,ステップキック,Step Kick
+163.name,301,name,アナベラ・スミス,Annabella Smith
+163.finisher,301,finisher,ジャーマンスープレックス,German Suplex
+164.name,302,name,リサ・ライアン,Lisa Ryan
+164.finisher,302,finisher,掌底,Palm Strike
+165.name,303,name,エレン・ニールセン,Ellen Nielsen
+165.finisher,303,finisher,裏拳,Backfist
+166.name,304,name,ブルーフェンリル,Blue Fenrir
+166.finisher,304,finisher,フェンリルロック,Fenrir Lock
+167.name,305,name,レッドフェンリル,Red Fenrir
+167.finisher,305,finisher,フェンリルドライバー,Fenrir Driver
+168.name,306,name,ブルック・ウォン,Brooke Won
+168.finisher,306,finisher,膝撃錬弾,Forged Knee Bullet
+169.name,307,name,ワイルドローズ１号,Wild Rose No. 1
+169.finisher,307,finisher,フランケンシュタイナー,Frankensteiner
+170.name,308,name,ワイルドローズ２号,Wild Rose No. 2
+170.finisher,308,finisher,ＳＴＯ,STO
+171.name,309,name,キャシー・ウォン,Cathy Won
+171.finisher,309,finisher,踵落とし,Axe Kick
+172.name,310,name,ロレン・ニールセン,Lauren Nielsen
+172.finisher,310,finisher,バックドロップ,Backdrop
+173.name,311,name,ロゼ・ヒューイット,Roze Hewitt
+173.finisher,311,finisher,バスターローズ,Buster Rose
+174.name,312,name,カトリーヌ・チャン,Catherine Chan
+174.finisher,312,finisher,タイガースープレックス,Tiger Suplex
+175.name,313,name,ジェニー・ビーチ,Jenny Beach
+175.finisher,313,finisher,フライングニールキック,Flying Neil Kick
+176.name,314,name,ユーリ・スミルノフ,Yuri Smirnov
+176.finisher,314,finisher,裏投げ,Uranage
+177.name,315,name,ウェイン・ミラー,Wayne Mirror
+177.finisher,315,finisher,ストレッチプラム,Stretch Plum
+178.name,316,name,クルス・モーガン,Crux Morgan
+178.finisher,316,finisher,ポセイドンボンバー,Poseidon Bomber
+179.name,317,name,ミスＵＳＡマスク,Miss USA Mask
+179.finisher,317,finisher,トマホークＤＤＴ,Tomahawk DDT
+180.name,318,name,ジェーン・メガライト,Jane Megalight
+180.finisher,318,finisher,ベリー・トゥ・バック,Belly-to-Back
+181.name,319,name,ジェシー・ビートン,Jessie Beaton
+181.finisher,319,finisher,ノーザンＬスープレックス,Northern Lights Suplex
+182.name,320,name,スーパーカオス,Super Chaos
+182.finisher,320,finisher,ダークスターハンマー,Dark Star Hammer
+183.name,321,name,ダイナマイト・リナ,Dynamite Rina
+183.finisher,321,finisher,ダイナマイトスパイク,Dynamite Spike
+184.name,322,name,ハイサスカラス,Hisas Caras
+184.finisher,322,finisher,ムーンサルトプレス,Moonsault Press
+185.name,323,name,ドリュー・クライ,Drew Cry
+185.finisher,323,finisher,ハリケーンラッシュ,Hurricane Rush
+186.name,324,name,ドスカナ・リブレ,Doscana Libre
+186.finisher,324,finisher,フライングボディプレス,Flying Body Press
+187.name,325,name,ナターシャ・ハン,Natasha Han
+187.finisher,325,finisher,ＳＴＦ,STF
+188.name,326,name,ミスティアマスク,Mystia Mask
+188.finisher,326,finisher,ジャーマンスープレックス,German Suplex
+189.name,327,name,ジュディ・コーディ,Judy Cody
+189.finisher,327,finisher,コーディクラッシュ,Cody Crush
+190.name,328,name,ルミー・ダダーン,Rumy Dadarne
+190.finisher,328,finisher,パワースラム,Power Slam
+191.name,329,name,アリッサ・サンチェス,Alyssa Sanchez
+191.finisher,329,finisher,Ｊネックブリーカー,Jumping Neckbreaker
+192.name,330,name,マリー・ネルソン,Marie Nelson
+192.finisher,330,finisher,バックドロップ,Backdrop
+193.name,331,name,デニース・ハン,Denise Han
+193.finisher,331,finisher,延髄斬り,Enzuigiri
+194.name,332,name,アネット・デュラム,Annette Durham
+194.finisher,332,finisher,裏投げ,Uranage
+195.name,333,name,ジェシカ・カーチス,Jessica Curtis
+195.finisher,333,finisher,フェイスクラッシャー,Face Crusher
+196.name,334,name,ジョーカーウーマン,Joker Woman
+196.finisher,334,finisher,ジョーカーアタック,Joker Attack
+197.name,335,name,ノティア・リチャーズ,Notia Richards
+197.finisher,335,finisher,アキレス腱固め,Achilles Hold
+198.name,336,name,ホリー・シエラ,Holly Sierra
+198.finisher,336,finisher,パイルドライバー,Piledriver
+199.name,337,name,トーニャ・カルロス,Tonya Carlos
+199.finisher,337,finisher,ＤＤＴ,DDT
+200.name,338,name,マリシア・ルイス,Malicia Lewis
+200.finisher,338,finisher,ハイキック,High Kick
+201.name,339,name,ハムル・シアター,Hamuru Theater
+201.finisher,339,finisher,ニーリフト,Knee Lift
+202.name,340,name,アンナ・クロフォード,Anna Crawford
+202.finisher,340,finisher,サソリ固め,Scorpion Deathlock
+203.name,341,name,ディスガイズマスク,Disguise Mask
+203.finisher,341,finisher,シャイニングウィザード,Shining Wizard
+204.name,342,name,イレーヌ・シウバ,Irene Silva
+204.finisher,342,finisher,ニーリフト,Knee Lift
+205.name,343,name,シュウ・メイファ,Shu Meifa
+205.finisher,343,finisher,ステップキック,Step Kick
+206.name,401,name,一ノ瀬 彰伸,Akinobu Ichinose
+207.name,402,name,加藤 直明,Naoaki Kato
+208.name,403,name,中野 圭一,Keiichi Nakano
+209.name,404,name,大矢 武,Takeshi Oya
+210.name,405,name,佐藤 和夫,Kazuo Sato
+211.name,406,name,桃井 修,Osamu Momoi
+212.name,407,name,桜田 浩二,Koji Sakurada
+213.name,411,name,近藤 明史,Akifumi Kondo
+214.name,412,name,木村 優作,Yusaku Kimura
+215.name,413,name,兵藤 学,Manabu Hyodo
+216.name,414,name,高杉 吾郎,Goro Takasugi
+217.name,415,name,吉田 直樹,Naoki Yoshida
+218.name,416,name,和田 耕平,Kohei Wada
+219.name,417,name,柴田 利之,Toshiyuki Shibata
+220.name,421,name,ブライアン・ミコル,Brian Mikol
+221.name,422,name,テリー・ジョンソン,Terry Johnson
+222.name,423,name,シュミット・テイラー,Schmidt Taylor
+223.name,424,name,ランディ・ギブソン,Randy Gibson
+224.name,425,name,リック・ブラウン,Rick Brown
+225.name,426,name,エディ・ハワード,Eddie Howard
+226.name,427,name,ビリー・スタイガー,Billy Steiger
+227.name,431,name,仙川 浩二郎,Kojiro Sengawa
+228.name,432,name,戸村 正山,Shozan Tomura
+229.name,433,name,星野 政人,Masato Hoshino
+230.name,434,name,上田 大助,Daisuke Ueda
+231.name,435,name,山本 哲也,Tetsuya Yamamoto
+232.name,436,name,三澤 篤志,Atsushi Misawa
+233.name,437,name,高橋 光宣,Mitsunobu Takahashi
+234.name,441,name,北河 史郎,Shiro Kitakawa
+235.name,442,name,松村 隆行,Takayuki Matsumura
+236.name,443,name,原 泰之,Yasuyuki Hara
+237.name,444,name,伊藤 忠夫,Tadao Ito
+238.name,445,name,木戸 久司,Hisashi Kido
+239.name,446,name,鈴木 孝典,Takanori Suzuki
+240.name,447,name,田中 豪,Go Tanaka
+241.name,451,name,安永 勝,Masaru Yasunaga
+242.name,452,name,斉藤 功,Isao Saito
+243.name,453,name,石川 竜一,Ryuichi Ishikawa
+244.name,454,name,山崎 達也,Tatsuya Yamazaki
+245.name,455,name,浜田 次郎,Jiro Hamada
+246.name,456,name,長谷川 賢治,Kenji Hasegawa
+247.name,457,name,原田 丈二,Joji Harada
+248.name,461,name,阪口 正吉,Shokichi Sakaguchi
+249.name,462,name,竹上 智,Satoshi Takegami
+250.name,463,name,大木 孝太郎,Kotaro Oki
+251.name,464,name,小林 努,Tsutomu Kobayashi
+252.name,465,name,斎藤 弘,Hiroshi Saito
+253.name,466,name,新倉 将人,Masato Niikura
+254.name,467,name,渡辺 勇,Isamu Watanabe
+255.name,701,name,        棄権,        Forfeit
+256.name,702,name,        棄権,        Forfeit
+257.name,703,name,        棄権,        Forfeit
+258.name,704,name,        棄権,        Forfeit
+259.name,705,name,        棄権,        Forfeit
+260.name,706,name,        棄権,        Forfeit
+261.name,707,name,        棄権,        Forfeit
+262.name,708,name,        棄権,        Forfeit
+263.name,709,name,        棄権,        Forfeit
+264.name,710,name,        棄権,        Forfeit
+265.name,711,name,        棄権,        Forfeit
+266.name,712,name,        棄権,        Forfeit
+267.name,713,name,        棄権,        Forfeit
+268.name,714,name,        棄権,        Forfeit
+269.name,715,name,        棄権,        Forfeit
+270.name,716,name,        棄権,        Forfeit
+271.name,717,name,        棄権,        Forfeit
+272.name,718,name,        棄権,        Forfeit
+273.name,719,name,        棄権,        Forfeit
+274.name,720,name,        棄権,        Forfeit
+275.name,721,name,        棄権,        Forfeit
+276.name,722,name,        棄権,        Forfeit
+277.name,723,name,        棄権,        Forfeit
+278.name,724,name,        棄権,        Forfeit

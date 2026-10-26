@@ -1,0 +1,67 @@
+{
+ "english": "CONTRACT",
+ "boxes": [
+  [
+   244,
+   35,
+   96,
+   20
+  ]
+ ],
+ "draw": "photos.draw",
+ "font": "BarlowCondensed-ExtraBold.ttf",
+ "cap": 14,
+ "tracking": 2.5,
+ "angle": -15,
+ "blur": 0.5,
+ "colour": [
+  66,
+  62,
+  42
+ ],
+ "erase": [
+  {
+   "poly": [
+    [
+     244,
+     27
+    ],
+    [
+     290,
+     31
+    ],
+    [
+     342,
+     44
+    ],
+    [
+     342,
+     63
+    ],
+    [
+     300,
+     58
+    ],
+    [
+     270,
+     54
+    ],
+    [
+     244,
+     47
+    ]
+   ],
+   "ink": "b > 40 and (r < 205 or (r < 235 and b > 0.7 * g))",
+   "grow": 1
+  }
+ ],
+ "notes": "contract-signing event banner: the heading 契約書 of the contract sheet; painted out of the paper, English in the heading's grey along the sheet's slant (tools/letter_ext/photos.py)",
+ "catalogue": {
+  "source": "/A000/A00E. (pieces, part 29)",
+  "width": 512,
+  "height": 128,
+  "bpp": 8,
+  "category": "banner",
+  "japanese": "契約書"
+ }
+}

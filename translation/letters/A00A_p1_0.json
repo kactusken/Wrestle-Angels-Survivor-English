@@ -1,0 +1,608 @@
+{
+ "english": "Individual | Group | Special | Talk | Coaches | Office | Develop Style | Fix Weakness | Basics Training | Offense Training | Defense Training | Move Practice | Vacation | Category Practice | Throws | Holds | Power | Strikes | Aerials | Change Difficulty | Change Finisher | Learn New Move | Rename Move | Change Wrestlers | Remove Wrestler | Coach Info | Individual | Group | Special | Talk | Coaches | Office | Develop Style | Fix Weakness | Basics Training | Offense Training | Defense Training | Move Practice | Vacation | Category Practice | Throws | Holds | Power | Strikes | Aerials | Change Difficulty | Change Finisher | Learn New Move | Rename Move | Change Wrestlers | Remove Wrestler | Coach Info",
+ "boxes": [
+  [
+   31,
+   7,
+   84,
+   25
+  ],
+  [
+   31,
+   31,
+   84,
+   25
+  ],
+  [
+   31,
+   55,
+   84,
+   25
+  ],
+  [
+   31,
+   79,
+   84,
+   25
+  ],
+  [
+   31,
+   103,
+   84,
+   25
+  ],
+  [
+   31,
+   127,
+   84,
+   25
+  ],
+  [
+   155,
+   7,
+   133,
+   25
+  ],
+  [
+   155,
+   31,
+   133,
+   25
+  ],
+  [
+   155,
+   55,
+   133,
+   25
+  ],
+  [
+   155,
+   79,
+   133,
+   25
+  ],
+  [
+   155,
+   103,
+   133,
+   25
+  ],
+  [
+   155,
+   127,
+   133,
+   25
+  ],
+  [
+   155,
+   151,
+   133,
+   25
+  ],
+  [
+   155,
+   175,
+   133,
+   25
+  ],
+  [
+   31,
+   171,
+   81,
+   25
+  ],
+  [
+   31,
+   195,
+   81,
+   25
+  ],
+  [
+   31,
+   219,
+   81,
+   25
+  ],
+  [
+   31,
+   243,
+   81,
+   25
+  ],
+  [
+   31,
+   267,
+   81,
+   25
+  ],
+  [
+   155,
+   219,
+   129,
+   25
+  ],
+  [
+   155,
+   243,
+   129,
+   25
+  ],
+  [
+   155,
+   267,
+   129,
+   25
+  ],
+  [
+   155,
+   291,
+   129,
+   25
+  ],
+  [
+   31,
+   427,
+   123,
+   25
+  ],
+  [
+   31,
+   451,
+   123,
+   25
+  ],
+  [
+   31,
+   475,
+   123,
+   25
+  ],
+  [
+   295,
+   -1,
+   84,
+   25
+  ],
+  [
+   295,
+   23,
+   84,
+   25
+  ],
+  [
+   295,
+   47,
+   84,
+   25
+  ],
+  [
+   295,
+   71,
+   84,
+   25
+  ],
+  [
+   295,
+   95,
+   84,
+   25
+  ],
+  [
+   295,
+   119,
+   84,
+   25
+  ],
+  [
+   375,
+   -1,
+   133,
+   25
+  ],
+  [
+   375,
+   23,
+   133,
+   25
+  ],
+  [
+   375,
+   47,
+   133,
+   25
+  ],
+  [
+   375,
+   71,
+   133,
+   25
+  ],
+  [
+   375,
+   95,
+   133,
+   25
+  ],
+  [
+   375,
+   119,
+   133,
+   25
+  ],
+  [
+   375,
+   143,
+   133,
+   25
+  ],
+  [
+   375,
+   167,
+   133,
+   25
+  ],
+  [
+   295,
+   143,
+   81,
+   25
+  ],
+  [
+   295,
+   167,
+   81,
+   25
+  ],
+  [
+   295,
+   191,
+   81,
+   25
+  ],
+  [
+   295,
+   215,
+   81,
+   25
+  ],
+  [
+   295,
+   239,
+   81,
+   25
+  ],
+  [
+   383,
+   359,
+   129,
+   25
+  ],
+  [
+   383,
+   383,
+   129,
+   25
+  ],
+  [
+   383,
+   407,
+   129,
+   25
+  ],
+  [
+   383,
+   431,
+   129,
+   25
+  ],
+  [
+   263,
+   335,
+   123,
+   25
+  ],
+  [
+   263,
+   359,
+   123,
+   25
+  ],
+  [
+   263,
+   383,
+   123,
+   25
+  ]
+ ],
+ "font": "BarlowCondensed-SemiBold.ttf",
+ "cap": 15,
+ "draw": "menus.panel",
+ "groups": [
+  {
+   "labels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "fill": [
+    254
+   ],
+   "ground": "interpolate",
+   "reach": 2.5,
+   "align": "center",
+   "heal": [
+    [
+     29,
+     6,
+     87,
+     146
+    ]
+   ],
+   "cap": 15
+  },
+  {
+   "labels": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "fill": [
+    254
+   ],
+   "ground": "interpolate",
+   "reach": 2.5,
+   "align": "left",
+   "heal": [
+    [
+     153,
+     6,
+     135,
+     193
+    ]
+   ],
+   "cap": 15
+  },
+  {
+   "labels": [
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "fill": [
+    254
+   ],
+   "ground": "interpolate",
+   "reach": 2.5,
+   "align": "left",
+   "heal": [
+    [
+     29,
+     169,
+     80,
+     123
+    ]
+   ],
+   "cap": 15
+  },
+  {
+   "labels": [
+    19,
+    20,
+    21,
+    22
+   ],
+   "fill": [
+    254
+   ],
+   "ground": "interpolate",
+   "reach": 2.5,
+   "align": "left",
+   "heal": [
+    [
+     153,
+     217,
+     135,
+     99
+    ]
+   ],
+   "cap": 15
+  },
+  {
+   "labels": [
+    23,
+    24,
+    25
+   ],
+   "fill": [
+    254
+   ],
+   "ground": "interpolate",
+   "reach": 2.5,
+   "align": "left",
+   "heal": [
+    [
+     29,
+     426,
+     133,
+     73
+    ]
+   ],
+   "cap": 15
+  },
+  {
+   "labels": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "fill": [
+    255
+   ],
+   "ground": "transparent",
+   "reach": 1,
+   "align": "center",
+   "clear": [
+    [
+     296,
+     0,
+     80,
+     144
+    ]
+   ],
+   "cap": 15,
+   "copy_of": [
+    0,
+    [
+     264,
+     -8
+    ]
+   ]
+  },
+  {
+   "labels": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ],
+   "fill": [
+    255
+   ],
+   "ground": "transparent",
+   "reach": 1,
+   "align": "left",
+   "clear": [
+    [
+     376,
+     0,
+     136,
+     192
+    ]
+   ],
+   "cap": 15,
+   "copy_of": [
+    1,
+    [
+     220,
+     -8
+    ]
+   ]
+  },
+  {
+   "labels": [
+    40,
+    41,
+    42,
+    43,
+    44
+   ],
+   "fill": [
+    255
+   ],
+   "ground": "transparent",
+   "reach": 1,
+   "align": "left",
+   "clear": [
+    [
+     296,
+     144,
+     80,
+     120
+    ]
+   ],
+   "cap": 15,
+   "copy_of": [
+    2,
+    [
+     264,
+     -28
+    ]
+   ]
+  },
+  {
+   "labels": [
+    45,
+    46,
+    47,
+    48
+   ],
+   "fill": [
+    255
+   ],
+   "ground": "transparent",
+   "reach": 1,
+   "align": "left",
+   "clear": [
+    [
+     384,
+     359,
+     128,
+     96
+    ]
+   ],
+   "cap": 15,
+   "copy_of": [
+    3,
+    [
+     228,
+     140
+    ]
+   ]
+  },
+  {
+   "labels": [
+    49,
+    50,
+    51
+   ],
+   "fill": [
+    255
+   ],
+   "ground": "transparent",
+   "reach": 1,
+   "align": "left",
+   "clear": [
+    [
+     264,
+     335,
+     120,
+     72
+    ]
+   ],
+   "cap": 15,
+   "copy_of": [
+    4,
+    [
+     232,
+     -92
+    ]
+   ]
+  }
+ ],
+ "notes": "gym menus (letters batch 1): blue panel labels + white highlight copies, the white = the blue fill shifted per menu (copy_of)",
+ "catalogue": {
+  "source": "/A000/A00A. (pieces, part 1)",
+  "width": 512,
+  "height": 512,
+  "bpp": 8,
+  "category": "menu",
+  "japanese": "個別練習・全体練習・特訓・会話・コーチ・終了 / 個性を伸ばす・弱点を克服する・基礎中心練習・攻撃中心練習・防御中心練習・技練習・休暇・カテゴリ練習 / 投げ技・極め技・パワー技・打撃技・飛び技 / 技難易度変更・必殺技変更・新技取得・技名変更 / 担当選手変更・担当選手削除・コーチ情報 (blue panels + white highlight copies)"
+ }
+}

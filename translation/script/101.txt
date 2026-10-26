@@ -1,0 +1,92 @@
+# Event script entry 101 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 101.88
+# wrestler (voiced), case 0, used 2x
+JP …呼んだか？
+EN ...You called?
+
+@ 101.116
+# wrestler (voiced), case 0, used 2x
+JP それは…。
+JP 受けなければいけない依頼か？
+EN That... Is it a request I have
+EN to accept?
+
+@ 101.122
+# President, case 0, used 2x
+JP 最終的にはお前の判断次第だ。
+JP 俺としては受けて欲しいと
+JP 思っている。
+EN In the end it's your decision.
+EN Personally, I'd like you to take it.
+
+@ 101.140
+# wrestler (voiced), case 0, used 2x
+JP 所属する組織の長の希望なら
+JP 受けよう…。
+EN If it is the wish of the head of
+EN the organization I belong to,
+EN I will accept...
+
+@ 101.154
+# wrestler (voiced), case 0, used 2x
+JP 正直あまり気はのらんがな…。
+EN Though honestly, I'm not very
+EN keen...
+
+@ 101.247
+# President, case 0, used 2x
+JP お疲れさん。
+EN Good work.
+
+@ 101.256
+# wrestler (voiced), case 0, used 2x
+JP …ああ。
+JP 正直疲れたな…。
+EN ...Yes. Honestly, I'm tired...
+
+@ 101.262
+# President, case 0, used 2x
+JP その甲斐あって綺麗に撮れたぞ。
+JP すごい美人だ。
+EN And it paid off. You came out
+EN beautifully. A real beauty.
+
+@ 101.270
+# wrestler (voiced), case 0, used 4x
+JP …………ッ！
+EN ............!
+
+@ 101.284
+# wrestler (voiced), case 0, used 2x
+JP あ、いや、そういう褒められ方は
+JP その…あまり慣れてなくてな。
+JP 世辞はいいんだぞ？
+EN Ah, no, I'm just... not used to
+EN being praised like that. You can
+EN spare me the flattery.
+
+@ 101.290
+# President, case 0, used 2x
+JP 本当だよ。
+JP 魅力的で色っぽい。
+EN I mean it. Attractive and sexy.
+
+@ 101.298
+# wrestler (voiced), case 0, used 2x
+JP ……なッ！
+JP あ…う……。
+EN ......Wha!? Ah... uh......
+
+@ 101.304
+# wrestler (voiced), case 0, used 2x
+JP …しッ、失礼するッ！
+EN ...I-I'll take my leave!

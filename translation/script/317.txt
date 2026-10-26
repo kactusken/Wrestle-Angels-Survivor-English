@@ -1,0 +1,68 @@
+# Event script entry 317 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 317.435
+# Secretary, case 0
+JP タッグカード部門は
+JP 該当者無しとなりました…。
+EN In the tag category,
+EN no award was given...
+
+@ 317.439
+# Secretary, case 1, used 2x
+JP 最後となりました。
+JP 本年度、最も話題を呼んだ
+JP タッグカードは
+EN And finally,
+EN this year's most talked-about
+EN tag match was
+
+@ 317.441
+# Secretary, case 1
+JP {name:0}選手、
+JP {name:1}選手と
+EN {name:0} and
+EN {name:1} versus
+
+@ 317.443
+# Secretary, case 1
+JP {name:2}選手、
+JP {name:3}選手の
+JP 一戦でした。
+EN {name:2} and
+EN {name:3}!
+
+@ 317.450
+# Secretary, case 2
+JP {name:0}選手、
+JP {name:1}選手、
+JP {name:2}選手と
+EN {name:0},
+EN {name:1} and
+EN {name:2} versus
+
+@ 317.452
+# Secretary, case 2
+JP {name:3}選手、
+JP {name:4}選手、
+JP {name:5}選手、
+EN {name:3},
+EN {name:4} and
+EN {name:5}!
+
+@ 317.454
+# Secretary, case 2
+JP 以上の一戦でした
+EN That was the match!
+
+@ 317.1097
+# Secretary, case 1
+JP プロレス大賞は以上でした。
+EN That concludes the Wrestling Awards.

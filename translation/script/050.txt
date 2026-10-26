@@ -1,0 +1,576 @@
+# Event script entry 050 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 050.46
+# Secretary
+JP {name:0}選手に
+JP 映画出演の依頼がきています。
+EN {name:0} has been offered
+EN a part in a movie.
+
+@ 050.48
+# Secretary
+JP 映画に出演すると
+JP 今月の練習と試合に出れませんが
+JP 絶好のアピールになりますね！
+EN She'd miss this month's training
+EN and matches, but it's a perfect
+EN chance to get noticed!
+
+@ 050.50
+# Secretary
+JP 出演させますか？
+EN Will you let her do it?
+
+@ 050.70
+# wrestler (voiced), case 1, used 2x
+JP 女優さん！？
+JP 本当に私ですか…？
+EN An actress!?
+EN Do they really mean me...?
+
+@ 050.78
+# wrestler (voiced), case 1, used 2x
+JP …えッ！？
+JP あたしが映画に！？
+JP 主役、ねぇ主役？
+EN ...Huh!? I'm going to be in a
+EN movie!?
+EN The lead? Hey, am I the lead?
+
+@ 050.86
+# wrestler (voiced), case 1, used 8x
+JP …いいでしょう。
+JP お受けします。
+EN ...Very well.
+EN I accept.
+
+@ 050.94
+# wrestler (voiced), case 1, used 2x
+JP 私が…映画出演…？
+JP さっそく演技の勉強をしないと…。
+EN Me... in a movie...? I'd better
+EN start studying acting right away...
+
+@ 050.102
+# wrestler (voiced), case 1, used 2x
+JP 女優デビューでーす！
+JP ファンのみんな見てね～！
+EN My acting debut!
+EN Everyone, be sure to watch!
+
+@ 050.110
+# wrestler (voiced), case 1, used 2x
+JP 本当に私でいいのでしょうか…？
+EN Am I really the right person...?
+
+@ 050.118
+# wrestler (voiced), case 1, used 2x
+JP 銀幕のスター目指しちゃおっかなぁ
+JP なんてねッ！
+EN Maybe I'll aim to be a silver
+EN screen star... Just kidding!
+
+@ 050.126
+# wrestler (voiced), case 1, used 2x
+JP すごーい！
+JP 女優デビューだぁ！
+EN Amazing!
+EN My acting debut!
+
+@ 050.134
+# wrestler (voiced), case 1, used 2x
+JP 私でいいんでしょうかねぇ？
+JP 女優さんかぁ…。
+JP 照れるなぁ…。
+EN Am I really right for it?
+EN An actress, huh...
+EN That's embarrassing...
+
+@ 050.142
+# wrestler (voiced), case 1
+JP 私が…ですか…？
+JP わかりました。
+JP 何事も全力あるのみですから。
+EN Me...? Understood.
+EN I always give everything my all.
+
+@ 050.150
+# wrestler (voiced), case 1, used 2x
+JP 本当にあたしでいいの？
+EN Are you sure you want me?
+
+@ 050.158
+# wrestler (voiced), case 1, used 2x
+JP ちょっと緊張するなぁ…。
+EN I'm kinda nervous...
+
+@ 050.162
+# wrestler (voiced), case 1, used 2x
+JP にゃん！とか言ったら
+JP ＮＧなんだろうね。
+JP きっと…。
+EN I bet if I say "nya!" it'll
+EN be a blooper. Probably...
+
+@ 050.170
+# wrestler (voiced), case 1, used 2x
+JP …映画？
+JP やるやるッ！
+JP 私もとうとう女優デビューなのね！
+EN ...A movie? I'm in, I'm in!
+EN My acting debut at last!
+
+@ 050.178
+# wrestler (voiced), case 1, used 2x
+JP …まあ！？
+JP 映画ですか…。
+JP 私に女優なんてできるのかしら…？
+EN ...Oh my!? A movie...
+EN Could I really be an actress...?
+
+@ 050.186
+# wrestler (voiced), case 1, used 2x
+JP オーッホッホッホ！
+JP 映画業界もようやく私の魅力に
+JP 気づいたようですわ！
+EN Oh-ho-ho-ho! The film industry has
+EN finally noticed my charms!
+
+@ 050.194
+# wrestler (voiced), case 1, used 2x
+JP 映画なんて初めて！
+JP なんだかドキドキしちゃう！
+EN My first movie!
+EN My heart's pounding!
+
+@ 050.202
+# wrestler (voiced), case 1, used 2x
+JP …映画出演ですか？
+JP どうして私なんかを…？
+EN ...A movie role?
+EN Why someone like me...?
+
+@ 050.210
+# wrestler (voiced), case 1, used 2x
+JP …マジで？
+JP まいったな～…。
+JP ま、でもがんばるぜッ！
+EN ...Seriously? Man, what a pain...
+EN Well, I'll give it my best!
+
+@ 050.218
+# wrestler (voiced), case 1, used 2x
+JP やるやるッ！
+JP 女優さんかぁ…。
+JP エヘヘッ、がんばっちゃおうかな！
+EN I'm in, I'm in! An actress, huh...
+EN Ehehe, maybe I'll go all out!
+
+@ 050.226
+# wrestler (voiced), case 1, used 2x
+JP やると決めたら
+JP 完璧を目指したいのよね…。
+JP 社長、DVD何本か買っておいて。
+EN Once I commit, I go for perfect.
+EN Boss, buy a few DVDs for me,
+EN okay?
+
+@ 050.234
+# wrestler (voiced), case 1, used 2x
+JP …ん～、女優さんかぁ…。
+JP うん、いいですよ。
+EN ...Hmm, an actress, huh...
+EN Yeah, sure.
+
+@ 050.242
+# wrestler (voiced), case 1, used 2x
+JP …女優？
+JP 別にいいけど…。
+EN ...An actress?
+EN I don't mind, I guess...
+
+@ 050.250
+# wrestler (voiced), case 1, used 2x
+JP …映画？
+JP …あたしが？
+JP やるやるッ！
+EN ...A movie? ...Me?
+EN I'm in, I'm in!
+
+@ 050.258
+# wrestler (voiced), case 1, used 2x
+JP セリフ３,０００回繰り返して
+JP 覚えますッ！
+EN I'll go over my lines 3,000 times
+EN to memorize them!
+
+@ 050.266
+# wrestler (voiced), case 1, used 2x
+JP 男役の方がいいんじゃないのか？
+EN Wouldn't I be better as a male role?
+
+@ 050.274
+# wrestler (voiced), case 1, used 2x
+JP すご～い！
+JP 女優さん？
+JP 楽しそうだねッ！
+EN Amazing! An actress?
+EN Sounds like fun!
+
+@ 050.282
+# wrestler (voiced), case 1
+JP もちろん、主役ならよろしくてよ！
+EN Of course, if it's the lead role,
+EN I'll gladly accept!
+
+@ 050.290
+# wrestler (voiced), case 1, used 2x
+JP マスクをしてますが
+JP 外した方が…？
+EN I wear a mask...
+EN Should I take it off...?
+
+@ 050.298
+# wrestler (voiced), case 1, used 2x
+JP 緊張しますね…。
+JP セリフ覚えられるかな…。
+EN I'm nervous...
+EN Can I memorize my lines...?
+
+@ 050.306
+# wrestler (voiced), case 1, used 2x
+JP 気分は女優！
+JP がんばっちゃうよッ！
+EN I feel like a real actress!
+EN I'll give it my all!
+
+@ 050.314
+# wrestler (voiced), case 1, used 2x
+JP …映画ですか…？
+JP もう、団体の恥になっても
+JP 知りませんよ！
+EN ...A movie...? Honestly, don't blame
+EN me if I embarrass the promotion!
+
+@ 050.322
+# wrestler (voiced), case 1, used 2x
+JP 何事にも全力投球。
+JP これが自分のポリシーですから！
+EN Give everything your all.
+EN That's my policy!
+
+@ 050.330
+# wrestler (voiced), case 1, used 2x
+JP ……映画館に連れてってくれるの…？
+JP ……違うの……？
+EN ......You're taking me to the
+EN movies...?
+EN ......That's not it......?
+
+@ 050.338
+# wrestler (voiced), case 1, used 2x
+JP 興味深いですね。
+JP レスリングも映画も
+JP 舞台を彩るものですし…。
+EN How interesting. Wrestling and film
+EN both bring color to the stage...
+
+@ 050.346
+# wrestler (voiced), case 1, used 2x
+JP ああッ！
+JP どのような舞台であれ
+JP 脚光を浴びてしまう自分が怖い！
+EN Ah! Whatever the stage, I'm destined
+EN to steal the spotlight! I frighten
+EN even myself!
+
+@ 050.354
+# wrestler (voiced), case 1, used 2x
+JP ……私で…本当にいい……？
+EN ......Are you sure... you want
+EN me......?
+
+@ 050.362
+# wrestler (voiced), case 1, used 2x
+JP まさか子役とかじゃないよね？
+EN It's not a child role, is it?
+
+@ 050.370
+# wrestler (voiced), case 1, used 2x
+JP よくわからないが面白そうだな！
+EN I don't really get it, but
+EN it sounds fun!
+
+@ 050.378
+# wrestler (voiced), case 1, used 2x
+JP 仕事なら仕方ないですね。
+JP お受けします。
+EN If it's work, so be it.
+EN I accept.
+
+@ 050.386
+# wrestler (voiced), case 1, used 2x
+JP ウチが女優か～…。
+JP 面白そうやん！
+JP で、どんな映画なん？
+EN Me, an actress, huh...
+EN Sounds fun! So what kinda
+EN movie is it?
+
+@ 050.394
+# wrestler (voiced), case 1, used 2x
+JP あ、あたしに…映画！？
+JP はい、やりとげてみせます！
+JP でも…子役じゃないですよね…？
+EN M-me, in a movie!? I'll see it
+EN through! But... it's not a
+EN child role, is it...?
+
+@ 050.402
+# wrestler (voiced), case 1, used 2x
+JP あたしにですか？
+EN Me?
+
+@ 050.406
+# wrestler (voiced), case 1, used 2x
+JP う～ん…。
+JP それってギャラ出るんでしょうか…？
+JP 出るなら是非やります！
+EN Hmm... Will I get paid for it...?
+EN If so, I'd love to do it!
+
+@ 050.414
+# wrestler (voiced), case 1, used 2x
+JP 何事も全力でやり遂げてこそ
+JP 真の強さが滲み出てくると。
+JP がんばりますッ！
+EN True strength shows only when
+EN you give your all to everything.
+EN I'll do my best!
+
+@ 050.422
+# wrestler (voiced), case 1, used 2x
+JP そもそも私はプロレスラー
+JP なんですが…。
+EN I'm a pro wrestler
+EN in the first place, though...
+
+@ 050.426
+# wrestler (voiced), case 1, used 2x
+JP まあいいでしょう…。
+JP やるとなったら妥協はしませんよ？
+EN Well, fine... But if I do it,
+EN I won't compromise, all right?
+
+@ 050.434
+# wrestler (voiced), case 1, used 2x
+JP 何事もチャレンジですからね。
+JP がんばります～。
+EN Everything's a challenge, after all.
+EN I'll do my best~
+
+@ 050.442
+# wrestler (voiced), case 1, used 2x
+JP きたぁーーッ！
+JP いよいよあたしも女優デビュー！
+JP ムフフフ～ッ。
+EN Here it comes! My acting debut
+EN at last! Mufufufu~
+
+@ 050.450
+# wrestler (voiced), case 1, used 2x
+JP オファーが遅すぎるくらいだぜ！
+EN This offer's way overdue!
+
+@ 050.458
+# wrestler (voiced), case 1, used 2x
+JP もっと早くオファーして来いよ！
+EN You should've offered sooner!
+
+@ 050.466
+# wrestler (voiced), case 1, used 2x
+JP どーせバイオレンス系なんだろ？
+JP いいよ、出てやるよ！
+EN Some violent flick, I bet?
+EN Fine, I'll be in it!
+
+@ 050.474
+# wrestler (voiced), case 1, used 2x
+JP 組織の長が決めたのなら仕方ない。
+JP 正直気はのらんがな…。
+EN If the head of the organization has
+EN decided, so be it. Frankly, I'm not
+EN keen on it...
+
+@ 050.482
+# wrestler (voiced), case 1, used 2x
+JP …まあいいだろう。
+JP 気に入らなきゃ
+JP 監督に血を見せてやるだけさ！
+EN ...Fine. If I don't like it,
+EN I'll just make the director bleed!
+
+@ 050.489
+# other, case 1, used 2x
+JP …………映画……！？
+EN ............A movie......!?
+
+@ 050.499
+# wrestler (voiced), case 1
+JP たまにはこういうのもいいか…。
+EN I guess this kind of thing is
+EN fine once in a while...
+
+@ 050.507
+# wrestler (voiced), case 1
+JP …映画？
+JP 私が主役ですか！？
+JP やります、やらせてください！
+EN ...A movie? I'm the lead!?
+EN I'll do it, please let me do it!
+
+@ 050.515
+# wrestler (voiced), case 1
+JP クールでエレガントな私なら
+JP 女優もよゆーよね。
+EN Cool, elegant me can play
+EN an actress, no problem.
+
+@ 050.523
+# wrestler (voiced), case 1
+JP 私なんかでいいの？
+JP ちょっと恥ずかしいかなぁ。
+EN Are you sure you want me?
+EN It's a little embarrassing...
+
+@ 050.531
+# wrestler (voiced), case 1
+JP 専門分野ではないので
+JP 自信はありませんが
+JP 全力であたります！
+EN It's not my specialty, so I'm not
+EN confident, but I'll give it
+EN my all!
+
+@ 050.539
+# wrestler (voiced), case 1
+JP 私が…映画……。
+JP 女優……。
+EN Me... in a movie......
+EN An actress......
+
+@ 050.547
+# wrestler (voiced), case 1
+JP 映画ですか…？
+JP ということは、じょ、女優さん！？
+EN A movie...? Th-that means
+EN I'm an actress!?
+
+@ 050.551
+# wrestler (voiced), case 1
+JP うわ～！
+JP がんばります！
+EN Wow!
+EN I'll do my best!
+
+@ 050.559
+# wrestler (voiced), case 1
+JP あはッ！
+JP 女優かぁ…。
+JP なんか照れますね。
+EN Aha! An actress, huh...
+EN That's kind of embarrassing.
+
+@ 050.567
+# wrestler (voiced), case 1
+JP プロレス界のヒロインが
+JP 映画界でヒロインになる…。
+JP 当たり前ですわね。
+EN The heroine of pro wrestling becomes
+EN the heroine of film... Naturally.
+
+@ 050.575
+# wrestler (voiced), case 1
+JP 映画大好きなんですよ～。
+JP えッ、わたしが出るんですか～？
+EN I love movies~
+EN Huh, I'm going to be in one~?
+
+@ 050.583
+# wrestler (voiced), case 1
+JP え、映画…？
+JP ボクにやれるかな…？
+EN A m-movie...?
+EN Can I really do it...?
+
+@ 050.591
+# wrestler (voiced), case 1
+JP アタシが女優かよ！
+JP ヘッヘヘ！
+EN Me, an actress!?
+EN Heh heh!
+
+@ 050.595
+# wrestler (voiced), case 1
+JP …あ。
+JP 怪獣映画じゃないだろーな？
+EN ...Hey. This isn't a monster
+EN movie, is it?
+
+@ 050.603
+# wrestler (voiced), case 1
+JP 本当に私で良いのでしょうか？
+JP もっと適任者がいるような…。
+EN Am I really the right one?
+EN I'm sure someone else would suit
+EN it better...
+
+@ 050.611
+# wrestler (voiced), case 1
+JP …えッ！？
+JP え…映画！？
+JP 私が、じょ…女優ですか！？
+EN ...Huh!? A m-movie!?
+EN I'm going to be an a-actress!?
+
+@ 050.619
+# wrestler (voiced), case 1
+JP 撮影所って出るって言いません…？
+JP 何ってほらアレですよ～。
+EN Don't they say film studios are
+EN haunted...? By, y'know, those
+EN things~
+
+@ 050.627
+# wrestler (voiced), case 1
+JP リング以外で演技できるのかな…。
+EN Can I act outside the ring...?
+
+@ 050.707
+# wrestler (voiced), case 1
+JP 私が…ですか……？
+JP わかりました。
+JP 何事も全力あるのみですから。
+EN Me......? Understood.
+EN I always give everything my all.
+
+@ 050.847
+# wrestler (voiced), case 1
+JP もちろん主役ならよろしくてよ！
+EN Of course, if it's the lead role,
+EN I'll gladly accept!
+
+@ 050.1072
+# Secretary, case 1
+JP 今回の出演料として200ＡＰの
+JP 収入がありました。
+EN We earned 200 AP as her
+EN appearance fee.

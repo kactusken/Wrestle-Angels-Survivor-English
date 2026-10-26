@@ -1,0 +1,445 @@
+# Event script entry 174 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 174.38
+# wrestler (voiced), used 2x
+JP 石川です。
+JP よろしくお願いします。
+EN I'm Ishikawa.
+EN Nice to meet you.
+
+@ 174.45
+# wrestler (voiced), used 2x
+JP よろしくお願いしますッ！
+EN Nice to meet you!
+
+@ 174.52
+# wrestler (voiced), used 2x
+JP 越後です。
+JP よろしくお願いしますッ！
+EN I'm Echigo.
+EN Nice to meet you!
+
+@ 174.59
+# wrestler (voiced), used 2x
+JP 精一杯がんばりました。
+JP よろしくお願いします。
+EN I did my very best.
+EN Please consider me.
+
+@ 174.66
+# wrestler (voiced), used 2x
+JP ねぇ！
+JP もちろん合格だよね？
+EN Hey!
+EN I passed, of course, right?
+
+@ 174.73
+# wrestler (voiced), used 2x
+JP 私は合格でしょうか？
+EN Did I pass?
+
+@ 174.80
+# wrestler (voiced), used 2x
+JP ねぇ？
+JP あたし、もちろん合格でしょ？
+EN Hey?
+EN Of course I passed, right?
+
+@ 174.87
+# wrestler (voiced), used 2x
+JP 金井ですッ！
+JP よろしくお願いしまーす！
+EN I'm Kanai!
+EN Nice to meet youuu!
+
+@ 174.94
+# wrestler (voiced), used 2x
+JP 小縞ですッ！
+JP よろしくお願いします！
+EN I'm Kojima!
+EN Nice to meet you!
+
+@ 174.101
+# wrestler (voiced), used 2x
+JP 斉藤です。
+JP よろしくお願いします。
+EN I'm Saito.
+EN Nice to meet you.
+
+@ 174.108
+# wrestler (voiced), used 2x
+JP 龍子です。
+JP よろしく。
+EN I'm Ryuko.
+EN Good to meet you.
+
+@ 174.115
+# wrestler (voiced), used 2x
+JP ネコ大好きな堀です！
+JP よろしくお願いします！
+EN I'm Hori, and I love cats!
+EN Nice to meet you!
+
+@ 174.122
+# wrestler (voiced), used 2x
+JP 富沢です！
+JP よろしくッ！
+EN I'm Tomizawa!
+EN Nice to meet ya!
+
+@ 174.129
+# wrestler (voiced), used 2x
+JP 理沙子といいます。
+JP よろしくお願いします。
+EN My name is Risako.
+EN Nice to meet you.
+
+@ 174.136
+# wrestler (voiced), used 2x
+JP 市ヶ谷ですわ。
+EN I am Ichigaya.
+
+@ 174.143
+# wrestler (voiced), used 2x
+JP 藤島ですッ！
+JP アイドルレスラーとして
+JP 精一杯がんばりまーす！
+EN I'm Fujishima!
+EN I'll do my very best
+EN as an idol wrestler!
+
+@ 174.150
+# wrestler (voiced), used 2x
+JP 上原です。
+JP よろしくお願いします。
+EN I'm Uehara.
+EN Nice to meet you.
+
+@ 174.157
+# wrestler (voiced), used 2x
+JP 来島だよ。
+JP よろしくな！
+EN Kishima here.
+EN Good to meet ya!
+
+@ 174.164
+# wrestler (voiced), used 2x
+JP 祐希子です。
+JP よろしくお願いします！
+EN I'm Yukiko.
+EN Nice to meet you!
+
+@ 174.171
+# wrestler (voiced), used 2x
+JP 南よ。
+JP よろしく。
+EN Minami.
+EN Pleased to meet you.
+
+@ 174.178
+# wrestler (voiced), used 2x
+JP 吉原です。
+JP よろしくお願いします。
+EN I'm Yoshihara.
+EN Nice to meet you.
+
+@ 174.185
+# wrestler (voiced), used 2x
+JP 武藤です。
+JP よろしく。
+EN I'm Muto.
+EN Hello.
+
+@ 174.192
+# wrestler (voiced), used 2x
+JP 渡辺です。
+JP よろしくねッ！
+EN I'm Watanabe.
+EN Nice to meet ya!
+
+@ 174.199
+# wrestler (voiced), used 2x
+JP 相羽です！
+JP よろしくお願いしますッ！
+EN I'm Aiba!
+EN Nice to meet you!
+
+@ 174.206
+# wrestler (voiced), used 2x
+JP 朝比奈だ。
+JP ヨロシク！
+EN Asahina.
+EN Good to meet ya!
+
+@ 174.213
+# wrestler (voiced), used 2x
+JP よろしくお願いしまーす！
+EN Nice to meet youuu!
+
+@ 174.220
+# wrestler (voiced), used 2x
+JP 鏡と申します。
+JP よろしくお願いいたします。
+EN My name is Kagami.
+EN It is a pleasure to meet you.
+
+@ 174.227
+# wrestler (voiced), used 2x
+JP 神威です。
+JP よろしく。
+EN I'm Kamui.
+EN Hello.
+
+@ 174.234
+# wrestler (voiced), used 2x
+JP 草薙と申します。
+JP どうぞよろしくお願いします。
+EN My name is Kusanagi.
+EN It's a pleasure to meet you.
+
+@ 174.241
+# wrestler (voiced), used 2x
+JP 小早川です！
+JP よろしくお願いします。
+EN I'm Kobayakawa!
+EN Nice to meet you.
+
+@ 174.248
+# wrestler (voiced), used 2x
+JP 近藤です！
+JP この拳で世界を獲ってみせます。
+EN I'm Kondo!
+EN I'll conquer the world with these
+EN fists.
+
+@ 174.255
+# wrestler (voiced), used 2x
+JP 気合と根性は誰にも負けませんッ！
+EN Nobody beats me for guts and grit!
+
+@ 174.262
+# wrestler (voiced), used 2x
+JP ……えっと…お願いします……。
+EN ......Um...nice to meet you......
+
+@ 174.269
+# wrestler (voiced), used 2x
+JP よろしくお願いいたします。
+EN It is a pleasure to meet you.
+
+@ 174.276
+# wrestler (voiced), used 2x
+JP 私を採用して後悔はさせませんよ。
+EN You won't regret hiring me.
+
+@ 174.283
+# wrestler (voiced), used 2x
+JP ……よ…よろしくお願いします……。
+EN ......N...nice to meet you......
+
+@ 174.290
+# wrestler (voiced), used 2x
+JP よッ…よろしくお願いしますッ！
+EN N... nice to meet you!
+
+@ 174.297
+# wrestler (voiced), used 2x
+JP よろしくたのむ。
+EN I'm counting on you.
+
+@ 174.304
+# wrestler (voiced), used 2x
+JP 中森です。
+JP 仕事はきっちり片付けます。
+EN I'm Nakamori.
+EN I get my work done properly.
+
+@ 174.311
+# wrestler (voiced), used 2x
+JP 使える思たら
+JP ここで使ってほしいねんけど。
+EN If ya think I'm worth usin',
+EN I'd like ya to use me here.
+
+@ 174.318
+# wrestler (voiced), used 2x
+JP えっと…。
+JP 一生懸命がんばりますので
+JP よろしくお願いしますッ！
+EN Um...
+EN I'll try my very hardest,
+EN so please consider me!
+
+@ 174.325
+# wrestler (voiced), used 2x
+JP 早瀬です！
+JP どうぞよろしくお願いします！
+EN I'm Hayase!
+EN Very nice to meet you!
+
+@ 174.332
+# wrestler (voiced), used 2x
+JP 藤原ですッ！
+JP 努力と根性は誰にも負けませんッ！
+EN I'm Fujiwara!
+EN Nobody beats me for effort and grit!
+
+@ 174.339
+# wrestler (voiced), used 2x
+JP 北条です。
+JP 誰にも恥じることのない
+JP 完璧なプロレスラーを目指します。
+EN I'm Hojo.
+EN I aim to be a flawless wrestler
+EN with nothing to be ashamed of.
+
+@ 174.346
+# wrestler (voiced), used 2x
+JP 保科と申します。
+JP よろしくお願いいたします～。
+EN My name is Hoshina.
+EN It's a pleasure to meet you.
+
+@ 174.353
+# wrestler (voiced), used 2x
+JP 真鍋に清き一票を！
+JP なんちゃって♪
+EN Cast your vote for Manabe!
+EN Just kidding♪
+
+@ 174.360
+# wrestler (voiced), used 2x
+JP 私を採用しないと損するよ？
+EN You'll be missing out if you don't
+EN hire me, you know?
+
+@ 174.367
+# wrestler (voiced), used 2x
+JP あたしを採用しないと損するよ？
+EN You'll be missin' out if you
+EN don't hire me, y'know?
+
+@ 174.374
+# wrestler (voiced), used 2x
+JP あたしを雇って損はないよ！
+EN You won't lose out by hiring me!
+
+@ 174.388
+# wrestler (voiced), used 2x
+JP くっくっく…。
+EN Heh heh heh...
+
+@ 174.402
+# wrestler (voiced)
+JP よろしく…。
+EN Hello...
+
+@ 174.409
+# wrestler (voiced)
+JP 永沢です！
+JP とにかく元気が取り柄です。
+EN I'm Nagasawa!
+EN Energy is my strong point!
+
+@ 174.416
+# wrestler (voiced)
+JP 真壁です。
+JP 小さいからってなめると
+JP 痛い目見るわよ。
+EN I'm Makabe.
+EN Underestimate me because I'm small
+EN and you'll regret it.
+
+@ 174.423
+# wrestler (voiced)
+JP 橘です。
+JP スピードには自信があります！
+EN I'm Tachibana.
+EN I'm confident in my speed!
+
+@ 174.430
+# wrestler (voiced)
+JP 霧島です。
+JP パワーには自信があります。
+EN I'm Kirishima.
+EN I'm confident in my power.
+
+@ 174.437
+# wrestler (voiced)
+JP 運命が呼んでる……。
+EN Fate is calling......
+
+@ 174.444
+# wrestler (voiced)
+JP え～と…あの…。
+JP よろしくお願いします。
+EN Umm... well...
+EN Nice to meet you.
+
+@ 174.451
+# wrestler (voiced)
+JP もちろん合格ですよね？
+EN I passed, of course, right?
+
+@ 174.458
+# wrestler (voiced)
+JP わたくしを採用しなければ
+JP 人類の損失ですわ。
+EN Not hiring me would be
+EN a loss for all humanity.
+
+@ 174.465
+# wrestler (voiced)
+JP あ、どうも～。
+EN Oh, hello there.
+
+@ 174.472
+# wrestler (voiced)
+JP どうだった？
+JP 合格だよね？
+EN How'd I do?
+EN I passed, right?
+
+@ 174.479
+# wrestler (voiced)
+JP よろしくな！
+EN Good to meet ya!
+
+@ 174.486
+# wrestler (voiced), used 2x
+JP よろしくお願いします！
+EN Nice to meet you!
+
+@ 174.493
+# wrestler (voiced)
+JP 秋山です！
+JP ガッツでがんばります！
+EN I'm Akiyama!
+EN I'll give it all my guts!
+
+@ 174.500
+# wrestler (voiced)
+JP よろしくお願いします。
+JP やる気は誰にも負けません！
+EN Nice to meet you.
+EN Nobody beats me for drive!
+
+@ 174.507
+# wrestler (voiced)
+JP グリズリー山本です。
+JP よろしくお願いします。
+EN I'm Grizzly Yamamoto.
+EN Nice to meet you.
+
+@ 174.889
+# Secretary
+JP この選手を獲得しますか？
+EN Shall we sign this wrestler?

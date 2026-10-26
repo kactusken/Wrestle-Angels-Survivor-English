@@ -1,0 +1,492 @@
+# Event script entry 278 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 278.3
+# President
+JP 今後レスラーとして
+JP 王道を歩んでほしいんだが…。
+EN From now on, I'd like you to walk
+EN the orthodox path as a wrestler...
+
+@ 278.16
+# wrestler (voiced), case 0, used 2x
+JP もちろん！
+JP がんばりますよ！
+EN Of course!
+EN I'll do my best!
+
+@ 278.35
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP もっともっと練習するぞ！
+EN Okaaay!
+EN I'll train even harder!
+
+@ 278.54
+# wrestler (voiced), case 0, used 2x
+JP 王道って一番難しそうですね…。
+JP まぁ、やってみます。
+EN The orthodox style seems like
+EN the hardest one...
+EN Well, I'll give it a try.
+
+@ 278.73
+# wrestler (voiced), case 0, used 2x
+JP ええ！
+JP もちろん任せてください！
+JP 社長、期待していてくださいね。
+EN Yes!
+EN Of course, leave it to me!
+EN I won't let you down, Boss.
+
+@ 278.92
+# wrestler (voiced), case 0, used 2x
+JP カッコいいレスラーになりまーす！
+EN I'm gonna be a cool wrestler!
+
+@ 278.111
+# wrestler (voiced), case 0, used 2x
+JP まあ、いいでしょう。
+EN Well, fine.
+
+@ 278.130
+# wrestler (voiced), case 0, used 2x
+JP やっぱり正統派って
+JP かっこいいよね！
+EN Orthodox wrestlers really
+EN are cool, aren't they!
+
+@ 278.149
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP あたしなりにがんばってみる！
+EN Yeah!
+EN I'll do my best, my own way!
+
+@ 278.168
+# wrestler (voiced), case 0, used 2x
+JP 王道ってなんかカッコいいですよね！
+EN The orthodox style is kinda cool,
+EN isn't it!
+
+@ 278.187
+# wrestler (voiced), case 0, used 2x
+JP 今まで通り純粋に
+JP 強さを求めればいいのですね。
+EN So I just keep pursuing pure
+EN strength, as I always have.
+
+@ 278.206
+# wrestler (voiced), case 0, used 2x
+JP いいよ。
+JP やってみるよ。
+EN Sure.
+EN I'll give it a try.
+
+@ 278.225
+# wrestler (voiced), case 0, used 2x
+JP 硬派にイメチェンしちゃおうかな！
+EN Maybe I'll switch to a tough,
+EN no-nonsense image!
+
+@ 278.244
+# wrestler (voiced), case 0, used 2x
+JP ん～…？
+JP よくわかんないけど
+JP なんでもやっちゃうよ。
+EN Hmm...?
+EN I don't really get it, but I'll
+EN do whatever!
+
+@ 278.263
+# wrestler (voiced), case 0, used 2x
+JP わかりました。
+JP やってみます！
+JP まあ普段通りですけどね。
+EN Understood.
+EN I'll give it a try!
+EN Not that it's any different.
+
+@ 278.282
+# wrestler (voiced), case 0, used 2x
+JP ええ。
+JP 喜んでお受けしますわ！
+EN Yes.
+EN I accept with pleasure!
+
+@ 278.301
+# wrestler (voiced), case 0, used 2x
+JP 王道かぁ…。
+JP いまいち中途ハンパねぇ…。
+JP まあ、がんばるわ！
+EN Orthodox, huh...
+EN Sounds kinda halfway...
+EN Well, I'll do my best!
+
+@ 278.320
+# wrestler (voiced), case 0, used 4x
+JP わかりました。
+EN Understood.
+
+@ 278.339
+# wrestler (voiced), case 0, used 2x
+JP ああ…。
+JP 王道も悪くねえな。
+JP やってやるよ！
+EN Yeah...
+EN Orthodox ain't bad.
+EN I'll do it!
+
+@ 278.358
+# wrestler (voiced), case 0, used 2x
+JP まかせてよ！
+EN Leave it to me!
+
+@ 278.377
+# wrestler (voiced), case 0, used 2x
+JP …いいわよ。
+JP やるからには
+JP 完璧なレスラーを目指すわ。
+EN ...Fine. If I'm doing it,
+EN I'll aim to be the perfect wrestler.
+
+@ 278.396
+# wrestler (voiced), case 0, used 2x
+JP …はい。
+JP この団体を背負って立てるように
+JP がんばります！
+EN ...Okay. I'll work hard so I can
+EN carry this promotion on my back!
+
+@ 278.415
+# wrestler (voiced), case 0, used 2x
+JP …ふーん。
+JP いいんじゃない？
+EN ...Hmm.
+EN Sounds fine to me.
+
+@ 278.434
+# wrestler (voiced), case 0, used 2x
+JP …王道？
+JP まかせなさーい！
+EN ...Orthodox?
+EN Leave it to meee!
+
+@ 278.453
+# wrestler (voiced), case 0, used 2x
+JP 正統派目指してがんばります！
+EN I'll work hard to become
+EN an orthodox wrestler!
+
+@ 278.472
+# wrestler (voiced), case 0, used 2x
+JP 正統派か…。
+JP まあ、やれねーことはねーな。
+EN Orthodox, huh...
+EN Well, it's not like I can't.
+
+@ 278.491
+# wrestler (voiced), case 0, used 2x
+JP わーい！
+JP かわいいコスチューム着たい！
+EN Yaaay!
+EN I wanna wear a cute costume!
+
+@ 278.510
+# wrestler (voiced), case 0, used 2x
+JP 王道でも邪道でも
+JP 私の行く道はひとつです。
+EN Orthodox or unorthodox,
+EN there's only one path for me.
+
+@ 278.529
+# wrestler (voiced), case 0, used 2x
+JP …よくわかりませんが
+JP 努力します。
+EN ...I'm not sure I understand,
+EN but I'll make the effort.
+
+@ 278.548
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP わかりました。
+EN ...Yes.
+EN Understood.
+
+@ 278.567
+# wrestler (voiced), case 0, used 2x
+JP 王道かぁ…。
+JP まぁ、いいんじゃない？
+EN Orthodox, huh...
+EN Well, sounds fine to me.
+
+@ 278.586
+# wrestler (voiced), case 0, used 2x
+JP もちろん！
+JP ご期待にそえるように
+JP がんばります！
+EN Of course!
+EN I'll work hard to live up to
+EN your expectations!
+
+@ 278.605
+# wrestler (voiced), case 0, used 2x
+JP いい意味での普通ですよね？
+EN You mean "normal" in a good way,
+EN right?
+
+@ 278.624
+# wrestler (voiced), case 0, used 2x
+JP ……よくわからないけど……。
+JP ……よくわかった……。
+EN ......I don't really get it......
+EN ......Got it......
+
+@ 278.662
+# wrestler (voiced), case 0, used 2x
+JP 今のスタイルで
+JP 良いということですね。
+EN So you mean my current style
+EN is fine as it is.
+
+@ 278.681
+# wrestler (voiced), case 0, used 2x
+JP ……王道って…どういう感じ……？
+EN ......Orthodox... What's that
+EN like......?
+
+@ 278.700
+# wrestler (voiced), case 0, used 3x
+JP わかりました！
+JP がんばってみます！
+EN Understood!
+EN I'll give it my best!
+
+@ 278.719
+# wrestler (voiced), case 0, used 2x
+JP わかった！
+JP 王道だな！
+EN Got it!
+EN Orthodox!
+
+@ 278.738
+# wrestler (voiced), case 0, used 2x
+JP わかりました。
+JP 努力します。
+EN Understood.
+EN I'll make the effort.
+
+@ 278.757
+# wrestler (voiced), case 0, used 2x
+JP ウチにまかしとき！
+EN Leave it to me!
+
+@ 278.776
+# wrestler (voiced), case 0, used 2x
+JP はいッ！
+JP えっと…。
+JP がんばります！
+EN Yes!
+EN Um...
+EN I'll do my best!
+
+@ 278.795
+# wrestler (voiced), case 0, used 2x
+JP はいッ！
+JP 目指せエース！
+EN Yes!
+EN I'm aiming to be the ace!
+
+@ 278.814
+# wrestler (voiced), case 0, used 2x
+JP もちろんです！
+JP 努力と根性でできないことは
+JP ありませんから！
+EN Of course! There's nothing that
+EN hard work and guts can't do!
+
+@ 278.833
+# wrestler (voiced), case 0, used 2x
+JP もちろん。
+JP 私もそのつもりでいますから。
+EN Of course.
+EN That was my intention anyway.
+
+@ 278.852
+# wrestler (voiced), case 0, used 2x
+JP …よくわかりませんが
+JP 私はこのままいけばいいと
+JP いうことですね～。
+EN ...I don't quite understand,
+EN but you mean I should just keep
+EN going as I am, right?
+
+@ 278.871
+# wrestler (voiced), case 0, used 2x
+JP ん～…？
+JP よくわかんないけど
+JP 社長のためにがんばっちゃう！
+EN Hmm...?
+EN I don't really get it, but I'll
+EN do my best for you, Boss!
+
+@ 278.880
+# wrestler (voiced), case 1
+JP ん～、難しいこと言われても
+JP わかんないな～
+EN Hmm, don't ask me hard stuff,
+EN I don't get it.
+
+@ 278.890
+# wrestler (voiced), case 0, used 2x
+JP 王道ねぇ…。
+JP ま、普通にやってやるさ。
+EN Orthodox, huh...
+EN Fine, I'll just do it straight.
+
+@ 278.909
+# wrestler (voiced), case 0, used 2x
+JP 王道ねぇ…。
+JP ま、普通にやれってことだろ。
+EN Orthodox, huh...
+EN So you want me to play it straight.
+
+@ 278.928
+# wrestler (voiced), case 0, used 2x
+JP 王道ねえ。
+JP まあ、努力するよ。
+EN Orthodox, huh.
+EN Well, I'll make an effort.
+
+@ 278.947
+# wrestler (voiced), case 0, used 2x
+JP それが希望なら受けよう。
+EN If that's your wish, I'll accept.
+
+@ 278.966
+# wrestler (voiced), case 0, used 2x
+JP 王道ねえ…。
+JP まあ、やってみないことも…。
+EN Orthodox, huh...
+EN Well, I wouldn't say I won't...
+
+@ 278.1006
+# wrestler (voiced), case 0
+JP 了解した。
+EN Understood.
+
+@ 278.1025
+# wrestler (voiced), case 0
+JP わかりました。
+JP 任せてください！
+EN Understood.
+EN Leave it to me!
+
+@ 278.1044
+# wrestler (voiced), case 0
+JP わかったわ。
+JP 私にはお似合いかもね。
+EN Got it.
+EN Might suit me, actually.
+
+@ 278.1063
+# wrestler (voiced), case 0
+JP わかった。
+JP やってみる！
+EN Okay.
+EN I'll give it a try!
+
+@ 278.1082
+# wrestler (voiced), case 0
+JP 了解です。
+JP 全力をもってあたります。
+EN Roger.
+EN I'll give it my all.
+
+@ 278.1101
+# wrestler (voiced), case 0
+JP がんばってみる……。
+EN I'll try my best......
+
+@ 278.1120
+# wrestler (voiced), case 0
+JP あの…。
+JP はい！
+JP がんばります。
+EN Um...
+EN Yes!
+EN I'll do my best.
+
+@ 278.1139
+# wrestler (voiced), case 0
+JP やってみせます！
+EN I'll show you I can do it!
+
+@ 278.1158
+# wrestler (voiced), case 0
+JP あなたのために
+JP やってあげても
+JP よろしくってよ。
+EN I suppose I could do it
+EN for your sake.
+
+@ 278.1177
+# wrestler (voiced), case 0
+JP やってみます～。
+EN I'll give it a try.
+
+@ 278.1196
+# wrestler (voiced), case 0
+JP うん！
+JP がんばるよ！
+EN Yeah!
+EN I'll do my best!
+
+@ 278.1215
+# wrestler (voiced), case 0
+JP んー…。
+JP なんか難しそうだけど
+JP やってみるわ。
+EN Hmm...
+EN Sounds kind of hard, but I'll
+EN give it a shot.
+
+@ 278.1234
+# wrestler (voiced), case 0
+JP わかりました。
+JP やってみます。
+EN Understood.
+EN I'll give it a try.
+
+@ 278.1253
+# wrestler (voiced), case 0
+JP わかりました。
+JP がんばります！
+EN Understood.
+EN I'll do my best!
+
+@ 278.1272
+# wrestler (voiced), case 0
+JP はーい！
+JP わっかりましたー！
+EN Okaaay!
+EN Got iiit!
+
+@ 278.1281
+# wrestler (voiced), case 1
+JP えー！？
+JP そんなのできませんよー。
+EN Whaaat?!
+EN I can't do that!
+
+@ 278.1291
+# wrestler (voiced), case 0
+JP やってみます。
+EN I'll give it a try.

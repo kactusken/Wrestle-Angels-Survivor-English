@@ -1,0 +1,2013 @@
+# Event script entry 306 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 306.470
+# wrestler (voiced), case 0, used 2x
+JP 勝っちゃいました～！
+EN I wooon!
+
+@ 306.479
+# wrestler (voiced), case 1, used 2x
+JP 今日も絶好調です～！
+EN I'm in top form again today!
+
+@ 306.488
+# wrestler (voiced), case 2, used 2x
+JP ファンのみなさん
+JP 応援ありがとうございました～。
+EN Thank you so much for cheering,
+EN everyone!
+
+@ 306.498
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ！
+JP また勝っちゃった！
+EN Ehehe!
+EN I won again!
+
+@ 306.507
+# wrestler (voiced), case 1, used 2x
+JP やったね！
+JP 今日も楽勝～！
+EN Yay!
+EN Another easy win today!
+
+@ 306.516
+# wrestler (voiced), case 2, used 2x
+JP 余裕でしょ～！
+JP エヘヘッ。
+EN Piece of cake!
+EN Ehehe.
+
+@ 306.526
+# wrestler (voiced), case 0, used 2x
+JP フッ…。
+JP 当然の結果でしたね。
+EN Heh...
+EN A natural result.
+
+@ 306.535
+# wrestler (voiced), case 1, used 2x
+JP フッ…。
+JP 私がお前などに負けるはずはない。
+EN Heh...
+EN There was no way I'd lose to you.
+
+@ 306.544
+# wrestler (voiced), case 2, used 2x
+JP お前…。
+JP レスラー辞めた方が
+JP いいんじゃないか？
+EN You...
+EN Maybe you should quit wrestling?
+
+@ 306.554
+# wrestler (voiced), case 0, used 2x
+JP 勝てました。
+JP 社長、見てくれましたか？
+EN I won.
+EN Boss, did you see?
+
+@ 306.563
+# wrestler (voiced), case 1, used 2x
+JP ナイスファイトでした！
+EN That was a nice fight!
+
+@ 306.572
+# wrestler (voiced), case 2, used 2x
+JP みなさん！
+JP 応援ありがとうございます！
+EN Everyone!
+EN Thank you for cheering!
+
+@ 306.582
+# wrestler (voiced), case 0, used 4x
+JP 勝ちましたーッ！
+EN I woooon!
+
+@ 306.591
+# wrestler (voiced), case 1, used 4x
+JP みんな応援ありがとー！
+EN Thanks for cheering, everyone!
+
+@ 306.600
+# wrestler (voiced), case 2, used 2x
+JP 社長ー！
+JP 見た、見た？
+JP 勝ったよーッ！
+EN Bosss!
+EN Did you see, did you see?
+EN I won!
+
+@ 306.610
+# wrestler (voiced), case 0, used 2x
+JP プロレスも…悪くないな…。
+EN Pro wrestling... isn't so bad...
+
+@ 306.619
+# wrestler (voiced), case 1, used 2x
+JP なかなか…手強い相手だった…。
+EN That was... a tough opponent...
+
+@ 306.628
+# wrestler (voiced), case 2, used 2x
+JP …勝った……。
+EN ...I won......
+
+@ 306.638
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ！
+JP やったね！！
+EN Ehehe!
+EN I did it!!
+
+@ 306.647
+# wrestler (voiced), case 1, used 2x
+JP 正義は勝つ！
+JP なんてね！
+JP エヘヘッ！
+EN Justice prevails!
+EN Just kidding!
+EN Ehehe!
+
+@ 306.656
+# wrestler (voiced), case 2, used 2x
+JP 楽勝、ラクショ～！
+EN Easy win, easy peasy!
+
+@ 306.666
+# wrestler (voiced), case 0, used 2x
+JP 勝っちゃった～！
+EN I wooon!
+
+@ 306.675
+# wrestler (voiced), case 1, used 2x
+JP やったー！
+JP 勝ったよー！
+JP みんな見てるー？
+EN Yaaay!
+EN I won!
+EN Is everyone watching?
+
+@ 306.684
+# wrestler (voiced), case 2, used 3x
+JP エヘヘッ！
+JP やったね！
+EN Ehehe!
+EN I did it!
+
+@ 306.694
+# wrestler (voiced), case 0, used 2x
+JP ……勝った…？
+JP 勝ったーッ！
+EN ......I won...?
+EN I woooon!
+
+@ 306.712
+# wrestler (voiced), case 2, used 2x
+JP やったぁ～…！
+JP …いてててッ……。
+EN I did it...!
+EN ...Ow, ow, ow......
+
+@ 306.722
+# wrestler (voiced), case 0, used 2x
+JP よし…。
+JP 勝った…！
+EN All right...
+EN I won...!
+
+@ 306.731
+# wrestler (voiced), case 1, used 2x
+JP ありがとう。
+JP いい試合だった。
+EN Thank you.
+EN That was a good match.
+
+@ 306.740
+# wrestler (voiced), case 2, used 2x
+JP まだいける…。
+JP 次もきっと…。
+EN I can still go...
+EN Next time too, for sure...
+
+@ 306.750
+# wrestler (voiced), case 0, used 2x
+JP よしッ！
+JP 今日も勝てた！
+EN All right!
+EN I won again today!
+
+@ 306.759
+# wrestler (voiced), case 1, used 2x
+JP もっと鍛えてから挑戦してきな。
+EN Train some more before you
+EN challenge me.
+
+@ 306.768
+# wrestler (voiced), case 2, used 2x
+JP なかなかやるね。
+EN Not bad at all.
+
+@ 306.778
+# wrestler (voiced), case 0, used 2x
+JP 勝ったにゃんッ！
+EN I won, nya!
+
+@ 306.787
+# wrestler (voiced), case 1, used 2x
+JP ラクショー、ラクショー！
+EN Easy win, easy win!
+
+@ 306.796
+# wrestler (voiced), case 2, used 2x
+JP 社長、勝ったよー！
+JP 見てる～？
+EN Boss, I won!
+EN Are you watching?
+
+@ 306.806
+# wrestler (voiced), case 0, used 2x
+JP よ～し！
+JP ま、こんなもんでしょ！
+EN All riiight!
+EN Well, that's about what I expected!
+
+@ 306.815
+# wrestler (voiced), case 1, used 2x
+JP あまい、あま～い！
+EN Too soft, way too soft!
+
+@ 306.824
+# wrestler (voiced), case 2, used 2x
+JP 勝ったーッ！
+JP やりました！
+EN I woooon!
+EN I did it!
+
+@ 306.834
+# wrestler (voiced), case 0, used 2x
+JP フゥ…。
+JP お疲れ様でした。
+EN Phew...
+EN Good work out there.
+
+@ 306.843
+# wrestler (voiced), case 1, used 2x
+JP お互いナイスファイトだったわね。
+EN Nice fight, both of us.
+
+@ 306.852
+# wrestler (voiced), case 2, used 2x
+JP 少し危なかったけれど
+JP 勝てたようね。
+EN That was a little close,
+EN but it seems I won.
+
+@ 306.862
+# wrestler (voiced), case 0, used 2x
+JP 私と戦えたことを光栄に思いなさい！
+EN You should be honored you got to
+EN fight me!
+
+@ 306.871
+# wrestler (voiced), case 1, used 2x
+JP 私が勝つことは
+JP 試合前からわかっていたことですわ！
+EN I knew I'd win before the match
+EN even started!
+
+@ 306.880
+# wrestler (voiced), case 2, used 2x
+JP オーッホッホッホッホ！
+JP 私に勝とうなんて百万年早いですわ！
+EN Oh-ho-ho-ho-ho! Beating me?
+EN You're a million years too early!
+
+@ 306.890
+# wrestler (voiced), case 0, used 2x
+JP やったー！
+JP ファンのみんなありがとー！
+EN Yaaay!
+EN Thanks, fans!
+
+@ 306.899
+# wrestler (voiced), case 1, used 2x
+JP 私に勝とうなんて
+JP あまい、あまい！
+EN Thinking you could beat me?
+EN Too sweet, too sweet!
+
+@ 306.908
+# wrestler (voiced), case 2, used 2x
+JP かわいい方が勝つって決まってるの！
+EN It's a rule: the cuter girl wins!
+
+@ 306.918
+# wrestler (voiced), case 0, used 2x
+JP なかなかいい勝負でした。
+EN That was a pretty good match.
+
+@ 306.927
+# wrestler (voiced), case 1, used 2x
+JP まだまだ…。
+JP もっと強くならないと。
+EN Not yet...
+EN I have to get stronger.
+
+@ 306.936
+# wrestler (voiced), case 2, used 2x
+JP あなた…なかなかやるようね。
+EN You... You're quite good.
+
+@ 306.946
+# wrestler (voiced), case 0, used 2x
+JP フンッ！
+JP 意外と根性あるな！
+EN Hmph!
+EN You've got more guts than I thought!
+
+@ 306.955
+# wrestler (voiced), case 1, used 2x
+JP やっぱり最後はパワーの差が出たな！
+EN In the end, raw power made
+EN the difference!
+
+@ 306.964
+# wrestler (voiced), case 2, used 2x
+JP なかなかいい試合だったぜ！
+EN That was a pretty good match!
+
+@ 306.974
+# wrestler (voiced), case 0, used 2x
+JP エッヘへッ！
+JP やったー！
+EN Ehehe!
+EN Yaaay!
+
+@ 306.983
+# wrestler (voiced), case 1, used 2x
+JP だれの挑戦でも受けるわよ！
+EN I'll take on any challenger!
+
+@ 306.992
+# wrestler (voiced), case 2, used 2x
+JP これでまた一歩
+JP 最強に近づけたかな？
+EN Did that bring me one step closer
+EN to being the strongest?
+
+@ 306.1002
+# wrestler (voiced), case 0, used 2x
+JP あなた、なかなかやるわね。
+EN You're quite good.
+
+@ 306.1011
+# wrestler (voiced), case 1, used 2x
+JP まだよ…。
+JP もっと上を目指さないと…。
+EN Not yet...
+EN I have to aim even higher...
+
+@ 306.1020
+# wrestler (voiced), case 2, used 2x
+JP …まだまだ。
+JP こんな試合じゃもの足りないわ…。
+EN ...Not yet.
+EN A match like this isn't enough...
+
+@ 306.1030
+# wrestler (voiced), case 0, used 2x
+JP あたしの技の方が
+JP 少しだけ勝っていたみたいね。
+EN Looks like my technique
+EN was just a little better.
+
+@ 306.1039
+# wrestler (voiced), case 1, used 2x
+JP フゥ…。
+JP なかなかやりますね。
+EN Phew...
+EN You're quite good.
+
+@ 306.1048
+# wrestler (voiced), case 2, used 4x
+JP フゥ…。
+JP いい試合でした。
+EN Phew...
+EN That was a good match.
+
+@ 306.1058
+# wrestler (voiced), case 0, used 2x
+JP まだよ！
+JP もっと強くならないと！
+EN Not yet!
+EN I have to get stronger!
+
+@ 306.1067
+# wrestler (voiced), case 1, used 2x
+JP あたしはあの娘に負けられないの！
+EN I can't lose to that girl!
+
+@ 306.1076
+# wrestler (voiced), case 2, used 2x
+JP よしッ…！
+JP まだまだ勝たないと！
+EN All right...!
+EN I have to keep on winning!
+
+@ 306.1086
+# wrestler (voiced), case 0, used 2x
+JP ウフフッ！
+JP 楽勝、楽勝！
+EN Ufufu!
+EN Easy win, easy win!
+
+@ 306.1095
+# wrestler (voiced), case 1, used 2x
+JP なかなかいい試合だったわよ！
+EN That was a pretty good match!
+
+@ 306.1104
+# wrestler (voiced), case 2, used 2x
+JP いつでも挑戦してきてね！
+EN Challenge me anytime!
+
+@ 306.1123
+# wrestler (voiced), case 1, used 2x
+JP よしッ！
+JP ボク勝ちました！
+EN All right!
+EN I won!
+
+@ 306.1132
+# wrestler (voiced), case 2, used 2x
+JP 今日は100点満点です！
+EN Today was a perfect 100 points!
+
+@ 306.1142
+# wrestler (voiced), case 0, used 2x
+JP よっしゃー！
+JP オレの勝ちだー！
+EN Yeeeah!
+EN I win!
+
+@ 306.1151
+# wrestler (voiced), case 1, used 2x
+JP 向かうところ敵なしだなぁ。
+JP ハッハー！
+EN Nobody can stand in my way.
+EN Ha-hah!
+
+@ 306.1160
+# wrestler (voiced), case 2, used 2x
+JP これでも手加減したんだぜ？
+EN And that was me going easy on you!
+
+@ 306.1170
+# wrestler (voiced), case 0, used 2x
+JP 勝った、勝ったー！
+JP …でも怖かったよ～。
+EN I won, I won!
+EN ...But that was scary!
+
+@ 306.1179
+# wrestler (voiced), case 1, used 2x
+JP やったー！
+JP 勝ちましたーッ！
+EN Yaaay!
+EN I woooon!
+
+@ 306.1188
+# wrestler (voiced), case 2, used 3x
+JP 次も応援よろしくねー！
+EN Keep cheering for me next time!
+
+@ 306.1198
+# wrestler (voiced), case 0, used 2x
+JP 今夜はシャンパンで乾杯ね。
+JP ご一緒にいかが？
+EN Champagne toast tonight.
+EN Care to join me?
+
+@ 306.1207
+# wrestler (voiced), case 1, used 2x
+JP 私の勇姿
+JP ご覧になっていただけたかしら？
+EN Did you see me in all my glory?
+
+@ 306.1216
+# wrestler (voiced), case 2, used 2x
+JP 誰でも挑戦していらっしゃい。
+JP 受けて立ちますわよ。
+EN Anyone may challenge me.
+EN I shall accept.
+
+@ 306.1226
+# wrestler (voiced), case 0, used 2x
+JP いい試合でした…。
+EN That was a good match...
+
+@ 306.1235
+# wrestler (voiced), case 1, used 2x
+JP もっと…。
+JP もっと強くならないと…。
+EN More...
+EN I have to get stronger...
+
+@ 306.1244
+# wrestler (voiced), case 2, used 2x
+JP また戦いましょう…。
+EN Let's fight again...
+
+@ 306.1254
+# wrestler (voiced), case 0, used 2x
+JP なんとか勝てたようですね。
+EN It seems I managed to win.
+
+@ 306.1263
+# wrestler (voiced), case 1, used 2x
+JP ありがとうございます。
+JP とても、いい試合でした…。
+EN Thank you very much.
+EN That was a very good match...
+
+@ 306.1272
+# wrestler (voiced), case 2, used 2x
+JP まだまだ修行がたりませんね。
+EN I still need more training.
+
+@ 306.1282
+# wrestler (voiced), case 0, used 2x
+JP よしッ！
+JP やったー！
+EN All right!
+EN Yaaay!
+
+@ 306.1291
+# wrestler (voiced), case 1, used 2x
+JP 小さいからってナメないでよね！
+EN Don't underestimate me just
+EN because I'm small!
+
+@ 306.1300
+# wrestler (voiced), case 2, used 2x
+JP ありがと！
+JP いい試合だったよ！
+EN Thanks!
+EN That was a good match!
+
+@ 306.1310
+# wrestler (voiced), case 0, used 2x
+JP よしッ！
+JP 次は誰？
+EN All right!
+EN Who's next?
+
+@ 306.1319
+# wrestler (voiced), case 1, used 2x
+JP あたしは、この拳で頂上に
+JP 立ってみせる！
+EN I'll reach the top with these
+EN fists of mine!
+
+@ 306.1328
+# wrestler (voiced), case 2, used 2x
+JP まだよ！
+JP もっと強い相手はいないの？
+EN Not yet!
+EN Isn't there anyone stronger?
+
+@ 306.1338
+# wrestler (voiced), case 0, used 2x
+JP 努力と根性の結果ッス！
+EN That's the result of hard work
+EN and guts!
+
+@ 306.1347
+# wrestler (voiced), case 1, used 2x
+JP まだまだー！
+JP もっと熱い試合をしたいッス！
+EN Not yet!
+EN I wanna have even hotter matches!
+
+@ 306.1356
+# wrestler (voiced), case 2, used 2x
+JP いい試合やらせてもらいました！
+EN Thanks for the great match!
+
+@ 306.1366
+# wrestler (voiced), case 0, used 2x
+JP ……勝ち…なの……？
+JP ……わたしの……？
+EN ......I won......?
+EN ......Me......?
+
+@ 306.1375
+# wrestler (voiced), case 1, used 2x
+JP ……勝ったの……？
+JP ……ふーん……。
+EN ......I won......?
+EN ......Huh......
+
+@ 306.1384
+# wrestler (voiced), case 2, used 2x
+JP ……やっと終わった…の……？
+EN ......Is it... finally over......?
+
+@ 306.1394
+# wrestler (voiced), case 0, used 2x
+JP 「情報戦を制すものが戦いを制す」
+JP ですね…。
+EN "Whoever controls information
+EN controls the battle," as they say...
+
+@ 306.1403
+# wrestler (voiced), case 1, used 2x
+JP 勝利の方程式を解いただけです。
+EN I merely solved the equation
+EN for victory.
+
+@ 306.1412
+# wrestler (voiced), case 2, used 2x
+JP 勝つためには力だけでなく
+JP 分析も必要です。
+EN Winning takes not just strength,
+EN but analysis.
+
+@ 306.1422
+# wrestler (voiced), case 0, used 2x
+JP …ああ！
+JP これでまた賞賛を独り占めして
+JP しまうのだろうか…？
+EN ...Ah!
+EN Will I hog all the praise
+EN once again...?
+
+@ 306.1431
+# wrestler (voiced), case 1, used 2x
+JP 愛しのバンビーノ達…。
+JP 今の試合を楽しんでもらえた
+JP だろうか…？
+EN My beloved bambini...
+EN Did you enjoy that match...?
+
+@ 306.1440
+# wrestler (voiced), case 2, used 2x
+JP 今の試合、世界中の人々に
+JP くまなく見せられなかったことが
+JP 唯一の心残り…。
+EN My one regret: that match could
+EN not be shown to every person
+EN in the world...
+
+@ 306.1450
+# wrestler (voiced), case 0, used 2x
+JP いい試合でした。
+JP ありがとう。
+EN That was a good match.
+EN Thank you.
+
+@ 306.1459
+# wrestler (voiced), case 1, used 2x
+JP もっと練習しないと…。
+EN I need to practice more...
+
+@ 306.1468
+# wrestler (voiced), case 2, used 2x
+JP また戦いましょう。
+EN Let's fight again.
+
+@ 306.1478
+# wrestler (voiced), case 0, used 2x
+JP やったー！
+JP ボクの勝ちーッ！
+EN Yaaay!
+EN I wiiin!
+
+@ 306.1487
+# wrestler (voiced), case 1, used 2x
+JP ボク…勝ったんだよね？
+EN I... I won, right?
+
+@ 306.1496
+# wrestler (voiced), case 2, used 2x
+JP また試合しようね！
+EN Let's wrestle again sometime!
+
+@ 306.1506
+# wrestler (voiced), case 0, used 2x
+JP うん！
+JP やっぱり真帆の勝ちだ！
+EN Yeah!
+EN Maho wins, of course!
+
+@ 306.1515
+# wrestler (voiced), case 1, used 2x
+JP 真帆はまだまだ戦えるぞ！
+EN Maho can still keep fighting!
+
+@ 306.1524
+# wrestler (voiced), case 2, used 2x
+JP やったぞ！
+JP やっぱり真帆は強い！
+EN I did it!
+EN Maho really is strong!
+
+@ 306.1534
+# wrestler (voiced), case 0, used 2x
+JP 仕事ですから結果を出さないと…。
+EN It's my job,
+EN so I have to get results...
+
+@ 306.1552
+# wrestler (voiced), case 2, used 2x
+JP 仕事は完璧にこなします。
+JP それが自分の信条ですから。
+EN I do my job perfectly.
+EN That's my creed.
+
+@ 306.1562
+# wrestler (voiced), case 0, used 2x
+JP あっはははは！
+JP ま、当然かな？
+EN Ahahahaha!
+EN Well, that's a given, right?
+
+@ 306.1571
+# wrestler (voiced), case 1, used 2x
+JP なかなかええ動きやったで！
+EN Ya moved pretty darn well there!
+
+@ 306.1580
+# wrestler (voiced), case 2, used 2x
+JP まぁ、ウチにかかればこんなもんよ！
+EN Well, that's what happens when ya
+EN take me on!
+
+@ 306.1590
+# wrestler (voiced), case 0, used 2x
+JP やったーッ！
+JP じゃなくて、やりました！
+EN I did iiit!
+EN I mean...I was victorious!
+
+@ 306.1599
+# wrestler (voiced), case 1, used 2x
+JP 子供扱いすると
+JP 痛い目みるんだからッ！
+EN Treat me like a kid and
+EN you'll get hurt!
+
+@ 306.1608
+# wrestler (voiced), case 2, used 2x
+JP みんな応援ありがと！
+EN Thanks for cheering, everyone!
+
+@ 306.1618
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございました！
+JP いい試合だったね！
+EN Thank you very much!
+EN That was a good match!
+
+@ 306.1627
+# wrestler (voiced), case 1, used 2x
+JP よ～し！
+JP みんなー勝ったよー！
+EN All riiight!
+EN Everyone, I won!
+
+@ 306.1646
+# wrestler (voiced), case 0, used 2x
+JP 任務完了しましたッ！
+EN Mission complete!
+
+@ 306.1655
+# wrestler (voiced), case 1, used 2x
+JP 正義のヒロインは不滅ですッ！
+EN The heroine of justice is immortal!
+
+@ 306.1664
+# wrestler (voiced), case 2, used 2x
+JP ナイスファイトでしたよ！
+JP ありがとう。
+EN That was a nice fight!
+EN Thank you.
+
+@ 306.1674
+# wrestler (voiced), case 0, used 2x
+JP これくらい当然です。
+EN This much is only natural.
+
+@ 306.1683
+# wrestler (voiced), case 1, used 2x
+JP なかなかいい試合でした。
+EN That was a pretty good match.
+
+@ 306.1692
+# wrestler (voiced), case 2, used 2x
+JP まるで相手にならなかったですね。
+EN You were no match for me at all.
+
+@ 306.1702
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございました～。
+EN Thank you very much.
+
+@ 306.1711
+# wrestler (voiced), case 1, used 2x
+JP いい試合でした～。
+EN That was a good match.
+
+@ 306.1720
+# wrestler (voiced), case 2, used 2x
+JP ウッフフ！
+JP うれしいです～。
+EN Ufufu!
+EN I'm so happy!
+
+@ 306.1730
+# wrestler (voiced), case 0, used 2x
+JP ムッフフ！
+JP やったー！
+EN Mufufu!
+EN Yaaay!
+
+@ 306.1739
+# wrestler (voiced), case 1, used 2x
+JP ん～～…４０点！
+EN Hmmm... 40 points!
+
+@ 306.1748
+# wrestler (voiced), case 2, used 2x
+JP 次は本気で来てねぇ！
+EN Come at me for real next time!
+
+@ 306.1758
+# wrestler (voiced), case 0, used 2x
+JP まったく…。
+JP 弱すぎだよ、お前！
+EN Geez...
+EN You're way too weak!
+
+@ 306.1767
+# wrestler (voiced), case 1, used 2x
+JP 格の違いってやつがわかっただろ？
+EN Now you get the difference
+EN in class, right?
+
+@ 306.1776
+# wrestler (voiced), case 2, used 2x
+JP クククッ…。
+JP 才能の差ってやつかねぇ。
+EN Heh-heh-heh...
+EN Guess it's a difference in talent.
+
+@ 306.1786
+# wrestler (voiced), case 0, used 2x
+JP 弱すぎて話にならねーな。
+EN You're too weak to even bother with.
+
+@ 306.1795
+# wrestler (voiced), case 1, used 2x
+JP くっくくく…。
+JP 相手にならねぇ。
+EN Heh-heh-heh...
+EN You're no match for me.
+
+@ 306.1804
+# wrestler (voiced), case 2, used 2x
+JP もっと練習してきな！
+JP ムダだろーけど。
+EN Go practice some more!
+EN Not that it'll help.
+
+@ 306.1814
+# wrestler (voiced), case 0, used 2x
+JP フンッ！
+JP 出直しといで！
+EN Hmph!
+EN Come back when you're ready!
+
+@ 306.1823
+# wrestler (voiced), case 1, used 2x
+JP まだまだ
+JP あたしの敵じゃなかったね。
+EN You're still no match for me.
+
+@ 306.1832
+# wrestler (voiced), case 2, used 2x
+JP あんた、いい根性してるよ！
+EN You've got some guts!
+
+@ 306.1842
+# wrestler (voiced), case 0, used 2x
+JP もう一度出直してこい。
+EN Go back and try again.
+
+@ 306.1851
+# wrestler (voiced), case 1, used 2x
+JP 当然の結果だな…。
+EN A natural result...
+
+@ 306.1860
+# wrestler (voiced), case 2, used 2x
+JP いい試合だった…。
+EN That was a good match...
+
+@ 306.1870
+# wrestler (voiced), case 0, used 2x
+JP もっと強い相手を用意しな！
+EN Bring me a stronger opponent!
+
+@ 306.1879
+# wrestler (voiced), case 1, used 2x
+JP 弱すぎだぁ！
+JP 話にならねぇ！！
+EN Way too weak!
+EN You're not even worth it!!
+
+@ 306.1888
+# wrestler (voiced), case 2, used 2x
+JP ヘッヘッヘ…。
+JP すっきりしたぜぇ！
+EN Heh-heh-heh...
+EN That felt great!
+
+@ 306.1926
+# wrestler (voiced), case 0
+JP 試合をする前から
+JP 結果はわかっていた。
+EN I knew the result
+EN before the match even began.
+
+@ 306.1935
+# wrestler (voiced), case 1
+JP まだまだ…。
+JP 修練を積まないと…。
+EN Not yet...
+EN I must train further...
+
+@ 306.1944
+# wrestler (voiced), case 2
+JP さらなる高みを目指して
+JP 進むのみ…。
+EN I can only keep advancing
+EN toward greater heights...
+
+@ 306.1954
+# wrestler (voiced), case 0
+JP バッチリ決まりました！
+JP 完璧、カンペキ！
+EN Nailed it!
+EN Perfect, just perfect!
+
+@ 306.1963
+# wrestler (voiced), case 1
+JP やったね！
+JP 今日もいい試合できました！
+EN Yay!
+EN I had a good match again today!
+
+@ 306.1972
+# wrestler (voiced), case 2
+JP エッヘへッ！
+JP 勝ちましたー！
+EN Ehehe!
+EN I woooon!
+
+@ 306.1982
+# wrestler (voiced), case 0
+JP 小さいからってなめないでね！
+EN Don't underestimate me just
+EN because I'm small!
+
+@ 306.1991
+# wrestler (voiced), case 1
+JP エレガントな私には
+JP 当然の結果ね！
+EN A natural result
+EN for an elegant girl like me!
+
+@ 306.2000
+# wrestler (voiced), case 2
+JP フフッ…。
+JP 次はもっとクールに勝ってみせるわ！
+EN Heh...
+EN Next time I'll win even cooler!
+
+@ 306.2010
+# wrestler (voiced), case 0
+JP 正義は勝つ！
+JP エヘヘッ！
+EN Justice prevails!
+EN Ehehe!
+
+@ 306.2019
+# wrestler (voiced), case 1
+JP いい試合だったね！
+JP またやろうね！
+EN That was a good match!
+EN Let's do it again!
+
+@ 306.2028
+# wrestler (voiced), case 2
+JP 今日も大勝利ーッ！
+EN Another big win today!
+
+@ 306.2038
+# wrestler (voiced), case 0
+JP 能力差を考えれば
+JP 当然の結果だろう！
+EN Given the gap in ability,
+EN it was a natural result!
+
+@ 306.2047
+# wrestler (voiced), case 1
+JP パワーの差が大きかったようだな！
+EN The power gap was too big,
+EN it seems!
+
+@ 306.2056
+# wrestler (voiced), case 2
+JP 任務は完璧にこなす。
+JP それが私の信条だ。
+EN I carry out every mission perfectly.
+EN That is my creed.
+
+@ 306.2066
+# wrestler (voiced), case 0
+JP 私の勝ち……。
+EN I win......
+
+@ 306.2075
+# wrestler (voiced), case 1
+JP 良かった……。
+EN Thank goodness......
+
+@ 306.2084
+# wrestler (voiced), case 2
+JP 運命を感じる……。
+EN I sense destiny......
+
+@ 306.2094
+# wrestler (voiced), case 0
+JP フゥ…。
+JP いい試合ができたかな。
+EN Phew...
+EN I think that was a good match.
+
+@ 306.2103
+# wrestler (voiced), case 1
+JP もっと練習して
+JP 強くならなくちゃ…。
+EN I need to practice more
+EN and get stronger...
+
+@ 306.2112
+# wrestler (voiced), case 2
+JP ウフフッ！
+JP ナイスファイトでした。
+EN Ufufu!
+EN That was a nice fight.
+
+@ 306.2122
+# wrestler (voiced), case 0
+JP 光、完全燃焼ですッ！
+EN Hikaru burned all-out!
+
+@ 306.2131
+# wrestler (voiced), case 1
+JP もっと練習して強くならないと！
+EN I need to practice more and
+EN get stronger!
+
+@ 306.2140
+# wrestler (voiced), case 2
+JP 楽しかったです。
+JP また戦いましょうね！
+EN That was fun.
+EN Let's fight again!
+
+@ 306.2150
+# wrestler (voiced), case 0
+JP ほーほっほっほっほ。
+JP わたくしの完全勝利ですわ。
+EN Oh-ho-ho-ho-ho.
+EN A total victory for me.
+
+@ 306.2159
+# wrestler (voiced), case 1
+JP もう少し練習した方が
+JP よろしくてよ。
+EN You'd do well to practice
+EN a little more.
+
+@ 306.2168
+# wrestler (voiced), case 2
+JP わたくしと対戦したのが
+JP 不運でしたわね。
+EN It was your misfortune to face me.
+
+@ 306.2178
+# wrestler (voiced), case 0
+JP フフフッ！
+JP わたしの勝ちですね。
+EN Fufufu!
+EN I win.
+
+@ 306.2187
+# wrestler (voiced), case 1
+JP あなた、なかなか見所がありますね。
+EN You show real promise.
+
+@ 306.2196
+# wrestler (voiced), case 2
+JP また戦いましょうね。
+EN Let's fight again.
+
+@ 306.2206
+# wrestler (voiced), case 0
+JP 今日はボクの勝ちだね！
+EN Today, I win!
+
+@ 306.2224
+# wrestler (voiced), case 2
+JP リベンジはいつでも待ってるよ！
+EN I'm ready for a rematch anytime!
+
+@ 306.2234
+# wrestler (voiced), case 0
+JP やっぱアタシってば最強ッ！
+EN I really am the strongest!
+
+@ 306.2243
+# wrestler (voiced), case 1
+JP ちょっとあぶなかったけど
+JP アタシの方が強かったって
+JP ことだね！
+EN That was a little close, but it
+EN means I was stronger!
+
+@ 306.2252
+# wrestler (voiced), case 2
+JP しょっぱい、しょっぱい！
+JP しょっぱーいッ！
+JP アンタしょっぱいよ！
+EN Weak, weak!
+EN Weeeak!
+EN You're so weak!
+
+@ 306.2262
+# wrestler (voiced), case 0
+JP アナタとは覚悟の量が違うわ。
+EN My resolve runs deeper than yours.
+
+@ 306.2271
+# wrestler (voiced), case 1
+JP いい試合だったわ。
+JP また、やりましょう！
+EN That was a good match.
+EN Let's do it again!
+
+@ 306.2280
+# wrestler (voiced), case 2
+JP もっと腕を上げないと
+JP アナタほされるわよ…。
+EN Improve your skills or you'll
+EN end up out of work...
+
+@ 306.2290
+# wrestler (voiced), case 0
+JP やったねー！
+JP 今日も完全勝利！
+EN Yay!
+EN Another total victory today!
+
+@ 306.2299
+# wrestler (voiced), case 1
+JP みんな応援ありがとう！
+EN Thanks for cheering, everyone!
+
+@ 306.2308
+# wrestler (voiced), case 2
+JP 技も動きもバッチリオッケー！
+EN My moves were spot on, all A-okay!
+
+@ 306.2318
+# wrestler (voiced), case 0
+JP ビクトリー！
+JP イェー！
+EN Victory!
+EN Yeah!
+
+@ 306.2327
+# wrestler (voiced), case 1
+JP やったー！
+JP 大勝利―ッ！
+EN Yaaay!
+EN Big win!
+
+@ 306.2346
+# wrestler (voiced), case 0
+JP ふあはっはっは！
+JP 弱すぎんだよッ！
+EN Fwahahaha!
+EN You're way too weak!
+
+@ 306.2355
+# wrestler (voiced), case 1
+JP 準備運動にも
+JP ならねーってんだよ！
+EN That ain't even a warm-up!
+
+@ 306.2364
+# wrestler (voiced), case 2
+JP もっと強いやつはいねーのか？
+EN Ain't there anybody stronger?
+
+@ 306.3830
+# wrestler (voiced), case 0, used 2x
+JP 話にならなかったねぇ！
+EN That wasn't even close!
+
+@ 306.3839
+# wrestler (voiced), case 1, used 2x
+JP もっと練習してきなさーい！
+EN Go practice some more, darling!
+
+@ 306.3848
+# wrestler (voiced), case 2, used 2x
+JP いい試合だったよぅ！
+EN That was a good match!
+
+@ 306.3858
+# wrestler (voiced), case 0, used 2x
+JP やったー！
+JP ボクの勝ちだよ！
+EN Yaaay!
+EN I win!
+
+@ 306.3867
+# wrestler (voiced), case 1, used 2x
+JP みんな応援アリガトー！
+EN Thank you for cheering, everyone!
+
+@ 306.3876
+# wrestler (voiced), case 2, used 2x
+JP ボクって強かったんだ！
+EN Wow, I'm actually strong!
+
+@ 306.3886
+# wrestler (voiced), case 0, used 2x
+JP この勝負いただきましたよ！
+EN This match is mine!
+
+@ 306.3895
+# wrestler (voiced), case 1, used 2x
+JP あなた、まだまだひよっこね！
+EN You're still just a fledgling!
+
+@ 306.3904
+# wrestler (voiced), case 2, used 2x
+JP 今回は私の勝ちね！
+EN This time, I win!
+
+@ 306.3914
+# wrestler (voiced), case 0, used 2x
+JP 獣の暴走は止められない！
+EN The rampage of the beast
+EN cannot be stopped!
+
+@ 306.3923
+# wrestler (voiced), case 1, used 2x
+JP この結果は
+JP 闘争本能の差が出ただけさ！
+EN This result just shows
+EN the gap in fighting instinct!
+
+@ 306.3932
+# wrestler (voiced), case 2, used 2x
+JP もっと骨がきしむ音を
+JP 聞かせてくれ！
+EN Let me hear more bones creak!
+
+@ 306.3942
+# wrestler (voiced), case 0, used 2x
+JP 思い知ったか！
+JP 獣の力を！
+EN Now do you understand?
+EN The power of the beast!
+
+@ 306.3951
+# wrestler (voiced), case 1, used 2x
+JP 我々を繋ぎとめる鎖はない！
+EN No chain can hold us!
+
+@ 306.3960
+# wrestler (voiced), case 2, used 2x
+JP 闘争本能の差が大きかったな！
+EN The gap in fighting instinct
+EN was huge!
+
+@ 306.3970
+# wrestler (voiced), case 0, used 2x
+JP 威風凛凛ッ！
+JP それがワタシのクォリティ！
+EN Majestic and dignified!
+EN That's my quality!
+
+@ 306.3979
+# wrestler (voiced), case 1, used 2x
+JP 完全無欠ッ！
+JP それがワタシのスタンダード！
+EN Flawless and perfect!
+EN That's my standard!
+
+@ 306.3988
+# wrestler (voiced), case 2, used 2x
+JP 横行覇道の何が悪い？
+EN Rampant tyranny!
+EN What's wrong with that?
+
+@ 306.3998
+# wrestler (voiced), case 0, used 2x
+JP この戦いは
+JP あなたに至高の感銘を
+JP 残すでしょう。
+EN This bout will leave you
+EN supremely moved.
+
+@ 306.4007
+# wrestler (voiced), case 1, used 2x
+JP お嬢様…。
+JP わたしの技は誰にも負けません！
+EN My lady...
+EN My technique is second to none!
+
+@ 306.4016
+# wrestler (voiced), case 2, used 2x
+JP わたしが技の１号よ！
+EN No. 1, master of technique -
+EN that's me!
+
+@ 306.4026
+# wrestler (voiced), case 0, used 2x
+JP どう？
+JP 究極に美しかった？
+EN Well?
+EN Was I the ultimate in beauty?
+
+@ 306.4035
+# wrestler (voiced), case 1, used 2x
+JP お嬢様…。
+JP わたしの力見てもらえました？
+EN My lady...
+EN Did you see my power?
+
+@ 306.4044
+# wrestler (voiced), case 2, used 2x
+JP わたしが力の２号よ！
+EN No. 2, master of power -
+EN that's me!
+
+@ 306.4054
+# wrestler (voiced), case 0, used 2x
+JP 完璧…。
+JP まさしく私のことね。
+EN Perfection...
+EN That describes me exactly.
+
+@ 306.4063
+# wrestler (voiced), case 1, used 2x
+JP …あらら？
+JP 起きられます？
+EN ...Oh my?
+EN Can you get up?
+
+@ 306.4072
+# wrestler (voiced), case 2, used 2x
+JP はぁあ～。
+JP いい気分ねぇ！
+JP 敗者を見下ろすのって。
+EN Haaah.
+EN What a lovely feeling!
+EN Looking down at the loser.
+
+@ 306.4082
+# wrestler (voiced), case 0, used 2x
+JP ナイスファイト！
+JP いい試合だったわ！
+EN Nice fight!
+EN That was a good match!
+
+@ 306.4091
+# wrestler (voiced), case 1, used 2x
+JP ウフフッ！
+JP ウォーミングアップレベルね！
+EN Ufufu!
+EN That was warm-up level!
+
+@ 306.4100
+# wrestler (voiced), case 2, used 2x
+JP 今回は私の勝ちです！
+EN This time, I win!
+
+@ 306.4110
+# wrestler (voiced), case 0, used 2x
+JP あなた…。
+JP 実に綺麗に咲き
+JP そして散りましたわ。
+EN You...
+EN bloomed so beautifully,
+EN and then fell.
+
+@ 306.4119
+# wrestler (voiced), case 1, used 2x
+JP ワタクシこそ最高…。
+JP そして最強の存在！
+EN I am the finest...
+EN and the strongest of all!
+
+@ 306.4128
+# wrestler (voiced), case 2, used 2x
+JP 有名な言葉でしょう？
+JP 「美しいバラにはトゲがある」
+EN You know the famous saying?
+EN "Every rose has its thorn."
+
+@ 306.4138
+# wrestler (voiced), case 0, used 2x
+JP やったー！
+JP ワタシの勝ちー！
+EN Yaaay!
+EN I win!
+
+@ 306.4147
+# wrestler (voiced), case 1, used 2x
+JP 勝利の笑顔で、ぴ～～すッ！
+EN A victory smile and a peeeace sign!
+
+@ 306.4156
+# wrestler (voiced), case 2, used 2x
+JP ああ、怖かった～！
+JP あれ…？
+JP なんで勝てたんだろ？
+EN Aah, that was scary!
+EN Huh...?
+EN How did I win?
+
+@ 306.4166
+# wrestler (voiced), case 0, used 2x
+JP キャッホー！
+JP あたし勝ったのね！
+EN Woo-hoo!
+EN I won!
+
+@ 306.4175
+# wrestler (voiced), case 1, used 4x
+JP いい試合だったよ！
+EN That was a good match!
+
+@ 306.4184
+# wrestler (voiced), case 2, used 2x
+JP あなたとはライバルになれそうね！
+EN Looks like you and I could be
+EN rivals!
+
+@ 306.4194
+# wrestler (voiced), case 0, used 2x
+JP 百年たったらまた来いよ！
+EN Come back in a hundred years!
+
+@ 306.4203
+# wrestler (voiced), case 1, used 2x
+JP 悪の華がまた咲き乱れた…。
+EN The flower of evil blooms again...
+
+@ 306.4212
+# wrestler (voiced), case 2, used 2x
+JP 我が闘争に終わりなしッ！
+EN My struggle never ends!
+
+@ 306.4222
+# wrestler (voiced), case 0, used 2x
+JP 負ける予感はしなかったわ。
+EN I never felt like I'd lose.
+
+@ 306.4231
+# wrestler (voiced), case 1, used 2x
+JP これはすべて計算されていたこと。
+EN All of this was calculated.
+
+@ 306.4240
+# wrestler (voiced), case 2, used 2x
+JP 軽く相手してやっただけよ…。
+EN I just went easy on you...
+
+@ 306.4250
+# wrestler (voiced), case 0, used 2x
+JP 私と対等に戦える者はいないの？
+EN Is there no one who can fight me
+EN as an equal?
+
+@ 306.4259
+# wrestler (voiced), case 1, used 2x
+JP 私に挑戦するのは早すぎたようね…。
+EN It seems you challenged me
+EN too soon...
+
+@ 306.4268
+# wrestler (voiced), case 2, used 2x
+JP 敗北者よ…。
+JP 勝者にひざまずきなさい！
+EN Loser...
+EN Kneel before the victor!
+
+@ 306.4278
+# wrestler (voiced), case 0, used 2x
+JP アナタ、イイ感じね！
+JP 私と組んでみない？
+EN You're pretty good!
+EN Want to team up with me?
+
+@ 306.4287
+# wrestler (voiced), case 1, used 2x
+JP イエスッ！
+JP 勝利の女神が微笑んだわ！
+EN Yes!
+EN Lady Luck smiled on me!
+
+@ 306.4296
+# wrestler (voiced), case 2, used 2x
+JP 我ながらナイスファイトです！
+EN If I do say so myself,
+EN nice fight!
+
+@ 306.4306
+# wrestler (voiced), case 0, used 2x
+JP 見かけ倒しだな！
+JP 中身もしっかり磨いておけ！
+EN You're all show!
+EN Work on what's inside, too!
+
+@ 306.4315
+# wrestler (voiced), case 1, used 2x
+JP 当然の結果だな。
+EN Exactly as it should be.
+
+@ 306.4324
+# wrestler (voiced), case 2, used 2x
+JP 準備運動にもならなかったな！
+EN That wasn't even a warm-up!
+
+@ 306.4334
+# wrestler (voiced), case 0, used 2x
+JP あなたもなかなか強かったよ！
+EN You were pretty strong too!
+
+@ 306.4352
+# wrestler (voiced), case 2, used 2x
+JP 今のがあなたの全力だったのかな？
+EN Was that really your best?
+
+@ 306.4362
+# wrestler (voiced), case 0, used 2x
+JP まだまだ実力不足だな…。
+EN You're still not good enough...
+
+@ 306.4371
+# wrestler (voiced), case 1, used 2x
+JP 片手で充分だったな…。
+EN One hand was plenty...
+
+@ 306.4380
+# wrestler (voiced), case 2, used 12x
+JP フフフフフ…。
+EN Heh heh heh heh...
+
+@ 306.4390
+# wrestler (voiced), case 0, used 2x
+JP フフッ…。
+JP まぁ、楽勝よね！
+EN Heh...
+EN Well, that was easy!
+
+@ 306.4399
+# wrestler (voiced), case 1, used 2x
+JP よしッ！
+JP わたしの勝ちね！
+EN All right!
+EN I win!
+
+@ 306.4408
+# wrestler (voiced), case 2, used 2x
+JP ナイスファイトだったよ！
+EN That was a nice fight!
+
+@ 306.4418
+# wrestler (voiced), case 0, used 2x
+JP 仮面の貴婦人の実力
+JP わかっていただけたかしら？
+EN Do you understand the power of
+EN the Masked Lady now?
+
+@ 306.4427
+# wrestler (voiced), case 1, used 2x
+JP もう少し練習してくるのね！
+EN Go practice a little more!
+
+@ 306.4436
+# wrestler (voiced), case 2, used 2x
+JP 私に挑戦するのは早すぎたようね。
+EN It seems you challenged me
+EN too soon.
+
+@ 306.4446
+# wrestler (voiced), case 0, used 2x
+JP まだ殴りたりないねぇ。
+EN I ain't done punchin' yet.
+
+@ 306.4455
+# wrestler (voiced), case 1, used 2x
+JP あたしの蹴りでのされたい奴は
+JP 出てきなッ！
+EN Anyone who wants to get flattened
+EN by my kicks, step up!
+
+@ 306.4464
+# wrestler (voiced), case 2, used 2x
+JP 暇つぶしにもならないねぇ。
+EN That wasn't even worth my time.
+
+@ 306.4474
+# wrestler (voiced), case 0, used 2x
+JP 少しはやるじゃない？
+EN You're not half bad, are you?
+
+@ 306.4483
+# wrestler (voiced), case 1, used 2x
+JP ワタシに勝とうなんて
+JP まだまだ早かったわね！
+EN Thinking you could beat me?
+EN Way too soon!
+
+@ 306.4492
+# wrestler (voiced), case 2, used 2x
+JP スピード勝負なら負けないって
+JP 言ったでしょ！
+EN I told you I don't lose
+EN when it comes to speed!
+
+@ 306.4502
+# wrestler (voiced), case 0, used 2x
+JP サンボの技
+JP 楽しんでもらえたかしら？
+EN Did you enjoy my sambo techniques?
+
+@ 306.4511
+# wrestler (voiced), case 1, used 2x
+JP フフ…。
+JP ゴメンなさいね？
+JP 壊れちゃったかしら？
+EN Heh...
+EN Sorry about that.
+EN Did I break you?
+
+@ 306.4520
+# wrestler (voiced), case 2, used 2x
+JP 計算通りと言ったところかしら？
+EN Right as calculated,
+EN wouldn't you say?
+
+@ 306.4530
+# wrestler (voiced), case 0, used 2x
+JP 次はもっと派手な試合を
+JP 期待してね！
+EN Look forward to an even flashier
+EN match next time!
+
+@ 306.4539
+# wrestler (voiced), case 1, used 2x
+JP 地味な試合は嫌いなの！
+EN I hate boring matches!
+
+@ 306.4548
+# wrestler (voiced), case 2, used 2x
+JP 華麗なるルチャ
+JP 堪能できたかしら？
+EN Did you savor my magnificent
+EN lucha libre?
+
+@ 306.4558
+# wrestler (voiced), case 0, used 2x
+JP やれやれ…。
+JP とんだ期待ハズレだ！
+EN Good grief...
+EN What a letdown!
+
+@ 306.4576
+# wrestler (voiced), case 2, used 2x
+JP やはり最後はパワーの差が出たな。
+EN As expected, raw power made
+EN the difference in the end.
+
+@ 306.4586
+# wrestler (voiced), case 0, used 2x
+JP 覚えとき！
+JP これがあたいのパワーやで！
+EN Remember this!
+EN That's my power, y'hear!
+
+@ 306.4595
+# wrestler (voiced), case 1, used 2x
+JP 肉食って体作り直して
+JP 出直して来いな！
+JP 待っとるで！
+EN Go eat some meat, rebuild your body,
+EN and come back!
+EN I'll be waitin'!
+
+@ 306.4604
+# wrestler (voiced), case 2, used 2x
+JP あはははは！
+JP 楽しかったで！
+EN Ahahahaha!
+EN That was fun!
+
+@ 306.4614
+# wrestler (voiced), case 0, used 2x
+JP まだまだヨユーだね！
+EN Still plenty left in the tank!
+
+@ 306.4623
+# wrestler (voiced), case 1, used 2x
+JP 勝利いただきー！
+EN Victory is mine!
+
+@ 306.4632
+# wrestler (voiced), case 2, used 2x
+JP イエイ！
+JP 勝利のポーズ！
+EN Yay!
+EN Victory pose!
+
+@ 306.4642
+# wrestler (voiced), case 0, used 2x
+JP 正義は勝利するものよ！
+EN Justice always wins!
+
+@ 306.4651
+# wrestler (voiced), case 1, used 2x
+JP もっと強い相手はいないのかしら？
+EN Isn't there anyone stronger?
+
+@ 306.4660
+# wrestler (voiced), case 2, used 2x
+JP あなたもなかなかやるわね。
+EN You're quite good yourself.
+
+@ 306.4670
+# wrestler (voiced), case 0, used 2x
+JP フッ…。
+JP 顔を洗って出直してこい！
+EN Heh...
+EN Wash your face and come back!
+
+@ 306.4679
+# wrestler (voiced), case 1, used 2x
+JP フッ…。
+JP まるで話にならなかったな！
+EN Heh...
+EN You were no match at all!
+
+@ 306.4688
+# wrestler (voiced), case 2, used 2x
+JP フッ…。
+JP まじめに練習してくるんだな！
+EN Heh...
+EN Go practice properly!
+
+@ 306.4698
+# wrestler (voiced), case 0, used 2x
+JP あ…ありがとうございました！
+EN Th-thank you very much!
+
+@ 306.4707
+# wrestler (voiced), case 1, used 2x
+JP ま、まぐれです…。
+JP でも良かった…。
+EN I-it was a fluke...
+EN But I'm glad...
+
+@ 306.4716
+# wrestler (voiced), case 2, used 2x
+JP 私…勝てましたー！
+EN I... I won!
+
+@ 306.4726
+# wrestler (voiced), case 0, used 2x
+JP やっぱりあたしの勝ちね！
+EN I win, of course!
+
+@ 306.4735
+# wrestler (voiced), case 1, used 2x
+JP アッハハハハ！
+JP まさしく敵なし～？
+EN Ahahahaha!
+EN Am I unbeatable or what?
+
+@ 306.4744
+# wrestler (voiced), case 2, used 2x
+JP 次の挑戦者は誰なの？
+EN Who's the next challenger?
+
+@ 306.4754
+# wrestler (voiced), case 0, used 2x
+JP 最強のカード
+JP その名前こそ「ジョーカー」。
+EN The strongest card...
+EN Its name is "Joker."
+
+@ 306.4763
+# wrestler (voiced), case 1, used 2x
+JP 道化だと思ったか？
+JP 見誤ったようだな。
+EN Did you take me for a clown?
+EN You misjudged me.
+
+@ 306.4772
+# wrestler (voiced), case 2, used 2x
+JP この勝利
+JP ポーカーならファイブカードと
+JP 言ったところか。
+EN In poker terms, this victory
+EN would be a five of a kind.
+
+@ 306.4782
+# wrestler (voiced), case 0, used 2x
+JP その程度で私に勝とうなんて
+JP 甘いわね。
+EN Thinking you could beat me
+EN with that? How naive.
+
+@ 306.4791
+# wrestler (voiced), case 1, used 2x
+JP フンッ！
+JP こんな試合勝って当然よ！
+EN Hmph!
+EN Of course I won a match like this!
+
+@ 306.4800
+# wrestler (voiced), case 2, used 2x
+JP 余裕の勝利ってやつね！
+EN An easy victory, that's what
+EN this was!
+
+@ 306.4810
+# wrestler (voiced), case 0, used 2x
+JP フフフッ…。
+JP 今回は私の勝ちですね！
+EN Fufufu...
+EN This time, I win!
+
+@ 306.4819
+# wrestler (voiced), case 1, used 2x
+JP フゥ～…。
+JP ナイスファイトでした！
+EN Phew...
+EN That was a nice fight!
+
+@ 306.4828
+# wrestler (voiced), case 2, used 2x
+JP あなたとの試合楽しかったです！
+EN That match with you was fun!
+
+@ 306.4838
+# wrestler (voiced), case 0, used 2x
+JP エッヘヘッ！
+JP 大勝利ー！
+EN Ehehe!
+EN Big win!
+
+@ 306.4847
+# wrestler (voiced), case 1, used 2x
+JP やったーッ！
+EN Yaaay!
+
+@ 306.4856
+# wrestler (voiced), case 2, used 2x
+JP いい試合だったね！
+EN That was a good match!
+
+@ 306.4866
+# wrestler (voiced), case 0, used 2x
+JP すまない…。
+JP 思ったより熱くなりすぎた。
+EN Sorry...
+EN I got more fired up than I meant to.
+
+@ 306.4875
+# wrestler (voiced), case 1, used 2x
+JP この試合
+JP 想像以上でも
+JP 想像以下でもなかったよ。
+EN This match was neither more
+EN nor less than I imagined.
+
+@ 306.4884
+# wrestler (voiced), case 2, used 2x
+JP 敗者は去るがいい。
+EN The loser should leave.
+
+@ 306.4894
+# wrestler (voiced), case 0, used 2x
+JP まだまだだな…。
+EN Not good enough yet...
+
+@ 306.4903
+# wrestler (voiced), case 1, used 2x
+JP フンッ…。
+JP こんなものか…。
+EN Hmph...
+EN Is that all...
+
+@ 306.4912
+# wrestler (voiced), case 2, used 2x
+JP 相手にならなかったな。
+EN You were no match for me.
+
+@ 306.4922
+# wrestler (voiced), case 0, used 2x
+JP フッ…。
+JP 本当に弱いわね！
+EN Heh...
+EN You're really weak!
+
+@ 306.4931
+# wrestler (voiced), case 1, used 2x
+JP まあ、こんなものね…。
+EN Well, that's about it...
+
+@ 306.4940
+# wrestler (voiced), case 2, used 2x
+JP 暇つぶしにもならないわ。
+EN That wasn't even worth my time.
+
+@ 306.4950
+# wrestler (voiced), case 0, used 2x
+JP こう見えても
+JP 遊びじゃないのだよ？
+EN I may not look it,
+EN but I'm not playing around.
+
+@ 306.4959
+# wrestler (voiced), case 1, used 2x
+JP あんまり強くなかったね、キミ？
+EN You weren't very strong, were you?
+
+@ 306.4968
+# wrestler (voiced), case 2, used 2x
+JP キミにも素質はあったと思うよ。
+JP うんッ！
+EN I think you had talent too.
+EN Yep!
+
+@ 306.4978
+# wrestler (voiced), case 0, used 2x
+JP ブラジルが強いのは
+JP サッカーだけじゃないんだよ！
+EN Brazil ain't just strong at soccer,
+EN y'know!
+
+@ 306.4987
+# wrestler (voiced), case 1, used 2x
+JP もっと鍛えて出直して来な！
+EN Train harder and come back!
+
+@ 306.4996
+# wrestler (voiced), case 2, used 2x
+JP くぅ～！
+JP やっぱりバトルはたまんねえぜ！
+EN Kuuh!
+EN Nothing beats a good brawl!
+
+@ 306.5006
+# wrestler (voiced), case 0, used 2x
+JP アハッ！
+JP やったー！
+EN Aha!
+EN Yaaay!
+
+@ 306.5015
+# wrestler (voiced), case 1, used 2x
+JP 楽勝、楽勝ーッ！
+EN Easy win, easy win!

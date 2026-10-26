@@ -1,0 +1,103 @@
+# Event script entry 077 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 077.88
+# wrestler (voiced), case 0, used 2x
+JP 社長ー！
+JP きーたーよッ♪
+EN Boss! I'm he-ere♪
+
+@ 077.102
+# wrestler (voiced), case 0, used 2x
+JP うん、来たッ！
+JP ごようじ？
+EN Yup, I came! Whatcha need?
+
+@ 077.108
+# President, case 0, used 2x
+JP ああ…。
+JP 実はお前に写真集のオファーが
+JP 来てな…。
+EN Yeah... Actually, there's an offer
+EN for a photo book of you...
+
+@ 077.130
+# wrestler (voiced), case 0, used 2x
+JP …フ～ン……？
+EN ...Hmmm...?
+
+@ 077.136
+# President, case 0, used 6x
+JP どうかな？
+EN What do you think?
+
+@ 077.144
+# wrestler (voiced), case 0, used 4x
+JP …ン～……。
+EN ...Mmm...
+
+@ 077.150
+# President, case 0, used 2x
+JP あー、どうした？
+EN Uh, what's wrong?
+
+@ 077.158
+# wrestler (voiced), case 0, used 2x
+JP …写真集……？
+EN ...Photo book...?
+
+@ 077.164
+# President, case 0, used 2x
+JP ああ、写真集なんだが…。
+EN Yeah, it's a photo book, but...
+
+@ 077.178
+# President, case 0, used 2x
+JP （おーい…。）
+EN (Hello...?)
+
+@ 077.271
+# President, case 0, used 2x
+JP ほら、かわいく撮れてるぞ？
+EN Look, these came out cute, see?
+
+@ 077.280
+# wrestler (voiced), case 0, used 2x
+JP わ～い♪
+EN Yaaay♪
+
+@ 077.286
+# President, case 0, used 2x
+JP 楽しかったか？
+EN Did you have fun?
+
+@ 077.294
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP いっぱいかわいい服着れたし。
+JP 社長、ありがと♪
+EN Yup! I got to wear lots of cute
+EN clothes. Thanks, Boss♪
+
+@ 077.300
+# President, case 0, used 2x
+JP どういたしまして。
+EN You're welcome.
+
+@ 077.303
+# President, case 0, used 2x
+JP （礼を言うのはこっちなんだが…。）
+EN (I should be the one thanking
+EN her...)
+
+@ 077.311
+# wrestler (voiced), case 0, used 2x
+JP また写真集やりたいな～。
+EN I wanna do another photo book!

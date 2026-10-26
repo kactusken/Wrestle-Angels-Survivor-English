@@ -1,0 +1,12 @@
+{
+ "english": "HOSPITAL",
+ "boxes": [[312, 20, 58, 9]],
+ "draw": "photos.draw",
+ "font": "BarlowCondensed-SemiBold.ttf",
+ "cap": 7,
+ "tracking": 2.6,
+ "colour": [168, 166, 168],
+ "paint": [{"rect": [311, 19, 60, 9], "from": [320, 19]}, {"rect": [354, 28, 17, 1], "from": [320, 19]}, {"rect": [366, 29, 5, 1], "from": [320, 19]}, {"rect": [346, 28, 8, 1], "from": [340, 28]}],
+ "notes": "hospital-discharge event banner: the roof sign 県立総合病院 (prefectural general hospital), 6 px high; sign repainted flat, 'HOSPITAL' (GENERAL HOSPITAL would not be legible at this size) (tools/letter_ext/photos.py)",
+ "catalogue": {"source": "/A000/A00E. (pieces, part 24)", "width": 512, "height": 128, "bpp": 8, "category": "banner", "japanese": "県立総合病院"}
+}

@@ -1,0 +1,1757 @@
+# Event script entry 318 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 318.9527
+# wrestler (voiced), case 0, used 2x
+JP いきますよ～！
+JP 覚悟はいいですか～？
+EN Here I come~!
+EN Are you ready~?
+
+@ 318.9530
+# wrestler (voiced), case 1, used 2x
+JP そろそろ決めちゃいます！
+EN Time to finish this!
+
+@ 318.9533
+# wrestler (voiced), case 2, used 4x
+JP これで決まりです～！
+EN This settles it~!
+
+@ 318.9537
+# wrestler (voiced), case 0, used 2x
+JP ちょー必殺技いっくよー！
+EN Here comes my super finisher!
+
+@ 318.9540
+# wrestler (voiced), case 1, used 2x
+JP あたしの必殺技受けても
+JP 立っていられる？
+EN Can you take my finisher
+EN and stay standing?
+
+@ 318.9543
+# wrestler (voiced), case 2, used 2x
+JP 全国1,000万のファンのみなさん！
+JP お待たせしましたーッ！
+EN To my 10 million fans nationwide!
+EN Sorry to keep you waiting!
+
+@ 318.9547
+# wrestler (voiced), case 0, used 2x
+JP 言い残すことはないかッ！
+EN Any last words?!
+
+@ 318.9550
+# wrestler (voiced), case 1, used 2x
+JP これで終わりにしてやろう！
+EN I'll end it with this!
+
+@ 318.9553
+# wrestler (voiced), case 2, used 2x
+JP 覚悟はいいか？
+EN Are you ready?
+
+@ 318.9557
+# wrestler (voiced), case 0, used 2x
+JP 関節の悲鳴を聞きなさい！
+EN Listen to your joints scream!
+
+@ 318.9560
+# wrestler (voiced), case 1, used 2x
+JP これで決めますッ！
+EN This finishes it!
+
+@ 318.9563
+# wrestler (voiced), case 2, used 2x
+JP もう逃げられないわよ！
+EN You can't escape now!
+
+@ 318.9567
+# wrestler (voiced), case 0, used 2x
+JP みんな、お待たせーッ！
+EN Sorry to keep you waiting, everyone!
+
+@ 318.9570
+# wrestler (voiced), case 1, used 2x
+JP すっごいのいくよ！
+EN Here comes something amazing!
+
+@ 318.9573
+# wrestler (voiced), case 2, used 2x
+JP これで決めちゃうからッ！
+EN I'm finishing it with this!
+
+@ 318.9577
+# wrestler (voiced), case 0, used 2x
+JP マットに沈めてやる！
+EN I'll put you down on the mat!
+
+@ 318.9580
+# wrestler (voiced), case 1, used 2x
+JP カミソリと呼ばれる
+JP 必殺の一撃受けてみろッ！
+EN Take the killer blow
+EN they call the Razor!
+
+@ 318.9583
+# wrestler (voiced), case 2, used 2x
+JP はぁぁーッ！
+JP これで終わりだ！
+EN Haaaah!
+EN This is the end!
+
+@ 318.9587
+# wrestler (voiced), case 0, used 4x
+JP これで終わりッ！
+EN It's over!
+
+@ 318.9590
+# wrestler (voiced), case 1, used 2x
+JP この技で勝負をかける！
+EN I'm betting it all on this move!
+
+@ 318.9593
+# wrestler (voiced), case 2, used 2x
+JP あたしが勝つんだから！
+EN I'm the one who's gonna win!
+
+@ 318.9597
+# wrestler (voiced), case 0, used 2x
+JP 必殺技いっきまーす！
+EN Finisher, coming up!
+
+@ 318.9600
+# wrestler (voiced), case 1, used 2x
+JP もしかして今日は勝っちゃうかも？
+EN Maybe I'll actually win today?
+
+@ 318.9603
+# wrestler (voiced), case 2, used 2x
+JP エッヘへ！
+JP 今度はあたしの番だよー！
+EN Ehehe!
+EN Now it's my turn!
+
+@ 318.9607
+# wrestler (voiced), case 0, used 2x
+JP すごいのいきまーすッ！
+EN Here comes something amazing!
+
+@ 318.9610
+# wrestler (voiced), case 1, used 2x
+JP 本日の特別サービスでーす！
+EN Today's special, on the house!
+
+@ 318.9613
+# wrestler (voiced), case 2, used 2x
+JP 必殺技お待たせしましたーッ！
+EN Here's the finisher you've
+EN been waiting for!
+
+@ 318.9617
+# wrestler (voiced), case 0, used 2x
+JP 勝負ッ！
+EN Let's go!
+
+@ 318.9620
+# wrestler (voiced), case 1, used 2x
+JP 一気に決める！
+EN I'll end it in one go!
+
+@ 318.9623
+# wrestler (voiced), case 2, used 2x
+JP この一撃にすべてをかけるッ！
+EN I'm staking everything on this blow!
+
+@ 318.9627
+# wrestler (voiced), case 0, used 2x
+JP いくぞ！
+JP フィニッシュはコレだッ！
+EN Here I come!
+EN This is the finish!
+
+@ 318.9630
+# wrestler (voiced), case 1, used 2x
+JP そろそろ派手に決めようか！
+EN Time to finish it with a bang!
+
+@ 318.9633
+# wrestler (voiced), case 2, used 4x
+JP これでトドメだッ！
+EN This is the final blow!
+
+@ 318.9637
+# wrestler (voiced), case 0, used 4x
+JP これでもくらえーッ！
+EN Take this!
+
+@ 318.9640
+# wrestler (voiced), case 1, used 2x
+JP みんないっくよーッ！
+EN Here we go, everybody!
+
+@ 318.9643
+# wrestler (voiced), case 2, used 2x
+JP チャンスがきたにゃーん！
+EN My chance is here, nyaaa!
+
+@ 318.9647
+# wrestler (voiced), case 0, used 2x
+JP さぁ、いいとこ見せちゃうわよー！
+EN Now, let me show you my best!
+
+@ 318.9650
+# wrestler (voiced), case 1, used 4x
+JP とっておき出すわよーッ！
+EN Here comes my secret weapon!
+
+@ 318.9653
+# wrestler (voiced), case 2, used 2x
+JP これで私の勝ちね！
+EN This means I win!
+
+@ 318.9657
+# wrestler (voiced), case 0, used 2x
+JP これで終わりです！
+EN This is the end!
+
+@ 318.9660
+# wrestler (voiced), case 1, used 2x
+JP この技を受けても
+JP 立っていられるかしら？
+EN Can you take this move
+EN and stay standing?
+
+@ 318.9663
+# wrestler (voiced), case 2, used 2x
+JP いつものやつ！
+JP いきます！
+EN The usual!
+EN Here I go!
+
+@ 318.9667
+# wrestler (voiced), case 0, used 2x
+JP マットにひれ伏しなさいッ！
+EN Grovel on the mat!
+
+@ 318.9670
+# wrestler (voiced), case 1, used 2x
+JP 私にひざまづきなさい！
+EN Kneel before me!
+
+@ 318.9673
+# wrestler (voiced), case 2, used 2x
+JP この私相手によくここまでたえたと
+JP 褒めて差し上げますわ！
+EN I'll praise you for lasting
+EN this long against me!
+
+@ 318.9677
+# wrestler (voiced), case 0, used 2x
+JP アイドルだって強いんだから！
+EN Idols can be strong too!
+
+@ 318.9680
+# wrestler (voiced), case 1, used 2x
+JP これできめるわよーッ！
+EN This one finishes it!
+
+@ 318.9683
+# wrestler (voiced), case 2, used 2x
+JP 華麗に舞うわよッ！
+EN Time to dance gracefully!
+
+@ 318.9687
+# wrestler (voiced), case 0, used 2x
+JP これで決めるッ！
+EN This finishes it!
+
+@ 318.9690
+# wrestler (voiced), case 1, used 2x
+JP この技で勝負ッ！
+EN It all comes down to this move!
+
+@ 318.9693
+# wrestler (voiced), case 2, used 2x
+JP かわいそうだけど
+JP これで終わりッ！
+EN Too bad for you, but this is the
+EN end!
+
+@ 318.9700
+# wrestler (voiced), case 1, used 2x
+JP 気持ちよく眠らせてやるぜーッ！
+EN I'll put you to sleep real nice!
+
+@ 318.9703
+# wrestler (voiced), case 2, used 2x
+JP ウオオーーーーッ！
+EN Raaaaargh!
+
+@ 318.9707
+# wrestler (voiced), case 0, used 2x
+JP はぁぁー、いっくよーッ！
+EN Haaah, here I go!
+
+@ 318.9710
+# wrestler (voiced), case 1, used 2x
+JP この技にすべてをかける！
+EN I'm betting it all on this move!
+
+@ 318.9713
+# wrestler (voiced), case 2, used 2x
+JP 心も体も全部熱くってたまらないの！
+EN My heart and body are burning up!
+
+@ 318.9717
+# wrestler (voiced), case 0, used 2x
+JP これでお終いね！
+EN This is the end for you!
+
+@ 318.9720
+# wrestler (voiced), case 1, used 2x
+JP この技でマットに眠りなさい！
+EN Sleep on the mat with this move!
+
+@ 318.9723
+# wrestler (voiced), case 2, used 2x
+JP この技にたえられるかしら？
+EN Can you endure this move?
+
+@ 318.9727
+# wrestler (voiced), case 0, used 4x
+JP これで決めます！
+EN This finishes it!
+
+@ 318.9730
+# wrestler (voiced), case 1, used 2x
+JP これでお終いですッ！
+EN This is the end!
+
+@ 318.9733
+# wrestler (voiced), case 2, used 4x
+JP 悪く思わないでね？
+EN No hard feelings, okay?
+
+@ 318.9737
+# wrestler (voiced), case 0, used 2x
+JP これでフィニッシュよ！
+EN This is the finish!
+
+@ 318.9740
+# wrestler (voiced), case 1, used 2x
+JP この技を受けて立っていられる？
+EN Can you take this and stay standing?
+
+@ 318.9747
+# wrestler (voiced), case 0, used 2x
+JP これがとっておきよ～！
+EN Here's my secret weapon~!
+
+@ 318.9750
+# wrestler (voiced), case 1, used 2x
+JP すごいのいくよ～ッ！
+EN Here comes something amazing~!
+
+@ 318.9753
+# wrestler (voiced), case 2, used 2x
+JP そろそろステージ下りて
+JP もらうわよ！
+EN Time for you to
+EN leave the stage!
+
+@ 318.9757
+# wrestler (voiced), case 0, used 2x
+JP すごいのいきますッ！
+EN Here comes something amazing!
+
+@ 318.9760
+# wrestler (voiced), case 1, used 2x
+JP これで決めちゃいますッ！
+EN I'm finishing it with this!
+
+@ 318.9763
+# wrestler (voiced), case 2, used 2x
+JP みんな盛り上がってますか？
+EN Are you all fired up?
+
+@ 318.9767
+# wrestler (voiced), case 0, used 2x
+JP うぉらーーッ！
+JP パワー全開！！
+EN Raaagh!
+EN Full power!!
+
+@ 318.9770
+# wrestler (voiced), case 1, used 2x
+JP お前はもう終わってんだよ！
+EN You're already finished!
+
+@ 318.9773
+# wrestler (voiced), case 2, used 2x
+JP しっかり受け身とらないと
+JP 大ケガするぜ！
+EN Better take a good bump,
+EN or you'll get hurt bad!
+
+@ 318.9777
+# wrestler (voiced), case 0, used 2x
+JP みんな、いっくよーッ！
+EN Here we go, everybody!
+
+@ 318.9780
+# wrestler (voiced), case 1, used 2x
+JP すっごいの出しちゃうから！
+EN I'm busting out something amazing!
+
+@ 318.9783
+# wrestler (voiced), case 2, used 2x
+JP これで決めちゃうんだから！
+EN I'm gonna finish it with this!
+
+@ 318.9787
+# wrestler (voiced), case 0, used 2x
+JP 潔く散りなさいッ！
+EN Fall gracefully!
+
+@ 318.9790
+# wrestler (voiced), case 1, used 2x
+JP さぁ、マットに口づけなさい！
+EN Now, kiss the mat!
+
+@ 318.9793
+# wrestler (voiced), case 2, used 2x
+JP しつこいと嫌われますわよ！
+EN Persistence is unbecoming, you know!
+
+@ 318.9797
+# wrestler (voiced), case 0, used 2x
+JP 最後だッ！
+EN This is it!
+
+@ 318.9800
+# wrestler (voiced), case 1, used 2x
+JP これにたえられるか？
+EN Can you endure this?
+
+@ 318.9803
+# wrestler (voiced), case 2, used 2x
+JP これで終わりにしよう！
+EN Let's end this!
+
+@ 318.9807
+# wrestler (voiced), case 0, used 3x
+JP これできめますッ！
+EN This finishes it!
+
+@ 318.9810
+# wrestler (voiced), case 1, used 2x
+JP 勝たせていただききますッ！
+EN I'll be taking this win!
+
+@ 318.9813
+# wrestler (voiced), case 2, used 2x
+JP 修行の成果お見せします！
+EN Behold the fruits of my training!
+
+@ 318.9817
+# wrestler (voiced), case 0, used 2x
+JP よーし！
+JP もらったーッ！
+EN All right!
+EN It's mine!
+
+@ 318.9820
+# wrestler (voiced), case 1, used 2x
+JP これが最後よ！
+EN This one ends it!
+
+@ 318.9823
+# wrestler (voiced), case 2, used 2x
+JP 一気にいっちゃうからねぇ！
+EN I'm going all in!
+
+@ 318.9827
+# wrestler (voiced), case 0, used 2x
+JP このチャンス逃がさない！
+EN I won't let this chance slip!
+
+@ 318.9830
+# wrestler (voiced), case 1, used 2x
+JP あたしは負けるわけにはいかない！
+EN I can't afford to lose!
+
+@ 318.9833
+# wrestler (voiced), case 2, used 2x
+JP この拳にすべてをかける！
+EN I'm staking it all on this fist!
+
+@ 318.9837
+# wrestler (voiced), case 0, used 2x
+JP よっしゃーッ！
+JP 覚悟！！
+EN Here goes!
+EN Brace yourself!!
+
+@ 318.9840
+# wrestler (voiced), case 1, used 2x
+JP これで終わりだ！！
+EN This is the end!!
+
+@ 318.9843
+# wrestler (voiced), case 2, used 2x
+JP この勝負もらったーッ！
+EN This match is mine!
+
+@ 318.9847
+# wrestler (voiced), case 0, used 2x
+JP ……お客さんが必殺技やれって……。
+EN ......The crowd wants a
+EN finisher......
+
+@ 318.9850
+# wrestler (voiced), case 1, used 2x
+JP ……風船ふわふわ……。
+EN ......Balloon, floaty floaty......
+
+@ 318.9853
+# wrestler (voiced), case 2, used 2x
+JP ……もう終わりにするの……。
+EN ......I'm ending it now......
+
+@ 318.9857
+# wrestler (voiced), case 0, used 2x
+JP 勝利の方程式発動します！
+EN Activating the victory formula!
+
+@ 318.9860
+# wrestler (voiced), case 1, used 2x
+JP 勝率30％上昇修正ッ！
+EN Win probability corrected up 30%!
+
+@ 318.9863
+# wrestler (voiced), case 2, used 2x
+JP すべては私の計算通り！
+EN Everything is going as calculated!
+
+@ 318.9867
+# wrestler (voiced), case 0, used 2x
+JP 軽やかに…。
+JP そして、しなやかに…。
+EN Lightly...
+EN And gracefully...
+
+@ 318.9870
+# wrestler (voiced), case 1, used 2x
+JP これで世界は私の虜…。
+EN Now the world is my captive...
+
+@ 318.9873
+# wrestler (voiced), case 2, used 2x
+JP あなたに送るこのメモリーッ！
+EN This memory, I send to you!
+
+@ 318.9880
+# wrestler (voiced), case 1, used 2x
+JP この試合勝たせてもらいます！
+EN I'll be taking this match!
+
+@ 318.9883
+# wrestler (voiced), case 2, used 2x
+JP 勝機…！
+JP 見逃すわけにはいかない！
+EN An opening...!
+EN I can't let it pass!
+
+@ 318.9887
+# wrestler (voiced), case 0, used 2x
+JP むー…！
+JP これでどうだー！
+EN Mmmh...!
+EN How about this!
+
+@ 318.9890
+# wrestler (voiced), case 1, used 2x
+JP ボクの必殺技受けてみろッ！
+EN Take my finisher!
+
+@ 318.9893
+# wrestler (voiced), case 2, used 2x
+JP これがボクのとっておきだよ！
+EN This is my secret weapon!
+
+@ 318.9897
+# wrestler (voiced), case 0, used 2x
+JP 真帆の勝ちだーッ！
+EN Maho wins!
+
+@ 318.9900
+# wrestler (voiced), case 1, used 2x
+JP パワー全開！
+JP いっくぞーッ！
+EN Full power!
+EN Here I go!
+
+@ 318.9903
+# wrestler (voiced), case 2, used 2x
+JP これでどうだッ！
+EN How about this!
+
+@ 318.9907
+# wrestler (voiced), case 0, used 2x
+JP 決めさせてもらいますッ！
+EN I'll be finishing this!
+
+@ 318.9910
+# wrestler (voiced), case 1, used 2x
+JP フィニッシュです！
+EN This is the finish!
+
+@ 318.9913
+# wrestler (voiced), case 2, used 2x
+JP この技で眠ってください！
+EN Kindly let this move
+EN put you to sleep!
+
+@ 318.9917
+# wrestler (voiced), case 0, used 2x
+JP 覚悟はええか～？
+EN Ya ready~?
+
+@ 318.9920
+# wrestler (voiced), case 1, used 2x
+JP 最高の芸見せたるわ！
+EN I'll show ya my best act!
+
+@ 318.9923
+# wrestler (voiced), case 2, used 2x
+JP もう逃げられへん！
+EN Ya can't run now!
+
+@ 318.9927
+# wrestler (voiced), case 0, used 2x
+JP これで最後だ～ッ！
+EN This is the end!
+
+@ 318.9930
+# wrestler (voiced), case 1, used 2x
+JP あたしのとっておき見せてあげる！
+EN I'll show you my secret weapon!
+
+@ 318.9933
+# wrestler (voiced), case 2, used 2x
+JP 必殺技いっくよ～ッ！
+EN Here comes my finisher~!
+
+@ 318.9937
+# wrestler (voiced), case 0, used 2x
+JP チェストーッ！
+JP なんてね！
+EN Chesto!
+EN Just kidding!
+
+@ 318.9940
+# wrestler (voiced), case 1, used 2x
+JP すっごいのいくよーッ！
+EN Here comes something amazing!
+
+@ 318.9943
+# wrestler (voiced), case 2, used 2x
+JP みんな手拍子よろしくねー！
+EN Everybody, clap along!
+
+@ 318.9947
+# wrestler (voiced), case 0, used 2x
+JP 正義は勝ーつッ！
+EN Justice prevails!
+
+@ 318.9950
+# wrestler (voiced), case 1, used 2x
+JP 藤原、いきまーすッ！
+EN Fujiwara, here I go!
+
+@ 318.9953
+# wrestler (voiced), case 2, used 2x
+JP やっぱり最後は
+JP 必殺技で決まりでしょ！
+EN Of course, it has to end
+EN with a finisher!
+
+@ 318.9957
+# wrestler (voiced), case 0, used 2x
+JP これで終わらせるッ！
+EN I'll end it with this!
+
+@ 318.9960
+# wrestler (voiced), case 1, used 2x
+JP この技にたえられるか？
+EN Can you endure this move?
+
+@ 318.9963
+# wrestler (voiced), case 2, used 2x
+JP もう遊びの時間は終わりだッ！
+EN Playtime is over!
+
+@ 318.9967
+# wrestler (voiced), case 0, used 2x
+JP 勝たせていただきます～！
+EN I'll be taking the win~!
+
+@ 318.9973
+# wrestler (voiced), case 2, used 2x
+JP チャンス到来ですね～！
+EN Here's my chance~!
+
+@ 318.9977
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP 真鍋いきまーすッ！
+EN Okay!
+EN Manabe, here I go!
+
+@ 318.9980
+# wrestler (voiced), case 1, used 2x
+JP ムフ～！
+JP これであたしの勝ちだねー！
+EN Mufu~!
+EN This means I win!
+
+@ 318.9983
+# wrestler (voiced), case 2, used 2x
+JP これで終わり、終わり～！
+EN It's over, all over~!
+
+@ 318.9987
+# wrestler (voiced), case 0, used 2x
+JP これで病院送りだぁ！
+EN You're going to the hospital!
+
+@ 318.9990
+# wrestler (voiced), case 1, used 2x
+JP 無様な姿さらしなッ！
+EN Show me how pathetic you are!
+
+@ 318.9993
+# wrestler (voiced), case 2, used 2x
+JP 二度と私の前に立つんじゃないよ！
+EN Don't ever stand in front of me
+EN again!
+
+@ 318.9997
+# wrestler (voiced), case 0, used 2x
+JP これで終わりにしてやるよ！
+EN I'll end it with this!
+
+@ 318.10000
+# wrestler (voiced), case 1, used 2x
+JP 無様な姿さらすがいい！
+EN Go on, look pathetic!
+
+@ 318.10003
+# wrestler (voiced), case 2, used 2x
+JP 二度とあたしの前に
+JP 立てないようにしてやろう！
+EN I'll make sure you never
+EN stand before me again!
+
+@ 318.10007
+# wrestler (voiced), case 0, used 2x
+JP 覚悟はできたかい？
+EN You ready?
+
+@ 318.10010
+# wrestler (voiced), case 1, used 2x
+JP そろそろケリをつけようか！
+EN Time to settle this!
+
+@ 318.10013
+# wrestler (voiced), case 2, used 2x
+JP 悪く思わないでおくれよ！
+EN Don't hold it against me!
+
+@ 318.10017
+# wrestler (voiced), case 0, used 2x
+JP そろそろ終わりにしよう！
+EN Let's end this!
+
+@ 318.10020
+# wrestler (voiced), case 1, used 2x
+JP 倒させていただく！
+EN I shall defeat you!
+
+@ 318.10023
+# wrestler (voiced), case 2, used 2x
+JP 苦しまないように倒すのが
+JP せめてもの情け！
+EN Defeating you without pain is
+EN the least mercy I can show!
+
+@ 318.10027
+# wrestler (voiced), case 0, used 2x
+JP ぶっ壊れろーッ！
+EN Get wrecked!
+
+@ 318.10030
+# wrestler (voiced), case 1, used 2x
+JP 相手が悪かったな！
+EN You picked the wrong opponent!
+
+@ 318.10033
+# wrestler (voiced), case 2, used 2x
+JP ハッハッハッハ…。
+JP 泣き叫びな！
+EN Hahahaha...
+EN Cry and scream!
+
+@ 318.10037
+# wrestler (voiced), case 0, used 2x
+JP …………決める……！
+EN ............Finish......!
+
+@ 318.10040
+# wrestler (voiced), case 1, used 2x
+JP …………消えろ……！
+EN ............Vanish......!
+
+@ 318.10043
+# wrestler (voiced), case 2, used 2x
+JP …………さらば……！
+EN ............Farewell......!
+
+@ 318.10047
+# wrestler (voiced), case 0
+JP 必殺の一撃受けてみろッ！
+EN Take my killer blow!
+
+@ 318.10050
+# wrestler (voiced), case 1, used 3x
+JP これでトドメだ！
+EN This is the final blow!
+
+@ 318.10053
+# wrestler (voiced), case 2
+JP この技に全身全霊をかける！
+EN I'm putting my whole soul
+EN into this move!
+
+@ 318.10057
+# wrestler (voiced), case 0
+JP チャンス到来待ってましたー！
+EN My chance is here, at last!
+
+@ 318.10060
+# wrestler (voiced), case 1
+JP すごいのいっきまーす！
+EN Here comes something amazing!
+
+@ 318.10063
+# wrestler (voiced), case 2
+JP みんなー必殺技だよ！
+JP 必・殺・技！！
+EN Everybody, it's a finisher!
+EN FIN-ISH-ER!!
+
+@ 318.10067
+# wrestler (voiced), case 0
+JP クールにきめるわよ！
+EN Time to finish it cool!
+
+@ 318.10070
+# wrestler (voiced), case 1
+JP この一撃でおしまいよッ！
+EN This one blow ends it!
+
+@ 318.10073
+# wrestler (voiced), case 2
+JP 最後はエレガントにいくわ！
+EN I'll finish elegantly!
+
+@ 318.10077
+# wrestler (voiced), case 0
+JP 正義の鉄槌受けてみなさい！
+EN Take the hammer of justice!
+
+@ 318.10080
+# wrestler (voiced), case 1
+JP 正義の刃さけられますか？
+EN Can you dodge the blade of justice?
+
+@ 318.10083
+# wrestler (voiced), case 2
+JP 正義の翼逃げられません！
+EN There's no escaping
+EN the wings of justice!
+
+@ 318.10087
+# wrestler (voiced), case 0
+JP この一撃受けてみろーッ！
+EN Take this blow!
+
+@ 318.10090
+# wrestler (voiced), case 1
+JP これでぇ、終わりだぁーッ！
+EN This... is the end!
+
+@ 318.10093
+# wrestler (voiced), case 2
+JP マットに沈めーッ！
+EN Sink into the mat!
+
+@ 318.10097
+# wrestler (voiced), case 0
+JP これで決まり……！
+EN This settles it......!
+
+@ 318.10100
+# wrestler (voiced), case 1
+JP これでおしまい……！
+EN This is the end......!
+
+@ 318.10103
+# wrestler (voiced), case 2
+JP これでトドメ……！
+EN The final blow......!
+
+@ 318.10107
+# wrestler (voiced), case 0
+JP これで決めさせてもらうわ！
+EN I'll finish it with this!
+
+@ 318.10110
+# wrestler (voiced), case 1
+JP この技にたえられる？
+EN Can you endure this move?
+
+@ 318.10113
+# wrestler (voiced), case 2
+JP 受けてみなさーいッ！
+EN Take this!
+
+@ 318.10117
+# wrestler (voiced), case 0
+JP この技受けてみなさい！
+EN Take this move!
+
+@ 318.10120
+# wrestler (voiced), case 1
+JP これがわたしのとっておきです！
+EN This is my secret weapon!
+
+@ 318.10127
+# wrestler (voiced), case 0
+JP さぁ、これでトドメです！
+EN Now, this is the final blow!
+
+@ 318.10130
+# wrestler (voiced), case 1
+JP いきますわよ！
+EN Here I come!
+
+@ 318.10133
+# wrestler (voiced), case 2
+JP これでおしまいですわ！
+EN This is the end for you!
+
+@ 318.10137
+# wrestler (voiced), case 0
+JP 受けてみなさい！
+JP この技をッ！
+EN Take it!
+EN Take this move!
+
+@ 318.10140
+# wrestler (voiced), case 1
+JP これでフィニッシュです！
+EN This is the finish!
+
+@ 318.10143
+# wrestler (voiced), case 2
+JP あなたではわたしの相手は
+JP 務まりません！
+EN You are no match for me!
+
+@ 318.10147
+# wrestler (voiced), case 0
+JP パワー全開！
+JP いっくよーッ！
+EN Full power!
+EN Here I go!
+
+@ 318.10150
+# wrestler (voiced), case 1
+JP この技できめるよ！
+EN I'll finish it with this move!
+
+@ 318.10153
+# wrestler (voiced), case 2
+JP 最後はこれでフィニッシュだッ！
+EN This is the finish!
+
+@ 318.10157
+# wrestler (voiced), case 0
+JP 決めるなら今しかないッ！
+EN It's now or never!
+
+@ 318.10160
+# wrestler (voiced), case 1
+JP いっちゃうよ！
+JP バーカーヤーローッ！！
+EN Here I go!
+EN You IDIOOOT!!
+
+@ 318.10163
+# wrestler (voiced), case 2
+JP 落ーちーろーーッ！
+EN Go dooowwn!
+
+@ 318.10167
+# wrestler (voiced), case 0
+JP そろそろ決めどき…ねッ！
+EN Time to finish this... now!
+
+@ 318.10170
+# wrestler (voiced), case 1
+JP この一瞬を見逃さないッ！
+EN I won't miss this moment!
+
+@ 318.10173
+# wrestler (voiced), case 2
+JP ラッキーキャプチャーッ！
+EN Lucky Capture!
+
+@ 318.10177
+# wrestler (voiced), case 0
+JP 一気にきめちゃうよッ！
+EN I'm finishing it in one go!
+
+@ 318.10180
+# wrestler (voiced), case 1
+JP 超必殺技いっきまーすッ！
+EN Here comes my super finisher!
+
+@ 318.10183
+# wrestler (voiced), case 2
+JP さぁ、この技にたえられる？
+EN Now, can you endure this move?
+
+@ 318.10187
+# wrestler (voiced), case 0
+JP エンジン全開！
+JP いっきまーすッ！
+EN Engines at full throttle!
+EN Here I go!
+
+@ 318.10190
+# wrestler (voiced), case 1
+JP エヘヘッ！
+JP これできめるよ！
+EN Ehehe!
+EN This finishes it!
+
+@ 318.10193
+# wrestler (voiced), case 2
+JP みんな見逃さないでねーッ！
+EN Don't miss this, everybody!
+
+@ 318.10197
+# wrestler (voiced), case 0
+JP これでとどめだぁーッ！
+EN This is the final blow!
+
+@ 318.10200
+# wrestler (voiced), case 1
+JP はいつくばれぇー！
+EN Get down and crawl!
+
+@ 318.10203
+# wrestler (voiced), case 2
+JP げひゃひゃひゃひゃ！
+JP ぶっつぶぅす！
+EN Gehyahyahyahya!
+EN I'll cruuush ya!
+
+@ 318.10727
+# wrestler (voiced), case 0, used 2x
+JP やっぱりあたしの勝ちねーッ！
+EN Looks like I win after all!
+
+@ 318.10730
+# wrestler (voiced), case 1, used 2x
+JP これで決めてあげるッ！
+EN I'll finish you with this!
+
+@ 318.10733
+# wrestler (voiced), case 2, used 2x
+JP あなたとの遊びは
+JP これで終わりッ！
+EN Playtime with you
+EN is over!
+
+@ 318.10737
+# wrestler (voiced), case 0, used 2x
+JP これで勝負ッ！
+EN It all comes down to this!
+
+@ 318.10740
+# wrestler (voiced), case 1, used 2x
+JP スペシャルフィニッシュ！
+EN Special finish!
+
+@ 318.10743
+# wrestler (voiced), case 2, used 2x
+JP 必殺の一撃いっくよー！
+EN Killer blow, here I gooo!
+
+@ 318.10747
+# wrestler (voiced), case 0, used 2x
+JP これでフィニッシュでーす！
+EN This is the finish!
+
+@ 318.10750
+# wrestler (voiced), case 1, used 2x
+JP 派手にいくわよ！
+EN Let's go out with a bang!
+
+@ 318.10753
+# wrestler (voiced), case 2, used 2x
+JP ハーイ！
+JP みなさん見ててくださーい！
+EN Hi!
+EN Everyone, watch this!
+
+@ 318.10757
+# wrestler (voiced), case 0, used 2x
+JP トドメ～ッ！
+EN Time for the kill!
+
+@ 318.10760
+# wrestler (voiced), case 1, used 2x
+JP これで決めてやるーッ！
+EN I'll finish it with this!
+
+@ 318.10763
+# wrestler (voiced), case 2, used 2x
+JP 砕けろ～～ッ！
+EN Shatter!
+
+@ 318.10767
+# wrestler (voiced), case 0, used 4x
+JP これで終わりだ！
+EN This is the end!
+
+@ 318.10770
+# wrestler (voiced), case 1, used 2x
+JP 手加減しねぇぞ！
+JP 砕けろッ！
+EN I won't go easy!
+EN Shatter!
+
+@ 318.10773
+# wrestler (voiced), case 2, used 2x
+JP お前の悲鳴を聞かせてもらうぞ！
+EN Let me hear you scream!
+
+@ 318.10777
+# wrestler (voiced), case 0, used 2x
+JP 一点、集中砲火ッ！
+EN Focus all fire on one point!
+
+@ 318.10780
+# wrestler (voiced), case 1, used 2x
+JP 全身全霊の一撃をくらいなさい！
+EN Heart and soul!
+EN Take this blow!
+
+@ 318.10783
+# wrestler (voiced), case 2, used 2x
+JP 安楽浄土へ旅立ちなさい！
+EN Depart for paradise!
+
+@ 318.10787
+# wrestler (voiced), case 0, used 2x
+JP マットを紅に染めてあげるわ！
+EN I'll dye the mat crimson!
+
+@ 318.10790
+# wrestler (voiced), case 1, used 2x
+JP これが至高のテクニックよ！
+EN This is supreme technique!
+
+@ 318.10793
+# wrestler (voiced), case 2, used 2x
+JP ひとときの感銘を受けよ！
+EN Be moved, if only for a moment!
+
+@ 318.10797
+# wrestler (voiced), case 0, used 2x
+JP ゴールドラッシュが来たようね！
+EN Looks like the gold rush is here!
+
+@ 318.10800
+# wrestler (voiced), case 1, used 2x
+JP これが究極のパワーよ！
+EN This is ultimate power!
+
+@ 318.10803
+# wrestler (voiced), case 2, used 2x
+JP われこそは美の亡霊！
+EN I am the phantom of beauty!
+
+@ 318.10807
+# wrestler (voiced), case 0, used 2x
+JP そろそろとどめを刺して
+JP あげましょう！
+EN Time to deliver
+EN the final blow!
+
+@ 318.10810
+# wrestler (voiced), case 1, used 2x
+JP 己の不運を呪いなさい！
+EN Curse your own bad luck!
+
+@ 318.10813
+# wrestler (voiced), case 2, used 2x
+JP マットに這いつくばりなさい！
+EN Grovel on the mat!
+
+@ 318.10817
+# wrestler (voiced), case 0, used 2x
+JP 必殺技いっきますよーッ！
+EN Here comes my finisher!
+
+@ 318.10820
+# wrestler (voiced), case 1, used 4x
+JP これで終わりにしましょう！
+EN Let's end this!
+
+@ 318.10823
+# wrestler (voiced), case 2, used 2x
+JP 遊びの時間はオ・シ・マ・イ！
+EN Playtime is O-VER!
+
+@ 318.10827
+# wrestler (voiced), case 0, used 2x
+JP 華麗！
+JP あまりにも華麗なこの技！
+EN Graceful!
+EN Such a graceful move!
+
+@ 318.10830
+# wrestler (voiced), case 1, used 2x
+JP 同じ技でもワタクシが使えば
+JP それはアート！
+EN Even the same move becomes art
+EN when I use it!
+
+@ 318.10833
+# wrestler (voiced), case 2, used 2x
+JP くらいなさいッ！
+JP 至高にして究極の技を！
+EN Take this!
+EN The supreme and ultimate move!
+
+@ 318.10837
+# wrestler (voiced), case 0, used 2x
+JP 大チャンス、とーらい！
+EN Big chance, here it comes!
+
+@ 318.10840
+# wrestler (voiced), case 1, used 2x
+JP 一気にいっちゃうよーッ！
+EN I'm going all in!
+
+@ 318.10843
+# wrestler (voiced), case 2, used 2x
+JP ちょー必殺技、いっくよーッ！
+EN Here comes my super finisher!
+
+@ 318.10847
+# wrestler (voiced), case 0, used 2x
+JP イッツ・ショウ・タ～イム！
+EN It's show tiiime!
+
+@ 318.10850
+# wrestler (voiced), case 1, used 2x
+JP この瞬間見逃しちゃダ・メ・ヨ！
+EN Don't you dare miss this moment!
+
+@ 318.10853
+# wrestler (voiced), case 2, used 2x
+JP ここが見どころよ！
+EN Here comes the highlight!
+
+@ 318.10857
+# wrestler (voiced), case 0, used 2x
+JP 地獄に落ちなーッ！
+EN Go to hell!
+
+@ 318.10860
+# wrestler (voiced), case 1, used 2x
+JP お前をソテーにしてやろう！
+EN I'll make a saute out of you!
+
+@ 318.10863
+# wrestler (voiced), case 2, used 2x
+JP 血祭りにあげてやるよ！
+EN I'll paint the ring with your blood!
+
+@ 318.10867
+# wrestler (voiced), case 0, used 2x
+JP これで最後ッ！
+EN This is the last one!
+
+@ 318.10870
+# wrestler (voiced), case 1, used 2x
+JP 見よ！
+JP この緻密な技をッ！
+EN Behold!
+EN This precise technique!
+
+@ 318.10873
+# wrestler (voiced), case 2, used 2x
+JP 諦めなさいッ！
+EN Give up!
+
+@ 318.10877
+# wrestler (voiced), case 0, used 2x
+JP 真のパワーを感じなさい！
+EN Feel true power!
+
+@ 318.10880
+# wrestler (voiced), case 1, used 2x
+JP 最強という言葉を思い知りなさい！
+EN Learn what "strongest" means!
+
+@ 318.10883
+# wrestler (voiced), case 2, used 2x
+JP 潔く散りなさい…。
+EN Fall gracefully...
+
+@ 318.10887
+# wrestler (voiced), case 0, used 2x
+JP 驚異の一撃受けてみなさい！
+EN Take this astonishing blow!
+
+@ 318.10890
+# wrestler (voiced), case 1, used 2x
+JP 私のパワーくらいなさい！
+EN Taste my power!
+
+@ 318.10893
+# wrestler (voiced), case 2, used 2x
+JP これでバイバイね～！
+EN Bye-bye now~!
+
+@ 318.10897
+# wrestler (voiced), case 0, used 2x
+JP これで終わりだーッ！
+EN This is the end!
+
+@ 318.10900
+# wrestler (voiced), case 1, used 2x
+JP 四角いジャングルに
+JP 撃沈しろーッ！
+EN Sink into the squared jungle!
+
+@ 318.10903
+# wrestler (voiced), case 2, used 2x
+JP くらえッ！そして潰れろーッ！
+EN Take this! And get crushed!
+
+@ 318.10907
+# wrestler (voiced), case 0, used 2x
+JP カントリーパワーッ！
+EN Country power!
+
+@ 318.10910
+# wrestler (voiced), case 1, used 2x
+JP 揺るげ、マット！
+JP 揺るげ、観客！
+EN Shake, mat!
+EN Shake, crowd!
+
+@ 318.10913
+# wrestler (voiced), case 2, used 2x
+JP これで終わりよッ！
+EN It's over!
+
+@ 318.10917
+# wrestler (voiced), case 0, used 2x
+JP プロレスの意味を教えてやろう…。
+EN I'll teach you what
+EN pro wrestling means...
+
+@ 318.10920
+# wrestler (voiced), case 1, used 2x
+JP イージーな試合だ…。
+EN An easy match...
+
+@ 318.10923
+# wrestler (voiced), case 2, used 2x
+JP フフフフ…。
+JP この試合もこれで終わりだ。
+EN Heh heh heh...
+EN And with this, the match is over.
+
+@ 318.10927
+# wrestler (voiced), case 0, used 2x
+JP 後悔しなさいッ！
+EN You'll regret this!
+
+@ 318.10933
+# wrestler (voiced), case 2, used 2x
+JP これが最後よッ！
+EN This is the last one!
+
+@ 318.10937
+# wrestler (voiced), case 0, used 2x
+JP 仮面の貴婦人の力
+JP 見せてあげるわ！
+EN I'll show you the power
+EN of the Masked Lady!
+
+@ 318.10940
+# wrestler (voiced), case 1, used 2x
+JP あなたよくがんばったわ…。
+JP でもこれまでね…。
+EN You did well...
+EN But this is where it ends...
+
+@ 318.10947
+# wrestler (voiced), case 0, used 2x
+JP フフ…。
+JP 地獄に連れていってやるよ！
+EN Heh...
+EN I'll drag you to hell!
+
+@ 318.10950
+# wrestler (voiced), case 1, used 2x
+JP 最後のお祈りは済んだか？
+EN Said your last prayers?
+
+@ 318.10953
+# wrestler (voiced), case 2, used 2x
+JP 今日という日を後悔するんだな！
+EN You'll regret this day!
+
+@ 318.10957
+# wrestler (voiced), case 0, used 2x
+JP とっておき出しちゃうよーッ！
+EN Here comes my secret weapon!
+
+@ 318.10960
+# wrestler (voiced), case 1, used 2x
+JP 最後の大技いっくよーッ！
+EN Here comes my last big move!
+
+@ 318.10963
+# wrestler (voiced), case 2, used 2x
+JP これでトドメ！
+JP くらいなさいッ！
+EN The final blow!
+EN Take this!
+
+@ 318.10967
+# wrestler (voiced), case 0, used 2x
+JP 骨がきしむ音を
+JP 聞かせてちょうだい…。
+EN Let me hear
+EN your bones creak...
+
+@ 318.10970
+# wrestler (voiced), case 1, used 2x
+JP 壊れなさい…！
+EN Break for me...!
+
+@ 318.10973
+# wrestler (voiced), case 2, used 2x
+JP ウフフフ…。
+JP これで終わり…。
+EN Ufufufu...
+EN It's over...
+
+@ 318.10977
+# wrestler (voiced), case 0, used 2x
+JP イッツ、ショータイムッ！
+EN It's showtime!
+
+@ 318.10980
+# wrestler (voiced), case 1, used 2x
+JP ここが今日のクライマックスよ！
+EN This is today's climax!
+
+@ 318.10983
+# wrestler (voiced), case 2, used 2x
+JP ファイナルギミーック！
+EN Final gimmiiick!
+
+@ 318.10990
+# wrestler (voiced), case 1, used 2x
+JP そろそろお休みの時間だぁ！
+EN Time for you to go nighty-night!
+
+@ 318.10993
+# wrestler (voiced), case 2, used 2x
+JP 泣いてもやめないよッ！
+EN I won't stop even if you cry!
+
+@ 318.10997
+# wrestler (voiced), case 0, used 2x
+JP いっくでーッ！
+EN Here I go!
+
+@ 318.11000
+# wrestler (voiced), case 1, used 2x
+JP 今やッ！
+JP これが必殺のッ！
+EN Now!
+EN Here's my finisher!
+
+@ 318.11003
+# wrestler (voiced), case 2, used 2x
+JP 砕け散れーッ！
+EN Shatter to pieces!
+
+@ 318.11007
+# wrestler (voiced), case 0, used 2x
+JP とあーッ！
+JP ラストーッ！
+EN Toaaah!
+EN Last one!
+
+@ 318.11010
+# wrestler (voiced), case 1, used 2x
+JP これでファイナルッ！
+EN Here's the finale!
+
+@ 318.11013
+# wrestler (voiced), case 2, used 2x
+JP 決めの一撃いっくよー！
+EN Here comes the deciding blow!
+
+@ 318.11020
+# wrestler (voiced), case 1, used 2x
+JP おねんねの時間よ！
+EN Time for beddy-bye!
+
+@ 318.11023
+# wrestler (voiced), case 2, used 2x
+JP 最後はこれでーッ！
+EN And to finish, this!
+
+@ 318.11027
+# wrestler (voiced), case 0, used 2x
+JP 中国・四千年の技
+JP くらいなさいッ！
+EN Take a technique from
+EN 4,000 years of Chinese history!
+
+@ 318.11030
+# wrestler (voiced), case 1, used 2x
+JP 愚か者はマットに沈みなさいッ！
+EN Fools belong on the mat!
+
+@ 318.11033
+# wrestler (voiced), case 2, used 2x
+JP この技で終わりだッ！
+EN This move ends it!
+
+@ 318.11037
+# wrestler (voiced), case 0, used 2x
+JP これでどうですか…？
+EN How about this...?
+
+@ 318.11040
+# wrestler (voiced), case 1, used 2x
+JP 私だって…。
+JP 私だってぇー！
+EN Even I...
+EN Even I can do it!
+
+@ 318.11043
+# wrestler (voiced), case 2, used 2x
+JP ど、どうなっても
+JP 知りませんからね！
+EN D-don't blame me
+EN for what happens!
+
+@ 318.11047
+# wrestler (voiced), case 0, used 2x
+JP ダイナミックにいくよーッ！
+EN Let's go dynamic!
+
+@ 318.11050
+# wrestler (voiced), case 1, used 2x
+JP ごめんあそばせ～！
+JP なんてね！
+EN Pardon me~!
+EN Just kidding!
+
+@ 318.11053
+# wrestler (voiced), case 2, used 2x
+JP トドメだーッ！
+EN Final blow!
+
+@ 318.11057
+# wrestler (voiced), case 0, used 2x
+JP これがわたしの切り札だッ！
+EN This is my trump card!
+
+@ 318.11060
+# wrestler (voiced), case 1, used 2x
+JP 切り札は最後まで
+JP 取っておくものだ！
+EN You save your trump card
+EN for the very end!
+
+@ 318.11063
+# wrestler (voiced), case 2, used 2x
+JP この技のダメージを
+JP 理解できるかな？
+EN Can you comprehend the damage
+EN this move will do?
+
+@ 318.11067
+# wrestler (voiced), case 0, used 2x
+JP 逃げられないわよ！
+EN You can't escape!
+
+@ 318.11070
+# wrestler (voiced), case 1, used 2x
+JP さぁ、これで終わりよッ！
+EN Now, this is the end!
+
+@ 318.11073
+# wrestler (voiced), case 2, used 2x
+JP 覚悟しなさいッ！
+EN Prepare yourself!
+
+@ 318.11077
+# wrestler (voiced), case 0, used 2x
+JP 覚悟してくださいッ！
+EN Please prepare yourself!
+
+@ 318.11080
+# wrestler (voiced), case 1, used 2x
+JP 悪く思わないでくださいね！
+EN Please don't hold it against me!
+
+@ 318.11083
+# wrestler (voiced), case 2, used 2x
+JP これで終わりですッ！
+EN This is the end!
+
+@ 318.11087
+# wrestler (voiced), case 0, used 2x
+JP ゴメンネ～！
+JP これで終わりだよーッ！
+EN Sorry~!
+EN This is the end!
+
+@ 318.11090
+# wrestler (voiced), case 1, used 2x
+JP 必殺技いっくよー！
+EN Here comes my finisher!
+
+@ 318.11093
+# wrestler (voiced), case 2, used 2x
+JP すごいのいくよーッ！
+EN Here comes something amazing!
+
+@ 318.11097
+# wrestler (voiced), case 0, used 2x
+JP 決める！
+EN Finishing it!
+
+@ 318.11100
+# wrestler (voiced), case 1, used 2x
+JP そこだッ！
+EN There!
+
+@ 318.11103
+# wrestler (voiced), case 2, used 2x
+JP お前の負けだ！
+EN You lose!
+
+@ 318.11107
+# wrestler (voiced), case 0, used 2x
+JP さぁ、トドメだッ！
+EN Now, the final blow!
+
+@ 318.11110
+# wrestler (voiced), case 1, used 2x
+JP もらったー！
+EN Got you!
+
+@ 318.11117
+# wrestler (voiced), case 0, used 2x
+JP もう飽きたわ！
+EN I'm bored now!
+
+@ 318.11120
+# wrestler (voiced), case 1, used 2x
+JP これで最後よ！
+EN This is the last one!
+
+@ 318.11123
+# wrestler (voiced), case 2, used 2x
+JP 泣き叫ぶといいわ！
+EN Go ahead and scream!
+
+@ 318.11127
+# wrestler (voiced), case 0, used 2x
+JP みなさ～ん！
+JP ショータイムだよ！
+EN Everyone~!
+EN It's showtime!
+
+@ 318.11130
+# wrestler (voiced), case 1, used 2x
+JP 魅せ技発動のチャ～ンス！
+EN A chance to show off~!
+
+@ 318.11133
+# wrestler (voiced), case 2, used 2x
+JP ちょっとだけ痛いけど
+JP 我慢してね～？
+EN It'll hurt just a little,
+EN so hang in there~?
+
+@ 318.11137
+# wrestler (voiced), case 0, used 2x
+JP 勝機！
+JP もらったーッ！
+EN An opening!
+EN It's mine!
+
+@ 318.11140
+# wrestler (voiced), case 1, used 2x
+JP くらえ！
+JP この一撃ッ！
+EN Eat this!
+EN Full-power hit!
+
+@ 318.11143
+# wrestler (voiced), case 2, used 2x
+JP 来た、来たーッ！
+JP このタイミングだーッ！
+EN Here it comes!
+EN This is the moment!
+
+@ 318.11150
+# wrestler (voiced), case 1, used 2x
+JP もらったーッ！
+EN Got you!
+
+@ 318.11153
+# wrestler (voiced), case 2, used 2x
+JP とっておき出すよーッ！
+EN Here comes my secret weapon!

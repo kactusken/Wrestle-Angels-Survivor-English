@@ -1,0 +1,149 @@
+# Event script entry 220 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 220.69
+# President, used 2x
+JP （みんな楽しんでるみたいだな。）
+EN (Looks like everyone's having fun.)
+
+@ 220.73
+# President, used 2x
+JP （あれは何をしてるんだ？）
+EN (What's she doing over there?)
+
+@ 220.91
+# President, used 2x
+JP （砂遊びか…。）
+EN (Playing in the sand...)
+
+@ 220.95
+# President, used 2x
+JP （すごく似合ってる気が
+JP するんだが…。）
+EN (Somehow that really suits her...)
+
+@ 220.101
+# other, used 2x
+JP ……あ…社長……。
+EN ...Oh... Boss...
+
+@ 220.114
+# other, used 2x
+JP ……もう…泳いだ……。
+EN ...I already... swam...
+
+@ 220.121
+# President, used 2x
+JP そうか、それで砂遊びしてるのか？
+EN I see, so now you're playing in the
+EN sand?
+
+@ 220.149
+# President, used 2x
+JP それは完成したのか？
+EN Is that finished?
+
+@ 220.177
+# President, used 2x
+JP （なんだ、この間は？）
+EN (What's with the pause?)
+
+@ 220.179
+# President, used 2x
+JP それで完成した城を前に
+JP 何をしてるんだ？
+EN So what are you doing,
+EN sitting in front of your finished
+EN castle?
+
+@ 220.185
+# other, used 2x
+JP ……待ってる……。
+EN ...Waiting...
+
+@ 220.192
+# President, used 2x
+JP そうか、待ってるのか。
+EN I see, you're waiting.
+
+@ 220.220
+# President, used 2x
+JP （何を？と尋ねようとしたとき。）
+EN (Just as I was about to ask "For
+EN what?")
+
+@ 220.222
+# President, used 2x
+JP （待っていたものが現れた。）
+EN (What she was waiting for appeared.)
+
+@ 220.228
+# other, used 2x
+JP ……あっ……。
+EN ...Ah...
+
+@ 220.242
+# other, used 2x
+JP ……うわあ……。
+JP ……出てきた…出てきた……。
+JP ……脱出成功だよ……。
+EN ...Wow...
+EN ...It's out... it's out...
+EN ...It escaped...
+
+@ 220.249
+# President, used 2x
+JP ……カニ？
+EN ...A crab?
+
+@ 220.262
+# President, used 2x
+JP （カニは砂の城から這い出すと
+JP 周囲を伺っている。）
+EN (The crab crawled out of the sand
+EN castle and looked around.)
+
+@ 220.275
+# President, used 2x
+JP 城にカニを埋めて
+JP 出てくるのを待ってたのか？
+EN You buried a crab in the castle
+EN and waited for it to come out?
+
+@ 220.288
+# President, used 2x
+JP （すごいいい笑顔だ。
+JP そんなに嬉しいのか。）
+EN (What a great smile.
+EN She's really that happy?)
+
+@ 220.294
+# other, used 2x
+JP ……カーニーさーん……。
+JP ……よくがんばったね～……。
+JP ……えらいね～……。
+EN ...Mister Craaab...
+EN ...You did your best...
+EN ...Good job...
+
+@ 220.301
+# President, used 2x
+JP （……まったくだ。）
+EN (...It sure did.)
+
+@ 220.307
+# other, used 2x
+JP ……次は迷路からの脱出だよ……。
+EN ...Next is escaping the maze...
+
+@ 220.314
+# President, used 2x
+JP （まだやるのか…。）
+EN (She's still going...)

@@ -1,0 +1,55 @@
+# Event script entry 040 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 040.48
+# Secretary
+JP {name:1}から
+JP {name:0}王者の
+JP 海外遠征依頼が届いています。
+EN {name:1} has asked for champion
+EN {name:0} to come on an overseas
+EN tour.
+
+@ 040.50
+# Secretary
+JP 現地での防衛戦を行わないと
+JP 王座剥奪となってしまうため
+JP 派遣すべきと考えます。
+EN If she doesn't defend it there,
+EN she'll lose the title, so I
+EN think we should send her.
+
+@ 040.53
+# Secretary
+JP {name:0}選手を
+JP 派遣しますか？
+EN Will you send {name:0}?
+
+@ 040.57
+# Secretary
+JP {name:0}選手と
+JP {name:2}選手を
+JP 派遣しますか？
+EN Will you send {name:0}
+EN and {name:2}?
+
+@ 040.63
+# Secretary, case 0
+JP わかりました。
+JP 派遣の準備を進めておきます。
+EN Understood. I'll start preparing
+EN for the trip.
+
+@ 040.65
+# Secretary, case 1, used 107x
+JP わかりました。
+JP 今回の件はお断りしておきます。
+EN Understood. I'll turn them down
+EN this time.

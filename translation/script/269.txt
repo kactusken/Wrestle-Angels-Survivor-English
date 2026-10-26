@@ -1,0 +1,422 @@
+# Event script entry 269 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 269.39
+# wrestler (voiced), used 2x
+JP 無理するんじゃなかったです…。
+EN I shouldn't have pushed so hard...
+
+@ 269.47
+# wrestler (voiced), used 2x
+JP ちょっときつ過ぎでしょ…。
+JP これ…。
+EN That was way too much...
+EN Seriously...
+
+@ 269.55
+# wrestler (voiced), used 2x
+JP だからムダだと！
+EN I told you it was pointless!
+
+@ 269.63
+# wrestler (voiced), used 2x
+JP まだまだ努力が
+JP 足りないみたい…。
+EN Looks like I still
+EN haven't worked hard enough...
+
+@ 269.71
+# wrestler (voiced), used 2x
+JP 慣れないこと
+JP するんじゃなかった…。
+EN I shouldn't have tried
+EN something I'm not used to...
+
+@ 269.78
+# other, used 2x
+JP クソーッ！
+EN Dammit!
+
+@ 269.87
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP 疲れた…。
+EN Ugh...
+EN I'm tired...
+
+@ 269.95
+# wrestler (voiced), used 2x
+JP イタイよ～！
+JP ふぇ～ん…。
+JP イヤだって言ったのに～。
+EN It hurts!
+EN Waaah...
+EN I said I didn't want to!
+
+@ 269.103
+# wrestler (voiced), used 2x
+JP 慣れないこと
+JP するんじゃなかった…。
+JP こ、腰イタ～…。
+EN I shouldn't have tried
+EN something I'm not used to...
+EN M-my back hurts...
+
+@ 269.111
+# wrestler (voiced), used 2x
+JP クッ…。
+JP これではなんの意味も…。
+EN Kh...
+EN This was all for nothing...
+
+@ 269.119
+# wrestler (voiced), used 2x
+JP クッ…。
+JP オーバーワークか…。
+EN Kh...
+EN Overworked, huh...
+
+@ 269.127
+# wrestler (voiced), used 2x
+JP これじゃ逆効果…。
+JP やるんじゃなかったぁ…。
+EN That backfired...
+EN I shouldn't have done it...
+
+@ 269.135
+# wrestler (voiced), used 2x
+JP ほらぁ～！
+JP だからイヤだったのにぃ…。
+EN See!?
+EN That's why I didn't want to...
+
+@ 269.143
+# wrestler (voiced), used 2x
+JP 何がいけなかったのかしら…。
+EN I wonder what went wrong...
+
+@ 269.151
+# wrestler (voiced), used 2x
+JP もうッ！
+JP やってられませんわ！
+EN Honestly!
+EN This is intolerable!
+
+@ 269.159
+# wrestler (voiced), used 2x
+JP そんな～…。
+JP がっかり…。
+EN Oh no...
+EN How disappointing...
+
+@ 269.167
+# wrestler (voiced), used 2x
+JP オーバーワークだったか…。
+EN Was it overwork...?
+
+@ 269.175
+# wrestler (voiced), used 2x
+JP …チッ！
+JP こんなハズじゃ…。
+EN ...Tch!
+EN This wasn't supposed to happen...
+
+@ 269.183
+# wrestler (voiced), used 2x
+JP こんなはずじゃ～…。
+EN This wasn't how it was supposed to
+EN go...
+
+@ 269.191
+# wrestler (voiced), used 2x
+JP …クッ！
+JP 納得いかないわ。
+EN ...Kh!
+EN I can't accept this.
+
+@ 269.199
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP さすがにこれは…。
+EN Ugh...
+EN Even I can't handle this...
+
+@ 269.207
+# wrestler (voiced), used 2x
+JP これじゃ…意味ないわね…。
+EN That was... pointless...
+
+@ 269.215
+# wrestler (voiced), used 2x
+JP え～ッ！
+JP がんばったのに～。
+EN Whaaat!
+EN But I tried so hard!
+
+@ 269.223
+# wrestler (voiced), used 2x
+JP ちょっとキツ過ぎました…。
+EN That was a bit too tough...
+
+@ 269.231
+# wrestler (voiced), used 2x
+JP これじゃ意味ねえじゃんよー！
+EN What was even the point of that!?
+
+@ 269.239
+# wrestler (voiced), used 2x
+JP もう二度とやらないッ！
+JP …え～～ん！
+EN I'm never doing that again!
+EN ...Waaah!
+
+@ 269.247
+# wrestler (voiced), used 2x
+JP 私には向いていませんでしたわ…。
+EN That simply wasn't for me...
+
+@ 269.255
+# wrestler (voiced), used 2x
+JP …クッ！
+JP こんなことで！
+EN ...Kh!
+EN Beaten by something like this!
+
+@ 269.263
+# wrestler (voiced), used 2x
+JP まだまだ修行が
+JP たりなかったようです…。
+EN It seems my training
+EN still falls short...
+
+@ 269.271
+# wrestler (voiced), used 2x
+JP もぅ～ッ！
+JP 最悪…。
+EN Geez!
+EN The worst...
+
+@ 269.279
+# wrestler (voiced), used 2x
+JP こんなはずじゃ…。
+EN This wasn't supposed to happen...
+
+@ 269.287
+# wrestler (voiced), used 2x
+JP うぅッ…。
+JP 自分が情けない…。
+EN Ugh...
+EN I'm pathetic...
+
+@ 269.295
+# wrestler (voiced), used 2x
+JP ……ダメだったの……？
+EN ...It didn't work...?
+
+@ 269.303
+# wrestler (voiced), used 2x
+JP きちんと段取りを組まなくては
+JP 効率が悪いだけですね。
+EN Without proper planning,
+EN it's simply inefficient.
+
+@ 269.311
+# wrestler (voiced), used 2x
+JP …ああ！
+JP こんな…。
+EN ...Ah!
+EN How could...
+
+@ 269.319
+# wrestler (voiced), used 2x
+JP ……ダメだった……。
+EN ...It didn't work...
+
+@ 269.327
+# wrestler (voiced), used 2x
+JP こんなの無理だよ…。
+EN This is impossible...
+
+@ 269.335
+# wrestler (voiced), used 2x
+JP トックンなんて嫌いだ！
+EN I hate special training!
+
+@ 269.351
+# wrestler (voiced), used 2x
+JP ハァ～…。
+JP 最悪や…。
+EN Haaah...
+EN This stinks...
+
+@ 269.359
+# wrestler (voiced), used 2x
+JP む～～ッ！
+JP だからヤだったのにぃ…。
+EN Mmmm!
+EN That's why I didn't wanna...
+
+@ 269.367
+# wrestler (voiced), used 2x
+JP ハァ～…。
+JP こんなはずじゃ…。
+EN Haaah...
+EN This wasn't supposed to happen...
+
+@ 269.375
+# wrestler (voiced), used 2x
+JP まさか…失敗するなんて…。
+EN I can't believe... it failed...
+
+@ 269.383
+# wrestler (voiced), used 2x
+JP 納得いきませんね…。
+EN I'm not satisfied with this...
+
+@ 269.391
+# wrestler (voiced), used 2x
+JP あんまりいいものでは
+JP ありませんね～…。
+EN That wasn't
+EN very pleasant~...
+
+@ 269.399
+# wrestler (voiced), used 2x
+JP ふぇーん！
+JP だからイヤだったんだよぅ…。
+EN Waaah!
+EN That's why I didn't wanna...
+
+@ 269.407
+# wrestler (voiced), used 2x
+JP 二度とやるか！
+EN Never again!
+
+@ 269.415
+# wrestler (voiced), used 2x
+JP こんなもん…。
+JP 二度とやるか！
+EN This garbage...
+EN Never again!
+
+@ 269.423
+# wrestler (voiced), used 2x
+JP クソッ…！
+JP あたしもヤキが回ったかねぇ…。
+EN Dammit...!
+EN Am I losing my touch...?
+
+@ 269.439
+# wrestler (voiced), used 2x
+JP ああーーッ！
+JP イライラするッ！
+EN Aaargh!
+EN This is so irritating!
+
+@ 269.456
+# wrestler (voiced)
+JP 何も言うな…。
+EN Don't say a word...
+
+@ 269.464
+# wrestler (voiced)
+JP あは…失敗、シッパイ…。
+EN Aha... a flop, a flop...
+
+@ 269.472
+# wrestler (voiced)
+JP フンッ！
+JP 調子が悪かったのよ…。
+EN Hmph!
+EN I was just off today...
+
+@ 269.480
+# wrestler (voiced)
+JP ハァ～…。
+JP 逆効果…。
+EN Haaah...
+EN It backfired...
+
+@ 269.488
+# wrestler (voiced)
+JP この結果は想定外…。
+EN This result was unexpected...
+
+@ 269.496
+# wrestler (voiced)
+JP 失敗……。
+EN Failure...
+
+@ 269.504
+# wrestler (voiced)
+JP うぅ…。
+JP もうヤダ…。
+EN Ugh...
+EN I've had enough...
+
+@ 269.512
+# wrestler (voiced)
+JP オーバーワーク…かな…？
+EN Overwork... maybe...?
+
+@ 269.520
+# wrestler (voiced)
+JP ムダな時間を
+JP 過ごしてしまいましたわ。
+EN What a waste
+EN of my time.
+
+@ 269.528
+# wrestler (voiced)
+JP あれれ…。
+JP すごく疲れました～…。
+EN Oh dear...
+EN I'm so tired~...
+
+@ 269.536
+# wrestler (voiced)
+JP …ぜんぜんダメだぁ…。
+EN ...That was a total bust...
+
+@ 269.544
+# wrestler (voiced)
+JP まったく…ムダかよ…。
+EN Seriously... all for nothing...?
+
+@ 269.552
+# wrestler (voiced)
+JP 少しムリをしすぎましたね…。
+EN I pushed myself a bit too hard...
+
+@ 269.560
+# wrestler (voiced)
+JP ハァ～…。
+JP 失敗しちゃった…。
+EN Haaah...
+EN I messed up...
+
+@ 269.568
+# wrestler (voiced)
+JP ハゥ～…。
+EN Hauuu...
+
+@ 269.576
+# wrestler (voiced)
+JP ムリはダメですね…。
+EN No overdoing it, huh...
+
+@ 269.1007
+# Secretary
+JP 特訓に失敗しました…。
+JP 信頼度が下がってしまった
+JP ようです…。
+EN The special training failed...
+EN It seems her Trust
+EN has gone down...

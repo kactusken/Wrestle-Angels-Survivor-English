@@ -1,0 +1,100 @@
+# Event script entry 058 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 058.88
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP 菊池来ました！
+EN Hiii!
+EN Kikuchi's here!
+
+@ 058.94
+# President, case 0, used 2x
+JP おお、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ているんだ。
+EN Oh, you're here. Actually, you've
+EN gotten an offer for a photo book.
+
+@ 058.102
+# wrestler (voiced), case 0, used 2x
+JP ヌードならお断り！
+EN If it's nude, the answer's no!
+
+@ 058.108
+# President, case 0, used 2x
+JP 大丈夫。
+JP 水着の写真集だ。
+EN Don't worry.
+EN It's a swimsuit photo book.
+
+@ 058.116
+# wrestler (voiced), case 0, used 2x
+JP じゃ、受けます！
+EN Then I'll do it!
+
+@ 058.122
+# President, case 0, used 2x
+JP 相変わらず即決だな。
+EN Quick to decide as always.
+
+@ 058.130
+# wrestler (voiced), case 0, used 2x
+JP 悩んでたっていいことないし！
+EN Worrying never does any good!
+
+@ 058.136
+# President, case 0, used 2x
+JP 確かにそうかもな。
+EN You may have a point.
+
+@ 058.231
+# wrestler (voiced), case 0, used 2x
+JP …へー。
+JP これがあたしかぁ…。
+EN ...Huh.
+EN So this is me...
+
+@ 058.237
+# President, case 0, used 2x
+JP うん、かわいいな。
+EN Yeah, you're cute.
+
+@ 058.245
+# wrestler (voiced), case 0, used 2x
+JP エッヘへ～！
+JP 惚れた？
+EN Ehehe!
+EN Did you fall for me?
+
+@ 058.251
+# President, case 0, used 2x
+JP ああ、惚れた、惚れた。
+EN Yeah, yeah, I fell for you.
+
+@ 058.259
+# wrestler (voiced), case 0, used 2x
+JP アッハハハッ！
+JP 社長ってば正直者ー！
+EN Ahahaha!
+EN You're so honest, Boss!
+
+@ 058.265
+# President, case 0, used 2x
+JP 正直者は嫌いか？
+EN Don't like honest guys?
+
+@ 058.273
+# wrestler (voiced), case 0, used 2x
+JP ううん！
+JP 好きだよ。
+JP あたしも惚れちゃいそう！
+EN Nope! I like 'em.
+EN I might fall for you too!

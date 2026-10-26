@@ -1,0 +1,46 @@
+# Event script entry 187 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 187.32
+# Secretary, used 75x
+JP バカンスに出発します。
+EN We're off on vacation.
+
+@ 187.49
+# President, used 75x
+JP うーん、さすが南国。
+JP 太陽が熱い。
+EN Mmm, the tropics.
+EN The sun is scorching.
+
+@ 187.51
+# President, used 75x
+JP 一休みするか…。
+EN Guess I'll take a break...
+
+@ 187.75
+# President, used 7x
+JP 久しぶりにゆっくりできたな。
+EN It's been a while since I could
+EN relax.
+
+@ 187.77
+# President, used 5x
+JP また来月からがんばるか。
+EN Back to work next month, I guess.
+
+@ 187.94
+# Secretary, used 75x
+JP 皆さん、楽しめたようですね。
+JP 信頼度もアップしたようですので
+JP きっと良い結果に繋がりますね。
+EN Everyone seems to have had fun.
+EN Their trust has gone up, too,
+EN so it's sure to pay off.

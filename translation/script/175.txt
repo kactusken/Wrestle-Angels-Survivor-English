@@ -1,0 +1,446 @@
+# Event script entry 175 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 175.37
+# wrestler (voiced), used 2x
+JP ありがとうございます！
+JP 一生懸命がんばります～！
+EN Thank you!
+EN I'll try my very hardest!
+
+@ 175.44
+# wrestler (voiced), used 2x
+JP そうこなくっちゃー！
+EN That's what I like to hear!
+
+@ 175.51
+# wrestler (voiced), used 2x
+JP フッ…。
+JP 当然の結果ですね。
+EN Heh...
+EN A natural result.
+
+@ 175.58
+# wrestler (voiced), used 2x
+JP ありがとうございます！
+JP 精一杯がんばりますので
+JP よろしくお願いします。
+EN Thank you!
+EN I'll do my very best,
+EN so I'm in your hands.
+
+@ 175.65
+# wrestler (voiced), used 2x
+JP やったー！
+JP 社長さんのために
+JP がんばっちゃうね！
+EN Yay!
+EN I'll do my best
+EN for you, Boss!
+
+@ 175.72
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP がんばります！
+EN Thank you.
+EN I'll do my best!
+
+@ 175.79
+# wrestler (voiced), used 2x
+JP やったーッ！
+JP あたし一生懸命がんばるから！
+EN Yaaay!
+EN I'll try really, really hard!
+
+@ 175.86
+# wrestler (voiced), used 2x
+JP やったーッ！
+JP ありがとうございます！
+EN Yaaay!
+EN Thank you!
+
+@ 175.93
+# wrestler (voiced), used 3x
+JP ありがとうございます！
+JP がんばります！
+EN Thank you!
+EN I'll do my best!
+
+@ 175.100
+# wrestler (voiced), used 6x
+JP ありがとうございます。
+JP がんばります。
+EN Thank you.
+EN I'll do my best.
+
+@ 175.107
+# wrestler (voiced), used 2x
+JP どうも…。
+JP がんばるよ。
+EN Thanks...
+EN I'll do my best.
+
+@ 175.114
+# wrestler (voiced), used 2x
+JP やったー！
+JP これからがんばります！
+EN Yay!
+EN I'll work hard from now on!
+
+@ 175.121
+# wrestler (voiced), used 2x
+JP ほんと？
+JP ありがとう！
+JP 一生懸命がんばるわ！
+EN Really?
+EN Thank you!
+EN I'll try my very hardest!
+
+@ 175.128
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP 精一杯がんばりますね。
+EN Thank you.
+EN I'll do my very best.
+
+@ 175.135
+# wrestler (voiced), used 2x
+JP オーッホッホッホ！
+JP まぁ当然ですわね！
+EN Oh-ho-ho-ho!
+EN Well, naturally!
+
+@ 175.142
+# wrestler (voiced), used 2x
+JP …わぁ！
+JP やったーッ！
+JP ありがとうございまーす！
+EN ...Wow!
+EN Yaaay!
+EN Thank you sooo much!
+
+@ 175.149
+# wrestler (voiced), used 2x
+JP ありがとうございます！
+JP 精一杯がんばりますッ！
+EN Thank you!
+EN I'll do my very best!
+
+@ 175.156
+# wrestler (voiced), used 2x
+JP ウスッ！
+JP 期待にそえるようがんばるぜ！
+EN Yessir!
+EN I'll do my best to live up to it!
+
+@ 175.163
+# wrestler (voiced), used 2x
+JP よかった…。
+JP ほっとしたらお腹すいてきちゃった。
+EN Phew...
+EN Now that I'm relieved, I'm starving.
+
+@ 175.170
+# wrestler (voiced), used 2x
+JP ありがとう…。
+EN Thanks...
+
+@ 175.177
+# wrestler (voiced), used 2x
+JP 一生懸命がんばりますね。
+EN I'll try my very hardest.
+
+@ 175.191
+# wrestler (voiced), used 2x
+JP そうこなくっちゃ！
+JP がんばっちゃうよ！
+EN That's what I like to hear!
+EN I'm gonna give it my all!
+
+@ 175.198
+# wrestler (voiced), used 2x
+JP ありがとうございます！
+JP 一生懸命がんばります！
+JP よろしくお願いしますッ！
+EN Thank you!
+EN I'll try my very hardest!
+EN I'm in your hands!
+
+@ 175.205
+# wrestler (voiced), used 2x
+JP 思いっきり暴れてやるから
+JP 期待してろよー！
+EN I'm gonna cut loose,
+EN so look forward to it!
+
+@ 175.212
+# wrestler (voiced), used 2x
+JP わぁい！
+JP やった～ッ！
+JP かわいいコスチューム着れるよね？
+EN Yaaay!
+EN I did it!
+EN I get to wear cute costumes, right?
+
+@ 175.219
+# wrestler (voiced), used 2x
+JP ご期待にそえるよう
+JP がんばりますわ。
+EN I shall do my best
+EN to meet your expectations.
+
+@ 175.226
+# wrestler (voiced), used 2x
+JP どうも…。
+EN Thanks...
+
+@ 175.233
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP がんばりますね。
+EN Thank you.
+EN I'll do my best.
+
+@ 175.240
+# wrestler (voiced), used 2x
+JP と～ぜんだねッ！
+JP がんばるよ！
+EN Well, obviously!
+EN I'll do my best!
+
+@ 175.247
+# wrestler (voiced), used 2x
+JP ありがとうございます！
+JP 精一杯がんばります！
+EN Thank you!
+EN I'll give it my all!
+
+@ 175.254
+# wrestler (voiced), used 2x
+JP ありがとうございます！
+JP 一生懸命がんばりますッ！
+EN Thank you!
+EN I'll try my very hardest!
+
+@ 175.261
+# wrestler (voiced), used 2x
+JP ……がんばります……。
+EN ......I'll do my best......
+
+@ 175.268
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP ベストを尽くします。
+EN Thank you.
+EN I'll do my best.
+
+@ 175.275
+# wrestler (voiced), used 2x
+JP さすが…。
+JP 確かな目をしていらっしゃる。
+EN Impressive...
+EN You have a discerning eye.
+
+@ 175.282
+# wrestler (voiced), used 2x
+JP ……あ…ありがとうございます……。
+JP ……うれしいです……。
+EN ......Th...thank you......
+EN ......I'm so happy......
+
+@ 175.289
+# wrestler (voiced), used 2x
+JP やったー！
+JP ラッキー！
+JP ボクがんばるよ！
+EN Yay!
+EN Lucky!
+EN I'll do my best!
+
+@ 175.296
+# wrestler (voiced), used 2x
+JP よぉし！
+JP 真帆はがんばるぞ！
+EN Alright!
+EN Maho will do her best!
+
+@ 175.310
+# wrestler (voiced), used 2x
+JP よーし！
+JP まあ期待しとって！
+EN Alright!
+EN Ya can count on me!
+
+@ 175.317
+# wrestler (voiced), used 2x
+JP えっ、やった～！
+JP あ…いえ…うれしいです。
+JP ありがとうございます！
+EN Huh, yaaay!
+EN Ah... I mean... I'm very happy.
+EN Thank you!
+
+@ 175.324
+# wrestler (voiced), used 2x
+JP あ、ありがとうございます！
+JP がんばります！
+EN Th-thank you!
+EN I'll do my best!
+
+@ 175.328
+# wrestler (voiced), used 2x
+JP これで実家に
+JP あ、いやなんでもないです。
+EN Now my family can...
+EN Ah, no, never mind.
+
+@ 175.335
+# wrestler (voiced), used 2x
+JP はいッ！
+JP ありがとうございますッ！
+EN Yes!
+EN Thank you!
+
+@ 175.342
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP 期待は裏切りませんから。
+EN Thank you.
+EN I won't let you down.
+
+@ 175.349
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP 精一杯がんばります～。
+EN Thank you.
+EN I'll do my very best.
+
+@ 175.356
+# wrestler (voiced), used 2x
+JP フッフッフ～。
+JP まあ任せなさいって～！
+EN Heh heh heh!
+EN Just leave it to me!
+
+@ 175.363
+# wrestler (voiced), used 4x
+JP まぁ当然の結果だな。
+EN Well, that's only natural.
+
+@ 175.370
+# wrestler (voiced), used 2x
+JP あたしの歓迎会はどこでやるんだ？
+EN So where's my welcome party?
+
+@ 175.377
+# wrestler (voiced), used 2x
+JP ありがとよ！
+JP 後悔はさせないからさ！
+EN Thanks!
+EN You won't regret it!
+
+@ 175.384
+# wrestler (voiced), used 2x
+JP 受かったからには
+JP その期待に応えてみせるぞ。
+EN Now that I've passed,
+EN I'll live up to your expectations.
+
+@ 175.391
+# wrestler (voiced), used 2x
+JP 早く戦わせてくれよッ！
+EN Let me fight already!
+
+@ 175.406
+# wrestler (voiced)
+JP ありがとう。
+EN Thank you.
+
+@ 175.420
+# wrestler (voiced)
+JP キャー！
+JP やったー！
+JP …コホン、よろしくね。
+EN Eeek!
+EN Yaaay!
+EN ...Ahem, nice to meet you.
+
+@ 175.427
+# wrestler (voiced)
+JP 本当！？
+JP ありがとう！
+EN Really?!
+EN Thank you!
+
+@ 175.441
+# wrestler (voiced)
+JP 運命の歯車が廻り始めた……。
+EN The gears of fate have begun to
+EN turn......
+
+@ 175.455
+# wrestler (voiced)
+JP 力の限りがんばります！
+EN I'll do my best with all my
+EN strength!
+
+@ 175.462
+# wrestler (voiced)
+JP あなたの団体とやらに
+JP 入ってあげてもよろしくってよ。
+EN I suppose I could deign to join
+EN this so-called promotion of yours.
+
+@ 175.469
+# wrestler (voiced)
+JP え～と…。
+JP 合格ですか～？
+EN Ummm...
+EN Did I pass?
+
+@ 175.476
+# wrestler (voiced)
+JP まかせてよ！
+JP パワーには自信あるんだ！
+EN Leave it to me!
+EN I've got power to spare!
+
+@ 175.483
+# wrestler (voiced)
+JP マジかよ！
+JP うおお、サイコーッ！
+EN Seriously?!
+EN Whoa, that's awesome!
+
+@ 175.490
+# wrestler (voiced)
+JP ありがとうございます。
+JP がんばっていこうと思います。
+EN Thank you.
+EN I intend to work hard.
+
+@ 175.497
+# wrestler (voiced)
+JP 本当ですか！？
+JP ありがとうございます。
+EN Really?!
+EN Thank you.
+
+@ 175.504
+# wrestler (voiced)
+JP やったー！
+JP ありがとうございます！
+EN Yaaay!
+EN Thank you!
+
+@ 175.511
+# wrestler (voiced)
+JP 採用ありがとうございます。
+EN Thank you for hiring me.

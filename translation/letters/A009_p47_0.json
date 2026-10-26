@@ -1,0 +1,14 @@
+{
+ "english": "Title Captured!! | Title Defended!!",
+ "boxes": [[0, 2, 282, 62], [0, 65, 282, 62]],
+ "draw": "system.draw",
+ "font": "BarlowCondensed-ExtraBold.ttf",
+ "cap": 35,
+ "margin": 5,
+ "ground": "transparent",
+ "pad": 0,
+ "fill": [255, 156, 0],
+ "rings": [{"w": 5, "rgb": [255, 255, 255], "a": 110, "blur": 1}, {"w": 4, "rgb": [255, 255, 255]}],
+ "notes": "title match result captions (ベルト奪取!! / ベルト防衛!!), two lines in their own halves; orange fill, white outline with a soft edge, transparent ground; 'Title' as WAS2's BATTLE_WIN01/02 (tools/letter_ext/system.py)",
+ "catalogue": {"source": "/A000/A009.", "width": 512, "height": 128, "bpp": 8, "category": "banner", "japanese": "ベルト奪取!! / ベルト防衛!!"}
+}

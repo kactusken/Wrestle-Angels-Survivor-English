@@ -1,0 +1,62 @@
+# Event script entry 303 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 303.159
+# President, case 6
+JP {name:4}選手権結果。
+EN {name:4} Championship results.
+
+@ 303.162
+# President, case 6
+JP {name:0}選手が
+JP {name:5}回目のタイトル防衛に成功。
+EN {name:0} succeeded in
+EN title defense no. {name:5}.
+
+@ 303.165
+# President, case 6
+JP {name:0}、
+JP {name:1}組が
+JP {name:5}回目のタイトル防衛に成功。
+EN {name:0} &
+EN {name:1} succeeded in
+EN title defense no. {name:5}.
+
+@ 303.168
+# President, case 6, used 2x
+JP {name:0}選手が
+JP タイトルの奪取に成功。
+EN {name:0} has won
+EN the title.
+
+@ 303.170
+# President, case 6
+JP {name:2}選手は
+JP {name:5}回目の防衛に失敗。
+EN {name:2} failed in
+EN title defense no. {name:5}.
+
+@ 303.173
+# President, case 6, used 2x
+JP {name:0}、
+JP {name:1}組が
+JP タイトルの奪取に成功。
+EN {name:0} &
+EN {name:1} have won
+EN the title.
+
+@ 303.175
+# President, case 6
+JP {name:2}、
+JP {name:3}組は
+JP {name:5}回目の防衛に失敗。
+EN {name:2} &
+EN {name:3} failed in
+EN title defense no. {name:5}.

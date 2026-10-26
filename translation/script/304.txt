@@ -1,0 +1,54 @@
+# Event script entry 304 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 304.92
+# President, case 1
+JP 各地大雪により大混乱中です。
+JP 今日の試合にも大きな影響を与えました。
+JP 残念ながら試合は開催できません。
+EN Heavy snow is causing chaos all
+EN over, and today's show is hit hard.
+EN Sadly, the show has to be canceled.
+
+@ 304.103
+# President, case 2
+JP 各地台風により大混乱中です。
+JP 今日の試合にも大きな影響を与えました。
+JP 残念ながら試合は開催できません。
+EN A typhoon is causing chaos all
+EN over, and today's show is hit hard.
+EN Sadly, the show has to be canceled.
+
+@ 304.114
+# President, case 3
+JP 提携団体{name:2}からの選手が
+JP 日本に到着していません。
+JP 残念ながら試合は開催できません。
+EN The wrestlers from {name:2}
+EN haven't arrived in Japan.
+EN Sadly, the show has to be canceled.
+
+@ 304.125
+# President, case 4, used 2x
+JP 選手が会場に向かう途中で
+JP 大きな交通事故が起こりました。
+JP 残念ながら試合は開催できません。
+EN There was a major traffic accident
+EN on the wrestlers' way to the venue.
+EN Sadly, the show has to be canceled.
+
+@ 304.147
+# President, case 6
+JP 大規模な地震が発生しました。
+JP 今日の試合にも大きな影響を与えました。
+JP 残念ながら試合は開催できません。
+EN A major earthquake has struck,
+EN and today's show is hit hard.
+EN Sadly, the show has to be canceled.

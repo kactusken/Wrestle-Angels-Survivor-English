@@ -1,0 +1,1776 @@
+# Event script entry 275 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 275.3
+# President
+JP 最近試合に集中できていないように
+JP 見えるんだが…。
+EN You don't seem to be focused
+EN on your matches lately...
+
+@ 275.13
+# wrestler (voiced), used 2x
+JP はぁ…。
+JP 社長はなんでもお見通しですね…。
+EN Sigh...
+EN You see right through me, Boss...
+
+@ 275.20
+# wrestler (voiced), used 2x
+JP そ、そんなことないですよッ！
+EN Th-that's not true!
+
+@ 275.27
+# wrestler (voiced), used 2x
+JP …そんなこと…ないですよ…。
+EN ...That's...not true...
+
+@ 275.34
+# wrestler (voiced), used 2x
+JP いえ、社長。
+JP そんな事は決してありません！
+EN No, Boss.
+EN That is absolutely not the case!
+
+@ 275.41
+# wrestler (voiced), used 2x
+JP やっぱり社長にはわかるんだ…。
+EN I knew you'd be able to tell,
+EN Boss...
+
+@ 275.47
+# other, used 2x
+JP 気のせいだと思いますが…。
+EN I think it's just your
+EN imagination...
+
+@ 275.55
+# wrestler (voiced), used 2x
+JP やばッ…。
+JP バ、バレてた！？
+EN Uh-oh...
+EN Y-you noticed?!
+
+@ 275.62
+# wrestler (voiced), used 2x
+JP 社長、聞いて～！
+JP ふぇ～ん！
+JP ひ、ひっく…。
+EN Boss, listen to me!
+EN Waaah!
+EN *sniff*... *hic*...
+
+@ 275.69
+# wrestler (voiced), used 2x
+JP そ、そうですか…。
+EN I-is that so...
+
+@ 275.83
+# wrestler (voiced), used 2x
+JP そ、そんなことは…。
+EN Th-that's not...
+
+@ 275.90
+# wrestler (voiced), used 2x
+JP えっと…。
+JP そのぉ…。
+EN Um...
+EN Well...
+
+@ 275.97
+# wrestler (voiced), used 2x
+JP ん～…。
+JP そう？
+EN Hmm...
+EN Really?
+
+@ 275.104
+# wrestler (voiced), used 8x
+JP …そうですか？
+EN ...Is that so?
+
+@ 275.111
+# wrestler (voiced), used 2x
+JP そうかしら？
+EN Is that so?
+
+@ 275.118
+# wrestler (voiced), used 2x
+JP そう…かなぁ……。
+EN I...wonder......
+
+@ 275.132
+# wrestler (voiced), used 2x
+JP …そう…かな？
+EN ...You...think so?
+
+@ 275.139
+# wrestler (voiced), used 2x
+JP そうかなぁ？
+EN You think so?
+
+@ 275.146
+# wrestler (voiced), used 8x
+JP …そう？
+EN ...Really?
+
+@ 275.153
+# wrestler (voiced), used 2x
+JP そうですか…？
+EN Is that so...?
+
+@ 275.174
+# wrestler (voiced), used 2x
+JP すみません…。
+JP 実はそうなんです…。
+EN I'm sorry...
+EN Actually, you're right...
+
+@ 275.181
+# wrestler (voiced), used 2x
+JP そ、そんなこたねぇよ…。
+EN Th-that ain't true...
+
+@ 275.188
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP バレちゃった…。
+EN Ugh...
+EN You found out...
+
+@ 275.195
+# wrestler (voiced), used 2x
+JP そんな…。
+JP 社長の気のせいですわ。
+EN Oh, please...
+EN It's just your imagination, Boss.
+
+@ 275.202
+# wrestler (voiced), used 8x
+JP …そうですか。
+EN ...I see.
+
+@ 275.230
+# wrestler (voiced), used 2x
+JP そ、そ…そんな風に見えますか？
+EN D-d...do I really look that way?
+
+@ 275.237
+# wrestler (voiced), used 2x
+JP ……ふーん……？
+EN ......Hmm......?
+
+@ 275.251
+# wrestler (voiced), used 2x
+JP そう思われても仕方ありません…。
+EN I can't blame you for thinking so...
+
+@ 275.258
+# wrestler (voiced), used 2x
+JP ……そ、そうですね……。
+EN ......Y-you're right......
+
+@ 275.272
+# wrestler (voiced), used 2x
+JP そんなことはない…。
+EN That's not so...
+
+@ 275.286
+# wrestler (voiced), used 2x
+JP …そう見える？
+EN ...Does it look like that?
+
+@ 275.293
+# wrestler (voiced), used 2x
+JP …えッ？
+JP そ、そうですか？
+EN ...Huh?
+EN I-is that so?
+
+@ 275.307
+# wrestler (voiced), used 2x
+JP そんなこと…ない…です…。
+EN That's...not...true...
+
+@ 275.321
+# wrestler (voiced), used 2x
+JP そうでしょうか～。
+EN I wonder about that.
+
+@ 275.335
+# wrestler (voiced), used 4x
+JP はあ！？
+EN Huh?!
+
+@ 275.349
+# wrestler (voiced), used 2x
+JP そう見えるかい？
+EN That how it looks to you?
+
+@ 275.356
+# wrestler (voiced), used 2x
+JP …そうか？
+EN ...Is that so?
+
+@ 275.363
+# wrestler (voiced), used 2x
+JP ああ？
+EN Huh?
+
+@ 275.384
+# wrestler (voiced)
+JP あは…。
+EN Aha...
+
+@ 275.391
+# wrestler (voiced)
+JP …社長……。
+EN ...Boss......
+
+@ 275.398
+# wrestler (voiced)
+JP そう？
+EN Really?
+
+@ 275.405
+# wrestler (voiced)
+JP さすがに社長の目は
+JP ごまかせませんね。
+EN I really can't fool
+EN your eyes, Boss.
+
+@ 275.412
+# wrestler (voiced)
+JP そう……？
+EN Really......?
+
+@ 275.419
+# wrestler (voiced)
+JP …そ、そうですか？
+EN ...I-is that so?
+
+@ 275.426
+# wrestler (voiced)
+JP あはは…。
+JP そう見えます？
+EN Ahaha...
+EN Does it look that way?
+
+@ 275.433
+# wrestler (voiced)
+JP あなたの目には
+JP そう見えるのでしょうね。
+EN I suppose that is
+EN how it looks to you.
+
+@ 275.440
+# wrestler (voiced)
+JP そうなんですか～？
+EN Is that sooo?
+
+@ 275.447
+# wrestler (voiced)
+JP うーん…。
+JP そう見えるかな…。
+EN Hmm...
+EN Does it look like that...
+
+@ 275.454
+# wrestler (voiced)
+JP …そっか？
+EN ...You think?
+
+@ 275.468
+# wrestler (voiced)
+JP ひょっとしてバレてます？
+EN Could it be you've noticed?
+
+@ 275.475
+# wrestler (voiced)
+JP …社長…。
+JP 社長もそう思います？
+EN ...Boss...
+EN You think so too, Boss?
+
+@ 275.482
+# wrestler (voiced)
+JP そう見えますか…？
+EN Does it look that way...?
+
+@ 275.853
+# President
+JP 何かあったのか？
+EN Did something happen?
+
+@ 275.863
+# wrestler (voiced), used 2x
+JP 最近スランプ気味なんです…。
+EN I've been in a bit of a slump
+EN lately...
+
+@ 275.870
+# wrestler (voiced), used 2x
+JP 実はちょっと体調が悪くて…。
+JP いい試合ができていないような
+JP 気がして…。
+EN Actually, I haven't been feeling
+EN well... I feel like I haven't been
+EN having good matches...
+
+@ 275.877
+# wrestler (voiced), used 2x
+JP ちょっと気合いが
+JP 空回りしているような気がして…。
+EN I feel like my fighting spirit
+EN has just been spinning its wheels...
+
+@ 275.884
+# wrestler (voiced), used 2x
+JP 社長から見て
+JP 私の技術もう限界だと
+JP 思います？
+EN Boss, do you think
+EN my skills have already
+EN hit their limit?
+
+@ 275.891
+# wrestler (voiced), used 2x
+JP …みんな強くて
+JP 私の実力じゃまだまだかなって…。
+EN ...Everyone's so strong, I feel
+EN like I'm just not good enough yet...
+
+@ 275.898
+# wrestler (voiced), used 2x
+JP 続ける自信がなくなりました…。
+JP もう限界のような気がして…。
+EN I've lost the confidence to go on...
+EN I feel like I've hit my limit...
+
+@ 275.905
+# wrestler (voiced), used 2x
+JP 最近思うように
+JP 技が出せないんです…。
+EN Lately I can't pull off
+EN my moves the way I want...
+
+@ 275.912
+# wrestler (voiced), used 2x
+JP 最近全然勝てないし…。
+JP ふ、ふえ～ん！
+JP もうダメかなぁって…。
+EN I can't win at all lately...
+EN W-waaah!
+EN I wonder if I'm done for...
+
+@ 275.919
+# wrestler (voiced), used 2x
+JP わたし、レスラーとして
+JP ダメなんでしょうか？
+EN Am I no good
+EN as a wrestler?
+
+@ 275.926
+# wrestler (voiced), used 2x
+JP やはり空手家の私には
+JP プロレスの技術がたりないような
+JP 気がして…。
+EN I feel like, as a karateka,
+EN I just don't have enough
+EN pro wrestling skill...
+
+@ 275.933
+# wrestler (voiced), used 2x
+JP フゥ…。
+JP あたしの理想にあたしの器は
+JP 届かない気がしてさ…。
+EN Sigh...
+EN I feel like I'm just not big
+EN enough for my own ideals...
+
+@ 275.940
+# wrestler (voiced), used 2x
+JP こういうのスランプっていうの…？
+EN Is this what they call a slump...?
+
+@ 275.947
+# wrestler (voiced), used 2x
+JP なんかプロレスよりイベントの方が
+JP 私を必要としてる気がして…。
+EN I feel like events need me
+EN more than pro wrestling does...
+
+@ 275.954
+# wrestler (voiced), used 2x
+JP 実は最近、試合展開が
+JP ワンパターンになっているんじゃ
+JP ないかって…。
+EN Actually, I'm worried my matches
+EN have been getting kind of
+EN repetitive lately...
+
+@ 275.961
+# wrestler (voiced), used 2x
+JP まあ、強いてあげれば
+JP 美しすぎる上に強すぎるこの私は
+JP 存在自体が罪なんじゃないかと…。
+EN Well, if I had to say, I wonder if
+EN being too beautiful AND too strong
+EN makes my very existence a sin...
+
+@ 275.968
+# wrestler (voiced), used 2x
+JP 私ってアイドルレスラーとしてしか
+JP 必要とされてないのかなって…。
+EN I wonder if I'm only wanted
+EN as an idol wrestler...
+
+@ 275.975
+# wrestler (voiced), used 2x
+JP なんだかプロレスに対して
+JP 急に自信がなくなってしまって…。
+JP もう限界なんじゃないかって…。
+EN All of a sudden I've lost my
+EN confidence in pro wrestling...
+EN I wonder if I've hit my limit...
+
+@ 275.982
+# wrestler (voiced), used 2x
+JP 今までパワーを前面に出す
+JP スタイルでやってきたんだけど…。
+JP もう古くさいのかって迷ってんだよ。
+EN I've always wrestled a style
+EN built on power, but...
+EN I'm wondering if it's outdated now.
+
+@ 275.989
+# wrestler (voiced), used 2x
+JP 実は最近食欲なくって…。
+JP 私、体力落ちたかも…。
+EN Actually, I've had no appetite
+EN lately...
+EN Maybe I've lost some stamina...
+
+@ 275.996
+# wrestler (voiced), used 2x
+JP 最近納得のいく試合が
+JP できなくて…。
+EN Lately I haven't had a match
+EN I was satisfied with...
+
+@ 275.1003
+# wrestler (voiced), used 2x
+JP なんだか最近関節技のキレが
+JP なくなってるように思うんです…。
+EN I feel like my submission holds
+EN have lost their edge lately...
+
+@ 275.1010
+# wrestler (voiced), used 2x
+JP 別に…ただ、あたしこれ以上
+JP 強くなれないんじゃないかと
+JP 思って…。
+EN Nothing... I just wonder
+EN if I can't get any
+EN stronger than this...
+
+@ 275.1017
+# wrestler (voiced), used 2x
+JP あたし最近全然リングの上で
+JP 活躍できないから…。
+JP 自信なくすなーって…。
+EN I haven't been doing anything
+EN in the ring lately...
+EN It's killing my confidence...
+
+@ 275.1024
+# wrestler (voiced), used 2x
+JP 最近技のキレが悪い気がして…。
+JP 体調がよくないのかな？
+EN My moves feel off lately...
+EN Maybe I'm not in good shape?
+
+@ 275.1031
+# wrestler (voiced), used 2x
+JP なんだよ…！
+JP 他のやつらばっかり
+JP チヤホヤしやがって！
+EN What the hell...!
+EN You're always fussing
+EN over everybody else!
+
+@ 275.1035
+# wrestler (voiced), used 2x
+JP もうオレのこといらないんだろ！
+EN You don't need me anymore, do you?!
+
+@ 275.1042
+# wrestler (voiced), used 2x
+JP グス…。
+JP 社長、あたしのこと
+JP お荷物だと思ってるでしょ？
+EN *sniff*...
+EN Boss, you think I'm
+EN dead weight, don't you?
+
+@ 275.1049
+# wrestler (voiced), used 2x
+JP はあ、なんでもお見通しなんですね。
+JP 私ってレスラーに向いていないような
+JP 気がして…？
+EN Sigh, you see right through me.
+EN I feel like maybe I'm just
+EN not cut out to be a wrestler...
+
+@ 275.1056
+# wrestler (voiced), used 2x
+JP …最近、私の技
+JP キレがなくなった気が…。
+EN ...Lately I feel like my moves
+EN have lost their edge...
+
+@ 275.1063
+# wrestler (voiced), used 2x
+JP 試合で私の技が通用していない
+JP 気がするんです。
+EN I feel like my moves just
+EN aren't working in my matches.
+
+@ 275.1070
+# wrestler (voiced), used 2x
+JP あたしみたいなのが
+JP プロレスやってくのは
+JP 難しいのかな～って…。
+EN I wonder if it's too hard
+EN for someone like me
+EN to make it in pro wrestling...
+
+@ 275.1077
+# wrestler (voiced), used 2x
+JP 「あたしの拳で頂上を！」なんて
+JP この世界じゃ
+JP 甘かったのかなーって…。
+EN "I'll punch my way to the top!"
+EN Maybe that was too naive
+EN for this world...
+
+@ 275.1084
+# wrestler (voiced), used 2x
+JP この世界でやっていけるか
+JP 最近不安なんです…。
+JP もう限界なんじゃないかって…。
+EN Lately I'm worried whether I can
+EN make it in this world...
+EN I wonder if I've hit my limit...
+
+@ 275.1091
+# wrestler (voiced), used 2x
+JP ……みんなわたしのこと
+JP ……よくわからないって……。
+EN ......Everyone says they
+EN ......don't get me......
+
+@ 275.1098
+# wrestler (voiced), used 2x
+JP …はい。
+JP がんばっても
+JP ムダな気がしてしまって…。
+EN ...Yes.
+EN I feel like no matter how hard
+EN I try, it's no use...
+
+@ 275.1105
+# wrestler (voiced), used 2x
+JP なんびとも時移ろえば
+JP 弱っていくものです…。
+JP 私とて…もう……。
+EN As time passes, everyone
+EN grows weaker...
+EN Even I...am already......
+
+@ 275.1112
+# wrestler (voiced), used 2x
+JP ……あ、あの、えっと……。
+JP ……私、もう……
+JP ……レスラーやっていけない……？
+EN ......Um, uh, well......
+EN ......Am I......no longer able
+EN ......to be a wrestler......?
+
+@ 275.1119
+# wrestler (voiced), used 2x
+JP ボク、強くなれないような
+JP 気がして…。
+JP このままじゃ厳しいかもしれないし。
+EN I feel like I just
+EN can't get stronger...
+EN It might be rough if this keeps up.
+
+@ 275.1126
+# wrestler (voiced), used 2x
+JP 真帆はもう限界なのかもしれない…。
+EN Maybe Maho's reached her limit...
+
+@ 275.1133
+# wrestler (voiced), used 2x
+JP 客観的に見て
+JP 自分の試合運び良くないのでは？
+EN Objectively speaking, isn't
+EN my ring work rather poor?
+
+@ 275.1140
+# wrestler (voiced), used 2x
+JP ん～実はな、ウチな、最近前みたいに
+JP 体が動かんようになってしもて…。
+JP なんかめっちゃストレスやねん…。
+EN Well, y'see, lately I can't
+EN move like I used to...
+EN It's stressin' me out big time...
+
+@ 275.1147
+# wrestler (voiced), used 2x
+JP やっぱり大きい選手には
+JP 敵わないのかなあって…。
+EN I wonder if I just can't
+EN beat the bigger wrestlers...
+
+@ 275.1154
+# wrestler (voiced), used 2x
+JP 最近思うような成績がとれなくて…。
+JP 実家にも心配をかけてるし…。
+EN I haven't gotten the results I
+EN want...
+EN And my family's worried about me...
+
+@ 275.1161
+# wrestler (voiced), used 2x
+JP 最近、私のプロレスに対する情熱に
+JP 自信がもてなくて…。
+JP 情けないですッ！
+EN Lately I've lost faith in
+EN my passion for pro wrestling...
+EN It's pathetic!
+
+@ 275.1168
+# wrestler (voiced), used 2x
+JP 最近、自分の努力に
+JP 結果がついてこないんです…。
+EN Lately my efforts just
+EN aren't paying off...
+
+@ 275.1175
+# wrestler (voiced), used 2x
+JP やはり私にはプロレスは
+JP 合わないんじゃないかと…。
+EN I'm starting to think pro wrestling
+EN just isn't right for me...
+
+@ 275.1182
+# wrestler (voiced), used 2x
+JP だって…あたしなかなか
+JP 勝てないしぃ…。
+JP みんなに呆れられちゃうかなって…。
+EN 'Cause... I just can't seem to
+EN win... I'm scared everyone's fed up
+EN with me...
+
+@ 275.1189
+# wrestler (voiced), used 2x
+JP あんたらみんな
+JP 私が目障りだと思ってんだろ！
+EN You all think I'm
+EN an eyesore, don't you?!
+
+@ 275.1196
+# wrestler (voiced), used 2x
+JP あんたもあたしが出て行きゃいいと
+JP 思ってんだろ！
+EN You want me to leave too,
+EN don't you?!
+
+@ 275.1203
+# wrestler (voiced), used 2x
+JP へへ…。
+JP あたし、試合に出る度
+JP 空回りしてる気がしてねぇ…。
+EN Heh...
+EN Every time I wrestle, I feel
+EN like I'm just spinning my wheels...
+
+@ 275.1210
+# wrestler (voiced), used 2x
+JP 自分について考えることが多くてな。
+JP 私の技の斬れ味落ちてないか？
+EN I've been thinking about myself a
+EN lot.
+EN Have my moves lost their bite?
+
+@ 275.1217
+# wrestler (voiced), used 2x
+JP 最近殴っても、殴っても
+JP 虚しいんだ…。
+JP 技の威力も落ちてる気がするし…。
+EN Lately, no matter how much I hit,
+EN it just feels empty...
+EN And my moves feel weaker too...
+
+@ 275.1224
+# wrestler (voiced), used 2x
+JP …………私がいなくても……
+JP お主は困るまい……。
+EN ............Even without me......
+EN you would hardly be troubled......
+
+@ 275.1231
+# wrestler (voiced)
+JP 理想と現実、そんなところだ…。
+JP …私は限界と思うか？
+EN Ideals and reality, that's all...
+EN ...Do you think I've hit my limit?
+
+@ 275.1238
+# wrestler (voiced)
+JP 今のままじゃいけないかなって
+JP 思うんです…。
+JP 私もう強くなれないんでしょうか…？
+EN I feel like I can't stay
+EN the way I am...
+EN Can I not get any stronger...?
+
+@ 275.1245
+# wrestler (voiced)
+JP 社長も気づいてるでしょ。
+JP この頃全然体が動かないの。
+JP もうダメなのかな…。
+EN You've noticed too, Boss.
+EN My body won't move at all lately.
+EN Maybe I'm done for...
+
+@ 275.1252
+# wrestler (voiced)
+JP 社長、私、プロレスに
+JP 向いてないのかな？
+JP 自信なくなってきて…。
+EN Boss, maybe I'm not cut out
+EN for pro wrestling?
+EN I'm losing confidence...
+
+@ 275.1259
+# wrestler (voiced)
+JP 実力を発揮できないのが
+JP 歯がゆくて…。
+JP 私は既に限界なんでしょうか？
+EN It's so frustrating not being
+EN able to show what I can do...
+EN Have I already hit my limit?
+
+@ 275.1266
+# wrestler (voiced)
+JP プロレスに運命感じなく
+JP なったの……。
+JP 私もうダメ……？
+EN I don't feel pro wrestling
+EN is my destiny anymore......
+EN Am I finished......?
+
+@ 275.1273
+# wrestler (voiced)
+JP あの…わたし
+JP もう強くなれないような
+JP 気がして…。
+EN Um... I feel like
+EN I can't get any
+EN stronger...
+
+@ 275.1280
+# wrestler (voiced)
+JP 最近のわたしって
+JP 空回りしてません？
+EN Haven't I been spinning
+EN my wheels lately?
+
+@ 275.1287
+# wrestler (voiced)
+JP なんでもありませんわ。
+JP 強いて言えば少し技のキレが
+JP 落ちているくらいですわ。
+EN It's nothing.
+EN If anything, my moves have lost
+EN just a little of their edge.
+
+@ 275.1294
+# wrestler (voiced)
+JP わたし、みんなのテンポに
+JP 全然ついていけないんです～。
+EN I just can't keep up
+EN with everyone's pace!
+
+@ 275.1301
+# wrestler (voiced)
+JP 最近、技のキレが鈍ってる気が
+JP するんだよね…。
+EN Lately I feel like my moves
+EN have gotten kinda dull...
+
+@ 275.1308
+# wrestler (voiced)
+JP なんだろなー…。
+JP ヤル気が出ないっつうか
+JP 力が出ねーっつうか。
+EN I dunno...
+EN I can't get motivated,
+EN or I can't get my strength up.
+
+@ 275.1311
+# wrestler (voiced)
+JP アタシ、限界なのかなー。
+EN Maybe I've hit my limit.
+
+@ 275.1318
+# wrestler (voiced)
+JP 最近、試合運びが
+JP 全然計算通りにいかなくて…。
+JP もうダメなのでしょうか？
+EN Lately my matches just don't go
+EN according to my calculations...
+EN Am I finished?
+
+@ 275.1325
+# wrestler (voiced)
+JP ちょっとスランプ気味で…。
+JP それとも私って
+JP こんなもんなんでしょうか？
+EN I'm in a bit of a slump...
+EN Or is this just all
+EN I've got?
+
+@ 275.1332
+# wrestler (voiced)
+JP 体が…重いんです…。
+JP 私、憑いちゃったんでしょうか？
+JP 社長どうしよう、怖いよ～！
+EN My body...feels heavy... Do you
+EN think something's possessed me?
+EN Boss, what do I do? I'm scared!
+
+@ 275.1339
+# wrestler (voiced)
+JP なんだか自分のスタイルに
+JP 限界を感じて…。
+EN I feel like my style
+EN has hit its limit...
+
+@ 275.1714
+# President
+JP そんなことはない。
+JP 元気を出せ！
+JP うちの団体にはお前が必要なんだ！
+EN That's not true.
+EN Cheer up!
+EN Our promotion needs you!
+
+@ 275.1727
+# wrestler (voiced), case 0, used 2x
+JP 社長、ありがとうございます！
+JP そうですよね。
+JP がんばらなくちゃ！
+EN Thank you, Boss!
+EN You're right.
+EN I have to do my best!
+
+@ 275.1736
+# wrestler (voiced), case 1, used 2x
+JP お、お言葉はうれしいんですけど…。
+EN I-I'm glad you said that, but...
+
+@ 275.1746
+# wrestler (voiced), case 0, used 2x
+JP 社長に話したらスッキリした！
+JP また明日からがんばれそう！
+EN Talking to you cleared my head,
+EN Boss!
+EN I think I can try again tomorrow!
+
+@ 275.1755
+# wrestler (voiced), case 1, used 2x
+JP あたし、がんばれるのかなぁ…。
+EN I wonder if I can do my best...
+
+@ 275.1765
+# wrestler (voiced), case 0, used 2x
+JP フッ…。
+JP そうですね。
+JP 私がいないと始まらないですね。
+EN Heh...
+EN You're right.
+EN Nothing starts without me.
+
+@ 275.1774
+# wrestler (voiced), case 1, used 2x
+JP …他にも選手はたくさんいますよ。
+EN ...There are plenty of other
+EN wrestlers.
+
+@ 275.1784
+# wrestler (voiced), case 0, used 2x
+JP あ、ありがとうございます。
+JP 少し元気が出ました！
+EN Th-thank you very much.
+EN I feel a little better!
+
+@ 275.1793
+# wrestler (voiced), case 1, used 2x
+JP こんな私でもいいんですか…？
+EN Are you sure someone like me is
+EN okay...?
+
+@ 275.1803
+# wrestler (voiced), case 0, used 2x
+JP 社長に言われると元気でちゃうよ！
+JP また明日からがんばろうかな！
+EN Hearing that from you cheers me up!
+EN Maybe I'll try again tomorrow!
+
+@ 275.1812
+# wrestler (voiced), case 1, used 2x
+JP 私この団体にいてもいいの…？
+EN Is it okay for me to stay here...?
+
+@ 275.1822
+# wrestler (voiced), case 0, used 4x
+JP …ありがとうございます。
+EN ...Thank you very much.
+
+@ 275.1841
+# wrestler (voiced), case 0, used 2x
+JP うぅ…。
+JP 社長ありがとう！
+JP あたし、またがんばれそうだよ。
+EN Sniff...
+EN Thanks, Boss!
+EN I think I can try again.
+
+@ 275.1850
+# wrestler (voiced), case 1, used 2x
+JP あたし、やっぱりスランプみたい…。
+EN I guess I really am in a slump...
+
+@ 275.1860
+# wrestler (voiced), case 0, used 2x
+JP ホ、ホントに？
+JP 団体にいてもいいの？
+EN R-really?
+EN I can stay with the promotion?
+
+@ 275.1869
+# wrestler (voiced), case 1, used 2x
+JP ふぇ～ん！
+JP 北海道に帰りた～い～！
+EN Waaah!
+EN I wanna go back to Hokkaido!
+
+@ 275.1879
+# wrestler (voiced), case 0, used 2x
+JP そう言われて元気出てきました！
+JP こんな弱気じゃダメですよね！
+EN Hearing that cheered me up!
+EN I can't be this timid, can I!
+
+@ 275.1888
+# wrestler (voiced), case 1, used 2x
+JP でも疲れちゃいました…。
+EN But I'm just so tired...
+
+@ 275.1898
+# wrestler (voiced), case 0, used 2x
+JP はい…。
+JP ありがとうございます。
+EN Yes...
+EN Thank you very much.
+
+@ 275.1917
+# wrestler (voiced), case 0, used 2x
+JP …前向きに考えてみるよ。
+EN ...I'll try to think positive.
+
+@ 275.1936
+# wrestler (voiced), case 0, used 2x
+JP うん…。
+JP またがんばる！
+JP エイエイオー！
+EN Yeah...
+EN I'll try again!
+EN Let's gooo!
+
+@ 275.1945
+# wrestler (voiced), case 1, used 2x
+JP …またがんばれるかにゃ？
+EN ...Can I really try again, nya?
+
+@ 275.1955
+# wrestler (voiced), case 0, used 2x
+JP そ、そうよね！
+JP なんたって、私強くてかわいいし！
+EN Y-yeah, you're right!
+EN After all, I'm strong AND cute!
+
+@ 275.1964
+# wrestler (voiced), case 1, used 2x
+JP え～…。
+JP そうかなぁ…。
+EN Aww...
+EN I wonder...
+
+@ 275.1974
+# wrestler (voiced), case 0, used 2x
+JP フフ…。
+JP うれしいです。
+JP なんだか元気が出てきました。
+EN Hehe...
+EN I'm happy.
+EN I feel a bit more cheerful now.
+
+@ 275.1983
+# wrestler (voiced), case 1, used 2x
+JP …そう…ですかね…。
+EN ...I...wonder...
+
+@ 275.1993
+# wrestler (voiced), case 0, used 2x
+JP 当然ですわ！
+JP オーッホッホッホ！
+EN But of course!
+EN Oh-ho-ho-ho!
+
+@ 275.2002
+# wrestler (voiced), case 1, used 2x
+JP お気持ちだけいただきますわ…。
+EN I'll accept the thought, at least...
+
+@ 275.2012
+# wrestler (voiced), case 0, used 2x
+JP そう言ってくれるとうれしいわ！
+JP ありがとう。
+EN I'm so glad to hear you say that!
+EN Thank you.
+
+@ 275.2021
+# wrestler (voiced), case 1, used 2x
+JP 私、まだやっていけるかなぁ…。
+EN I wonder if I can still make it...
+
+@ 275.2031
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます。
+JP なんだか救われました。
+EN Thank you very much.
+EN I feel saved, somehow.
+
+@ 275.2040
+# wrestler (voiced), case 1, used 2x
+JP はい…。
+JP そうですか…。
+EN Yes...
+EN I see...
+
+@ 275.2050
+# wrestler (voiced), case 0, used 2x
+JP 社長がそう言うなら
+JP がんばれそうだな。
+JP ありがとよッ！
+EN If you say so, Boss,
+EN I think I can keep going.
+EN Thanks!
+
+@ 275.2059
+# wrestler (voiced), case 1, used 2x
+JP …そうかい。
+EN ...That so.
+
+@ 275.2069
+# wrestler (voiced), case 0, used 2x
+JP そ、そうかな？
+JP アハッ、なんか元気出てきた。
+JP 社長、なんかご馳走して！
+EN R-really?
+EN Aha, I'm cheering up already.
+EN Boss, treat me to something!
+
+@ 275.2078
+# wrestler (voiced), case 1, used 2x
+JP うん…。
+JP そう…。
+EN Yeah...
+EN I see...
+
+@ 275.2088
+# wrestler (voiced), case 0, used 2x
+JP …社長がそう言うのなら…。
+JP なんだか少し気が晴れたわ。
+JP ありがとう。
+EN ...If you say so, Boss...
+EN I feel a little better.
+EN Thank you.
+
+@ 275.2097
+# wrestler (voiced), case 1, used 2x
+JP …私、まだいけるわよね？
+EN ...I can still do this, right?
+
+@ 275.2107
+# wrestler (voiced), case 0, used 2x
+JP そんな風に言っていただけると
+JP うれしいです！
+JP がんばれそうな気がします！
+EN I'm so happy to hear
+EN you say that!
+EN I feel like I can do it!
+
+@ 275.2116
+# wrestler (voiced), case 1, used 2x
+JP ん～…。
+JP はい…。
+JP そうですかねえ…。
+EN Hmm...
+EN Yes...
+EN I wonder...
+
+@ 275.2126
+# wrestler (voiced), case 0, used 2x
+JP …え、ええ。
+JP がんばるわ。
+JP あ、ありがとう…。
+EN ...Y-yes.
+EN I'll do my best.
+EN Th-thank you...
+
+@ 275.2145
+# wrestler (voiced), case 0, used 2x
+JP そ、そうかな？
+JP なんか社長がそう言うと
+JP 本当にそんな気がするッ！
+EN R-really?
+EN When you say it, Boss, it
+EN really feels like it's true!
+
+@ 275.2154
+# wrestler (voiced), case 1, used 2x
+JP はぁ～…。
+JP なんだかなぁ…。
+EN Sigh...
+EN I don't know...
+
+@ 275.2164
+# wrestler (voiced), case 0, used 2x
+JP 社長、ありがとうございます！
+JP これからもついていきますッ！
+EN Thank you, Boss!
+EN I'll keep following you!
+
+@ 275.2173
+# wrestler (voiced), case 1, used 2x
+JP …まだ団体にいてもいいんですか？
+EN ...I can still stay with the
+EN promotion?
+
+@ 275.2183
+# wrestler (voiced), case 0, used 2x
+JP う、うるせぇな…。
+JP ま、まあ…その…なんだ。
+JP ありがとよ…。
+EN Sh-shut up...
+EN W-well... um... you know.
+EN Thanks...
+
+@ 275.2192
+# wrestler (voiced), case 1, used 2x
+JP 放っとけっての！
+EN Just leave me alone!
+
+@ 275.2202
+# wrestler (voiced), case 0, used 2x
+JP うん…。
+JP わかった！
+JP ありがと。
+EN Yeah...
+EN Got it!
+EN Thanks.
+
+@ 275.2211
+# wrestler (voiced), case 1, used 2x
+JP …ぐす、ぐすん…。
+EN ...*sniff*, *sniffle*...
+
+@ 275.2221
+# wrestler (voiced), case 0, used 2x
+JP ポジティブシンキングが
+JP 大切ですわね！
+JP 社長ってエスパーみたい、ウフッ。
+EN Positive thinking is
+EN so important, isn't it!
+EN Boss, you're like a psychic. Ufufu.
+
+@ 275.2230
+# wrestler (voiced), case 1, used 2x
+JP 私にも不可能なことはありますわ。
+EN Even I have my limits.
+
+@ 275.2259
+# wrestler (voiced), case 0, used 2x
+JP そう言っていただけると
+JP なんだか元気になりますね。
+EN Hearing you say that
+EN somehow cheers me up.
+
+@ 275.2268
+# wrestler (voiced), case 1, used 6x
+JP …そうでしょうか。
+EN ...I wonder.
+
+@ 275.2278
+# wrestler (voiced), case 0, used 2x
+JP …ほ、本当？
+JP エヘヘ、なんか元気出てきた！
+JP 社長、ありがとう！
+EN ...R-really?
+EN Ehehe, I'm cheering up!
+EN Thanks, Boss!
+
+@ 275.2287
+# wrestler (voiced), case 1, used 2x
+JP ……ん～…。
+EN ......Hmm...
+
+@ 275.2297
+# wrestler (voiced), case 0, used 2x
+JP そんな風に言ってもらえるなんて
+JP ありがとうございます！
+JP あたし、がんばります！
+EN Thank you so much
+EN for saying that!
+EN I'll do my best!
+
+@ 275.2316
+# wrestler (voiced), case 0, used 2x
+JP はい！
+JP ありがとうございます！
+JP 社長にずっとついていきますッ！
+EN Yes!
+EN Thank you very much!
+EN I'll follow you forever, Boss!
+
+@ 275.2325
+# wrestler (voiced), case 1, used 2x
+JP …自分、まだやれると思いますか？
+EN ...Do you think I can still do it?
+
+@ 275.2335
+# wrestler (voiced), case 0, used 2x
+JP ……え…あ…ありがとう……。
+JP ……社長…風船あげる……。
+EN ......Oh...th...thank you......
+EN ......Boss...have a balloon......
+
+@ 275.2344
+# wrestler (voiced), case 1, used 2x
+JP ……えッ……？
+EN ......Huh......?
+
+@ 275.2354
+# wrestler (voiced), case 0, used 2x
+JP 解答が出ました…。
+JP がんばることに
+JP 意味が見つかりました。
+EN I have found the answer...
+EN I have found meaning
+EN in working hard.
+
+@ 275.2363
+# wrestler (voiced), case 1, used 2x
+JP はたして
+JP 本当にそうでしょうか…？
+EN But is that
+EN truly the case...?
+
+@ 275.2373
+# wrestler (voiced), case 0, used 2x
+JP おお！
+JP 私は華麗なる不死鳥！
+JP 力の限り羽ばたいてみせよう！
+EN Oh!
+EN I am the magnificent phoenix!
+EN I shall soar with all my might!
+
+@ 275.2382
+# wrestler (voiced), case 1, used 2x
+JP …人間とは彷徨える子羊…。
+EN ...Humans are but lost lambs...
+
+@ 275.2392
+# wrestler (voiced), case 0, used 2x
+JP ……社長、それ本当……？
+EN ......Boss, is that true......?
+
+@ 275.2401
+# wrestler (voiced), case 1, used 2x
+JP ……あうぅ……。
+EN ......Auuu......
+
+@ 275.2411
+# wrestler (voiced), case 0, used 2x
+JP …ありがとう。
+JP 牛乳飲んで
+JP もっとがんばってみるよ！
+EN ...Thanks.
+EN I'll drink some milk
+EN and try even harder!
+
+@ 275.2420
+# wrestler (voiced), case 1, used 2x
+JP ボク本当に勝てるのかな…。
+EN Can I really win...?
+
+@ 275.2430
+# wrestler (voiced), case 0, used 2x
+JP わかった！
+JP 真帆はもう一度がんばるぞ！
+EN Got it!
+EN Maho will try one more time!
+
+@ 275.2439
+# wrestler (voiced), case 1, used 2x
+JP 真帆でもウソだとわかるぞ！
+EN Even Maho can tell that's a lie!
+
+@ 275.2449
+# wrestler (voiced), case 0, used 2x
+JP …そうですか。
+JP そう言っていただけると
+JP ちょっと楽になりました。
+EN ...I see.
+EN Hearing you say that
+EN makes me feel a little better.
+
+@ 275.2458
+# wrestler (voiced), case 1, used 2x
+JP 自分はまだいけるんでしょうか…。
+EN Do you think I can still do it...?
+
+@ 275.2468
+# wrestler (voiced), case 0, used 2x
+JP あっははは、そう？
+JP なんや元気出たわ！
+JP 社長、ありがと！
+EN Ahahaha, ya think?
+EN That perked me right up!
+EN Thanks, Boss!
+
+@ 275.2477
+# wrestler (voiced), case 1, used 2x
+JP …そない言われてもなぁ～。
+EN ...Even if ya say that...
+
+@ 275.2487
+# wrestler (voiced), case 0, used 2x
+JP そ、そうかな？
+JP なんだかちょっと元気に
+JP なったかも！
+EN R-really?
+EN I think I feel a little
+EN better now!
+
+@ 275.2496
+# wrestler (voiced), case 1, used 2x
+JP む～…。
+JP そうかなぁ～？
+EN Mmm...
+EN Ya think?
+
+@ 275.2506
+# wrestler (voiced), case 0, used 2x
+JP 本当ですか？
+JP ありがとうございます！
+JP なんだか、やる気が出てきました！
+EN Really?
+EN Thank you very much!
+EN I'm getting fired up again!
+
+@ 275.2515
+# wrestler (voiced), case 1, used 2x
+JP …そうだといいんですけど…。
+EN ...I hope you're right...
+
+@ 275.2525
+# wrestler (voiced), case 0, used 2x
+JP そ、そうですよね！
+JP 私、間違ってました！
+EN Y-you're right!
+EN I was wrong!
+
+@ 275.2534
+# wrestler (voiced), case 1, used 2x
+JP はい…。
+JP がんばります…。
+EN Yes...
+EN I'll do my best...
+
+@ 275.2544
+# wrestler (voiced), case 0, used 2x
+JP …そうですか？
+JP そう言ってもらえると
+JP うれしいです。
+EN ...Really?
+EN I'm happy to hear
+EN you say that.
+
+@ 275.2563
+# wrestler (voiced), case 0, used 2x
+JP まあ！
+JP そんな風に言っていただけると
+JP 心強いですねぇ～。
+EN Oh my!
+EN It's so reassuring to hear
+EN you say that.
+
+@ 275.2572
+# wrestler (voiced), case 1, used 2x
+JP ええ…。
+JP ありがとうございます…。
+EN Yes...
+EN Thank you very much...
+
+@ 275.2582
+# wrestler (voiced), case 0, used 2x
+JP そ、そうかな？
+JP 社長に言われたら
+JP なんか元気になっちゃった！
+EN R-really?
+EN Hearing that from you,
+EN I feel all cheered up!
+
+@ 275.2591
+# wrestler (voiced), case 1, used 2x
+JP う～むむむ…。
+JP そうかなぁ？
+EN Hmmmm...
+EN You think so?
+
+@ 275.2601
+# wrestler (voiced), case 0, used 2x
+JP …げ、元気くらいなら
+JP いつでも出してやるよ！
+EN ...I-if it's just cheering up,
+EN I can do that anytime!
+
+@ 275.2610
+# wrestler (voiced), case 1, used 2x
+JP 相変わらず口だけは達者だな！
+EN All talk as usual, huh!
+
+@ 275.2620
+# wrestler (voiced), case 0, used 2x
+JP …そ、そうかよ。
+JP 元気くらいいつでも出してやるよ！
+EN ...I-is that so.
+EN I can cheer up anytime I want!
+
+@ 275.2629
+# wrestler (voiced), case 1, used 2x
+JP 言葉だけで無責任に
+JP 元気出せって言われて
+JP 元気なんて出ると思ってるのか？
+EN You think empty words like
+EN "cheer up" are actually
+EN gonna cheer me up?
+
+@ 275.2639
+# wrestler (voiced), case 0, used 2x
+JP なんだよ…。
+JP あんまりマジに言うなよ。
+JP 照れくさいじゃないか。
+EN Come on...
+EN Don't say it so seriously.
+EN It's embarrassing.
+
+@ 275.2648
+# wrestler (voiced), case 1, used 2x
+JP …そうかい？
+EN ...That so?
+
+@ 275.2658
+# wrestler (voiced), case 0, used 2x
+JP そう言われると
+JP 悪い気はしないな…。
+EN I cannot say I mind
+EN hearing that...
+
+@ 275.2677
+# wrestler (voiced), case 0, used 2x
+JP そうか？
+JP フッフッフ…。
+JP そうだよなぁ！
+EN Ya think?
+EN Heh-heh-heh...
+EN Damn right!
+
+@ 275.2686
+# wrestler (voiced), case 1, used 2x
+JP …ほっとけ！
+EN ...Leave me alone!
+
+@ 275.2695
+# other, case 0, used 2x
+JP …………そう……。
+EN ............I see......
+
+@ 275.2716
+# wrestler (voiced), case 0
+JP …奇妙だな。
+JP 世辞でも…うれしい…。
+EN ...How strange.
+EN Even flattery...makes me happy...
+
+@ 275.2725
+# wrestler (voiced), case 1
+JP …少しひとりに……。
+EN ...Leave me alone for a while......
+
+@ 275.2735
+# wrestler (voiced), case 0
+JP …そうですね！
+JP 社長に言われて元気が出ました！
+JP ありがとうございます！
+EN ...You're right!
+EN Hearing that cheered me up!
+EN Thank you very much!
+
+@ 275.2744
+# wrestler (voiced), case 1
+JP あは…そうだといいですね…。
+EN Aha... I hope so...
+
+@ 275.2754
+# wrestler (voiced), case 0
+JP …ホント？
+JP そうよね。
+JP なんか考えすぎてたみたい。
+EN ...Really?
+EN You're right.
+EN I guess I was overthinking it.
+
+@ 275.2763
+# wrestler (voiced), case 1
+JP …そんな言葉でごまかす気なの？
+EN ...You think words like that will
+EN fool me?
+
+@ 275.2773
+# wrestler (voiced), case 0
+JP そうだよね、
+JP 社長に心配かけたらいけないよね！
+JP 私、がんばるね！
+EN You're right,
+EN I shouldn't make you worry, Boss!
+EN I'll do my best!
+
+@ 275.2782
+# wrestler (voiced), case 1
+JP …ごめん…。
+JP 力が出ない…。
+EN ...Sorry...
+EN I've got no strength...
+
+@ 275.2792
+# wrestler (voiced), case 0
+JP そう言っていただけると
+JP ありがたいです。
+JP もう少しがんばります。
+EN I'm grateful to hear
+EN you say that.
+EN I'll try a little longer.
+
+@ 275.2801
+# wrestler (voiced), case 1
+JP 本当にそうでしょうか…。
+JP いえ、お言葉を信じないわけでは
+JP ありませんが…。
+EN Is that really true...?
+EN No, it's not that I don't
+EN believe you, but...
+
+@ 275.2811
+# wrestler (voiced), case 0
+JP ありがとう……。
+JP 社長スキ……。
+EN Thank you......
+EN I like you, Boss......
+
+@ 275.2820
+# wrestler (voiced), case 1
+JP 社長何もわかってない……。
+EN Boss, you don't understand
+EN anything......
+
+@ 275.2830
+# wrestler (voiced), case 0
+JP そ、そうですか…。
+JP そう言ってもらえると
+JP うれしいです！
+EN I-is that so...
+EN I'm so happy to hear
+EN you say that!
+
+@ 275.2839
+# wrestler (voiced), case 1
+JP はい…。
+JP そうですかねぇ…。
+EN Yes...
+EN I wonder...
+
+@ 275.2849
+# wrestler (voiced), case 0
+JP あはは、社長、ありがとう！
+JP これからも
+JP 完全燃焼でがんばります！
+EN Ahaha, thanks, Boss!
+EN I'll keep burning all-out!
+
+@ 275.2858
+# wrestler (voiced), case 1
+JP あはは…。
+JP そうかなぁ…？
+EN Ahaha...
+EN You think so...?
+
+@ 275.2868
+# wrestler (voiced), case 0
+JP ほーーほっほっほ！
+JP あなたに心配してもらう必要は
+JP ありませんわ。
+EN Oh-ho-ho-ho!
+EN I have no need for
+EN your concern.
+
+@ 275.2877
+# wrestler (voiced), case 1
+JP 人のことを心配する前に
+JP 団体の経営状態でも
+JP 心配なさったらいかが？
+EN Before worrying about others,
+EN why not worry about
+EN the promotion's finances?
+
+@ 275.2887
+# wrestler (voiced), case 0
+JP あらら～。
+JP よくわかりませんが
+JP がんばってみますね～。
+EN Oh my.
+EN I don't quite get it,
+EN but I'll give it a try.
+
+@ 275.2896
+# wrestler (voiced), case 1
+JP そうなんですか～。
+EN Is that sooo.
+
+@ 275.2906
+# wrestler (voiced), case 0
+JP ははッ。
+JP ありがと。
+JP なんかやる気がでてきたよ。
+EN Haha.
+EN Thanks.
+EN I'm feeling motivated now.
+
+@ 275.2915
+# wrestler (voiced), case 1
+JP そうかなぁ…。
+EN I wonder...
+
+@ 275.2925
+# wrestler (voiced), case 0
+JP …へへッ。
+JP 社長に言われちゃ
+JP がんばらないとな！
+EN ...Heh.
+EN If you say so, Boss,
+EN I gotta try hard!
+
+@ 275.2934
+# wrestler (voiced), case 1
+JP そうかなぁ…。
+JP 社長、無理して言ってねーか？
+EN You think so...
+EN Boss, you're not forcing it, are ya?
+
+@ 275.2944
+# wrestler (voiced), case 0
+JP あ、ありがとうございます。
+JP そう言ってもらえるだけで
+JP 励みになります。
+EN Th-thank you very much.
+EN Just hearing you say that
+EN is encouraging.
+
+@ 275.2953
+# wrestler (voiced), case 1
+JP そうでしょうか…。
+JP 実績が伴わないと
+JP 私、自信が持てません…。
+EN Is that so...
+EN Without results to back it up,
+EN I can't feel confident...
+
+@ 275.2963
+# wrestler (voiced), case 0
+JP 社長、ありがとうございます。
+JP 少し元気が出てきました！
+EN Thank you, Boss.
+EN I'm feeling a little better!
+
+@ 275.2972
+# wrestler (voiced), case 1
+JP そうだといいんですが…。
+EN I hope you're right...
+
+@ 275.2982
+# wrestler (voiced), case 0
+JP そ、そうですか…。
+JP あ、なんだか体が
+JP 軽くなったような…。
+EN I-is that so...
+EN Oh, somehow my body
+EN feels lighter...
+
+@ 275.2986
+# wrestler (voiced), case 0
+JP すごい、社長！
+JP どういう特殊能力ですか？
+EN Amazing, Boss!
+EN What kind of special power is that?
+
+@ 275.2995
+# wrestler (voiced), case 1
+JP うぅぅ…。
+JP お祓いしてくださーい！
+EN Uuuu...
+EN Please exorcise me!
+
+@ 275.3005
+# wrestler (voiced), case 0
+JP やっぱり気のせいだったみたいです。
+EN I guess it really was just my
+EN imagination.
+
+@ 275.3014
+# wrestler (voiced), case 1
+JP …でもやっぱり…。
+EN ...But still...

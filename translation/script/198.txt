@@ -1,0 +1,147 @@
+# Event script entry 198 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 198.95
+# President, used 2x
+JP （こっちに来るのは龍子か。）
+EN (That's Ryuko coming this way.)
+
+@ 198.109
+# other, used 2x
+JP …あ、社長。
+JP ちょうどいいところに。
+EN ...Oh, Boss.
+EN Perfect timing.
+
+@ 198.116
+# President, used 2x
+JP いいところ？
+EN Perfect timing?
+
+@ 198.125
+# other, used 2x
+JP ああ、ちょっと今から
+JP 海の幸を採りに行くんだけど…。
+JP １人だとちょっと…。
+EN Yeah, I'm about to go catch
+EN some seafood, but...
+EN it's kinda hard alone...
+
+@ 198.132
+# President, used 2x
+JP 海の幸？
+JP 俺でいいのか？
+EN Seafood?
+EN You want me?
+
+@ 198.141
+# other, used 2x
+JP ああ、他の連中
+JP 泳いでる方が楽しいらしい。
+EN Yeah, the others say swimming
+EN is more fun.
+
+@ 198.165
+# other, used 2x
+JP 社長、もっとこっちに追い込んで。
+EN Boss, drive 'em more this way.
+
+@ 198.172
+# President, used 2x
+JP いや、そんなこと言っても
+JP 水中で魚を相手にするのは…。
+EN Easy for you to say, but fish
+EN underwater aren't exactly...
+
+@ 198.178
+# other, used 2x
+JP どりゃ！
+JP そこだッ！
+EN Hyah!
+EN Gotcha!
+
+@ 198.187
+# President, used 2x
+JP おお、お見事！
+EN Whoa, nicely done!
+
+@ 198.193
+# other, used 2x
+JP …お、あそこにでかい海老が…。
+JP ちょっと取ってくるよ。
+EN ...Oh, there's a big lobster over
+EN there... Be right back.
+
+@ 198.206
+# President, used 2x
+JP ちょっとって深さじゃないが…。
+EN That's no "be right back" kind
+EN of depth...
+
+@ 198.212
+# other, used 2x
+JP おっしゃーッ！
+JP 大物ゲット！
+EN All riiight!
+EN Got a big one!
+
+@ 198.221
+# President, used 2x
+JP すごいな、龍子。
+JP 前からやってたのか？
+EN That's amazing, Ryuko.
+EN Have you done this before?
+
+@ 198.227
+# other, used 2x
+JP ……え？
+JP あたしの地元では
+JP みんなこれくらいやってたよ。
+EN ......Huh?
+EN Back home, everybody
+EN did this much.
+
+@ 198.234
+# President, used 2x
+JP （コイツの地元って
+JP どんなとこだ…。）
+EN (What kind of place is
+EN her hometown...)
+
+@ 198.240
+# other, used 2x
+JP 海で遊んでいて、ハラが減ったら
+JP 魚をとって食ったり…。
+EN We'd play in the sea, and when we
+EN got hungry, catch fish and eat
+EN 'em...
+
+@ 198.247
+# President, used 2x
+JP ワイルドな少女時代だな。
+EN What a wild childhood.
+
+@ 198.253
+# other, used 2x
+JP このペースなら人数分稼げるかな…。
+EN At this pace, we'll get enough
+EN for everyone...
+
+@ 198.260
+# President, used 4x
+JP ああ、そうだな。
+EN Yeah, that's right.
+
+@ 198.262
+# President, used 2x
+JP （ほとんど龍子１人で
+JP 取ってるけどな…。）
+EN (Though Ryuko's catching
+EN pretty much all of it...)

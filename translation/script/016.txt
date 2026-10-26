@@ -1,0 +1,454 @@
+# Event script entry 016 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 016.46
+# Secretary
+JP {name:0}選手ほか
+JP {name:1}名が反乱軍の結成を
+JP 宣言したようです。
+EN {name:0} and {name:1} others have
+EN declared they're forming a
+EN Rebel Army.
+
+@ 016.48
+# Secretary
+JP さらに団体への批判をマスコミに
+JP 展開しているようです。
+EN What's more, they're criticizing the
+EN promotion in the press.
+
+@ 016.60
+# wrestler (voiced), used 2x
+JP 私かき回しちゃいます～！
+EN I'm gonna stir things up~!
+
+@ 016.68
+# wrestler (voiced), used 2x
+JP あたしだって
+JP やるときはやるんだから！
+EN I can step up
+EN when it counts too!
+
+@ 016.76
+# wrestler (voiced), used 2x
+JP 私の反骨精神をお見せしますッ！
+EN I'll show you my rebellious spirit!
+
+@ 016.84
+# wrestler (voiced), used 2x
+JP 戦力は限られているから
+JP しっかり作戦をたてないと…。
+EN Our forces are limited, so we
+EN need to plan carefully...
+
+@ 016.92
+# wrestler (voiced), used 2x
+JP 勝つまでは妥協しませんッ！
+EN I won't back down until we win!
+
+@ 016.100
+# wrestler (voiced), used 2x
+JP この拳とともに戦い抜く！
+EN I'll fight it out with these fists!
+
+@ 016.108
+# wrestler (voiced), used 2x
+JP あたしは全力で突き進むのみです！
+EN I'll just charge ahead full force!
+
+@ 016.116
+# wrestler (voiced), used 2x
+JP あたしだって
+JP やるときはやるんだからー！
+EN I can step up
+EN when it counts too!
+
+@ 016.124
+# wrestler (voiced), used 2x
+JP そう簡単には負けませんよー！
+EN We won't lose that easily!
+
+@ 016.132
+# wrestler (voiced), used 2x
+JP 私とともに
+JP 立ち上がってくれる者は
+JP いないのか？
+EN Is there no one who
+EN will rise up
+EN with me?
+
+@ 016.140
+# wrestler (voiced), used 2x
+JP 立ちはだかる奴はぶっ潰す！
+EN Anyone who stands in my way gets
+EN smashed!
+
+@ 016.148
+# wrestler (voiced), used 2x
+JP 反乱軍つくっちゃった。
+JP 暴れてやるにゃん！
+EN I made a Rebel Army.
+EN Time to raise some hell, nya!
+
+@ 016.156
+# wrestler (voiced), used 2x
+JP 私が率いてるんだから
+JP 覚悟しなさいよー！
+EN I'm leading this, so
+EN you'd better be ready!
+
+@ 016.164
+# wrestler (voiced), used 2x
+JP もっと混沌としたリングが
+JP 見たくなったの。
+EN I just wanted to see a ring
+EN full of chaos.
+
+@ 016.172
+# wrestler (voiced), used 2x
+JP オーホッホッホッホ！
+JP 混沌としたリングも
+JP 美しいものですわ！
+EN Oh-ho-ho-ho-ho!
+EN A ring in chaos is
+EN beautiful too!
+
+@ 016.180
+# wrestler (voiced), used 2x
+JP 反逆のアイドルってのも
+JP ちょっといいかもね！
+EN A rebel idol might be
+EN kinda nice!
+
+@ 016.188
+# wrestler (voiced), used 2x
+JP 混乱が必要なときでは
+JP ないでしょうか？
+EN Isn't this a time when
+EN we need some chaos?
+
+@ 016.196
+# wrestler (voiced), used 2x
+JP とことん暴れてやるぜッ！
+EN I'm gonna raise all kinds of hell!
+
+@ 016.204
+# wrestler (voiced), used 2x
+JP 私、好きなように
+JP やらせてもらうから！
+EN I'm doing things
+EN my way!
+
+@ 016.212
+# wrestler (voiced), used 2x
+JP とことん抵抗してみせるわ。
+JP 見てなさい！
+EN I'll resist to the bitter end.
+EN Just watch!
+
+@ 016.220
+# wrestler (voiced), used 2x
+JP あたし、やれるだけのことを
+JP やってみます！
+EN I'll do everything
+EN I can!
+
+@ 016.228
+# wrestler (voiced), used 2x
+JP あたしでもできるなら！
+EN If there's something even I can do,
+EN I'll do it!
+
+@ 016.236
+# wrestler (voiced), used 2x
+JP べ、別に目立ちたいから
+JP やる訳じゃないからね！
+EN I-it's not like I'm doing this
+EN because I want attention or
+EN anything!
+
+@ 016.244
+# wrestler (voiced), used 2x
+JP ボ、ボク、ホントに本気ですよ！
+EN I-I'm really serious, you know!
+
+@ 016.252
+# wrestler (voiced), used 2x
+JP オレの軍団に入りたい奴は
+JP いつでも来な！
+EN Anyone who wants in on my crew,
+EN come on over anytime!
+
+@ 016.260
+# wrestler (voiced), used 2x
+JP あたし、ハンランしちゃうから！
+EN I'm gonna rebel!
+
+@ 016.268
+# wrestler (voiced), used 2x
+JP 正規軍なんて
+JP すぐに潰して差し上げますわ！
+EN I shall crush the regulars
+EN in no time at all!
+
+@ 016.276
+# wrestler (voiced), used 2x
+JP 私は自分の信じた道を行きます…。
+EN I'll walk the path I believe in...
+
+@ 016.284
+# wrestler (voiced), used 2x
+JP 濁った水は取り替えなければ
+JP いけません…。
+EN Muddy water must be
+EN replaced...
+
+@ 016.292
+# wrestler (voiced), used 2x
+JP あたしは本気だからね！
+JP 覚悟してよ！
+EN I'm serious!
+EN You'd better be ready!
+
+@ 016.300
+# wrestler (voiced), used 2x
+JP いつまでもぬるま湯には
+JP つかってられません。
+EN I can't stay in my comfort zone
+EN forever.
+
+@ 016.308
+# wrestler (voiced), used 2x
+JP 勝てば官軍ッス！
+EN The winners write history!
+
+@ 016.316
+# wrestler (voiced), used 2x
+JP ……反乱軍…つくったの……。
+EN ......I made... a Rebel Army......
+
+@ 016.324
+# wrestler (voiced), used 2x
+JP 私の計算では反乱軍の勝率は
+JP 80％以上です。
+EN By my calculations, the Rebel Army's
+EN chance of winning is over 80%.
+
+@ 016.332
+# wrestler (voiced), used 2x
+JP 抵抗という名の誇りをかけた戦いに
+JP この身を投じよう…。
+EN I shall throw myself into a battle
+EN for the pride called resistance...
+
+@ 016.340
+# wrestler (voiced), used 2x
+JP ……みんなで…戦おうって……。
+EN ......Everyone said... let's
+EN fight......
+
+@ 016.348
+# wrestler (voiced), used 2x
+JP みんな！
+JP ボクと一緒に戦おうよ！
+EN Everyone!
+EN Let's fight together!
+
+@ 016.356
+# wrestler (voiced), used 2x
+JP 真帆がハンラングンの大将だ！
+EN Maho is the boss of the Rebel Army!
+
+@ 016.364
+# wrestler (voiced), used 2x
+JP 仕事の範疇を超えている
+JP 気はしますが…。
+EN I feel this goes beyond
+EN my job description, but...
+
+@ 016.372
+# wrestler (voiced), used 2x
+JP ウチの反乱半端ないで～！
+EN My rebellion ain't no joke!
+
+@ 016.380
+# wrestler (voiced), used 2x
+JP あたしだって本気になったら
+JP 怖いんだ…怖いんですから！
+EN When I get serious I'm scary...
+EN Um, I mean, I really am scary!
+
+@ 016.388
+# wrestler (voiced), used 2x
+JP 今日から反乱軍です！
+EN We're the Rebel Army as of today!
+
+@ 016.392
+# wrestler (voiced), used 2x
+JP え、えーー！
+JP あたしがリーダー！？
+EN Wh-whaaat!?
+EN I'm the leader!?
+
+@ 016.400
+# wrestler (voiced), used 2x
+JP 今日から私は反逆のヒロインです！
+EN As of today, I'm a rebel heroine!
+
+@ 016.408
+# wrestler (voiced), used 2x
+JP たとえ反乱と呼ばれても
+JP 目的は達成してみせます！
+EN Even if they call it a rebellion,
+EN I will achieve my goal!
+
+@ 016.416
+# wrestler (voiced), used 2x
+JP 私、反乱しちゃいます～。
+EN I'm going to rebel~.
+
+@ 016.424
+# wrestler (voiced), used 2x
+JP ムフフ～！
+JP 反乱やっちゃおうかな～？
+EN Mufufu~!
+EN Maybe I'll start a rebellion~?
+
+@ 016.432
+# wrestler (voiced), used 2x
+JP いやって言う程
+JP 暴れまわってやるぜ！
+EN I'm gonna raise hell till
+EN you're sick of it!
+
+@ 016.440
+# wrestler (voiced), used 2x
+JP 団体ごと潰してやるよ！
+EN I'll crush this whole promotion!
+
+@ 016.448
+# wrestler (voiced), used 2x
+JP あたしの生き様
+JP その眼に焼き付けておきな！
+EN Burn the way I live
+EN into your eyes!
+
+@ 016.456
+# wrestler (voiced), used 2x
+JP 下克上という言葉をご存じか？
+EN Do you know the word "gekokujo"?
+EN The low overthrowing the high?
+
+@ 016.464
+# wrestler (voiced), used 2x
+JP お前らぶっ潰してやるぜぇ！
+EN I'm gonna crush you all!
+
+@ 016.480
+# wrestler (voiced)
+JP 必要悪というやつか。
+EN A necessary evil, then.
+
+@ 016.488
+# wrestler (voiced)
+JP あはッ！
+JP 私、反乱軍つくっちゃいました～。
+EN Ahaha!
+EN I went and made a Rebel Army~.
+
+@ 016.496
+# wrestler (voiced)
+JP 反乱と言っても
+JP エレガントにいかないとね。
+EN Even a rebellion has to be
+EN elegant, you know.
+
+@ 016.504
+# wrestler (voiced)
+JP たとえ反乱と呼ばれても
+JP 正義は私と一緒です！
+EN Even if they call it a rebellion,
+EN justice is on my side!
+
+@ 016.512
+# wrestler (voiced)
+JP 私が指揮するレジスタンスを
+JP 甘く見てもらっては困ります！
+EN Don't underestimate a resistance
+EN under my command!
+
+@ 016.520
+# wrestler (voiced)
+JP 反乱軍に運命を感じたの……。
+EN I felt the Rebel Army was my
+EN fate......
+
+@ 016.528
+# wrestler (voiced)
+JP わたし精一杯反乱します！
+EN I'll rebel as hard as I can!
+
+@ 016.536
+# wrestler (voiced)
+JP 光、反乱に完全燃焼します！
+EN Hikaru will burn all-out for the
+EN rebellion!
+
+@ 016.544
+# wrestler (voiced)
+JP ほーーほっほっほ。
+JP 美しき反乱の始まりですわ！
+EN Oh-ho-ho-ho.
+EN A beautiful rebellion begins!
+
+@ 016.552
+# wrestler (voiced)
+JP あらら～。
+JP 反乱しちゃいますよ～。
+EN Oh my~.
+EN I'm going to rebel~.
+
+@ 016.560
+# wrestler (voiced)
+JP 反乱軍の力見せてあげるよ！
+EN I'll show you the Rebel Army's
+EN power!
+
+@ 016.568
+# wrestler (voiced)
+JP オッシャーーッ！
+JP 根性すえてアタシについてきな！
+EN All riiight!
+EN Grit your teeth and follow me!
+
+@ 016.576
+# wrestler (voiced)
+JP 反逆者と呼ばれても
+JP 気持ちの高ぶりは抑えきれません。
+EN Even if they call me a traitor,
+EN I can't hold back my excitement.
+
+@ 016.584
+# wrestler (voiced)
+JP 私、反乱に全力を尽くしますッ！
+EN I'll give this rebellion my all!
+
+@ 016.592
+# wrestler (voiced)
+JP 反乱軍結成ー！
+JP 私を甘く見ないでよね！
+EN The Rebel Army is formed!
+EN Don't underestimate me!
+
+@ 016.600
+# wrestler (voiced)
+JP 私の反乱止められるものなら
+JP 止めてみろ！
+EN Stop my rebellion if you can!

@@ -1,0 +1,94 @@
+# Event script entry 086 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 086.116
+# wrestler (voiced), case 0, used 2x
+JP なるほど…。
+JP 出版界も私を放っておけなくなった
+JP ということですか。
+EN I see... So the publishing world
+EN can no longer ignore me either.
+
+@ 086.122
+# President, case 0, used 2x
+JP まあそういうことだ。
+JP どうする？
+EN Something like that. What'll it be?
+
+@ 086.130
+# wrestler (voiced), case 0, used 2x
+JP フッ…。
+JP いいでしょう。
+EN Heh... Very well.
+
+@ 086.133
+# wrestler (voiced), case 0, used 2x
+JP その本の存在を知れば
+JP 愛しのバンビーノ達も求めてやまない
+JP でしょうし、お受けします。
+EN Once they learn of this book, my
+EN beloved bambini will crave it
+EN endlessly. I accept.
+
+@ 086.139
+# President, case 0, used 2x
+JP あ、ああ…助かる。
+EN R-right... Thanks.
+
+@ 086.142
+# President, case 0, used 2x
+JP （バンビーノって誰だよ…。）
+EN (Who the heck are the bambini...?)
+
+@ 086.235
+# President, case 0, used 2x
+JP おお、よく撮れてるな。
+EN Oh, these came out well.
+
+@ 086.244
+# wrestler (voiced), case 0, used 2x
+JP 当然です。
+JP 私がモデルでカメラマンもプロ。
+JP これ位のものができないと嘘です。
+EN Naturally. With me as the model and
+EN a pro photographer, anything less
+EN would be a lie.
+
+@ 086.250
+# President, case 0, used 2x
+JP そ、そうか…。
+EN I-I see...
+
+@ 086.258
+# wrestler (voiced), case 0, used 2x
+JP …ああ！
+JP これが書店に並ぶ日が
+JP 楽しみです。
+EN ...Ah! I can't wait for the day
+EN this hits the bookstores.
+
+@ 086.265
+# wrestler (voiced), case 0, used 2x
+JP 早く子鹿ちゃんたちの
+JP 喜ぶ顔が見たい。
+EN I long to see the joy on my
+EN little fawns' faces.
+
+@ 086.271
+# President, case 0, used 2x
+JP …そうだな。
+EN ...Right.
+
+@ 086.274
+# President, case 0, used 2x
+JP （女性ファンからの予約が
+JP 多いらしいしなぁ…。）
+EN (Apparently a lot of the preorders
+EN are from female fans...)

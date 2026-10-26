@@ -1,0 +1,449 @@
+# Event script entry 015 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 015.46
+# Secretary
+JP {name:0}選手ほか
+JP {name:1}名が革命軍の結成を
+JP 宣言したようです。
+EN {name:0} and {name:1} others have
+EN declared they're forming a
+EN Revolution Army.
+
+@ 015.48
+# Secretary
+JP 団体に新たな風を起こす
+JP とのことですが…。
+EN They say they'll bring a new wind
+EN to the promotion, but...
+
+@ 015.60
+# wrestler (voiced), used 2x
+JP 私だってやるときはやります～。
+EN I can step up when it counts too~.
+
+@ 015.68
+# wrestler (voiced), used 2x
+JP あたし本気でぶつかって
+JP いくからね！
+EN I'm gonna hit you guys
+EN with everything I've got!
+
+@ 015.76
+# wrestler (voiced), used 2x
+JP 私は徹底的に戦い抜きますよ！
+EN I'll fight this through to the very
+EN end!
+
+@ 015.84
+# wrestler (voiced), used 2x
+JP 目的を達成するためには
+JP もっと戦力を集めないと…。
+EN To achieve our goal, we need
+EN to gather more fighters...
+
+@ 015.92
+# wrestler (voiced), used 2x
+JP 私、気合いを入れて戦います！
+EN I'm going to fight with everything
+EN I've got!
+
+@ 015.100
+# wrestler (voiced), used 2x
+JP この拳に誓って戦い抜こう！
+EN I swear on these fists: I'll fight
+EN to the end!
+
+@ 015.108
+# wrestler (voiced), used 2x
+JP あたし本気で戦い抜きますから！
+EN I'm seriously gonna fight to the
+EN end!
+
+@ 015.116
+# wrestler (voiced), used 2x
+JP あたしだって
+JP やればできるんだからー！
+EN I can do it too
+EN if I really try!
+
+@ 015.124
+# wrestler (voiced), used 2x
+JP 私、全力で挑戦しますから！
+EN I'll take this on with all I've got!
+
+@ 015.132
+# wrestler (voiced), used 2x
+JP まさに私の器が
+JP 問われているのです！
+EN This is the true test
+EN of my caliber!
+
+@ 015.140
+# wrestler (voiced), used 2x
+JP 邪魔する奴は叩きつぶす！
+EN Anyone who gets in my way gets
+EN crushed!
+
+@ 015.148
+# wrestler (voiced), used 2x
+JP 革命軍つくっちゃった！
+JP よろしくね！
+EN I went and made a Revolution Army!
+EN Hope you'll back me!
+
+@ 015.156
+# wrestler (voiced), used 2x
+JP 全部私にまっかせなさーい！
+EN Just leave everything to meee!
+
+@ 015.164
+# wrestler (voiced), used 2x
+JP リングに新しい風を吹き込みます！
+EN I'll bring a new wind to the ring!
+
+@ 015.172
+# wrestler (voiced), used 2x
+JP オーホッホッホッホ！
+JP リングを私の色に染め直しますわ！
+EN Oh-ho-ho-ho-ho!
+EN I shall paint the ring in my colors!
+
+@ 015.180
+# wrestler (voiced), used 2x
+JP 革命の旗印になるアイドル！
+JP いいんじゃなーい？
+EN An idol as the face of the
+EN revolution!
+EN Pretty cool, huh?
+
+@ 015.188
+# wrestler (voiced), used 2x
+JP 今のままでは
+JP この団体はダメになります！
+EN The way things are now,
+EN this promotion is doomed!
+
+@ 015.196
+# wrestler (voiced), used 2x
+JP へへーん！
+JP 来島革命軍ここに誕生！
+EN Heh heh!
+EN The Kishima Revolution Army is born!
+
+@ 015.204
+# wrestler (voiced), used 2x
+JP 私のこと止められるものなら
+JP 止めてみなさい！
+EN Stop me if you can!
+
+@ 015.212
+# wrestler (voiced), used 2x
+JP 私とともに戦う者は
+JP 革命の旗の下に集まりなさい！
+EN All who would fight beside me,
+EN gather
+EN under the banner of revolution!
+
+@ 015.220
+# wrestler (voiced), used 2x
+JP あたしは本気ですから！
+EN I'm dead serious!
+
+@ 015.228
+# wrestler (voiced), used 2x
+JP あたしにできることをやってみるわ！
+EN I'll do whatever I can!
+
+@ 015.236
+# wrestler (voiced), used 2x
+JP あたし、がんばっちゃうからねー！
+EN I'm gonna give it my all!
+
+@ 015.244
+# wrestler (voiced), used 2x
+JP …ボ、ボク本気ですからね！
+EN ...I-I'm serious, you know!
+
+@ 015.252
+# wrestler (voiced), used 2x
+JP オラーーッ！
+JP オレについてこい！
+EN Raaagh!
+EN Follow me!
+
+@ 015.260
+# wrestler (voiced), used 2x
+JP あたし、カクメイしちゃうから！
+EN I'm gonna do a revolution!
+
+@ 015.268
+# wrestler (voiced), used 2x
+JP 革命…。
+JP ウフッ…。
+JP 体が火照ってきますわ。
+EN Revolution...
+EN Ufufu...
+EN It makes my body burn.
+
+@ 015.276
+# wrestler (voiced), used 2x
+JP サイは投げられました…。
+EN The die has been cast...
+
+@ 015.284
+# wrestler (voiced), used 2x
+JP たとえ道が違えど
+JP 過ちを正すことも
+JP 必要でしょう…。
+EN Even if our paths differ,
+EN mistakes still need
+EN to be set right...
+
+@ 015.292
+# wrestler (voiced), used 2x
+JP メラメラ燃えてるんだッ！
+EN I'm burning up inside!
+
+@ 015.300
+# wrestler (voiced), used 2x
+JP あたしが変えてみせます！
+EN I'll change things, just watch!
+
+@ 015.308
+# wrestler (voiced), used 2x
+JP ウォーーッ！
+JP 燃えてきたぁーー！
+EN Woooh!
+EN I'm all fired up!
+
+@ 015.316
+# wrestler (voiced), used 2x
+JP ……革命軍…つくったの……。
+EN ......I made... a Revolution
+EN Army......
+
+@ 015.324
+# wrestler (voiced), used 2x
+JP 私の計算では革命が成功する確率は
+JP 80％以上です。
+EN By my calculations, the revolution's
+EN chance of success is over 80%.
+
+@ 015.332
+# wrestler (voiced), used 2x
+JP 革命の旗の下
+JP 集え我に従う勇者たち！
+EN Under the banner of revolution,
+EN gather, brave ones who follow me!
+
+@ 015.340
+# wrestler (voiced), used 2x
+JP ……一緒に…戦ってくれるって……。
+EN ......They said... they'd fight with
+EN me......
+
+@ 015.348
+# wrestler (voiced), used 2x
+JP ボクと一緒に戦ってくれる人は
+JP いませんか～？
+EN Isn't there anyone who'll
+EN fight with me~?
+
+@ 015.356
+# wrestler (voiced), used 2x
+JP 真帆がカクメイグンの大将だ！
+EN Maho is the boss of the Revolution
+EN Army!
+
+@ 015.364
+# wrestler (voiced), used 2x
+JP これも仕事といえば仕事ですね。
+EN I suppose this is part of the job,
+EN too.
+
+@ 015.372
+# wrestler (voiced), used 2x
+JP ウチの革命しっかり見ときな！
+EN Watch my revolution close, y'hear!
+
+@ 015.380
+# wrestler (voiced), used 2x
+JP あたしだって本気になったら
+JP 凄いんだ…凄いんですから！
+EN When I get serious I'm amazing...
+EN Um, I mean, I really am amazing!
+
+@ 015.388
+# wrestler (voiced), used 2x
+JP 今日から革命軍です！
+EN We're the Revolution Army as of
+EN today!
+
+@ 015.392
+# wrestler (voiced), used 2x
+JP え、えーーッ！
+JP あたしが大将！？
+EN Wh-whaaat!?
+EN I'm the leader!?
+
+@ 015.400
+# wrestler (voiced), used 2x
+JP 私は革命のために戦うヒロインです！
+EN I'm a heroine fighting for
+EN revolution!
+
+@ 015.408
+# wrestler (voiced), used 2x
+JP この団体の歴史は
+JP 私が塗り替えましょう！
+EN I shall rewrite this
+EN promotion's history!
+
+@ 015.416
+# wrestler (voiced), used 2x
+JP 私、革命しちゃいます～。
+EN I'm going to start a revolution~.
+
+@ 015.424
+# wrestler (voiced), used 2x
+JP ムフ～！
+JP 革命やっちゃおうかな～？
+EN Mufu~!
+EN Maybe I'll start a revolution~?
+
+@ 015.432
+# wrestler (voiced), used 2x
+JP この機会に私の怖さ
+JP たっぷりと教えてやるよ！
+EN I'll use this chance to show you
+EN just how scary I can be!
+
+@ 015.440
+# wrestler (voiced), used 2x
+JP 革命でもなんでも
+JP 思いっきり暴れてやるよ！
+EN Revolution or whatever, I'm gonna
+EN cut loose and wreck the place!
+
+@ 015.448
+# wrestler (voiced), used 2x
+JP あたしの革命魂しっかり見ときなよ！
+EN Watch my revolutionary spirit close!
+
+@ 015.456
+# wrestler (voiced), used 2x
+JP この革命成し遂げてみせよう！
+EN I shall see this revolution through!
+
+@ 015.464
+# wrestler (voiced), used 2x
+JP 仲良しごっこなんてしてられるか！
+EN I'm done playing nice with everyone!
+
+@ 015.480
+# wrestler (voiced)
+JP それもいいだろう。
+EN That's fine too.
+
+@ 015.488
+# wrestler (voiced)
+JP あはッ！
+JP 私、革命軍つくっちゃいました～。
+EN Ahaha!
+EN I went and made a Revolution Army~.
+
+@ 015.496
+# wrestler (voiced)
+JP クールな革命決めてみせるわ！
+EN I'll pull off a cool revolution!
+
+@ 015.504
+# wrestler (voiced)
+JP 正義の革命起こします！
+EN I'll start a revolution for justice!
+
+@ 015.512
+# wrestler (voiced)
+JP 私が指揮をすれば
+JP 革命は成し遂げられます！
+EN Under my command, the revolution
+EN will succeed!
+
+@ 015.520
+# wrestler (voiced)
+JP 革命軍に運命を感じたの……。
+EN I felt the Revolution Army was my
+EN fate......
+
+@ 015.528
+# wrestler (voiced)
+JP え～と全力で革命します！
+EN Um, I'll start a revolution
+EN with everything I've got!
+
+@ 015.536
+# wrestler (voiced)
+JP 光、革命にも完全燃焼です！
+EN Hikaru will burn all-out for the
+EN revolution too!
+
+@ 015.544
+# wrestler (voiced)
+JP ほーーーほっほっほ。
+JP 芸術的な革命をお見せしますわ！
+EN Oh-ho-ho-ho-ho.
+EN I'll show you an artistic
+EN revolution!
+
+@ 015.552
+# wrestler (voiced)
+JP あらら～。
+JP 革命しちゃいますね～。
+EN Oh my~.
+EN I'm going to start a revolution~.
+
+@ 015.560
+# wrestler (voiced)
+JP 革命軍の強さ見せてあげるよ！
+EN I'll show you how strong the
+EN Revolution Army is!
+
+@ 015.568
+# wrestler (voiced)
+JP オッシャーーッ！
+JP 気合い入れてアタシについてきな！
+EN All riiight!
+EN Get fired up and follow me!
+
+@ 015.576
+# wrestler (voiced)
+JP 血の滾りが抑えられないんです。
+EN I can't hold back my boiling blood.
+
+@ 015.584
+# wrestler (voiced)
+JP 私、全力でリングを
+JP 革命してみせますッ！
+EN I'll revolutionize the ring
+EN with all I've got!
+
+@ 015.592
+# wrestler (voiced)
+JP 革命軍結成ー！
+JP 私の活躍見てなさいよー！
+EN The Revolution Army is formed!
+EN Just watch me shine!
+
+@ 015.600
+# wrestler (voiced)
+JP 私の革命止められるものなら
+JP 止めてみろ！
+EN Stop my revolution if you can!

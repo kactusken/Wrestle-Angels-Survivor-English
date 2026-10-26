@@ -1,0 +1,458 @@
+# Event script entry 019 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 019.46
+# Secretary, used 4x
+JP 革命軍リーダー
+JP {name:0}選手から
+JP 決戦要求がきています。
+EN Revolution Army leader {name:0}
+EN is demanding a final showdown.
+
+@ 019.48
+# Secretary
+JP 我が団体も選手不足ですし
+JP 一致団結するケジメとしての
+JP 申し出のようです。
+EN We're short on wrestlers too, so
+EN they seem to mean it as a way to
+EN settle things and unite.
+
+@ 019.50
+# Secretary, used 3x
+JP 決戦要求を受けますか？
+EN Will you accept the showdown?
+
+@ 019.59
+# other, case 1, used 4x
+JP わかりました。
+JP 今回の決戦要求は断っておきます。
+EN Understood.
+EN I'll turn down their challenge this
+EN time.
+
+@ 019.71
+# wrestler (voiced), case 1, used 8x
+JP そろそろ勝負しましょうか～？
+EN Shall we settle this already~?
+
+@ 019.79
+# wrestler (voiced), case 1, used 8x
+JP 次が本当の勝負だからね！
+EN The next one's the real deal!
+
+@ 019.87
+# wrestler (voiced), case 1, used 8x
+JP 最後の真剣勝負といきましょう！
+EN Let's have one last real fight!
+
+@ 019.95
+# wrestler (voiced), case 1, used 8x
+JP さぁ、最終決戦といきましょうか！
+EN Now, let's have the final showdown!
+
+@ 019.103
+# wrestler (voiced), case 1, used 8x
+JP しょ、勝負だよ！
+JP 絶対負けないんだからッ！
+EN L-let's fight!
+EN I'm not gonna lose, no way!
+
+@ 019.111
+# wrestler (voiced), case 1, used 8x
+JP そろそろ白黒つけましょう…。
+EN It's time we settled this...
+
+@ 019.119
+# wrestler (voiced), case 1, used 8x
+JP さぁ、勝負ですッ！
+EN Now, let's fight!
+
+@ 019.127
+# wrestler (voiced), case 1, used 8x
+JP うぅぅ～。
+JP 勝負だよ、勝負ッ！
+EN Grrr!
+EN Fight me, fight me!
+
+@ 019.135
+# wrestler (voiced), case 1, used 8x
+JP 勝負です！
+JP ショーブッ！
+EN Let's fight!
+EN Fiiight!
+
+@ 019.143
+# wrestler (voiced), case 1, used 8x
+JP 決着をつけるときが来ましたね！
+EN The time has come to settle this!
+
+@ 019.151
+# wrestler (voiced), case 1, used 8x
+JP いい加減ケリをつけようぜ！
+EN Let's finally settle this!
+
+@ 019.159
+# wrestler (voiced), case 1, used 8x
+JP いざ、勝負にゃん！
+EN Let's fight, nya!
+
+@ 019.167
+# wrestler (voiced), case 1, used 8x
+JP 最後の勝負よ！
+JP これですっきりさせましょ！
+EN This is the last fight!
+EN Let's clear the air once and for
+EN all!
+
+@ 019.175
+# wrestler (voiced), case 1, used 8x
+JP さぁ、決着をつけましょう！
+EN Now, let's settle this!
+
+@ 019.183
+# wrestler (voiced), case 1, used 8x
+JP オーホッホッホッホ！
+JP ついにこのときが来ましたわね！
+JP さぁ、勝負ですわ！
+EN Oh-ho-ho-ho-ho!
+EN The time has finally come!
+EN Now, let us fight!
+
+@ 019.191
+# wrestler (voiced), case 1, used 8x
+JP さぁ、勝負よ！
+JP かかってらっしゃい！
+EN Now, let's fight!
+EN Bring it on!
+
+@ 019.199
+# wrestler (voiced), case 1, used 8x
+JP ここでケリをつけましょう！
+EN Let's settle it here!
+
+@ 019.207
+# wrestler (voiced), case 1, used 8x
+JP さぁ、今度こそ
+JP ケリつけようぜッ！
+EN All right, this time
+EN let's settle it for real!
+
+@ 019.215
+# wrestler (voiced), case 1, used 8x
+JP 勝負よ、勝負！
+JP 絶対勝負するわよ！
+EN Let's fight, let's fight!
+EN We're fighting, no matter what!
+
+@ 019.223
+# wrestler (voiced), case 1, used 8x
+JP どっちが本当に強いのか
+JP 決着をつけましょう！
+EN Let's settle who's really
+EN the strongest!
+
+@ 019.231
+# wrestler (voiced), case 1, used 8x
+JP そろそろ決着をつけましょうか！
+EN Let's settle this once and for all!
+
+@ 019.239
+# wrestler (voiced), case 1, used 8x
+JP どちらが強いのか
+JP 決着をつけましょう？
+EN Shall we settle which of
+EN us is stronger?
+
+@ 019.247
+# wrestler (voiced), case 1, used 8x
+JP 勝負よ、ショーブ！
+JP 絶対勝つわよ！
+EN Let's fight, fiiight!
+EN I'm gonna win, no matter what!
+
+@ 019.255
+# wrestler (voiced), case 1, used 8x
+JP 次こそホントに最終決戦ですよ！
+EN This time it really is the final
+EN showdown!
+
+@ 019.263
+# wrestler (voiced), case 1, used 8x
+JP 逃げてばっかいねぇで
+JP 勝負しろッ！
+EN Quit running away
+EN and fight me!
+
+@ 019.271
+# wrestler (voiced), case 1, used 8x
+JP しょ、勝負する…？
+JP こ、怖くなんてないんだから！
+EN W-we're fighting...?
+EN I-I'm not scared or anything!
+
+@ 019.279
+# wrestler (voiced), case 1, used 8x
+JP 今度こそ
+JP まとめて潰して差し上げます！
+EN This time I shall crush
+EN you all at once!
+
+@ 019.287
+# wrestler (voiced), case 1, used 8x
+JP そろそろ決着をつけましょう！
+EN Let's settle this already!
+
+@ 019.295
+# wrestler (voiced), case 1, used 8x
+JP すべての決着を
+JP ここでつけましょう！
+EN Let's settle everything
+EN right here!
+
+@ 019.303
+# wrestler (voiced), case 1, used 8x
+JP これが最後の勝負だよッ！
+EN This is the last fight!
+
+@ 019.311
+# wrestler (voiced), case 1, used 8x
+JP これでケリをつけましょう！
+EN Let's settle it with this!
+
+@ 019.319
+# wrestler (voiced), case 1, used 8x
+JP 天下分け目の関ヶ原ッス！
+EN This is our Sekigahara!
+EN Winner takes all!
+
+@ 019.327
+# wrestler (voiced), case 1, used 8x
+JP ……勝負する……？
+JP ……誰が勝負するの……？
+EN ......Fight......?
+EN ......Who's fighting......?
+
+@ 019.335
+# wrestler (voiced), case 1, used 8x
+JP たとえ勝てる確率が低くても…。
+JP この戦いだけは…。
+EN Even if the odds are against us...
+EN This fight, at least...
+
+@ 019.343
+# wrestler (voiced), case 1, used 8x
+JP 夢が潰えるか、伝説を残すか…。
+JP すべてはこの一戦に！
+EN Will dreams be crushed, or a legend
+EN be born... It all rides on this
+EN bout!
+
+@ 019.351
+# wrestler (voiced), case 1, used 8x
+JP ……これで決着を
+JP つけようかなって……。
+EN ......I thought maybe...
+EN we'd settle it with this......
+
+@ 019.359
+# wrestler (voiced), case 1, used 8x
+JP さぁ、勝負だよ！
+JP 勝負ッ！
+EN Now, let's fight!
+EN Fight!
+
+@ 019.367
+# wrestler (voiced), case 1, used 8x
+JP 真帆たちと勝負だ！
+EN Maho and friends will take you on!
+
+@ 019.375
+# wrestler (voiced), case 1, used 8x
+JP そろそろ仕事の仕上げと
+JP いきましょう。
+EN It's time to wrap up
+EN this job.
+
+@ 019.383
+# wrestler (voiced), case 1, used 8x
+JP 最終決戦やーッ！
+EN It's the final showdown!
+
+@ 019.391
+# wrestler (voiced), case 1, used 8x
+JP これが本当に
+JP 最後の最後の勝負です！
+EN This is truly the very,
+EN very last fight!
+
+@ 019.399
+# wrestler (voiced), case 1, used 8x
+JP さ、最終決戦で決着ですッ！
+EN L-let's settle it in the final
+EN showdown!
+
+@ 019.407
+# wrestler (voiced), case 1, used 8x
+JP 最終決戦で勝負です！
+JP 最終回はこれで決まりですね！
+EN A final showdown!
+EN That settles the final episode!
+
+@ 019.415
+# wrestler (voiced), case 1, used 8x
+JP この戦いで
+JP すべての決着をつけましょう！
+EN Let's settle everything
+EN in this fight!
+
+@ 019.423
+# wrestler (voiced), case 1, used 8x
+JP そろそろ決着をつけましょうか～？
+EN Shall we settle this already~?
+
+@ 019.431
+# wrestler (voiced), case 1, used 8x
+JP ワ・レ・ワ・レは
+JP 最終決戦を要求するぅ！
+EN We... de... mand...
+EN a final showdooown!
+
+@ 019.439
+# wrestler (voiced), case 1, used 8x
+JP 白か黒か…。
+JP これではっきりさせようぜ！
+EN Black or white...
+EN Let's make it clear with this!
+
+@ 019.447
+# wrestler (voiced), case 1, used 8x
+JP これで白黒はっきりさせてやるよ！
+EN This'll make it black and white!
+
+@ 019.455
+# wrestler (voiced), case 1, used 8x
+JP ケリをつけてもいい
+JP 頃合いじゃないかい？
+EN Isn't it about time
+EN we settled this?
+
+@ 019.463
+# wrestler (voiced), case 1, used 8x
+JP いざ尋常に勝負ッ！
+EN Now, a fair and square fight!
+
+@ 019.471
+# wrestler (voiced), case 1, used 8x
+JP お前ら次で潰してやるぜ！
+EN I'll crush you all next time!
+
+@ 019.479
+# wrestler (voiced), case 1, used 8x
+JP …………勝負……。
+EN ............Fight......
+
+@ 019.487
+# wrestler (voiced), case 1, used 4x
+JP 決着をつけようか？
+EN Shall we settle this?
+
+@ 019.495
+# wrestler (voiced), case 1, used 4x
+JP 決着つけましょうか？
+JP 勝負、ショーブ！
+EN Shall we settle this?
+EN Fight, fight!
+
+@ 019.503
+# wrestler (voiced), case 1, used 4x
+JP 最後の勝負
+JP クールに決めてみせるわ！
+EN I'll win the last fight
+EN in cool style!
+
+@ 019.511
+# wrestler (voiced), case 1, used 4x
+JP 正義がどちらにあるか
+JP 決着をつけましょう？
+EN Shall we settle which side
+EN justice is on?
+
+@ 019.519
+# wrestler (voiced), case 1, used 4x
+JP 史上最大の決戦といきましょうか？
+EN Shall we have the greatest
+EN showdown in history?
+
+@ 019.527
+# wrestler (voiced), case 1, used 4x
+JP 運命の決戦は避けられない……。
+EN The fateful showdown can't be
+EN avoided......
+
+@ 019.535
+# wrestler (voiced), case 1, used 4x
+JP これで決着をつけましょう！
+EN Let's settle it with this!
+
+@ 019.543
+# wrestler (voiced), case 1, used 4x
+JP お互い完全燃焼して
+JP 決着をつけましょう！
+EN Let's both burn all-out
+EN and settle this!
+
+@ 019.551
+# wrestler (voiced), case 1, used 4x
+JP さあ、決着をつけるときが
+JP 来たようですわ！
+EN Now, it seems the time has
+EN come to settle this!
+
+@ 019.559
+# wrestler (voiced), case 1, used 4x
+JP そろそろ終わりにしましょうか～？
+EN Shall we end this already~?
+
+@ 019.567
+# wrestler (voiced), case 1, used 4x
+JP ボクたちと勝負だよッ！
+EN You're up against us now!
+
+@ 019.575
+# wrestler (voiced), case 1, used 4x
+JP きっちりカタつけるぜ！
+JP お前ら気合い入れていけよッ！
+EN We're settling this for good!
+EN Get fired up, all of you!
+
+@ 019.583
+# wrestler (voiced), case 1, used 4x
+JP すべての因縁を
+JP この一戦で断ちましょう！
+EN Let's cut every tie of fate
+EN in this one bout!
+
+@ 019.591
+# wrestler (voiced), case 1, used 4x
+JP これが最後の勝負ですッ！
+EN This is the last fight!
+
+@ 019.599
+# wrestler (voiced), case 1, used 4x
+JP 最終決戦ッ！
+JP 勝負だーッ！
+EN Final showdown!
+EN Let's fight!
+
+@ 019.607
+# wrestler (voiced), case 1, used 4x
+JP ガチンコ勝負だぁーッ！
+EN A no-holds-barred fight!

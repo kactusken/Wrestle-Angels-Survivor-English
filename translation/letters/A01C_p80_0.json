@@ -1,0 +1,33 @@
+{
+ "english": "Reiko Tomizawa",
+ "boxes": [
+  [
+   0,
+   103,
+   128,
+   14
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowSemiCondensed-Bold.ttf",
+ "cap": 8,
+ "draw": "portraits.draw",
+ "mode": "icon",
+ "notes": "face picture: Japanese name kept at the top, English at the bottom of the art (tools/namegfx.py)",
+ "catalogue": {
+  "source": "/A000/A01C. part 80",
+  "width": 128,
+  "height": 128,
+  "bpp": 8,
+  "category": "name",
+  "japanese": "富沢 礼子"
+ },
+ "band": [
+  0,
+  103,
+  128,
+  14
+ ],
+ "clear_tag": false,
+ "outline_width": 1
+}

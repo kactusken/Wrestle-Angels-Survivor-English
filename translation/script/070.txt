@@ -1,0 +1,114 @@
+# Event script entry 070 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 070.88
+# wrestler (voiced), case 0, used 2x
+JP 社長、呼んだ？
+EN You called, Boss?
+
+@ 070.94
+# President, case 0, used 2x
+JP ああ、来たか。
+JP 実は…
+EN Ah, you're here. Actually...
+
+@ 070.102
+# wrestler (voiced), case 0, used 2x
+JP やるッ！
+EN I'll do it!
+
+@ 070.108
+# President, case 0, used 2x
+JP ハヤッ！
+JP まだ何も言ってないぞ。
+EN That was fast!
+EN I haven't said anything yet.
+
+@ 070.116
+# wrestler (voiced), case 0, used 2x
+JP アッハハハッ！
+JP 実はさっきマネージャーに聞いたのよ。
+JP 写真集の件でしょ？
+EN Ahahaha! Actually, I heard from
+EN the manager just now. It's about
+EN the photo book, right?
+
+@ 070.122
+# President, case 0, used 2x
+JP そうか…。
+JP それなら話は早いな。
+JP そのとおりだ。
+EN I see... That makes things easy.
+EN That's exactly it.
+
+@ 070.130
+# wrestler (voiced), case 0, used 2x
+JP うん！
+JP 何事も挑戦、挑戦。
+JP じゃ、支度してくるね！
+EN Yup! You gotta try everything!
+EN Okay, I'll go get ready!
+
+@ 070.136
+# President, case 0, used 4x
+JP ああ、わかった。
+EN All right.
+
+@ 070.233
+# wrestler (voiced), case 0, used 2x
+JP どう、社長？
+EN How is it, Boss?
+
+@ 070.239
+# President, case 0, used 2x
+JP すごく魅力的に撮れてる。
+EN You look really attractive.
+
+@ 070.247
+# wrestler (voiced), case 0, used 2x
+JP エッヘヘヘッ！
+JP 良かったぁ…。
+EN Ehehehe! I'm so glad...
+
+@ 070.253
+# President, case 0, used 2x
+JP これがあの大食い女だとは
+JP 信じられないな。
+EN Hard to believe this is the
+EN same girl who eats like a horse.
+
+@ 070.261
+# wrestler (voiced), case 0, used 2x
+JP ムッ！
+JP その言い方減点イチ！
+EN Hmph! One point off for that!
+
+@ 070.267
+# President, case 0, used 2x
+JP わるい、わるい。
+EN Sorry, sorry.
+
+@ 070.275
+# wrestler (voiced), case 0, used 2x
+JP 罰として今晩社長のおごり！
+EN As punishment, dinner's on you
+EN tonight, Boss!
+
+@ 070.281
+# President, case 0, used 2x
+JP おいおい。
+EN Hey, hey.
+
+@ 070.286
+# President, case 0, used 2x
+JP （メシくった後に
+JP 改めて大食い女って言ってやる。）
+EN (After dinner I'm calling her
+EN a bottomless pit all over again.)

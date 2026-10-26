@@ -1,0 +1,131 @@
+# Event script entry 053 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 053.88
+# wrestler (voiced), case 0, used 10x
+JP はーい！
+JP お呼びですか？
+EN Yes!
+EN You called?
+
+@ 053.94
+# President, case 0, used 2x
+JP ああ、呼んだ。
+JP いきなりだがお前に
+JP 写真集のオファーが来ている。
+EN Yeah, I did. Out of the blue, but
+EN you've gotten an offer for
+EN a photo book.
+
+@ 053.102
+# wrestler (voiced), case 0, used 4x
+JP しゃ…写真集？
+EN A ph-photo book?
+
+@ 053.108
+# President, case 0, used 6x
+JP ああ、会社としては
+JP 受けたいと思っているが…。
+JP やってくれるか？
+EN Yeah, the company would like
+EN to accept... Will you do it?
+
+@ 053.116
+# wrestler (voiced), case 0, used 2x
+JP うーん、やってもいいけど…。
+JP あたしにできるかなぁ？
+JP モデルなんて…。
+EN Hmm, I could, but...
+EN Can I really be a model...?
+
+@ 053.122
+# President, case 0, used 2x
+JP そうか？
+JP 俺はいけると思うんだが…。
+EN No? I think you could
+EN pull it off...
+
+@ 053.130
+# wrestler (voiced), case 0, used 2x
+JP いや、ホント！
+JP ホントに自信ないんだって！
+EN No, really!
+EN I'm seriously not confident!
+
+@ 053.149
+# President, case 0, used 22x
+JP （カメラマン）
+JP いいねぇ、その顔。
+JP うん、いい！
+EN (Photographer)
+EN Nice, that face.
+EN Yeah, great!
+
+@ 053.162
+# President, case 0, used 22x
+JP （カメラマン）
+JP うーん、色っぽいね…。
+JP いいね、すごいよ。
+EN (Photographer)
+EN Mmm, very sexy...
+EN Nice, amazing.
+
+@ 053.175
+# President, case 0, used 22x
+JP （カメラマン）
+JP はーい、そうそう。
+JP うん、いいよ、いいよ～。
+EN (Photographer)
+EN Okay, that's it.
+EN Yeah, good, good!
+
+@ 053.223
+# President, case 0, used 2x
+JP 自信ないって言ってた割には
+JP いいできじゃないか？
+EN For someone who wasn't confident,
+EN these came out great, didn't they?
+
+@ 053.232
+# wrestler (voiced), case 0, used 2x
+JP エ…エヘヘへ…。
+JP それはあれかな？
+JP もって生まれた才能？
+EN Eh... ehehe... Is that what you'd
+EN call natural-born talent?
+
+@ 053.238
+# President, case 0, used 2x
+JP 才能か…。
+JP この写真を見ると
+JP ホントにありそうだなぁ。
+EN Talent, huh... Looking at these
+EN photos, maybe you really have it.
+
+@ 053.246
+# wrestler (voiced), case 0, used 2x
+JP でも我に返ると
+JP ちょっと恥ずかしいなぁ…。
+JP やっぱり売るのやめにしない？
+EN But now that I think about it, it's
+EN kinda embarrassing... Can't we
+EN just not sell it?
+
+@ 053.252
+# President, case 0, used 2x
+JP しない。
+EN No.
+
+@ 053.260
+# wrestler (voiced), case 0, used 2x
+JP あーん…。
+JP 恥ずかしい～！
+EN Aww...
+EN So embarrassing!

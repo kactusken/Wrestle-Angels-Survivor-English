@@ -1,0 +1,473 @@
+# Event script entry 280 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 280.41
+# wrestler (voiced), used 2x
+JP 久々にのんびりできます～。
+EN I can finally relax for once!
+
+@ 280.53
+# wrestler (voiced), used 2x
+JP ゆっくり休もうっと。
+EN Time to get some good rest.
+
+@ 280.65
+# wrestler (voiced), used 2x
+JP 体を休めることも
+JP 練習のひとつか…。
+EN Resting your body is part
+EN of training too, huh...
+
+@ 280.77
+# wrestler (voiced), used 2x
+JP リフレッシュするのも
+JP 大事なことですよね。
+EN Recharging is important too,
+EN isn't it?
+
+@ 280.89
+# wrestler (voiced), used 2x
+JP ハワイでのんびりしてきまーす。
+JP おみやげ買ってくるからね！
+EN I'm off to laze around in Hawaii!
+EN I'll bring you a souvenir!
+
+@ 280.100
+# other, used 2x
+JP 鈍らないようにしないと…。
+EN I can't let myself get rusty...
+
+@ 280.113
+# wrestler (voiced), used 2x
+JP たまには
+JP のんびりするのもいいよね！
+EN It's nice to take it easy
+EN once in a while!
+
+@ 280.125
+# wrestler (voiced), used 2x
+JP これから北海道帰るの。
+JP 社長、おみやげ何がいい？
+EN I'm heading home to Hokkaido.
+EN Boss, what souvenir do you want?
+
+@ 280.137
+# wrestler (voiced), used 2x
+JP 休み中は実家の手伝いしてます。
+JP 来てくれたらサービスしますよ！
+EN I'll help out at the family
+EN restaurant on my break. Drop by and
+EN get something on the house!
+
+@ 280.149
+# wrestler (voiced), used 2x
+JP 少し山にこもります…。
+EN I'll go hole up in the mountains
+EN for a while...
+
+@ 280.161
+# wrestler (voiced), used 2x
+JP じゃ、ゆっくりさせてもらうか。
+EN Well then, I'll take it easy.
+
+@ 280.173
+# wrestler (voiced), used 2x
+JP たまには休暇もいいよね！
+EN A vacation's nice once in a while!
+
+@ 280.185
+# wrestler (voiced), used 2x
+JP わーいッ！
+JP 前から行きたかったイベントに
+JP 行っくわよ～！
+EN Yaaay!
+EN I'm finally going to that event
+EN I've been dying to see!
+
+@ 280.197
+# wrestler (voiced), used 2x
+JP 広くてのんびりできる所で
+JP ゆっくり体を休めたいわ…。
+EN I want somewhere big and quiet
+EN where I can rest my body...
+
+@ 280.209
+# wrestler (voiced), used 2x
+JP オーッホッホッホッホ！
+JP バカンスはどこへ行こうかしら？
+EN Oh-ho-ho-ho-ho!
+EN Where shall I go on holiday?
+
+@ 280.221
+# wrestler (voiced), used 2x
+JP せっかくの休暇だし…。
+JP 新しい衣装探してこようかな～。
+JP 代金は社長もちね。
+EN Since it's a vacation...
+EN maybe I'll go shopping for new
+EN outfits. On your tab, Boss.
+
+@ 280.233
+# wrestler (voiced), used 2x
+JP 戦士の休息か…。
+JP …あ、いえ。
+JP なんでもないです。
+EN A warrior's rest...
+EN ...Ah, no.
+EN Never mind.
+
+@ 280.245
+# wrestler (voiced), used 2x
+JP …う～ん。
+JP 休暇かぁ…。
+JP 何すっかな～…。
+EN ...Hmmm.
+EN A vacation, huh...
+EN What should I do...
+
+@ 280.257
+# wrestler (voiced), used 2x
+JP 休みかぁ…。
+JP 食い倒れツアーにでも
+JP 行こうかな～。
+EN A day off, huh...
+EN Maybe I'll go on an all-you-can-eat
+EN food tour!
+
+@ 280.269
+# wrestler (voiced), used 2x
+JP 休暇なんて久しぶりね…。
+EN It's been a while since
+EN I had a vacation...
+
+@ 280.281
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP お休みいただきますね。
+EN Thank you very much.
+EN I'll take some time off, then.
+
+@ 280.305
+# wrestler (voiced), used 2x
+JP きゃーッ！
+JP 久しぶりの休みだし
+JP 朝まで踊りあかすわよーッ！
+EN Kyaaa!
+EN My first day off in ages!
+EN I'm gonna dance till dawn!
+
+@ 280.317
+# wrestler (voiced), used 2x
+JP 休暇中も自主トレは休みませんッ！
+EN I won't skip my own training,
+EN even on vacation!
+
+@ 280.329
+# wrestler (voiced), used 2x
+JP …ったく！
+JP コキ使い過ぎなんだよ。
+EN ...Jeez!
+EN You work me way too hard.
+
+@ 280.341
+# wrestler (voiced), used 2x
+JP わ～い！
+JP お休みだぁー！
+EN Yaaay!
+EN A day off!
+
+@ 280.353
+# wrestler (voiced), used 2x
+JP 別荘でゆっくりしてまいります。
+EN I'll go relax at our villa.
+
+@ 280.365
+# wrestler (voiced), used 2x
+JP では、しばらく
+JP 体を休めることにします。
+EN Then I'll rest my body
+EN for a while.
+
+@ 280.377
+# wrestler (voiced), used 2x
+JP それでは
+JP お暇を取らせていただきますね。
+EN Well then, I'll take my leave
+EN for a while.
+
+@ 280.389
+# wrestler (voiced), used 2x
+JP どこに遊びに行こうかなぁ。
+EN Where should I go have fun?
+
+@ 280.401
+# wrestler (voiced), used 2x
+JP たまには
+JP 体を休めるのもいいですね！
+EN It's good to rest your body
+EN once in a while!
+
+@ 280.413
+# wrestler (voiced), used 2x
+JP 体がなまらないように
+JP 毎日のトレーニングは忘れません！
+EN I won't forget my daily training,
+EN so I don't get out of shape!
+
+@ 280.425
+# wrestler (voiced), used 2x
+JP ……休んでいいの……？
+EN ......I can rest......?
+
+@ 280.437
+# wrestler (voiced), used 2x
+JP 休暇を最も有効的に使うには
+JP 就寝までの14時間22分を
+JP まず午前と午後に分けて…。
+EN To use a vacation most efficiently,
+EN first divide the 14 hours 22 minutes
+EN until bedtime into AM and PM...
+
+@ 280.449
+# wrestler (voiced), used 2x
+JP 南の島にバカンスにでも
+JP 出かけようか…。
+EN Maybe I'll take a vacation
+EN on some southern island...
+
+@ 280.461
+# wrestler (voiced), used 2x
+JP ……や、休んでもいいの……？
+EN ......I-I'm allowed to rest......?
+
+@ 280.473
+# wrestler (voiced), used 2x
+JP 思いっきり羽のばすぞーッ！
+EN I'm gonna let loose big time!
+
+@ 280.485
+# wrestler (voiced), used 2x
+JP そうだ！
+JP 山に帰ろう！
+EN I know!
+EN I'll go back to the mountains!
+
+@ 280.497
+# wrestler (voiced), used 2x
+JP では、休暇をいただきます。
+JP それでは…。
+EN Then I'll take my vacation.
+EN If you'll excuse me...
+
+@ 280.509
+# wrestler (voiced), used 2x
+JP 久しぶりにサーカスでも
+JP 見に行こか～！
+EN Maybe I'll go see the circus,
+EN been a while!
+
+@ 280.521
+# wrestler (voiced), used 2x
+JP わーいッ！
+JP 何しようかな～ッ！
+EN Yaaay!
+EN What should I do!
+
+@ 280.533
+# wrestler (voiced), used 2x
+JP お休みかぁ…。
+JP うーん…。
+JP バイトとかしようかな。
+EN A day off, huh...
+EN Hmm...
+EN Maybe I'll get a part-time job.
+
+@ 280.545
+# wrestler (voiced), used 2x
+JP 時に休養も必要ということですね！
+JP 一生懸命休んできますッ！
+EN So sometimes rest is necessary too!
+EN I'll rest with all my might!
+
+@ 280.557
+# wrestler (voiced), used 2x
+JP 久しぶりにフェンシングでもやって
+JP リフレッシュしてきます。
+EN I'll do some fencing for the first
+EN time in a while to recharge.
+
+@ 280.569
+# wrestler (voiced), used 2x
+JP ありがとうございます。
+JP 実家に帰って
+JP 親孝行してまいります～。
+EN Thank you very much.
+EN I'll go home and be a good daughter
+EN to my parents.
+
+@ 280.581
+# wrestler (voiced), used 2x
+JP お休み、お休みッ♪
+JP うわーッ、何しようかな～。
+JP ムフフフッ！
+EN Day off, day off♪
+EN Whoa, what should I do?
+EN Mufufufu!
+
+@ 280.593
+# wrestler (voiced), used 2x
+JP ずっと休んでていいだろ？
+EN I can stay on break forever, right?
+
+@ 280.605
+# wrestler (voiced), used 2x
+JP このままずっと休んでていいか？
+EN Mind if I just stay on break
+EN for good?
+
+@ 280.617
+# wrestler (voiced), used 2x
+JP 久しぶりに仲間集めて
+JP 集会でもやるか！
+EN Maybe I'll round up the old crew
+EN and hold a meeting!
+
+@ 280.629
+# wrestler (voiced), used 2x
+JP では、しばらく留守にする。
+EN Then I'll be away for a while.
+
+@ 280.641
+# wrestler (voiced), used 2x
+JP せいぜい、一般人を殴らないように
+JP 気をつけるよ！
+EN I'll try my best not to punch
+EN any civilians!
+
+@ 280.652
+# other, used 2x
+JP …………休み……。
+EN ............Day off......
+
+@ 280.666
+# wrestler (voiced)
+JP では、休ませてもらおう。
+EN Then I shall take my rest.
+
+@ 280.678
+# wrestler (voiced)
+JP よーし、動物園で息抜きかな？
+JP それともペットショップ巡りに
+JP しようかなぁ…。
+EN All right, unwind at the zoo?
+EN Or maybe make the rounds
+EN of the pet shops...
+
+@ 280.690
+# wrestler (voiced)
+JP …休暇！？
+JP ウレシー、何しよーッ！
+JP …コホン、クールに過ごすわ。
+EN ...A vacation?! Yay, what'll I do!
+EN ...Ahem. I'll spend it coolly.
+
+@ 280.702
+# wrestler (voiced)
+JP お休み、お休みー。
+JP 何しようかなぁ～。
+EN Day off, day off!
+EN What should I do?
+
+@ 280.714
+# wrestler (voiced)
+JP 休む事も任務のうちですね。
+EN Resting is part of the mission too.
+
+@ 280.726
+# wrestler (voiced)
+JP お休み……。
+EN Day off......
+
+@ 280.738
+# wrestler (voiced)
+JP え～と…。
+JP では、お休みをもらいます。
+EN Umm...
+EN Then I'll take the time off.
+
+@ 280.750
+# wrestler (voiced)
+JP うぅ～。
+JP 休みもらっても
+JP することないよ。
+EN Uuugh.
+EN Even with a day off,
+EN I've got nothing to do.
+
+@ 280.762
+# wrestler (voiced)
+JP …あら？
+JP 休んでもよろしいんですの？
+EN ...Oh my?
+EN I may take a rest?
+
+@ 280.774
+# wrestler (voiced)
+JP …え！？
+JP 休みですか～？
+EN ...Huh?!
+EN A day off?
+
+@ 280.786
+# wrestler (voiced)
+JP …えッ！？
+JP 休んでいいの？
+JP んじゃあ、休ませてもらうよ！
+EN ...Huh?! I can take a break?
+EN Then I'll take one!
+
+@ 280.798
+# wrestler (voiced)
+JP うっしゃーッ！
+JP とりあえずその辺走ってくるぜ！
+EN All riiight!
+EN I'll go for a run around the block!
+
+@ 280.810
+# wrestler (voiced)
+JP 休暇といっても
+JP ムダに過ごす訳にはいきませんね。
+EN Even on vacation,
+EN I can't afford to waste time.
+
+@ 280.822
+# wrestler (voiced)
+JP オフの間はボランティアしてるね。
+EN I'll do volunteer work on my days
+EN off.
+
+@ 280.834
+# wrestler (voiced)
+JP わーい！
+JP 久しぶりに実家に帰ろうかな。
+EN Yaaay!
+EN Maybe I'll go back home for once.
+
+@ 280.846
+# wrestler (voiced)
+JP 休ませてもらいます。
+EN I'll take a rest.
+
+@ 280.1485
+# Secretary
+JP {name:0}選手に
+JP 休暇をとらせました。
+EN {name:0} has been given
+EN some time off.

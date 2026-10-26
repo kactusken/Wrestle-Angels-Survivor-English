@@ -1,0 +1,126 @@
+# Event script entry 071 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 071.88
+# wrestler (voiced), case 0, used 2x
+JP 来たわ。
+JP なんのご用？
+EN I'm here. What do you need?
+
+@ 071.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集？
+JP あのアイドルがよくやってるやつ？
+EN ...A photo book? The kind idols
+EN are always doing?
+
+@ 071.108
+# President, case 0, used 2x
+JP そうそう。
+JP それだ。
+EN Yeah, that's the one.
+
+@ 071.116
+# wrestler (voiced), case 0, used 2x
+JP …う～ん…。
+EN ...Hmmm...
+
+@ 071.122
+# President, case 0, used 2x
+JP ダメか？
+JP 会社としては受けたいんだが…。
+EN No good? The company would
+EN like to accept, but...
+
+@ 071.130
+# wrestler (voiced), case 0, used 2x
+JP まあ、いいか…。
+JP わかったわ。
+JP 受けましょう。
+EN Well, fine... All right.
+EN I'll take it.
+
+@ 071.136
+# President, case 0, used 2x
+JP そうか。
+JP 助かった。
+EN Great. You're a big help.
+
+@ 071.144
+# wrestler (voiced), case 0, used 2x
+JP でも無知のまま受けるのも
+JP 心許ないよね…。
+JP 写真集、何冊か買って。
+EN But going in without knowing
+EN anything makes me uneasy...
+EN Buy me a few photo books.
+
+@ 071.150
+# President, case 0, used 2x
+JP わかった。
+JP すぐに手配する。
+EN Got it. I'll arrange it right away.
+
+@ 071.158
+# wrestler (voiced), case 0, used 2x
+JP やると決めたら
+JP なんでも勝ちを狙いに
+JP いくんだから…。
+EN Once I decide to do something,
+EN I always go for the win...
+
+@ 071.251
+# President, case 0, used 2x
+JP お見事。
+JP これは勝ったな。
+EN Splendid. You've won this one.
+
+@ 071.260
+# wrestler (voiced), case 0, used 2x
+JP そうかな…。
+JP やっぱり初めてだから
+JP けっこうあがっちゃった…。
+EN You think so...? It was my first
+EN time, so I got pretty nervous...
+
+@ 071.266
+# President, case 0, used 2x
+JP あがってコレならすごいよ。
+JP 色っぽいしな。
+EN If this is you nervous, that's
+EN impressive. Sexy, too.
+
+@ 071.274
+# wrestler (voiced), case 0, used 2x
+JP やだ…。
+JP あまりジロジロ見ないで…。
+EN Don't... Don't stare at them
+EN so much...
+
+@ 071.280
+# President, case 0, used 2x
+JP 見られるための写真だろ？
+EN Aren't they photos meant to be
+EN looked at?
+
+@ 071.287
+# other, case 0, used 2x
+JP それでも社長はダメ…。
+EN Even so, not you, Boss...
+
+@ 071.295
+# President, case 0, used 6x
+JP どうしてだ？
+EN Why not?
+
+@ 071.301
+# other, case 0, used 2x
+JP どうしても～ッ！
+EN Just because!

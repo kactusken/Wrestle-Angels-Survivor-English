@@ -1,0 +1,938 @@
+# Event script entry 277 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 277.3
+# President
+JP 今後はヒールとして
+JP 活躍してもらいたいんだが…。
+EN From now on, I'd like you to work
+EN as a heel...
+
+@ 277.16
+# wrestler (voiced), case 0, used 2x
+JP 悪役も面白そうですね～！
+EN Playing the bad guy sounds fun!
+
+@ 277.25
+# wrestler (voiced), case 1, used 6x
+JP ちょっと難しいかなぁ…。
+EN Hmm, that might be a bit hard...
+
+@ 277.35
+# wrestler (voiced), case 0, used 2x
+JP 悪役かぁ…。
+JP あたし意外とはまっちゃうかもね！
+EN A villain, huh...
+EN I might actually be good at it!
+
+@ 277.44
+# wrestler (voiced), case 1, used 6x
+JP それはムリ、ムリ！
+EN No way, no way!
+
+@ 277.54
+# wrestler (voiced), case 0, used 2x
+JP 適役ですね。
+JP 任せてください。
+EN It's a role that suits me.
+EN Leave it to me.
+
+@ 277.63
+# wrestler (voiced), case 1, used 6x
+JP それは無理な注文ですよ、社長。
+EN That's an impossible request, Boss.
+
+@ 277.73
+# wrestler (voiced), case 0, used 2x
+JP イメージチェンジも新鮮ですね。
+JP 新しい私を見ていてください。
+EN A change of image could be
+EN refreshing.
+EN Watch for the new me.
+
+@ 277.82
+# wrestler (voiced), case 1, used 4x
+JP …そ、それは私でなくては
+JP いけないのでしょうか？
+EN ...D-does it have to be me?
+
+@ 277.92
+# wrestler (voiced), case 0, used 2x
+JP それじゃ覆面とムチ
+JP 用意しておいてよね！
+JP エヘヘッ！
+EN Then get a mask and a whip
+EN ready for me! Ehehe!
+
+@ 277.101
+# wrestler (voiced), case 1, used 6x
+JP えーッ！
+JP それはできません！
+EN Whaaat?!
+EN I can't do that!
+
+@ 277.111
+# wrestler (voiced), case 0, used 2x
+JP 意外とハマり役かも
+JP しれないですね。
+EN That might actually be
+EN a role that suits me.
+
+@ 277.120
+# wrestler (voiced), case 1, used 6x
+JP そんなガラではないと
+JP 思いますが…。
+EN I don't think that's really
+EN my style...
+
+@ 277.130
+# wrestler (voiced), case 0, used 2x
+JP みんなまとめて叩きのめしてやるぜ！
+EN I'll beat every last one of you
+EN senseless!
+
+@ 277.135
+# wrestler (voiced), case 0, used 2x
+JP …あれ？
+JP なんかキャラ違う？
+EN ...Huh?
+EN Was that out of character?
+
+@ 277.144
+# wrestler (voiced), case 1, used 6x
+JP なんか難しそうなんだけど…。
+EN That sounds kind of hard...
+
+@ 277.154
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP まかせて～！
+JP ところで社長、ヒールって何？
+EN Okaaay! Leave it to me!
+EN By the way, Boss, what's a heel?
+
+@ 277.163
+# wrestler (voiced), case 1, used 4x
+JP 社長！
+JP 言ってることが
+JP よくわかんなーい！
+EN Boss!
+EN I don't get what you're saying!
+
+@ 277.173
+# wrestler (voiced), case 0, used 2x
+JP お前ら覚悟しとけよ！
+JP うひひひひッ！
+EN You'd all better brace yourselves!
+EN Uhihihihi!
+
+@ 277.182
+# wrestler (voiced), case 1, used 6x
+JP 私、今のままでいいですよ…。
+EN I'm fine the way I am...
+
+@ 277.192
+# wrestler (voiced), case 0, used 4x
+JP …大丈夫なのでしょうか？
+EN ...Will it really be all right?
+
+@ 277.201
+# wrestler (voiced), case 1, used 6x
+JP それは少し無理があると
+JP 思いますが…。
+EN I think that's a bit of a stretch...
+
+@ 277.211
+# wrestler (voiced), case 0, used 2x
+JP やってやれないことは
+JP ないけどね。
+EN It's not like I can't do it.
+
+@ 277.220
+# wrestler (voiced), case 1, used 6x
+JP …わるい。
+JP 他あたってくれ。
+EN ...Sorry.
+EN Find someone else.
+
+@ 277.230
+# wrestler (voiced), case 0, used 2x
+JP 腕がなるにゃん！
+JP …あッ。
+JP にゃんって言っちゃダメ？
+EN I'm itching to go, nya!
+EN ...Oops.
+EN Am I not allowed to say nya?
+
+@ 277.239
+# wrestler (voiced), case 1, used 6x
+JP あんまり気が乗らないにゃ…。
+EN I'm not really feeling it, nya...
+
+@ 277.249
+# wrestler (voiced), case 0, used 2x
+JP …悪役？
+JP いいわね、面白そう！
+JP それっぽいコスチューム作ってよ！
+EN ...A villain? Nice, sounds fun!
+EN Make me a costume that looks
+EN the part!
+
+@ 277.258
+# wrestler (voiced), case 1, used 6x
+JP …う～ん。
+JP そう言われても…。
+EN ...Hmm.
+EN Even if you say so...
+
+@ 277.268
+# wrestler (voiced), case 0, used 2x
+JP フハハハハハッ！
+JP お前らを地獄へ突き落としてやる！
+EN Fuhahahahaha!
+EN I'll drag you all down to hell!
+
+@ 277.273
+# wrestler (voiced), case 0, used 2x
+JP …こう…ですか？
+EN ...Like... that?
+
+@ 277.282
+# wrestler (voiced), case 1, used 6x
+JP そういう部分は器用ではないので
+JP 自分のスタイルを変えるのは
+JP ちょっと…。
+EN I'm not versatile like that,
+EN so changing my style would be
+EN a bit...
+
+@ 277.292
+# wrestler (voiced), case 0, used 2x
+JP 私は基本的に
+JP どんな役でも美しいですから。
+JP よろしくってよ！
+EN I'm beautiful in any role,
+EN naturally.
+EN Very well, I accept!
+
+@ 277.301
+# wrestler (voiced), case 1, used 6x
+JP 私は他人の指図は受けなくてよ！
+EN I take orders from no one!
+
+@ 277.311
+# wrestler (voiced), case 0, used 2x
+JP 悪役アイドルっていうのも
+JP 悪くないわね！
+JP それじゃ黒い西陣織を買ってね？
+EN A villainous idol doesn't sound bad!
+EN So buy me some black Nishijin
+EN brocade, okay?
+
+@ 277.320
+# wrestler (voiced), case 1, used 6x
+JP …うーん。
+JP そんな事言っても
+JP 私、アイドルレスラーで売ってるし…。
+EN ...Hmm. Even if you say that,
+EN I sell myself as an idol wrestler...
+
+@ 277.330
+# wrestler (voiced), case 0, used 2x
+JP かまわないと言えば
+JP かまわないのですが…。
+JP 私にできますかね？
+EN I don't mind, as such...
+EN But can I pull it off?
+
+@ 277.339
+# wrestler (voiced), case 1, used 6x
+JP わかりました。
+JP ただ、できるとは断言できませんよ。
+EN Understood.
+EN But I can't promise I'll manage it.
+
+@ 277.349
+# wrestler (voiced), case 0, used 2x
+JP そういうのも得意だぜ！
+JP まかせときな！
+EN I'm good at that kind of thing!
+EN Leave it to me!
+
+@ 277.358
+# wrestler (voiced), case 1, used 6x
+JP そういうの
+JP よくわかんねえからなぁ…。
+EN I don't really get that kind
+EN of stuff...
+
+@ 277.368
+# wrestler (voiced), case 0, used 2x
+JP なんか面白そう！
+JP やるやるッ！
+EN Sounds kinda fun!
+EN I'm in, I'm in!
+
+@ 277.377
+# wrestler (voiced), case 1, used 6x
+JP …ん～…。
+JP そう言われてもなぁ…。
+EN ...Hmmm...
+EN Even if you say so...
+
+@ 277.387
+# wrestler (voiced), case 0, used 2x
+JP …いいわよ。
+JP やるからには
+JP 完璧なヒールを目指すわ。
+EN ...Fine. If I'm doing it,
+EN I'll aim to be the perfect heel.
+
+@ 277.396
+# wrestler (voiced), case 1, used 6x
+JP そう言われても
+JP 私そういうところ不器用だから…。
+EN Even if you say so, I'm clumsy
+EN at that kind of thing...
+
+@ 277.406
+# wrestler (voiced), case 0, used 2x
+JP …はい。
+JP 難しそうですがやってみますね！
+EN ...Okay. It sounds hard,
+EN but I'll give it a try!
+
+@ 277.415
+# wrestler (voiced), case 1, used 6x
+JP ……ん～。
+JP そう言われても…。
+EN ......Hmmm.
+EN Even if you say so...
+
+@ 277.425
+# wrestler (voiced), case 0, used 2x
+JP …いいわよ。
+JP 仕事だし…。
+EN ...Fine.
+EN It's work, after all...
+
+@ 277.434
+# wrestler (voiced), case 1, used 6x
+JP 無理な注文ね…。
+EN That's an impossible request...
+
+@ 277.444
+# wrestler (voiced), case 0, used 2x
+JP いいわよ。
+JP なんか面白そうだし！
+EN Sure.
+EN Sounds kind of fun!
+
+@ 277.453
+# wrestler (voiced), case 1, used 6x
+JP …ん～？
+JP よくわかんないわ？
+EN ...Hmm?
+EN I don't really get it.
+
+@ 277.463
+# wrestler (voiced), case 0, used 2x
+JP がんばって挑戦します！
+EN I'll give it my best shot!
+
+@ 277.472
+# wrestler (voiced), case 1, used 6x
+JP それはちょっと
+JP 無理かもしれません…。
+EN That might be a little
+EN too much for me...
+
+@ 277.482
+# wrestler (voiced), case 0, used 2x
+JP 何をいまさら！
+JP 言われなくてもやってやるぜ！
+EN Like you even need to ask!
+EN I'll do it, no problem!
+
+@ 277.491
+# wrestler (voiced), case 1, used 6x
+JP 社長、むちゃ言うなよ！
+EN Boss, don't ask the impossible!
+
+@ 277.501
+# wrestler (voiced), case 0, used 2x
+JP …えー！？
+JP でもやってみようかな。
+EN ...Whaaat?!
+EN But maybe I'll give it a try.
+
+@ 277.510
+# wrestler (voiced), case 1, used 6x
+JP …えー！？
+JP で、できないよ～！
+EN ...Whaaat?!
+EN I-I can't do that!
+
+@ 277.520
+# wrestler (voiced), case 0, used 2x
+JP エレガントなヒール役というのは
+JP 新しいスタイルですわね！
+EN An elegant heel... What a novel
+EN style that would be!
+
+@ 277.529
+# wrestler (voiced), case 1, used 6x
+JP お断りしてもよろしいかしら？
+EN Might I be permitted to decline?
+
+@ 277.539
+# wrestler (voiced), case 0, used 4x
+JP …わかりました。
+EN ...Understood.
+
+@ 277.548
+# wrestler (voiced), case 1, used 6x
+JP …私には難しいですね。
+EN ...That's difficult for me.
+
+@ 277.558
+# wrestler (voiced), case 0, used 2x
+JP …ヒール。
+JP よくわかりませんが
+JP やらせていただきますね。
+EN ...A heel. I'm not sure what
+EN that is, but I'll do it.
+
+@ 277.566
+# other, case 1, used 6x
+JP ………はぁ……。
+EN ......Sigh......
+
+@ 277.577
+# wrestler (voiced), case 0, used 2x
+JP え～ッ！？
+JP なんか楽しそう！
+EN Whaaat?!
+EN That sounds fun!
+
+@ 277.586
+# wrestler (voiced), case 1, used 6x
+JP …あたし
+JP そういうの向いてないから！
+EN ...That kind of thing
+EN isn't for me!
+
+@ 277.596
+# wrestler (voiced), case 0, used 2x
+JP はーっはっはっは！
+JP あたしの拳で地獄を見せてやる！
+EN Ha-ha-ha-ha!
+EN My fists will show you hell!
+
+@ 277.601
+# wrestler (voiced), case 0, used 2x
+JP …どうですか？
+EN ...How was that?
+
+@ 277.610
+# wrestler (voiced), case 1, used 6x
+JP ちょっと難しいです…。
+EN That's a bit hard for me...
+
+@ 277.620
+# wrestler (voiced), case 0, used 2x
+JP それじゃもっと強くならないと！
+JP 気合入れなおしますッ！
+EN Then I need to get even stronger!
+EN Time to fire myself up again!
+
+@ 277.629
+# wrestler (voiced), case 1, used 6x
+JP 自分にも不可能はあります…。
+EN Even I have my limits...
+
+@ 277.639
+# wrestler (voiced), case 0, used 2x
+JP ……ヒール……？
+JP ……別にいいけど……。
+EN ......A heel......?
+EN ......Fine, I guess......
+
+@ 277.648
+# wrestler (voiced), case 1, used 6x
+JP ……社長……。
+JP ……何言ってるかわからない……。
+EN ......Boss......
+EN ......I don't get what you
+EN mean......
+
+@ 277.658
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP ヒールだろうときっちり
+JP こなしてみせます。
+EN ...Yes. Heel or not,
+EN I'll handle it properly.
+
+@ 277.667
+# wrestler (voiced), case 1, used 6x
+JP 無理ですね。
+JP 効果の薄そうな案には
+JP 賛同できかねます。
+EN Impossible. I can't support
+EN a plan that's unlikely to work.
+
+@ 277.677
+# wrestler (voiced), case 0, used 2x
+JP 受けて立ちましょう！
+JP 私の辞書に不可能の文字は
+JP ありません！
+EN Challenge accepted! The word
+EN "impossible" isn't in my dictionary!
+
+@ 277.686
+# wrestler (voiced), case 1, used 6x
+JP 人間には向き不向きが
+JP ありますから…。
+EN Everyone has things they're
+EN suited for and things they're not...
+
+@ 277.696
+# wrestler (voiced), case 0, used 2x
+JP ……ヒールやって欲しいの……？
+EN ......You want me to be a
+EN heel......?
+
+@ 277.715
+# wrestler (voiced), case 0, used 2x
+JP 社長、指導してください！
+EN Boss, please coach me!
+
+@ 277.724
+# wrestler (voiced), case 1, used 6x
+JP 社長～！
+JP やっぱり無理だよ～！
+EN Bosss!
+EN I really can't do it!
+
+@ 277.734
+# wrestler (voiced), case 0, used 2x
+JP わかった！
+JP ヒールだな！
+EN Got it!
+EN A heel!
+
+@ 277.743
+# wrestler (voiced), case 1, used 6x
+JP 言っている意味がわからないぞ！
+EN I don't understand what you mean!
+
+@ 277.753
+# wrestler (voiced), case 0, used 2x
+JP …わかりました。
+JP それが仕事なら…。
+EN ...Understood.
+EN If that's the job...
+
+@ 277.762
+# wrestler (voiced), case 1, used 6x
+JP …はあ。
+JP そう言われても…。
+EN ...Huh.
+EN Even if you say so...
+
+@ 277.772
+# wrestler (voiced), case 0, used 2x
+JP アッハハハッ！
+JP なんや面白そう！
+EN Ahahaha!
+EN Now that sounds fun!
+
+@ 277.781
+# wrestler (voiced), case 1, used 6x
+JP …ん～。
+JP でも正直ようわからんなぁ…。
+EN ...Hmm. But honestly,
+EN I don't really get it...
+
+@ 277.791
+# wrestler (voiced), case 0, used 2x
+JP …悪役かぁ。
+JP む～、わかりました！
+JP がんばります！
+EN ...A villain, huh.
+EN Mmm... Okay! I'll do my best!
+
+@ 277.800
+# wrestler (voiced), case 1, used 6x
+JP えっと…。
+JP そう言われても…。
+EN Um...
+EN Even if you say so...
+
+@ 277.810
+# wrestler (voiced), case 0, used 2x
+JP よーし！
+JP 悪役でもなんでもドンと来い！
+EN All right! Villain or whatever,
+EN bring it on!
+
+@ 277.819
+# wrestler (voiced), case 1, used 6x
+JP …うーん…。
+JP そんな事言われても…。
+EN ...Hmmm...
+EN Even if you tell me that...
+
+@ 277.829
+# wrestler (voiced), case 0, used 2x
+JP 仕事を選んではダメですね。
+JP 私、精一杯悪役を貫きます！
+EN I shouldn't be picky about work.
+EN I'll be the best villain I can!
+
+@ 277.838
+# wrestler (voiced), case 1, used 6x
+JP …う～ん。
+JP 私は目の前の敵を倒すこと以外は
+JP 考えていませんから…。
+EN ...Hmm. All I think about is
+EN beating the opponent in front
+EN of me...
+
+@ 277.848
+# wrestler (voiced), case 0, used 2x
+JP それが仕事でしたら
+JP 私はそれを完璧に演じるだけです。
+EN If that's the job,
+EN I'll simply play it perfectly.
+
+@ 277.857
+# wrestler (voiced), case 1, used 6x
+JP そもそも私は私なので
+JP なんとも言えません。
+EN I am who I am,
+EN so I can't really say.
+
+@ 277.867
+# wrestler (voiced), case 0, used 2x
+JP じ、地獄を見せてやります～！
+EN I-I'll show you hell!
+
+@ 277.872
+# wrestler (voiced), case 0, used 2x
+JP こ、こんな感じでしょうか～？
+EN I-is this how it goes?
+
+@ 277.881
+# wrestler (voiced), case 1, used 6x
+JP そんなこと言われましても
+JP 困りましたわね～…。
+EN Oh dear, you've put me in quite
+EN a bind, saying that...
+
+@ 277.891
+# wrestler (voiced), case 0, used 2x
+JP オラオラッ！
+JP あたしにひざまずきな！
+EN Come on, come on!
+EN Kneel before me!
+
+@ 277.896
+# wrestler (voiced), case 0, used 2x
+JP …こんな感じ？
+EN ...Like this?
+
+@ 277.905
+# wrestler (voiced), case 1, used 5x
+JP …ん～。
+JP 難しいこと言われても
+JP わかんないな～。
+EN ...Hmm. Don't ask me hard stuff,
+EN I don't get it.
+
+@ 277.915
+# wrestler (voiced), case 0, used 2x
+JP リングで日頃のウサを
+JP 晴らしてもいいのか？
+JP どうなっても知らないぜ！
+EN So I can take out my frustrations
+EN in the ring?
+EN Don't blame me for what happens!
+
+@ 277.924
+# wrestler (voiced), case 1, used 6x
+JP 勝手なこと言ってんじゃねーよ！
+JP 人の指図は受けねーって
+JP 言ってるだろ！
+EN Don't give me that! I told you,
+EN I don't take orders from anybody!
+
+@ 277.934
+# wrestler (voiced), case 0, used 2x
+JP ヒールとして日頃のウサを
+JP 晴らしてもいいのか？
+JP どうなっても知らないぜ！
+EN So I can vent my frustrations
+EN as a heel?
+EN Don't blame me for what happens!
+
+@ 277.943
+# wrestler (voiced), case 1, used 6x
+JP なに指図してんだよ？
+JP 勝手なこと言ってんじゃねーよ！
+EN Who're you giving orders to?
+EN Don't give me that!
+
+@ 277.953
+# wrestler (voiced), case 0, used 2x
+JP まかせときな！
+JP こういうのはあたしのオハコだよ！
+EN Leave it to me!
+EN This is my specialty!
+
+@ 277.962
+# wrestler (voiced), case 1, used 6x
+JP …ああん？
+JP そんなこと知ったこっちゃないよ！
+EN ...Huh?
+EN Like I give a damn!
+
+@ 277.972
+# wrestler (voiced), case 0, used 2x
+JP まあ、努力しよう…。
+EN Well, I'll make an effort...
+
+@ 277.991
+# wrestler (voiced), case 0, used 2x
+JP …あん？
+JP あたりめーだろ！
+JP それ以外に何があんだよ！
+EN ...Huh? Obviously!
+EN What else would I be?!
+
+@ 277.1000
+# wrestler (voiced), case 1, used 6x
+JP あたしは殴れればなんでもいいよ。
+EN As long as I get to hit people,
+EN I don't care.
+
+@ 277.1031
+# wrestler (voiced), case 0
+JP いいだろう。
+JP 見ているがいい。
+EN Very well.
+EN Watch me.
+
+@ 277.1040
+# wrestler (voiced), case 1, used 3x
+JP そういう趣向はないな。
+EN That's not to my taste.
+
+@ 277.1050
+# wrestler (voiced), case 0
+JP ウヘヘッ！
+JP くっちゃうぞ～！
+EN Uhehe!
+EN I'm gonna eat you up!
+
+@ 277.1055
+# wrestler (voiced), case 0
+JP …こんな感じかなぁ？
+EN ...Something like that?
+
+@ 277.1064
+# wrestler (voiced), case 1, used 3x
+JP あは…そう言われても…。
+EN Aha... Even if you say so...
+
+@ 277.1074
+# wrestler (voiced), case 0
+JP わかったわ。
+JP フフ…。
+JP クールにきめるわよ。
+EN Got it.
+EN Heh...
+EN I'll play it cool.
+
+@ 277.1083
+# wrestler (voiced), case 1, used 3x
+JP そんなマネしてられないわ。
+EN I can't be bothered with an act
+EN like that.
+
+@ 277.1093
+# wrestler (voiced), case 0
+JP ヒール…わかった…。
+JP でも正義の心は失わないから！
+EN A heel... Okay...
+EN But I won't lose my sense of
+EN justice!
+
+@ 277.1102
+# wrestler (voiced), case 1, used 3x
+JP ごめん…。
+JP 私にはムリ…。
+EN Sorry...
+EN I can't do it...
+
+@ 277.1112
+# wrestler (voiced), case 0
+JP 任務であれば
+JP 拒む理由はありません。
+EN If it's a mission,
+EN I have no reason to refuse.
+
+@ 277.1121
+# wrestler (voiced), case 1, used 3x
+JP 私より適任者がいるかと…。
+EN I think someone else would be
+EN better suited than me...
+
+@ 277.1131
+# wrestler (voiced), case 0
+JP ヒールやってみる……。
+EN I'll try being a heel......
+
+@ 277.1150
+# wrestler (voiced), case 0
+JP え～と…。
+JP うるぁっ！
+JP テメェ、なめんなよ！
+EN Umm...
+EN Rraah!
+EN Don't mess with me, punk!
+
+@ 277.1155
+# wrestler (voiced), case 0
+JP …こ、こんな感じですか？
+EN ...L-like that?
+
+@ 277.1164
+# wrestler (voiced), case 1, used 2x
+JP え～と…。
+JP ごめんなさい…。
+JP よくわかりません…。
+EN Umm...
+EN I'm sorry...
+EN I don't really understand...
+
+@ 277.1174
+# wrestler (voiced), case 0
+JP やるからには完全燃焼します！
+EN If I'm doing it,
+EN I'll burn all-out!
+
+@ 277.1183
+# wrestler (voiced), case 1, used 3x
+JP アハハハハ…。
+EN Ahahahaha...
+
+@ 277.1193
+# wrestler (voiced), case 0
+JP やってみてもよろしいですわ。
+EN I suppose I could give it a try.
+
+@ 277.1202
+# wrestler (voiced), case 1, used 3x
+JP わたくしに命令するのは
+JP やめてくださらない？
+EN Would you kindly refrain from
+EN giving me orders?
+
+@ 277.1212
+# wrestler (voiced), case 0
+JP 悪いことするんですか～？
+EN We're gonna do bad things?
+
+@ 277.1221
+# wrestler (voiced), case 1, used 3x
+JP なんのこと言ってるのか
+JP よくわかりませ～ん。
+EN I don't really get what
+EN you're talking about.
+
+@ 277.1231
+# wrestler (voiced), case 0
+JP 悪役かぁ…。
+JP やってみようかな！
+EN A villain, huh...
+EN Maybe I'll give it a try!
+
+@ 277.1240
+# wrestler (voiced), case 1, used 3x
+JP 今のままでもいいじゃん。
+EN Why not just leave me as I am?
+
+@ 277.1250
+# wrestler (voiced), case 0
+JP うほ…。
+JP アタシ悪役かよ！
+JP ぴったりすぎねーか？
+EN Whoa...
+EN Me, a villain?!
+EN Isn't that a little too perfect?
+
+@ 277.1259
+# wrestler (voiced), case 1, used 3x
+JP あー…。
+JP 今そんな気分じゃねーな。
+EN Ahh...
+EN I'm not in the mood right now.
+
+@ 277.1269
+# wrestler (voiced), case 0
+JP クールな悪女という感じでしょうか？
+JP 少しイメージしてみますね。
+EN Like a cool femme fatale?
+EN Let me try picturing it.
+
+@ 277.1278
+# wrestler (voiced), case 1, used 3x
+JP そう言われても簡単には…。
+EN That's not so easy, you know...
+
+@ 277.1288
+# wrestler (voiced), case 0
+JP わかりました。
+JP がんばってみます！
+EN Understood.
+EN I'll give it my best!
+
+@ 277.1297
+# wrestler (voiced), case 1, used 3x
+JP 私にはムリかも…。
+EN I might not be able to...
+
+@ 277.1307
+# wrestler (voiced), case 0
+JP はーい！
+JP つまり悪役ですね！
+EN Okaaay!
+EN So, a villain!
+
+@ 277.1316
+# wrestler (voiced), case 1
+JP えーッ！？
+JP そんなのできませんよー。
+EN Whaaat?!
+EN I can't do that!
+
+@ 277.1326
+# wrestler (voiced), case 0
+JP やらせていただきます。
+EN I'll do it.
+
+@ 277.2367
+# Secretary, case 0, used 3x
+JP {name:0}選手の
+JP 属性が変化しました。
+EN {name:0}'s wrestling style
+EN has changed.

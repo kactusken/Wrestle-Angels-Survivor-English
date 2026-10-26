@@ -1,0 +1,59 @@
+{
+ "english": "World Junior Champ | World Tag Champ | World Champ | Ex",
+ "boxes": [
+  [
+   0,
+   0,
+   24,
+   178
+  ],
+  [
+   24,
+   0,
+   24,
+   156
+  ],
+  [
+   48,
+   0,
+   24,
+   90
+  ],
+  [
+   192,
+   72,
+   24,
+   24
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 14,
+ "draw": "nicknames.draw",
+ "groups": [
+  {
+   "labels": [
+    0,
+    1,
+    2
+   ],
+   "mode": "vertical"
+  },
+  {
+   "labels": [
+    3
+   ],
+   "mode": "upright",
+   "cap": 15
+  }
+ ],
+ "notes": "champion title pieces: the three columns turned 90° clockwise and kept within the Japanese length (the game may cut them at that size); 前 (former) -> \"Ex\" upright like the A-Z letters, which stay",
+ "catalogue": {
+  "source": "/A040/A04A. part 0",
+  "width": 240,
+  "height": 288,
+  "bpp": 4,
+  "category": "title pieces",
+  "japanese": "世界ジュニア王者 世界タッグ王者 世界王者 A-Z 前"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "english": "Rank | Capacity",
+ "boxes": [
+  [
+   334,
+   30,
+   48,
+   20
+  ],
+  [
+   496,
+   30,
+   48,
+   20
+  ]
+ ],
+ "draw": "system.draw",
+ "font": "BarlowCondensed-SemiBold.ttf",
+ "ground": "interpolate",
+ "fill": [
+  248,
+  247,
+  185
+ ],
+ "groups": [
+  {
+   "ground": "keep",
+   "draw": "buttons.draw",
+   "buttons": [
+    [
+     331,
+     28,
+     54,
+     24
+    ],
+    [
+     493,
+     28,
+     54,
+     24
+    ]
+   ],
+   "model": [
+    "A00B_p0_0",
+    "A00B_p1_0",
+    "A00B_p2_0",
+    "A00B_p3_0",
+    "A00B_p4_0",
+    "A00B_p9_0",
+    "A00B_p11_0",
+    "A00B_p12_0",
+    "A00B_p13_0",
+    "A00B_p14_0",
+    "A00B_p15_0",
+    "A00D_t0_0"
+   ],
+   "fill": [
+    248,
+    247,
+    185
+   ],
+   "outline": {
+    "w": 1.5,
+    "rgb": [
+     46,
+     47,
+     144
+    ]
+   },
+   "glow": {
+    "w": 1.5,
+    "blur": 1.5,
+    "rgb": [
+     23,
+     117,
+     60
+    ],
+    "a": 230
+   },
+   "cap": 12,
+   "font": "BarlowCondensed-Bold.ttf",
+   "margin": 1,
+   "labels": [
+    0,
+    1
+   ]
+  }
+ ],
+ "notes": "venue list, column heads: ランク Rank, 定員 Capacity; column-head buttons: ground rebuilt by letter_ext/buttons.py, dark-green glow as the original",
+ "catalogue": {
+  "source": "/A020/A025. table 0",
+  "width": 640,
+  "height": 304,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "ランク 定員"
+ }
+}

@@ -1,0 +1,239 @@
+# Event script entry 195 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 195.102
+# President, used 2x
+JP （あれ…？）
+EN (Huh...?)
+
+@ 195.117
+# other, used 2x
+JP しくしくしく…。
+EN Sniff, sniff...
+
+@ 195.124
+# President, used 2x
+JP ど、どうしたんだ？
+EN Wh-what's wrong?
+
+@ 195.130
+# other, used 6x
+JP …あ、社長…。
+EN ...Oh, Boss...
+
+@ 195.140
+# other, used 2x
+JP ふえ～～～ん！
+JP 社長～～！
+EN Waaaaaah!
+EN Boooss!
+
+@ 195.148
+# President, used 2x
+JP （泣きながらしがみつかれた。）
+EN (She clung to me, crying.)
+
+@ 195.150
+# President, used 2x
+JP お、おい、何があったんだ？
+EN H-hey, what happened?
+
+@ 195.161
+# other, used 2x
+JP うっ…。
+JP ひっく…ひっく…。
+JP 水着…。
+EN Ugh...
+EN *hic*... *hic*...
+EN My swimsuit...
+
+@ 195.168
+# President, used 2x
+JP …水着？
+JP 水着がどうした？
+EN ...Your swimsuit?
+EN What about it?
+
+@ 195.174
+# other, used 2x
+JP えぐ…ひっく…。
+JP 水着、日本に忘れてきたぁ～。
+EN *sob*... *hic*...
+EN I left my swimsuit in Japaaan!
+
+@ 195.183
+# President, used 2x
+JP （まあ、こいつらしいと言えば
+JP こいつらしいが…。）
+EN (Well, that's just like her,
+EN I suppose...)
+
+@ 195.185
+# President, used 2x
+JP こっちで買えばいいじゃないか？
+EN Why not just buy one here?
+
+@ 195.191
+# other, used 2x
+JP …どこにお店あるか
+JP わかんな～い…。
+EN ...I don't know where
+EN the stores aaare...
+
+@ 195.198
+# President, used 2x
+JP ホテルの隣にあっただろう。
+JP 新しい水着買ってやるから
+JP もう泣くな。
+EN There's one next to the hotel.
+EN I'll buy you a new swimsuit,
+EN so stop crying.
+
+@ 195.204
+# other, used 2x
+JP …えッ？
+JP ホント…？
+EN ...Huh?
+EN Really...?
+
+@ 195.236
+# other, used 2x
+JP ねぇねぇ、社長。
+JP コレなんかどうかなぁ？
+EN Hey, hey, Boss.
+EN How about this one?
+
+@ 195.243
+# President, used 2x
+JP あー、いいんじゃないか？
+EN Yeah, looks good.
+
+@ 195.249
+# other, used 2x
+JP …そお？
+JP あ、でもちょっと子供っぽいかなぁ？
+EN ...You think?
+EN Oh, but isn't it kinda childish?
+
+@ 195.256
+# President, used 2x
+JP （泣いたカラスがなんとやら…。）
+EN (Crying one minute, laughing
+EN the next...)
+
+@ 195.258
+# President, used 2x
+JP （金井はニコニコと
+JP 水着を選んでいる。）
+EN (Kanai is happily picking
+EN out swimsuits.)
+
+@ 195.274
+# other, used 2x
+JP ねぇねぇ、コレなんか
+JP 大人っぽくない？
+EN Hey, hey, doesn't this one
+EN look grown-up?
+
+@ 195.281
+# President, used 2x
+JP そうだな。
+JP 大人っぽいなぁ…。
+EN Sure.
+EN Very grown-up...
+
+@ 195.287
+# other, used 2x
+JP う～ん…。
+JP でも…ちょっと過激すぎるかなぁ？
+EN Hmm...
+EN But maybe it's a little too daring?
+
+@ 195.294
+# President, used 2x
+JP （金井はさっきから何度も
+JP 更衣室に出たり入ったりしている。）
+EN (Kanai has been in and out of the
+EN changing room for ages now.)
+
+@ 195.310
+# other, used 2x
+JP これなんか抑え気味でいい感じ？
+EN How about this? Nice and modest?
+
+@ 195.317
+# President, used 2x
+JP ああ、それも似合ってるぞ？
+EN Yeah, that one suits you too.
+
+@ 195.323
+# other, used 2x
+JP あ、でもこれじゃ
+JP スクール水着だよね。
+JP 抑え気味にもほどがあるって感じ。
+EN Oh, but this one's basically
+EN a school swimsuit.
+EN That's way TOO modest.
+
+@ 195.330
+# President, used 2x
+JP いや、それでいいじゃないか？
+EN No, isn't that one fine?
+
+@ 195.332
+# President, used 2x
+JP （というか、そろそろ勘弁してくれ。
+JP 水着選びで日が暮れそうだ。）
+EN (Actually, please give me a break.
+EN At this rate the sun will set.)
+
+@ 195.338
+# other, used 2x
+JP そんな訳にはいかないよ！
+EN No way, it's not fine!
+
+@ 195.345
+# President, used 2x
+JP いやいやホント。
+JP お前なら何着ても似合うから。
+EN No, really.
+EN You look good in anything.
+
+@ 195.351
+# other, used 2x
+JP エヘッ…。
+JP ありがとう…。
+EN Ehehe...
+EN Thanks...
+
+@ 195.358
+# President, used 2x
+JP （こんなセリフで照れられると
+JP むしろ罪悪感が…。）
+EN (Her blushing at a line like that
+EN actually makes me feel guilty...)
+
+@ 195.364
+# other, used 2x
+JP でも、どうせなら
+JP 一番のあたしを見て欲しいし…。
+EN But if you're gonna see me,
+EN I want it to be my best look...
+
+@ 195.371
+# President, used 4x
+JP …そうか。
+EN ...I see.
+
+@ 195.373
+# President, used 2x
+JP （それならもう少し付き合うか。） 
+EN (Then I'll stick with her
+EN a while longer.)

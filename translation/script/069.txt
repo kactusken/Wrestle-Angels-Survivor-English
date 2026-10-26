@@ -1,0 +1,129 @@
+# Event script entry 069 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 069.88
+# wrestler (voiced), case 0, used 2x
+JP ウスッ！
+JP なんです、社長？
+EN Yo! What's up, Boss?
+
+@ 069.94
+# President, case 0, used 2x
+JP ああ、来たか…。
+JP 実はお前に写真集のオファーが
+JP 来ててな…。
+EN Ah, you're here... Actually, we've
+EN gotten an offer for a photo book
+EN of you...
+
+@ 069.108
+# President, case 0, used 2x
+JP ああ、そうだ
+EN Yeah, that's right.
+
+@ 069.116
+# wrestler (voiced), case 0, used 2x
+JP …試合の？
+EN ...Of my matches?
+
+@ 069.122
+# President, case 0, used 2x
+JP いいや。
+JP 水着のヤツだ。
+EN Nope. A swimsuit one.
+
+@ 069.130
+# wrestler (voiced), case 0, used 2x
+JP …水着の？
+EN ...A swimsuit one?
+
+@ 069.136
+# President, case 0, used 2x
+JP そう。
+JP アイドルみたいな写真集。
+EN Right. A photo book like an
+EN idol would do.
+
+@ 069.144
+# wrestler (voiced), case 0, used 2x
+JP …マジで？
+EN ...Seriously?
+
+@ 069.150
+# President, case 0, used 2x
+JP マジで。
+EN Seriously.
+
+@ 069.158
+# wrestler (voiced), case 0, used 2x
+JP …うぅ～……。
+EN ...Urrgh...
+
+@ 069.172
+# wrestler (voiced), case 0, used 2x
+JP …あぁ～……。
+EN ...Aaagh...
+
+@ 069.185
+# other, case 0, used 2x
+JP …まあ、いいけど。
+EN ...Well, fine, I guess.
+
+@ 069.280
+# President, case 0, used 2x
+JP ふぅー、お疲れさん。
+EN Phew, good work.
+
+@ 069.289
+# wrestler (voiced), case 0, used 2x
+JP …うん。
+JP マジ疲れた…。
+JP 試合してた方がマシだったかも…。
+EN ...Yeah. I'm seriously beat...
+EN A match would've been easier...
+
+@ 069.295
+# President, case 0, used 2x
+JP それはそれとして…。
+JP 良く撮れてるじゃないか。
+EN That aside... The pictures
+EN came out nicely, didn't they?
+
+@ 069.303
+# wrestler (voiced), case 0, used 2x
+JP そうすか～？
+EN You think so?
+
+@ 069.309
+# President, case 0, used 2x
+JP きっと売れるよ。
+EN I bet it'll sell.
+
+@ 069.317
+# wrestler (voiced), case 0, used 2x
+JP イロモノ好きに？
+EN To people into weird stuff?
+
+@ 069.323
+# President, case 0, used 2x
+JP そんなこと言うなって。
+EN Don't say that.
+
+@ 069.331
+# wrestler (voiced), case 0, used 2x
+JP んなこと言われても～。
+JP やっぱ写真見るとな～…。
+EN Even if you say that...
+EN Looking at these pictures...
+
+@ 069.337
+# President, case 0, used 2x
+JP やれやれ…。
+EN Good grief...

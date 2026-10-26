@@ -1,0 +1,164 @@
+# Event script entry 059 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 059.88
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP 金井です。
+JP お呼びでしょーか♪
+EN Hiii! It's Kanai.
+EN You called? ♪
+
+@ 059.94
+# President, case 0, used 4x
+JP ああ、呼んだ。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN Yeah, I did. Actually, you've
+EN gotten an offer for a photo book...
+
+@ 059.102
+# wrestler (voiced), case 0, used 2x
+JP …えッ！？
+JP あたしに？
+EN ...What!?
+EN For me?
+
+@ 059.108
+# President, case 0, used 2x
+JP ああ、お前だ。
+EN Yeah, you.
+
+@ 059.116
+# wrestler (voiced), case 0, used 2x
+JP 本当にあたしに？
+EN Really for me?
+
+@ 059.122
+# President, case 0, used 2x
+JP ああ、お前をご指名だ。
+EN Yeah, they asked for you by name.
+
+@ 059.130
+# wrestler (voiced), case 0, used 2x
+JP 本当に本当にあたしに？
+EN Really, really for me?
+
+@ 059.136
+# President, case 0, used 2x
+JP だから、そうだって。
+EN Like I said, yes.
+
+@ 059.144
+# wrestler (voiced), case 0, used 2x
+JP い…いやった～！
+JP 写真集だ～！
+JP グラビアアイドルだ～！
+EN Y-yaaay! A photo book!
+EN I'm a gravure idol!
+
+@ 059.150
+# President, case 0, used 2x
+JP じゃ、受けていいんだな？
+EN So I can accept, right?
+
+@ 059.158
+# wrestler (voiced), case 0, used 2x
+JP うん！
+JP もっちろん！
+EN Yeah!
+EN Of course!
+
+@ 059.190
+# President, case 0, used 12x
+JP （カメラマン）
+JP お、いいねぇ、その笑顔。
+JP 本当に楽しそうだねぇ。
+EN (Photographer)
+EN Oh, love that smile.
+EN You look like you're having fun.
+
+@ 059.253
+# wrestler (voiced), case 0, used 2x
+JP あ～、楽しかったー！
+EN Aah, that was fun!
+
+@ 059.259
+# President, case 0, used 2x
+JP 随分うれしそうだな。
+EN You look really happy.
+
+@ 059.267
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP だって前から
+JP やってみたかったんだもん。
+EN Yeah! I've always wanted
+EN to try it.
+
+@ 059.270
+# wrestler (voiced), case 0, used 2x
+JP 出たらすぐ書店にいかなきゃ。
+EN I've gotta go to the bookstore
+EN as soon as it's out.
+
+@ 059.276
+# President, case 0, used 2x
+JP 見本誌くらいもらえるぞ？
+EN You'll get a sample copy, you know.
+
+@ 059.284
+# wrestler (voiced), case 0, used 2x
+JP ううん。
+JP あたしの分じゃなくて
+JP 北海道に送る分！
+EN Nope. Not for me,
+EN for sending to Hokkaido!
+
+@ 059.290
+# President, case 0, used 2x
+JP あー、家族にか。
+EN Ah, for your family.
+
+@ 059.298
+# wrestler (voiced), case 0, used 2x
+JP おとーさんの分とおかーさんの分と
+JP おじーちゃんとおばーちゃんの分と
+JP コゴローの分と…。
+EN One for Dad, one for Mom, one for
+EN Grandpa and Grandma, one for
+EN Kogoro...
+
+@ 059.304
+# President, case 0, used 2x
+JP …コゴローって誰だ？
+EN ...Who's Kogoro?
+
+@ 059.312
+# wrestler (voiced), case 0, used 2x
+JP 実家の近所の牛！
+EN A cow near my parents' place!
+
+@ 059.318
+# President, case 0, used 2x
+JP …牛。
+EN ...A cow.
+
+@ 059.326
+# wrestler (voiced), case 0, used 2x
+JP うん！
+JP 牛。
+EN Yep!
+EN A cow.
+
+@ 059.332
+# President, case 0, used 2x
+JP （見るのか、牛が？）
+EN (The cow's going to look at it?)

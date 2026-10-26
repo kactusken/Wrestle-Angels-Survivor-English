@@ -1,0 +1,179 @@
+# Event script entry 194 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 194.82
+# other, used 4x
+JP 社長――ッ！
+EN Boooss!
+
+@ 194.89
+# President, used 2x
+JP （菊池が一直線に駆け寄ってくる。
+JP どうやらかなり泳いだ後らしい。）
+EN (Kikuchi runs straight at me.
+EN Looks like she swam a lot.)
+
+@ 194.91
+# President, used 2x
+JP 楽しんでるかー？
+EN Having fun?
+
+@ 194.97
+# other, used 2x
+JP 楽しんでまーす♪
+EN I'm having fun♪
+
+@ 194.104
+# President, used 2x
+JP （……おや？）
+EN (......Hm?)
+
+@ 194.106
+# President, used 2x
+JP （泳いでいる間に緩んだのか
+JP 菊池の水着の紐が解けそうに
+JP なっている。）
+EN (It must have loosened while she was
+EN swimming - the string of Kikuchi's
+EN swimsuit is coming undone.)
+
+@ 194.108
+# President, used 2x
+JP おい、おまえ水着が…。
+EN Hey, your swimsuit's...
+
+@ 194.110
+# President, used 2x
+JP （俺が手をかけると…。）
+EN (As I reached for it...)
+
+@ 194.116
+# other, used 2x
+JP きゃ―ッ！
+JP 何するんですか！？
+EN Kyaaah!
+EN What are you doing!?
+
+@ 194.123
+# President, used 2x
+JP （何か勘違いされたらしい…。）
+EN (She seems to have gotten
+EN the wrong idea...)
+
+@ 194.139
+# President, used 2x
+JP げふッ！
+EN Gwah!
+
+@ 194.151
+# other, used 2x
+JP エッチ！
+JP 何を脱がそうと…。
+EN Pervert!
+EN Trying to take it off...
+
+@ 194.158
+# President, used 2x
+JP ぎゃ、逆だ…。
+JP 俺は紐が解けかけてるから
+JP 結びなおしてやろうと…。
+EN Th-the opposite...
+EN Your string was coming loose,
+EN so I was going to retie it...
+
+@ 194.164
+# other, used 4x
+JP ……え？
+EN ......Huh?
+
+@ 194.178
+# President, used 2x
+JP （その瞬間紐がはらりと解けて
+JP 菊池の腕にかかった。）
+EN (At that moment the string slipped
+EN loose and fell over Kikuchi's arm.)
+
+@ 194.190
+# other, used 2x
+JP あっ、あわわわ…。
+EN Ah, ah, awawawa...
+
+@ 194.204
+# President, used 2x
+JP （菊池は慌てて胸元を
+JP 両手で押さえた。）
+EN (Kikuchi hurriedly covered
+EN her chest with both hands.)
+
+@ 194.210
+# other, used 2x
+JP ご…ごめんなさい、社長。
+JP 早とちりして…。
+EN I... I'm sorry, Boss.
+EN I jumped to conclusions...
+
+@ 194.217
+# President, used 2x
+JP いや、不用意に手をかけた
+JP 俺も悪かった…。
+EN No, I shouldn't have reached
+EN out like that either...
+
+@ 194.223
+# other, used 2x
+JP こういう水着慣れてないからな…。
+JP うぅ…。
+EN I'm not used to this kind
+EN of swimsuit... Ugh...
+
+@ 194.230
+# President, used 2x
+JP それはいいんだが…。
+EN That's fine, but...
+
+@ 194.243
+# President, used 2x
+JP そろそろどいてくれないか？
+EN Could you get off me now?
+
+@ 194.245
+# President, used 2x
+JP （フランケンシュタイナーの衝撃で
+JP 意識も飛びそうだしな。）
+EN (That Frankensteiner nearly
+EN knocked me out cold.)
+
+@ 194.251
+# other, used 2x
+JP ……あ。
+EN ......Oh.
+
+@ 194.258
+# President, used 2x
+JP （ここで菊池は初めて
+JP ２人の体勢に気づいたらしい…。）
+EN (Only now did Kikuchi seem to notice
+EN the position we were in...)
+
+@ 194.270
+# other, used 2x
+JP しゃ…社長のエッチ～ッ！
+EN B-Boss, you pervert!
+
+@ 194.277
+# President, used 2x
+JP 俺のせいか…？
+EN That's my fault...?
+
+@ 194.279
+# President, used 2x
+JP （ダメージで動けないのに…。）
+EN (I can't even move from the
+EN damage...)

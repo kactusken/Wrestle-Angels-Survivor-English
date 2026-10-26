@@ -1,0 +1,246 @@
+# Event script entry 271 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 271.30
+# President, used 2x
+JP ちょっと話があるんだが…。
+EN Got a minute? I need to talk to
+EN you...
+
+@ 271.40
+# wrestler (voiced), used 4x
+JP なんでしょうか～？
+EN What is it?
+
+@ 271.61
+# wrestler (voiced), used 4x
+JP …はい、社長。
+JP なんでしょう？
+EN ...Yes, Boss.
+EN What is it?
+
+@ 271.68
+# wrestler (voiced), used 4x
+JP えっと…。
+JP 社長、なに？
+EN Um...
+EN What is it, Boss?
+
+@ 271.89
+# wrestler (voiced), used 4x
+JP はい、はーい！
+JP なぁに？
+EN Yes, yes!
+EN What's up?
+
+@ 271.110
+# wrestler (voiced), used 4x
+JP いきなり、なに？
+EN What's this all of a sudden?
+
+@ 271.117
+# wrestler (voiced), used 4x
+JP なーんでしょ？
+EN Whaaat is it?
+
+@ 271.124
+# wrestler (voiced), used 4x
+JP …なに？
+JP 私に話…？
+EN ...What?
+EN You want to talk to me...?
+
+@ 271.138
+# wrestler (voiced), used 4x
+JP なんですの？
+EN Whatever is it?
+
+@ 271.159
+# wrestler (voiced), used 4x
+JP うすッ！
+JP なんすか？
+EN Yo!
+EN What's up?
+
+@ 271.166
+# wrestler (voiced), used 4x
+JP なぁに～？
+EN Whaaat?
+
+@ 271.173
+# wrestler (voiced), used 8x
+JP …なに？
+EN ...What?
+
+@ 271.194
+# wrestler (voiced), used 4x
+JP なーに？
+EN Whaaat?
+
+@ 271.201
+# wrestler (voiced), used 4x
+JP …社長、なんですか？
+EN ...What is it, Boss?
+
+@ 271.208
+# wrestler (voiced), used 4x
+JP …は？
+JP いきなり呼び出しっすか？
+EN ...Huh?
+EN You're calling me in out of nowhere?
+
+@ 271.215
+# wrestler (voiced), used 4x
+JP なーに、なーに？
+EN What is it, what is it?
+
+@ 271.243
+# wrestler (voiced), used 4x
+JP …ン？
+JP なに？
+EN ...Hm?
+EN What?
+
+@ 271.285
+# wrestler (voiced), used 4x
+JP ……なんですか……？
+EN ......What is it......?
+
+@ 271.292
+# wrestler (voiced), used 4x
+JP …な、なんですか？
+JP 改まって…。
+EN ...W-what is it?
+EN You're being so formal...
+
+@ 271.299
+# wrestler (voiced), used 4x
+JP なんか用か？
+EN You need something?
+
+@ 271.306
+# wrestler (voiced), used 4x
+JP …なんでしょう？
+EN ...What can I do for you?
+
+@ 271.320
+# wrestler (voiced), used 4x
+JP はい！
+JP なんですか、社長？
+EN Yes!
+EN What is it, Boss?
+
+@ 271.334
+# wrestler (voiced), used 4x
+JP …はい！
+JP なんでしょうか、社長？
+EN ...Yes!
+EN What can I do for you, Boss?
+
+@ 271.341
+# wrestler (voiced), used 4x
+JP …はい。
+JP なんでしょう？
+EN ...Yes.
+EN What is it?
+
+@ 271.348
+# wrestler (voiced), used 4x
+JP あら～。
+JP なんでしょうか？
+EN Oh my.
+EN What might it be?
+
+@ 271.355
+# wrestler (voiced), used 4x
+JP なあに？
+JP 社長、もしかして…愛の告白？
+EN What is it?
+EN Boss, could it be... a love
+EN confession?
+
+@ 271.362
+# wrestler (voiced), used 8x
+JP なんだよ？
+EN What?
+
+@ 271.376
+# wrestler (voiced), used 4x
+JP なんだい、社長？
+EN What is it, Boss?
+
+@ 271.390
+# wrestler (voiced), used 4x
+JP …あん？
+EN ...Huh?
+
+@ 271.411
+# wrestler (voiced), used 2x
+JP はい！
+JP なんでしょう？
+EN Yes!
+EN What is it?
+
+@ 271.418
+# wrestler (voiced), used 4x
+JP なにかしら？
+EN What might it be?
+
+@ 271.439
+# wrestler (voiced), used 2x
+JP なに……？
+EN What......?
+
+@ 271.446
+# wrestler (voiced), used 5x
+JP なんでしょう？
+EN What is it?
+
+@ 271.453
+# wrestler (voiced), used 2x
+JP …あ、社長！
+JP なんです？
+EN ...Oh, Boss!
+EN What's up?
+
+@ 271.467
+# wrestler (voiced), used 2x
+JP は～い。
+JP なんですか～？
+EN Yeees.
+EN What is it?
+
+@ 271.474
+# wrestler (voiced), used 2x
+JP …えッ？
+JP なに？
+EN ...Huh?
+EN What?
+
+@ 271.481
+# wrestler (voiced), used 2x
+JP …お。
+JP なんだ、社長？
+EN ...Oh.
+EN What's up, Boss?
+
+@ 271.495
+# wrestler (voiced), used 2x
+JP はいッ！
+JP なんですか、社長？
+EN Yes!
+EN What is it, Boss?
+
+@ 271.502
+# wrestler (voiced), used 2x
+JP …はいッ。
+JP …怪談とかじゃないですよね？
+EN ...Yes.
+EN ...This isn't a ghost story, is it?

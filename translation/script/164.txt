@@ -1,0 +1,434 @@
+# Event script entry 164 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 164.46
+# Secretary
+JP {name:0}選手が
+JP 革命軍を離脱しました。
+EN {name:0} has left the Revolution
+EN Army.
+
+@ 164.58
+# wrestler (voiced), used 2x
+JP 私、抜けちゃいました～。
+EN I went and quit~.
+
+@ 164.66
+# wrestler (voiced), used 2x
+JP なんかもう少し自由にやりたくて…。
+JP エヘヘッ…。
+EN I just wanted to do things a bit
+EN more freely... Ehehe...
+
+@ 164.74
+# wrestler (voiced), used 2x
+JP あれで革命とは名ばかりでしたね。
+EN That was a revolution in name only.
+
+@ 164.82
+# wrestler (voiced), used 2x
+JP 私の作戦は必要ないそうです…。
+EN They said they don't need my
+EN strategies...
+
+@ 164.90
+# wrestler (voiced), used 2x
+JP 私ってやっぱり優柔不断なのかな…。
+EN Maybe I really am indecisive...
+
+@ 164.98
+# wrestler (voiced), used 2x
+JP やはり一人の方が
+JP 性に合っているようです。
+EN It seems being on my own suits
+EN me better after all.
+
+@ 164.106
+# wrestler (voiced), used 2x
+JP あたしもっと自由に戦いたくて！
+EN I wanted to fight more freely!
+
+@ 164.114
+# wrestler (voiced), used 2x
+JP ふぇ～ん…。
+JP お前は弱すぎるからって…。
+JP ウゥゥ…。
+EN Waaah... They said I'm too weak...
+EN Uuugh...
+
+@ 164.122
+# wrestler (voiced)
+JP 実家でバイトする時間が
+JP なくなっちゃって、エヘッ…。
+EN I didn't have time for my part-time
+EN job at home anymore, ehe...
+
+@ 164.130
+# wrestler (voiced), used 2x
+JP 私は一人で戦う方が
+JP 向いているようです…。
+EN It seems I'm better suited to
+EN fighting alone...
+
+@ 164.138
+# wrestler (voiced), used 2x
+JP 考え方の違いってやつかね…。
+EN Difference of opinion, I guess...
+
+@ 164.146
+# wrestler (voiced), used 2x
+JP お手伝いはもういらないって…。
+EN They said they don't need my
+EN help anymore...
+
+@ 164.154
+# wrestler (voiced), used 2x
+JP だってイベント行っちゃ
+JP ダメだって言うから…。
+EN Because they said I couldn't go
+EN to events...
+
+@ 164.162
+# wrestler (voiced), used 2x
+JP 私がいなくても
+JP 大丈夫みたいですから。
+EN It seems they'll be fine without me.
+
+@ 164.170
+# wrestler (voiced), used 2x
+JP べッ、別に追い出された訳じゃ
+JP ありませんわ！
+EN I-it's not as though I was thrown
+EN out!
+
+@ 164.178
+# wrestler (voiced), used 2x
+JP 革命とか抗争って
+JP 私のキャラじゃないから。
+EN Revolutions and feuds just aren't
+EN my kind of thing.
+
+@ 164.186
+# wrestler (voiced), used 2x
+JP 私がここにいても仕方ないですね。
+EN There's no point in me being there.
+
+@ 164.194
+# wrestler (voiced), used 2x
+JP なんか合わねぇんだよなぁ…。
+EN It just didn't fit me...
+
+@ 164.202
+# wrestler (voiced), used 2x
+JP う～ん…。
+JP なんか違うんだよねぇ…。
+JP よくわかんないんだけど…。
+EN Hmm... Something just felt off...
+EN I can't really explain it...
+
+@ 164.210
+# wrestler (voiced), used 2x
+JP フンッ…。
+JP あれじゃ革命なんて
+JP できっこないわ…。
+EN Hmph... They'll never pull off a
+EN revolution like that...
+
+@ 164.218
+# wrestler (voiced), used 2x
+JP あたしがいなくても
+JP 大丈夫そうでしたから。
+EN It looked like they'd be fine
+EN without me.
+
+@ 164.226
+# wrestler (voiced), used 2x
+JP あたしはやっぱり
+JP 一人の方がいいのかな…。
+EN Maybe I really am better off
+EN on my own...
+
+@ 164.234
+# wrestler (voiced), used 2x
+JP なんか目立てないのよねぇ…。
+EN I just couldn't stand out there...
+
+@ 164.242
+# wrestler (voiced), used 2x
+JP ボク戻ってもいいですか…？
+EN Can I come back...?
+
+@ 164.250
+# wrestler (voiced), used 2x
+JP あんなところッ！
+JP 革命軍でもなんでもねぇ！
+EN That place! It's no Revolution Army,
+EN it's nothing!
+
+@ 164.258
+# wrestler (voiced), used 2x
+JP だって、お菓子くれないんだもん！
+EN Because they wouldn't give me
+EN snacks!
+
+@ 164.266
+# wrestler (voiced), used 2x
+JP もっと情熱的でないと
+JP 意味がありませんわ。
+EN Without more passion, there's no
+EN point to it.
+
+@ 164.274
+# wrestler (voiced), used 2x
+JP 私とは考え方が違っていました…。
+EN Their way of thinking was different
+EN from mine...
+
+@ 164.282
+# wrestler (voiced), used 2x
+JP 大義が感じられませんでした…。
+EN I couldn't feel any greater cause
+EN in it...
+
+@ 164.290
+# wrestler (voiced), used 2x
+JP こっちの方が落ち着くんだよねー。
+EN I feel more at home over here.
+
+@ 164.298
+# wrestler (voiced), used 2x
+JP 原点に帰ろうと思います。
+EN I think I'll go back to my roots.
+
+@ 164.306
+# wrestler (voiced), used 2x
+JP 自分には向いてなかったッス…。
+EN It wasn't for me, sir...
+
+@ 164.314
+# wrestler (voiced), used 2x
+JP ……革命軍…つまらない……。
+EN ......Revolution Army...boring......
+
+@ 164.322
+# wrestler (voiced), used 2x
+JP 人間関係を計算に入れるのを
+JP 忘れていました…。
+EN I forgot to factor in human
+EN relationships...
+
+@ 164.330
+# wrestler (voiced), used 2x
+JP …ああ！
+JP 革命とはなんと儚くも美しい。
+EN ...Ah! How fleeting and yet how
+EN beautiful a revolution is.
+
+@ 164.338
+# wrestler (voiced), used 2x
+JP ……なんか…違う……。
+EN ......Something's...not right......
+
+@ 164.346
+# wrestler (voiced), used 2x
+JP やっぱりこっちの方が
+JP 落ち着くかなって…。
+EN I just feel more at home over
+EN here, I think...
+
+@ 164.354
+# wrestler (voiced), used 2x
+JP カクメイグンは楽しくなかったぞ…。
+EN The Revolution Army wasn't fun...
+
+@ 164.362
+# wrestler (voiced), used 2x
+JP もういいでしょう…。
+EN That's enough, I think...
+
+@ 164.370
+# wrestler (voiced), used 2x
+JP 片意地張っててもしゃーないやん…。
+EN No use bein' stubborn about it...
+
+@ 164.378
+# wrestler (voiced), used 2x
+JP あたしには向いてませんでした…。
+EN It wasn't for me...
+
+@ 164.386
+# wrestler (voiced), used 2x
+JP ごめんなさい。
+JP やっぱりこっちの方が…。
+JP アハ、アハハハ…。
+EN I'm sorry. I guess I like it here
+EN better after all... Aha, ahahaha...
+
+@ 164.394
+# wrestler (voiced), used 2x
+JP 何をすればいいのか
+JP わからなくなりました…。
+EN I lost track of what I was supposed
+EN to be doing...
+
+@ 164.402
+# wrestler (voiced), used 2x
+JP 理想が実現できない所にいても
+JP 仕方がないですから…。
+EN There's no point staying somewhere
+EN my ideals can't come true...
+
+@ 164.410
+# wrestler (voiced), used 2x
+JP あらら～。
+JP 追い出されちゃったみたいです～。
+EN Oh dear~ Looks like they kicked
+EN me out~.
+
+@ 164.418
+# wrestler (voiced), used 2x
+JP ムフフ～。
+JP ホントは戻ってきて
+JP 欲しかったんでしょ～？
+EN Mufufu~. You really wanted me to
+EN come back, didn't you~?
+
+@ 164.426
+# wrestler (voiced), used 2x
+JP ハァ～ア…。
+JP バカバカしくてイチ抜けたってね！
+EN Haaah... This is so stupid.
+EN I'm out!
+
+@ 164.434
+# wrestler (voiced), used 2x
+JP もうやってらんねー。
+EN I can't be bothered anymore.
+
+@ 164.442
+# wrestler (voiced), used 2x
+JP フンッ！
+JP もう、やってられないんだよ！
+EN Hmph! I can't put up with it
+EN anymore!
+
+@ 164.450
+# wrestler (voiced), used 2x
+JP 私の力はもう必要ないようだ。
+EN It seems my power is no longer
+EN needed.
+
+@ 164.458
+# wrestler (voiced), used 2x
+JP バカバカしくて
+JP やってられねーぜ。
+EN It's too stupid to put up with.
+
+@ 164.474
+# wrestler (voiced)
+JP 見解の相違だ…。
+EN A difference of views...
+
+@ 164.482
+# wrestler (voiced)
+JP だってニャンコちゃんと遊んじゃ
+JP ダメだって言うんですよ～！
+EN Because they said I couldn't play
+EN with the kitties!
+
+@ 164.490
+# wrestler (voiced)
+JP べッ、別に戻ったっていいでしょ！
+EN Wh-what's wrong with coming back!
+
+@ 164.498
+# wrestler (voiced)
+JP 正義が感じられなかったの…。
+EN I couldn't feel any justice in it...
+
+@ 164.506
+# wrestler (voiced)
+JP 撤退する勇気も時には必要です。
+EN Sometimes you need the courage
+EN to retreat.
+
+@ 164.514
+# wrestler (voiced)
+JP 運命じゃなかった……。
+EN It wasn't destiny......
+
+@ 164.522
+# wrestler (voiced)
+JP ごめんなさい…。
+JP 戻ってきちゃった…。
+EN I'm sorry... I came back...
+
+@ 164.530
+# wrestler (voiced)
+JP 完全燃焼できませんでした…。
+EN I couldn't burn all-out...
+
+@ 164.538
+# wrestler (voiced)
+JP まったく、芸術を理解できない
+JP 人たちには困りますわ！
+EN Honestly, people who can't
+EN understand art are so tiresome!
+
+@ 164.546
+# wrestler (voiced)
+JP 戻ってきちゃいました～。
+EN I came back~.
+
+@ 164.554
+# wrestler (voiced)
+JP なんかぁ…。
+JP ボクに合ってないんだよねぇ…。
+EN It's just... It didn't suit me...
+
+@ 164.562
+# wrestler (voiced)
+JP アタシって飽きっぽいのかな…。
+JP ヘヘッ、ヘヘへ…。
+EN Maybe I just get bored easily...
+EN Hehe, hehehe...
+
+@ 164.570
+# wrestler (voiced)
+JP …革命の道は
+JP 私には険しすぎたのでしょうか…。
+EN ...Was the path of revolution too
+EN steep for me...?
+
+@ 164.578
+# wrestler (voiced)
+JP 私、あまり力になれない
+JP みたいです…。
+EN It seems I wasn't much help...
+
+@ 164.586
+# wrestler (voiced)
+JP だって背後霊見える人が
+JP いるんだもん…。
+EN Because there's someone there with
+EN a ghost behind them...
+
+@ 164.594
+# wrestler (voiced)
+JP 私では役に立てない…。
+EN I couldn't be of any use...
+
+@ 164.666
+# wrestler (voiced)
+JP 実家でバイトする時間が
+JP なくなっちゃって…。
+JP エヘッ…。
+EN I didn't have time for my part-time
+EN job at home anymore... Ehe...

@@ -1,0 +1,987 @@
+# Event script entry 049 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 049.46
+# Secretary
+JP {name:0}選手の
+JP ファンクラブが結成されたそうです。
+EN I hear a fan club has been formed
+EN for {name:0}.
+
+@ 049.58
+# wrestler (voiced), used 2x
+JP えッ、ファンクラブ！？
+JP 本当ですか～？
+EN Huh, a fan club!?
+EN Really?
+
+@ 049.64
+# President, used 120x
+JP 応援に負けないようにがんばれよ。
+EN Work hard and live up to
+EN their support.
+
+@ 049.72
+# wrestler (voiced), used 2x
+JP はいッ！
+JP がんばります～。
+EN Okay!
+EN I'll do my best!
+
+@ 049.80
+# wrestler (voiced), used 2x
+JP ちょっと設立遅すぎない？
+JP なんちてー。
+JP エヘヘヘッ。
+EN Isn't it a little late to start one?
+EN Just kidding! Ehehehe.
+
+@ 049.94
+# wrestler (voiced), used 2x
+JP ほーい。
+JP がんばりまーす！
+EN Okeydoke.
+EN I'll do my best!
+
+@ 049.102
+# wrestler (voiced), used 2x
+JP ファンクラブ…。
+JP 私にそんな人気があるなんて…。
+EN A fan club...
+EN I didn't know I was that popular...
+
+@ 049.116
+# wrestler (voiced), used 2x
+JP そうですね。
+JP 励みにします。
+EN You're right.
+EN It'll keep me going.
+
+@ 049.124
+# wrestler (voiced), used 2x
+JP 私の…ファンクラブ…？
+EN My... fan club...?
+
+@ 049.138
+# wrestler (voiced), used 2x
+JP わかりました。
+JP 全力を尽くします。
+EN Understood.
+EN I'll give it everything I've got.
+
+@ 049.146
+# wrestler (voiced), used 2x
+JP 私のファンクラブ！？
+JP エヘヘッ！
+JP うれしいなぁ～。
+EN My fan club!? Ehehe!
+EN I'm so happy!
+
+@ 049.160
+# wrestler (voiced), used 2x
+JP 任せといて！
+EN Leave it to me!
+
+@ 049.168
+# wrestler (voiced), used 2x
+JP …私の？
+JP 本当ですか？
+EN ...Mine?
+EN Really?
+
+@ 049.182
+# wrestler (voiced), used 2x
+JP はい。
+JP がんばります。
+EN Yes.
+EN I'll do my best.
+
+@ 049.190
+# wrestler (voiced), used 2x
+JP え～ッ、びっくり！？
+JP なんか照れちゃうな…。
+JP エヘヘッ…。
+EN Whoa, seriously!?
+EN It's kinda embarrassing...
+EN Ehehe...
+
+@ 049.204
+# wrestler (voiced), used 2x
+JP はーい！
+JP がんばりまーす！
+EN Okaaay!
+EN I'll do my best!
+
+@ 049.212
+# wrestler (voiced), used 2x
+JP えッ、あたしに！？
+JP すごーい！
+JP アイドルみたーい！
+EN Huh, for me!? Amazing!
+EN It's like I'm an idol!
+
+@ 049.226
+# wrestler (voiced)
+JP もっちろん！
+JP がんばっちゃうッ！！
+EN You bet!
+EN I'll give it my all!!
+
+@ 049.234
+# wrestler (voiced), used 2x
+JP えッ、本当ですか！？
+JP なんか照れますね！
+EN Huh, really!?
+EN That's kind of embarrassing!
+
+@ 049.248
+# wrestler (voiced), used 2x
+JP はーい！
+JP がんばっちゃいます！
+EN Okaaay!
+EN I'll give it my all!
+
+@ 049.256
+# wrestler (voiced), used 2x
+JP 私のですか…？
+JP 何かの間違いでは…？
+EN For me...?
+EN Isn't that some kind of mistake...?
+
+@ 049.270
+# wrestler (voiced), used 2x
+JP わかりました。
+JP 期待を裏切らないよう
+JP がんばります。
+EN Understood. I'll work hard
+EN so I don't let them down.
+
+@ 049.278
+# wrestler (voiced), used 2x
+JP 噂は聞いてたけど
+JP 本当だったんだね…。
+EN I'd heard the rumors,
+EN but it's really true, huh...
+
+@ 049.292
+# wrestler (voiced), used 2x
+JP 期待は裏切らないよ。
+EN I won't let them down.
+
+@ 049.300
+# wrestler (voiced), used 2x
+JP ホントに！？
+JP なんか照れる…。
+EN Really!?
+EN That's kinda embarrassing...
+
+@ 049.314
+# wrestler (voiced), used 2x
+JP うん！
+JP がんばるにゃん！
+EN Yeah!
+EN I'll do my best, nya!
+
+@ 049.322
+# wrestler (voiced), used 2x
+JP …ファンクラブ？
+JP …私の？
+JP やったねッ！
+EN ...A fan club?
+EN ...For me?
+EN All right!
+
+@ 049.336
+# wrestler (voiced), used 2x
+JP はーい！
+EN Okaaay!
+
+@ 049.344
+# wrestler (voiced), used 2x
+JP ファンクラブが！？
+JP 私のですか？
+EN A fan club!?
+EN For me?
+
+@ 049.358
+# wrestler (voiced), used 2x
+JP そうですね。
+JP がんばらないといけませんね。
+EN That's right.
+EN I'll have to work hard.
+
+@ 049.366
+# wrestler (voiced), used 2x
+JP 私のファンクラブ？
+JP やれやれ今更ですの？
+EN My fan club? Goodness,
+EN only now?
+
+@ 049.380
+# wrestler (voiced), used 2x
+JP よろしくてよ。
+JP 仕方ないから受けてあげますわ。
+EN Very well. I suppose
+EN I'll graciously accept it.
+
+@ 049.388
+# wrestler (voiced), used 2x
+JP 私のファンクラブ？
+JP ホントに？
+EN My fan club?
+EN Really?
+
+@ 049.402
+# wrestler (voiced), used 2x
+JP はい！
+JP がんばります！
+EN Yes!
+EN I'll do my best!
+
+@ 049.410
+# wrestler (voiced), used 2x
+JP …私のファンクラブ？
+JP まあ、かまわないと言えば
+JP かまわないのですが…。
+EN ...My fan club? Well, I don't mind,
+EN if you put it that way...
+
+@ 049.424
+# wrestler (voiced), used 4x
+JP そうですね。
+EN I suppose so.
+
+@ 049.432
+# wrestler (voiced), used 2x
+JP …ファンクラブだって！？
+JP 物好きな奴がいたもんだな。
+EN ...A fan club!? Some people
+EN sure have weird tastes.
+
+@ 049.446
+# wrestler (voiced), used 2x
+JP おうッ！
+JP 任せとけ！
+EN Yeah!
+EN Leave it to me!
+
+@ 049.454
+# wrestler (voiced), used 2x
+JP え～ッ！
+JP 私のファンクラブ？
+EN Whaaat!
+EN My fan club?
+
+@ 049.468
+# wrestler (voiced), used 2x
+JP うれしい！
+JP がんばらないとねッ！
+EN I'm so happy!
+EN I'd better work hard!
+
+@ 049.476
+# wrestler (voiced), used 2x
+JP …ファンクラブ？
+JP アイドルじゃあるまいし…。
+EN ...A fan club?
+EN It's not like I'm an idol...
+
+@ 049.490
+# wrestler (voiced), used 2x
+JP まあいいわ…。
+JP 励みにするわ。
+EN Well, fine...
+EN It'll keep me motivated.
+
+@ 049.498
+# wrestler (voiced), used 2x
+JP …ファンクラブですか？
+JP あたしの？
+EN ...A fan club?
+EN For me?
+
+@ 049.512
+# wrestler (voiced), used 2x
+JP はい。
+JP そっかぁ…。
+JP あたしのファンクラブかぁ…。
+EN Yes. I see...
+EN My very own fan club...
+
+@ 049.520
+# wrestler (voiced), used 2x
+JP …ファンクラブ？
+JP あたしの？
+EN ...A fan club?
+EN For me?
+
+@ 049.534
+# wrestler (voiced), used 2x
+JP そうね。
+JP がんばらないとね。
+EN Right.
+EN I'd better work hard.
+
+@ 049.542
+# wrestler (voiced), used 2x
+JP …えッ！？
+JP ファンクラブ？
+JP ほんと！？
+EN ...Huh!?
+EN A fan club?
+EN Really!?
+
+@ 049.556
+# wrestler (voiced), used 2x
+JP どんと来～い！
+EN Bring it on!
+
+@ 049.564
+# wrestler (voiced), used 2x
+JP …えッ！？
+JP ボクのファンクラブが？
+EN ...Huh!?
+EN I've got a fan club?
+
+@ 049.578
+# wrestler (voiced), used 2x
+JP はいッ！
+JP がんばりますッ！
+EN Yes!
+EN I'll do my best!
+
+@ 049.586
+# wrestler (voiced), used 2x
+JP …へえ？
+JP とんだ物好きもいるもんだねぇ。
+EN ...Huh? Some people sure
+EN have weird tastes.
+
+@ 049.600
+# wrestler (voiced), used 2x
+JP あー、わぁってるって！
+EN Yeah, yeah, I got it!
+
+@ 049.608
+# wrestler (voiced), used 2x
+JP すご～い！
+JP アイドルみたい！
+JP サインの練習しよっと！
+EN Amazing! It's like I'm an idol!
+EN Time to practice my autograph!
+
+@ 049.622
+# wrestler (voiced), used 2x
+JP うん！
+JP わかってる！
+JP 社長もサイン欲しい？
+EN Yeah! I know!
+EN Want my autograph too, Boss?
+
+@ 049.630
+# wrestler (voiced), used 2x
+JP まぁ、光栄ですわ。
+JP どんなメンズがいらっしゃるの？
+EN My, what an honor.
+EN What sort of gentlemen are in it?
+
+@ 049.644
+# wrestler (voiced), used 2x
+JP ええ。
+JP 後悔はさせませんわ。
+EN Yes.
+EN They won't regret it.
+
+@ 049.652
+# wrestler (voiced), used 2x
+JP …ファンクラブ？
+EN ...A fan club?
+
+@ 049.666
+# wrestler (voiced), used 2x
+JP ええ…。
+EN Yes...
+
+@ 049.674
+# wrestler (voiced), used 2x
+JP …ファンクラブですか？
+EN ...A fan club?
+
+@ 049.688
+# wrestler (voiced), used 21x
+JP ありがとうございます。
+EN Thank you very much.
+
+@ 049.696
+# wrestler (voiced), used 2x
+JP うわぁ！
+JP ファンクラブ！？
+JP やりぃ！
+EN Whoa!
+EN A fan club!?
+EN Sweet!
+
+@ 049.710
+# wrestler (voiced), used 2x
+JP あったりまえじゃん！
+EN Well, obviously!
+
+@ 049.718
+# wrestler (voiced), used 2x
+JP …ファンクラブ？
+JP 一生懸命やってきたからでしょうか？
+EN ...A fan club? Is it because
+EN I've worked so hard?
+
+@ 049.732
+# wrestler (voiced), used 2x
+JP がんばります！
+EN I'll do my best!
+
+@ 049.740
+# wrestler (voiced), used 2x
+JP 自分にはもったいないくらいです！
+EN It's more than I deserve!
+
+@ 049.754
+# wrestler (voiced), used 2x
+JP はいッ！
+JP ファンの応援は
+JP すなわち自分の力っす！
+EN Yes! The fans' support is
+EN my own strength!
+
+@ 049.762
+# wrestler (voiced), used 2x
+JP ……この人達みんなファンなの……？
+JP ……ふーん…誰の……？
+EN ......All these people are
+EN fans......?
+EN ......Hmm... of who......?
+
+@ 049.776
+# wrestler (voiced), used 8x
+JP ……ン……？
+EN ......Hm......?
+
+@ 049.784
+# wrestler (voiced), used 2x
+JP 世の中には変わった趣味の方が
+JP いらっしゃるんですね…。
+EN It seems there are people with
+EN rather unusual tastes in this
+EN world...
+
+@ 049.798
+# wrestler (voiced), used 2x
+JP わ、私に何を期待されて
+JP いるのだか…。
+EN J-just what are they
+EN expecting from me...?
+
+@ 049.806
+# wrestler (voiced), used 2x
+JP ファンクラブができるのは運命。
+JP そう、運命と書いて
+JP さだめなのですよ…。
+EN A fan club was my destiny.
+EN Yes, destiny... the fate
+EN written in the stars...
+
+@ 049.820
+# wrestler (voiced), used 2x
+JP 言われるまでもありません。
+JP 私を応援したいというのは
+JP 自然の摂理なのですから。
+EN That goes without saying.
+EN Wishing to support me is simply
+EN the natural order of things.
+
+@ 049.828
+# wrestler (voiced), used 2x
+JP ……ファンクラブ……！？
+JP ……ほんとに……？
+EN ......A fan club......!?
+EN ......Really......?
+
+@ 049.842
+# wrestler (voiced), used 32x
+JP ……うん……。
+EN ......Yeah......
+
+@ 049.850
+# wrestler (voiced), used 2x
+JP ファ、ファンクラブ！？
+JP ボ、ボクの？
+EN A-a fan club!?
+EN F-for me?
+
+@ 049.864
+# wrestler (voiced), used 2x
+JP わ、わかりました！
+JP 了解ッ！
+EN U-understood!
+EN Roger!
+
+@ 049.872
+# wrestler (voiced), used 2x
+JP ファン…クラブ…？
+JP なんだそれは？
+JP うまいのか？
+EN Fan... club...?
+EN What's that?
+EN Is it tasty?
+
+@ 049.886
+# wrestler (voiced), used 2x
+JP わかってる！
+JP それでうまいのか？
+JP それは？
+EN I know!
+EN So, is it tasty?
+EN That thing?
+
+@ 049.894
+# wrestler (voiced), used 2x
+JP 自分のファンクラブ…ですか…？
+EN A fan club... for me...?
+
+@ 049.908
+# wrestler (voiced), used 2x
+JP これも仕事ですから。
+JP しっかりとがんばります。
+EN It's part of the job.
+EN I'll work hard.
+
+@ 049.916
+# wrestler (voiced), used 2x
+JP へ～。
+JP ウチのファンクラブ？
+EN Huh.
+EN A fan club for me?
+
+@ 049.930
+# wrestler (voiced), used 2x
+JP 全然オッケー！
+JP やる気出てきた～！
+EN Totally okay!
+EN I'm all fired up now!
+
+@ 049.938
+# wrestler (voiced), used 2x
+JP …えッ、あの…。
+JP あ、あたしのファンクラブ！？
+JP …ですか？
+EN ...Huh, um... M-my fan club!?
+EN ...Is that right?
+
+@ 049.952
+# wrestler (voiced), used 2x
+JP はいッ！
+JP がんばります！
+EN Yes!
+EN I'll do my best!
+
+@ 049.960
+# wrestler (voiced), used 2x
+JP あたしのファンクラブ！？
+JP え、ええーーッ！
+EN My fan club!?
+EN Wh-whaaat!
+
+@ 049.974
+# wrestler (voiced), used 2x
+JP でも、うれしいです！
+JP がんばります！
+EN But I'm happy!
+EN I'll do my best!
+
+@ 049.982
+# wrestler (voiced), used 2x
+JP ファンクラブですか！？
+JP よーし、戦う女にふさわしい
+JP コスチュームを作らなきゃ！
+EN A fan club!? All right, I need to
+EN make a costume fit for a woman
+EN warrior!
+
+@ 049.996
+# wrestler (voiced), used 2x
+JP 全力を尽くしますッ！
+EN I'll give it everything I've got!
+
+@ 049.1004
+# wrestler (voiced), used 2x
+JP ファンがそれを望んでいるのなら…。
+EN If that's what the fans want...
+
+@ 049.1018
+# wrestler (voiced), used 2x
+JP ええ。
+JP 私もプロですから。
+EN Yes.
+EN I'm a professional, after all.
+
+@ 049.1026
+# wrestler (voiced), used 2x
+JP …ファンクラブ？
+JP 私のですか…？
+JP 驚きです～。
+EN ...A fan club?
+EN For me...?
+EN What a surprise~
+
+@ 049.1040
+# wrestler (voiced), used 2x
+JP ええ。
+JP 精一杯やらせていただきます。
+EN Yes.
+EN I'll do my very best.
+
+@ 049.1048
+# wrestler (voiced)
+JP ホント！？
+JP やりーーッ！！
+EN Really!?
+EN Yesss!!
+
+@ 049.1062
+# wrestler (voiced), used 2x
+JP もちろん社長も
+JP ファンクラブ入ってくれるんでしょ？
+EN You're joining my fan club too,
+EN of course, right, Boss?
+
+@ 049.1070
+# wrestler (voiced), used 2x
+JP 良かったな、社長。
+JP これでまた一儲けか？
+EN Good for you, Boss.
+EN Another way to make a buck?
+
+@ 049.1084
+# wrestler (voiced), used 2x
+JP そりゃ、私ががんばれば
+JP 金が入ってくるしな？
+EN Well, if I work hard,
+EN the money rolls in, right?
+
+@ 049.1092
+# wrestler (voiced), used 2x
+JP 良かったな、社長。
+JP これでまた儲かるな？
+EN Good for you, Boss.
+EN More profit for you, huh?
+
+@ 049.1106
+# wrestler (voiced), used 2x
+JP そりゃ、あたしががんばれば
+JP 儲かるしな？
+EN Well, if I work hard,
+EN you make money, right?
+
+@ 049.1114
+# wrestler (voiced), used 2x
+JP …ファンクラブ？
+JP あたしにかい？
+EN ...A fan club?
+EN For me?
+
+@ 049.1128
+# wrestler (voiced), used 2x
+JP まぁ、照れ臭いけどがんばるよ。
+EN Well, it's embarrassing,
+EN but I'll do my best.
+
+@ 049.1136
+# wrestler (voiced), used 2x
+JP ファン…クラブ…？
+EN Fan... club...?
+
+@ 049.1150
+# wrestler (voiced), used 8x
+JP そうか…。
+EN I see...
+
+@ 049.1158
+# wrestler (voiced), used 2x
+JP あたしのファンクラブ？
+JP ヘッヘッヘ！
+JP 物好きもいたもんだ！
+EN My fan club? Heh heh heh!
+EN Some people have weird tastes!
+
+@ 049.1172
+# wrestler (voiced), used 2x
+JP ファンに血の海を
+JP プレゼントしてやるよ！
+EN I'll give the fans a present:
+EN a sea of blood!
+
+@ 049.1179
+# other, used 4x
+JP …………ン……？
+EN ............Hm......?
+
+@ 049.1193
+# other, used 32x
+JP …………うむ……。
+EN ............Mm......
+
+@ 049.1203
+# wrestler (voiced)
+JP …ファンクラブ。
+JP …フフッ。
+EN ...A fan club.
+EN ...Heh.
+
+@ 049.1217
+# wrestler (voiced)
+JP ああ、わかったよ。
+EN Yeah, I get it.
+
+@ 049.1225
+# wrestler (voiced)
+JP ファンクラブ？
+JP 私の！？
+JP 感動、カンドー！
+EN A fan club?
+EN For me!?
+EN So moved, so moved!
+
+@ 049.1239
+# wrestler (voiced)
+JP はいッ！
+JP ファンの皆さんに
+JP ちゃんとお返ししなくっちゃ！
+EN Yes! I have to pay back
+EN all the fans properly!
+
+@ 049.1247
+# wrestler (voiced)
+JP 私のファンクラブなんて
+JP とーぜんね！
+EN Of course I have a fan club!
+
+@ 049.1251
+# wrestler (voiced)
+JP …えッ！？
+JP 今までなかったって事…？
+EN ...What!?
+EN You mean I didn't have one
+EN before...?
+
+@ 049.1265
+# wrestler (voiced)
+JP もちろん！
+JP 見てて。
+JP まだまだファン増やしていくわ。
+EN Of course! Just watch.
+EN I'll win over plenty more fans.
+
+@ 049.1273
+# wrestler (voiced)
+JP 私のファンクラブ？
+JP やったーッ！
+EN My fan club?
+EN Hooray!
+
+@ 049.1287
+# wrestler (voiced)
+JP もっちろん！
+EN You bet!
+
+@ 049.1295
+# wrestler (voiced)
+JP 私のファンクラブですか？
+JP うれしい限りです！
+EN My fan club?
+EN I couldn't be happier!
+
+@ 049.1309
+# wrestler (voiced)
+JP 了解です！
+JP 任せてください。
+EN Roger that!
+EN Leave it to me.
+
+@ 049.1317
+# wrestler (voiced)
+JP ファンクラブ……？
+EN A fan club......?
+
+@ 049.1331
+# wrestler (voiced)
+JP そう……。
+EN I see......
+
+@ 049.1339
+# wrestler (voiced)
+JP えッ、ええーッ！？
+JP わたしのファンクラブですか～？
+EN Wh-whaaat!?
+EN A fan club for me?
+
+@ 049.1353
+# wrestler (voiced)
+JP そんな…。
+JP わたしなんかでいいのかな…。
+JP なんだか申し訳ないような…。
+EN Oh, no... Is someone like me
+EN really okay...? I feel kind of
+EN sorry, somehow...
+
+@ 049.1361
+# wrestler (voiced)
+JP おおー！
+JP ファンクラブ！
+EN Ooh!
+EN A fan club!
+
+@ 049.1375
+# wrestler (voiced)
+JP 今まで以上に燃えてみせます！
+EN I'll burn hotter than ever!
+
+@ 049.1383
+# wrestler (voiced)
+JP …あら？
+JP ファンクラブですか？
+JP 中学生のとき以来ですわね。
+EN ...Oh? A fan club?
+EN I haven't had one since
+EN junior high school.
+
+@ 049.1397
+# wrestler (voiced)
+JP 新しいファンのためにも
+JP 少しは努力というものを
+JP してみようかしら？
+EN Perhaps for my new fans
+EN I'll try a little of that thing
+EN called "effort"?
+
+@ 049.1405
+# wrestler (voiced)
+JP あらら～。
+JP ファンクラブですか～？
+EN Oh my~
+EN A fan club~?
+
+@ 049.1419
+# wrestler (voiced)
+JP は～い。
+JP がんばってみますね～。
+EN Okaaay.
+EN I'll give it a try~
+
+@ 049.1427
+# wrestler (voiced)
+JP ボクにファンクラブが！？
+EN I've got a fan club!?
+
+@ 049.1441
+# wrestler (voiced)
+JP 応援してくれるみんなのためにも
+JP 最高のレスラーになるよ！
+EN I'll become the best wrestler
+EN for everyone who cheers me on!
+
+@ 049.1449
+# wrestler (voiced)
+JP アタシのファンクラブか！
+JP うおお、サイコーッ！
+EN My own fan club!
+EN Whoa, that's awesome!
+
+@ 049.1463
+# wrestler (voiced)
+JP おうッ！
+JP まっかせろぃ！
+EN Yeah!
+EN Leave it to me!
+
+@ 049.1471
+# wrestler (voiced)
+JP …ファンクラブですか？
+JP 私なんかでも応援してくれる人が
+JP いるんですね。
+EN ...A fan club? So there are people
+EN who'd cheer even for someone like
+EN me.
+
+@ 049.1485
+# wrestler (voiced)
+JP ファンサービスしないと
+JP いけませんね。
+EN I'll have to do something
+EN for my fans.
+
+@ 049.1493
+# wrestler (voiced)
+JP ファンクラブかぁ。
+JP なんか照れるなぁ。
+EN A fan club, huh.
+EN That's kinda embarrassing.
+
+@ 049.1507
+# wrestler (voiced)
+JP もちろん！
+JP 見ててよね！
+EN Of course!
+EN Just watch me!
+
+@ 049.1515
+# wrestler (voiced)
+JP 私のファンクラブが
+JP できるんですか？
+JP キャー、すごーい、うれしい！
+EN I'm getting a fan club?
+EN Kyaa, amazing, I'm so happy!
+
+@ 049.1529
+# wrestler (voiced)
+JP うん！
+JP 私やりますッ！
+EN Yeah!
+EN I'll do it!
+
+@ 049.1537
+# wrestler (voiced)
+JP …ファンクラブ？
+JP 私に…？
+EN ...A fan club?
+EN For me...?
+
+@ 049.1551
+# wrestler (voiced)
+JP なんとかがんばってみます。
+EN I'll try my best somehow.
+
+@ 049.1727
+# wrestler (voiced)
+JP もっちろん！
+JP がんばっちゃうッ！
+EN You bet!
+EN I'll give it my all!
+
+@ 049.2549
+# wrestler (voiced)
+JP ホント！？
+JP やりーーッ！
+EN Really!?
+EN Yesss!
+
+@ 049.2712
+# Secretary
+JP {name:0}選手の
+JP 知名度も全国区になったようですね。
+EN It looks like {name:0} is famous
+EN nationwide now.

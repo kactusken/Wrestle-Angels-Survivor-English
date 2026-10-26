@@ -1,0 +1,95 @@
+# Event script entry 065 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 065.94
+# President, case 0, used 2x
+JP ああ、来たか…。
+JP 実は水着写真集のオファーが
+JP 来ているんだが…。
+EN Ah, you're here... Actually,
+EN we've gotten an offer for a
+EN swimsuit photo book...
+
+@ 065.102
+# wrestler (voiced), case 0, used 2x
+JP …私に？
+EN ...For me?
+
+@ 065.108
+# President, case 0, used 2x
+JP だから呼んだ。
+EN That's why I called you.
+
+@ 065.116
+# wrestler (voiced), case 0, used 2x
+JP そう…。
+EN I see...
+
+@ 065.122
+# President, case 0, used 2x
+JP 会社としては受けたいが
+JP やってくれるか？
+EN The company would like to accept.
+EN Will you do it?
+
+@ 065.130
+# wrestler (voiced), case 0, used 2x
+JP そうですね…。
+JP 断る理由もないかしら。
+EN Let me see... I suppose I have
+EN no reason to refuse.
+
+@ 065.144
+# wrestler (voiced), case 0, used 2x
+JP ええ。
+EN Yes.
+
+@ 065.243
+# President, case 0, used 2x
+JP お疲れ様。
+JP 綺麗に撮れてたよ。
+EN Good work. The photos came out
+EN beautifully.
+
+@ 065.252
+# wrestler (voiced), case 0, used 2x
+JP 社長も付き添いお疲れ様でした。
+EN Thank you for coming along too,
+EN Boss.
+
+@ 065.258
+# President, case 0, used 2x
+JP こうして見ると
+JP やっぱり理沙子はいい女だな。
+EN Looking at these, Risako,
+EN you really are a fine woman.
+
+@ 065.266
+# wrestler (voiced), case 0, used 2x
+JP そうして見ないと
+JP いい女に見えませんか？
+EN So I don't look like a fine woman
+EN unless you look at me like this?
+
+@ 065.272
+# President, case 0, used 2x
+JP ああ、すまん。
+JP いい女と再認識させられたと
+JP 言い直そう。
+EN Ah, sorry. Let me rephrase: they
+EN reminded me what a fine woman you
+EN are.
+
+@ 065.280
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます。
+JP 今のは私もちょっと意地悪でしたね。
+EN Thank you. I was being a little
+EN mean just now, too.

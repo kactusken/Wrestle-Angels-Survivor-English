@@ -1,0 +1,479 @@
+# Event script entry 005 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 005.46
+# Secretary
+JP {name:0}選手が
+JP 負傷しました。
+EN {name:0} has been injured.
+
+@ 005.48
+# Secretary
+JP 状態が悪く
+JP 長期ロードは危険かと思われます。
+EN She's in bad shape. Taking her on a
+EN long tour could be dangerous.
+
+@ 005.59
+# wrestler (voiced), used 2x
+JP こんな大事なときに…。
+JP 私ったら…。
+EN At a time like this...
+EN What was I thinking...
+
+@ 005.66
+# wrestler (voiced), used 4x
+JP あっちゃー…。
+JP やっちゃったー…。
+EN Oh no...
+EN I really did it now...
+
+@ 005.73
+# wrestler (voiced), used 2x
+JP まだまだ…。
+JP やれますッ！
+EN I'm not done...
+EN I can still fight!
+
+@ 005.80
+# wrestler (voiced), used 2x
+JP この状態では…ちょっと試合は…。
+EN In this state... a match would be...
+
+@ 005.87
+# wrestler (voiced), used 2x
+JP 平気じゃ…ないみたい…。
+JP グスン…。
+EN I guess I'm... not fine after all...
+EN *sniff*...
+
+@ 005.94
+# wrestler (voiced), used 2x
+JP これは…酷いみたいです…。
+EN This... looks bad...
+
+@ 005.101
+# wrestler (voiced), used 2x
+JP あ～ん…。
+JP やっちゃった…。
+EN Aww...
+EN I messed up...
+
+@ 005.108
+# wrestler (voiced), used 2x
+JP い、いた～い！
+JP もう試合できないよ～。
+EN O-ow, it hurrrts!
+EN I can't wrestle anymore!
+
+@ 005.115
+# wrestler (voiced), used 2x
+JP ヘーキ、ヘーキ！
+EN I'm fine, I'm fine!
+
+@ 005.119
+# wrestler (voiced), used 2x
+JP あ、イタッ！
+JP …どうしよ…。
+JP あ、歩けません…。
+EN Ah, ouch!
+EN ...What do I do...
+EN I-I can't walk...
+
+@ 005.126
+# wrestler (voiced), used 2x
+JP すみません。
+JP 大事な時期に…。
+EN I'm sorry.
+EN At such an important time...
+
+@ 005.133
+# wrestler (voiced), used 2x
+JP …ウッ！
+JP こんな大事なときに…。
+EN ...Ugh!
+EN At such an important time...
+
+@ 005.140
+# wrestler (voiced), used 2x
+JP うわー、やっちゃったぁ…。
+EN Whoa, I really messed up...
+
+@ 005.147
+# wrestler (voiced), used 2x
+JP 大丈夫…。
+JP …とはいかないみたいね。
+EN I'm fine...
+EN ...Or not, it seems.
+
+@ 005.154
+# wrestler (voiced), used 2x
+JP 大丈夫…。
+JP …とはいかないみたいですね…。
+EN I'm fine...
+EN ...Or not, it seems...
+
+@ 005.161
+# wrestler (voiced), used 2x
+JP 私としたことが…。
+JP どうやら油断してしまった
+JP ようですわ…。
+EN How unlike me...
+EN It seems I let my guard down...
+
+@ 005.168
+# wrestler (voiced), used 2x
+JP ごめん…。
+JP ドジっちゃった…。
+EN Sorry...
+EN I goofed...
+
+@ 005.175
+# wrestler (voiced), used 2x
+JP 私としたことが…。
+JP こんなミスを…。
+EN How unlike me...
+EN To make a mistake like this...
+
+@ 005.182
+# wrestler (voiced), used 2x
+JP …わりぃ。
+JP ドジッちまったぜ…。
+EN ...My bad.
+EN I screwed up...
+
+@ 005.196
+# wrestler (voiced), used 2x
+JP 私としたことが…。
+JP こんな大事なときに…。
+EN How unlike me...
+EN At such an important time...
+
+@ 005.203
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP やっちゃったみたいです…。
+EN I'm sorry...
+EN I think I messed up...
+
+@ 005.210
+# wrestler (voiced), used 2x
+JP ごめん…。
+JP 油断した…。
+EN Sorry...
+EN I got careless...
+
+@ 005.217
+# wrestler (voiced), used 2x
+JP あ～も～、ドジっちゃったなぁ…。
+EN Ugh, jeez, I really goofed...
+
+@ 005.224
+# wrestler (voiced), used 2x
+JP だっ、大丈夫です！
+JP こんなの気合で…。
+JP 治りそうにないですね…。
+EN I-I'm fine!
+EN Fighting spirit will...
+EN ...No, I don't think it'll heal...
+
+@ 005.231
+# wrestler (voiced), used 2x
+JP ったく…。
+JP やっかいなことになっちまったぜ！
+EN Damn it...
+EN This is a real pain in the neck!
+
+@ 005.238
+# wrestler (voiced), used 2x
+JP いたい、いたいよ～！
+JP お母さ～ん！
+EN It hurts, it huuurts!
+EN Mommyyy!
+
+@ 005.245
+# wrestler (voiced), used 2x
+JP 私としたことが…。
+JP 油断していましたわ。
+EN How unlike me...
+EN I let my guard down.
+
+@ 005.252
+# wrestler (voiced), used 2x
+JP こんなときに…。
+EN At a time like this...
+
+@ 005.259
+# wrestler (voiced), used 2x
+JP 傷を負ってしまったようです…。
+EN It seems I've been wounded...
+
+@ 005.266
+# wrestler (voiced), used 2x
+JP あ～、やっちゃったー！
+EN Aww, I messed up!
+
+@ 005.273
+# wrestler (voiced), used 2x
+JP あーもー…。
+JP あたしとしたことが！
+EN Ugh, jeez...
+EN How could I do this!
+
+@ 005.280
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP スミマセン！
+JP やってしまいましたー！
+EN Ugh...
+EN I'm sorry!
+EN I really messed up!
+
+@ 005.287
+# wrestler (voiced), used 2x
+JP ……いったい…何が起こったの……。
+EN ......What... just happened......
+
+@ 005.294
+# wrestler (voiced), used 2x
+JP あ、歩けません…。
+JP 救急車を…。
+EN I-I can't walk...
+EN Call an ambulance...
+
+@ 005.301
+# wrestler (voiced), used 2x
+JP 傷ついた私も
+JP それはそれでまた何とも…。
+EN Still, a wounded me has
+EN a certain charm of its own...
+
+@ 005.308
+# wrestler (voiced), used 2x
+JP ……こんなケガして……。
+JP ……ごめんなさい……。
+EN ......Getting hurt like this......
+EN ......I'm sorry......
+
+@ 005.315
+# wrestler (voiced), used 2x
+JP ウッ…。
+JP どうにかまだ動けるけど…。
+EN Ugh...
+EN I can still move, somehow...
+
+@ 005.322
+# wrestler (voiced), used 2x
+JP これは…ちょっとまずいぞ…。
+JP どうしたらいい…？
+EN This... is kind of bad...
+EN What should I do...?
+
+@ 005.329
+# wrestler (voiced), used 2x
+JP すみません…。
+JP こんな大事なときに…。
+EN I'm sorry...
+EN At such an important time...
+
+@ 005.336
+# wrestler (voiced), used 2x
+JP あか～ん、もぅ～！
+JP ウチがこんなヘマするなんて～！
+EN Aw, no way, jeez!
+EN I can't believe I botched it like
+EN this!
+
+@ 005.343
+# wrestler (voiced), used 2x
+JP ふみぃ…。
+JP こんなケガするなんて～…。
+EN Fumii...
+EN I can't believe I got hurt like
+EN this...
+
+@ 005.350
+# wrestler (voiced), used 2x
+JP はぁ～…。
+JP しくじったな～。
+JP こんな怪我するなんて…。
+EN Haah...
+EN I blew it...
+EN Getting hurt like this...
+
+@ 005.357
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP 申し訳ありません！
+JP こんな怪我をしてしまって！
+EN Ugh...
+EN I'm terribly sorry!
+EN For getting injured like this!
+
+@ 005.364
+# wrestler (voiced), used 2x
+JP なかなか強い相手で…。
+JP 私も油断したようです…。
+EN She was a tough opponent...
+EN I seem to have let my guard down...
+
+@ 005.371
+# wrestler (voiced), used 2x
+JP ふう～…。
+JP ちょっとこれは大丈夫…とは
+JP いきませんねぇ…。
+EN Phew...
+EN I'm afraid I can't quite say
+EN I'm fine this time...
+
+@ 005.378
+# wrestler (voiced), used 2x
+JP いったぁぁい！！
+JP あたし、か弱い女の子なのに～！
+EN Owwww!!
+EN And I'm such a delicate girl, too!
+
+@ 005.385
+# wrestler (voiced), used 2x
+JP このケガ、１０倍返しだッ！
+EN I'll pay back this injury tenfold!
+
+@ 005.392
+# wrestler (voiced), used 2x
+JP くそッ…！
+JP このケガ倍にして返してやる！
+EN Damn it...!
+EN I'll pay her back double for this!
+
+@ 005.399
+# wrestler (voiced), used 2x
+JP チッ…。
+JP あたしとしたことが
+JP やっちまったねぇ…。
+EN Tch...
+EN Can't believe I went and
+EN screwed up like that...
+
+@ 005.406
+# wrestler (voiced), used 2x
+JP まさかこんなミスを犯すとは…。
+EN I never thought I'd make such a
+EN mistake...
+
+@ 005.413
+# wrestler (voiced), used 2x
+JP くっくっく…。
+JP あたしにこんな怪我負わせるとは
+JP 燃えるねぇ…。
+EN Heh heh heh...
+EN Someone actually managed to hurt me?
+EN That gets me fired up...
+
+@ 005.427
+# wrestler (voiced)
+JP ちょっと…な…。
+EN It's a little... bad...
+
+@ 005.434
+# wrestler (voiced)
+JP アタタタ…。
+JP あは、失敗シッパイ！
+EN Ow-ow-ow...
+EN Aha, my bad, my bad!
+
+@ 005.441
+# wrestler (voiced)
+JP こんなのエレガントじゃないわ…。
+EN This isn't elegant at all...
+
+@ 005.448
+# wrestler (voiced)
+JP イタタッ！
+JP ごめん…。
+JP やっちゃった…。
+EN Ouch!
+EN Sorry...
+EN I messed up...
+
+@ 005.455
+# wrestler (voiced)
+JP これは意外と重傷かもしれません。
+EN This may be more serious than I
+EN thought.
+
+@ 005.462
+# wrestler (voiced)
+JP まだ…大丈夫……。
+EN I'm still... fine......
+
+@ 005.469
+# wrestler (voiced)
+JP う～、痛いよう…。
+JP ドジっちゃったなぁ…。
+EN Ugh, it hurts...
+EN I goofed...
+
+@ 005.476
+# wrestler (voiced)
+JP このくらいのケガで…！
+EN Over a little injury like this...!
+
+@ 005.483
+# wrestler (voiced)
+JP もうダメかもしれませんわ！
+EN I fear I may be done for!
+
+@ 005.490
+# wrestler (voiced)
+JP どこかがすごく痛いです～。
+EN Something hurts really bad~.
+
+@ 005.497
+# wrestler (voiced)
+JP この程度の…ケガくらい…。
+EN An injury... like this... is
+EN nothing...
+
+@ 005.504
+# wrestler (voiced)
+JP あーん…？
+JP 大げさだなぁ！
+JP どうってことないって！
+EN Huh...?
+EN You're overreacting!
+EN It's no big deal!
+
+@ 005.511
+# wrestler (voiced)
+JP 計算通りにできなかった
+JP 私が悪いんです…。
+EN It's my fault for not
+EN executing it as planned...
+
+@ 005.518
+# wrestler (voiced)
+JP やってしまいました…。
+JP 申し訳ありません！
+EN I messed up...
+EN I'm terribly sorry!
+
+@ 005.525
+# wrestler (voiced)
+JP いった～い…。
+JP 派手にやっちゃったなー…。
+EN Owww...
+EN I really did a number on myself...
+
+@ 005.532
+# wrestler (voiced)
+JP すいません…。
+JP ケガをしてしまいました…。
+EN I'm sorry...
+EN I got injured...

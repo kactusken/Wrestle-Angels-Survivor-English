@@ -1,0 +1,393 @@
+# Event script entry 263 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 263.65
+# wrestler (voiced), used 2x
+JP さぁて、練習ですよ～。
+EN Okay, time for practice~
+
+@ 263.77
+# wrestler (voiced), used 2x
+JP さて、練習、練習！
+EN Right, practice, practice!
+
+@ 263.89
+# wrestler (voiced), used 2x
+JP さてと…。
+EN Well then...
+
+@ 263.101
+# wrestler (voiced), used 2x
+JP 気を引き締めてがんばろう！
+EN Stay sharp and give it my all!
+
+@ 263.113
+# wrestler (voiced), used 2x
+JP 練習、練習～っと！
+EN Practice, practice~!
+
+@ 263.124
+# other, used 6x
+JP 今日もよろしくお願いします。
+EN I look forward to working with you
+EN today.
+
+@ 263.137
+# wrestler (voiced), used 2x
+JP 今日もやるぞーッ！
+EN Let's do this today too!
+
+@ 263.149
+# wrestler (voiced), used 2x
+JP うわ～ん！
+JP 寝坊しちゃったぁ！
+EN Waaah!
+EN I overslept!
+
+@ 263.161
+# wrestler (voiced), used 2x
+JP ……あれ？
+JP ジャージないじゃん！
+JP 急いで取ってきます！
+EN ...Huh?
+EN My tracksuit's gone!
+EN I'll go grab it, quick!
+
+@ 263.173
+# wrestler (voiced), used 2x
+JP 一人で練習してもいいんですが…。
+EN I could just practice on my own,
+EN but...
+
+@ 263.185
+# wrestler (voiced), used 2x
+JP まずはウォーミングアップから…。
+EN Starting with a warm-up...
+
+@ 263.197
+# wrestler (voiced), used 2x
+JP 練習開始にゃん！
+EN Practice time, nya!
+
+@ 263.209
+# wrestler (voiced), used 2x
+JP よぉ～し！
+JP 練習始めちゃうわよー！
+EN All right!
+EN Let's get practice started!
+
+@ 263.221
+# wrestler (voiced), used 2x
+JP さあ、練習を始めましょう！
+EN Now, let's start practice!
+
+@ 263.233
+# wrestler (voiced), used 2x
+JP …フゥ…。
+JP 私に練習など
+JP 必要ないのですけれど…。
+EN ...Sigh...
+EN Not that someone like me
+EN needs practice...
+
+@ 263.245
+# wrestler (voiced), used 2x
+JP さてと練習、練習！
+EN Right, practice, practice!
+
+@ 263.269
+# wrestler (voiced), used 2x
+JP よっしゃーッ！
+JP 今日も練習だぜー！
+EN All right!
+EN Practice time again!
+
+@ 263.281
+# wrestler (voiced), used 2x
+JP よ～し！
+JP 今日も練習するか！
+EN Okay!
+EN Let's practice today too!
+
+@ 263.293
+# wrestler (voiced), used 2x
+JP 練習しましょうか。
+EN Shall we practice?
+
+@ 263.305
+# wrestler (voiced), used 2x
+JP 今日も練習がんばります！
+EN I'll work hard in practice today
+EN too!
+
+@ 263.317
+# wrestler (voiced), used 2x
+JP …じゃ、始めるわ。
+EN ...Well, I'll get started.
+
+@ 263.329
+# wrestler (voiced), used 2x
+JP よぉーし！
+JP はりきって練習しちゃうよ～ッ！
+EN All right!
+EN I'm gonna practice my heart out!
+
+@ 263.341
+# wrestler (voiced), used 2x
+JP 今日もガンガン鍛えます！
+EN I'll train hard again today!
+
+@ 263.353
+# wrestler (voiced), used 2x
+JP さぁて今日も汗流すとするか。
+EN Well, time to work up a sweat again.
+
+@ 263.365
+# wrestler (voiced), used 2x
+JP 練習始めちゃおっと！
+EN Let's get practice going!
+
+@ 263.377
+# wrestler (voiced), used 2x
+JP さぁ、今日も軽くこなしましょうか。
+EN Now, let's breeze through today too.
+
+@ 263.389
+# wrestler (voiced), used 2x
+JP …始めましょう。
+EN ...Let's begin.
+
+@ 263.401
+# wrestler (voiced), used 2x
+JP では、練習を始めましょうか？
+EN Well then, shall we begin practice?
+
+@ 263.413
+# wrestler (voiced), used 2x
+JP よーし！
+JP 練習がんばっちゃうもんね！
+EN All right!
+EN I'm gonna practice super hard!
+
+@ 263.437
+# wrestler (voiced), used 2x
+JP 今日も張り切ってやるぞー！
+EN Let's go all out today too!
+
+@ 263.449
+# wrestler (voiced), used 2x
+JP ……練習…しないと……。
+EN ...I have to... practice...
+
+@ 263.461
+# wrestler (voiced), used 2x
+JP 本日の傾向と対策を整理します。
+EN Let me sort out today's
+EN trends and countermeasures.
+
+@ 263.473
+# wrestler (voiced), used 2x
+JP サンキュー！
+JP プレゼントは後で受け取るよ。
+EN Thank you!
+EN I'll accept your gifts later.
+
+@ 263.485
+# wrestler (voiced), used 2x
+JP ……よ、よろしくお願いします……。
+EN ...P-pleased to work with you...
+
+@ 263.497
+# wrestler (voiced), used 2x
+JP ようし！
+JP 今日も練習だッ！
+EN All right!
+EN Practice again today!
+
+@ 263.509
+# wrestler (voiced), used 2x
+JP 今日もレンシューするのか？
+EN We're doing the practice again
+EN today?
+
+@ 263.521
+# wrestler (voiced), used 2x
+JP 練習も大事な仕事の一つですから。
+EN Practice is part of the job, after
+EN all.
+
+@ 263.533
+# wrestler (voiced), used 2x
+JP よっしゃー！
+JP 練習、練習！
+EN All right!
+EN Practice, practice!
+
+@ 263.545
+# wrestler (voiced), used 2x
+JP よーし！
+JP 練習だぁ！
+JP じゃなくて、練習を始めます！
+EN All right!
+EN Practice time!
+EN I mean, I'll begin practice now!
+
+@ 263.557
+# wrestler (voiced), used 2x
+JP さあ、練習、練習！
+EN Come on, practice, practice!
+
+@ 263.569
+# wrestler (voiced), used 2x
+JP 今日もやるぞッ！
+EN Let's do this today too!
+
+@ 263.581
+# wrestler (voiced), used 2x
+JP では、練習を開始しましょうか？
+EN Well then, shall we begin practice?
+
+@ 263.593
+# wrestler (voiced), used 2x
+JP 今日もがんばります～。
+EN I'll do my best today too~
+
+@ 263.605
+# wrestler (voiced), used 2x
+JP よーし！
+JP 今日も練習、練習！
+EN All right!
+EN Practice, practice again today!
+
+@ 263.617
+# wrestler (voiced), used 2x
+JP あーあ…。
+JP めんどくせー！
+EN Ugh...
+EN What a pain!
+
+@ 263.629
+# wrestler (voiced), used 2x
+JP あーあ…。
+JP めんどくせーなぁ！
+EN Ugh...
+EN What a drag!
+
+@ 263.641
+# wrestler (voiced), used 2x
+JP 今日も練習といこうか！
+EN Let's get practicing again today!
+
+@ 263.653
+# wrestler (voiced), used 2x
+JP 始めるか…。
+EN Shall we begin...
+
+@ 263.665
+# wrestler (voiced), used 2x
+JP …練習？
+JP 面倒くせーなぁ。
+EN ...Practice?
+EN What a pain.
+
+@ 263.676
+# other, used 2x
+JP …………よし……。
+EN ...........Okay......
+
+@ 263.690
+# wrestler (voiced)
+JP さて…。
+EN Well then...
+
+@ 263.702
+# wrestler (voiced)
+JP 練習始めまーす！
+EN Starting practice!
+
+@ 263.714
+# wrestler (voiced)
+JP クールにいくわよ。
+EN Let's keep it cool.
+
+@ 263.726
+# wrestler (voiced)
+JP 勝利は日々の積み重ねから
+JP だよね？
+EN Victory is built day by day,
+EN right?
+
+@ 263.738
+# wrestler (voiced)
+JP シミュレーションを
+JP 開始しましょう。
+EN Let's begin
+EN the simulation.
+
+@ 263.750
+# wrestler (voiced)
+JP 練習しないと……。
+EN I have to practice...
+
+@ 263.762
+# wrestler (voiced)
+JP 今日も練習がんばります。
+EN I'll work hard in practice today
+EN too.
+
+@ 263.774
+# wrestler (voiced)
+JP これが最強への第一歩。
+EN This is the first step to being the
+EN strongest.
+
+@ 263.786
+# wrestler (voiced)
+JP 練習いたしましょうか。
+EN Shall we practice?
+
+@ 263.798
+# wrestler (voiced)
+JP 練習始めます～。
+EN Starting practice~
+
+@ 263.810
+# wrestler (voiced)
+JP さ～てトレーニング、トレーニング。
+EN Now then, training, training.
+
+@ 263.822
+# wrestler (voiced)
+JP さーて…。
+JP 今日はなんの練習でいこうか？
+EN Well now...
+EN What should I practice today?
+
+@ 263.834
+# wrestler (voiced)
+JP さぁ、トレーニングと
+JP いきましょうか。
+EN Now, let's get to
+EN some training.
+
+@ 263.846
+# wrestler (voiced)
+JP さぁ、トレーニング、トレーニング！
+EN Come on, training, training!
+
+@ 263.858
+# wrestler (voiced), used 3x
+JP 練習、練習っと！
+EN Practice, practice!
+
+@ 263.870
+# wrestler (voiced)
+JP トレーニングしましょう。
+EN Let's train.

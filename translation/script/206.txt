@@ -1,0 +1,162 @@
+# Event script entry 206 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 206.82
+# President, used 2x
+JP （……ん？
+JP この声は祐希子か？）
+EN (...Hm? Is that Yukiko's voice?)
+
+@ 206.105
+# other, used 2x
+JP これ荷物の所おいといてー！
+EN Watch my stuff for me, okay?
+
+@ 206.114
+# President, used 2x
+JP み…水着？
+JP おい、祐希子、何するつもりだ？
+EN A sw-swimsuit?
+EN Hey, Yukiko, what are you up to?
+
+@ 206.120
+# other, used 2x
+JP 人魚になるの♪
+EN I'm gonna be a mermaid♪
+
+@ 206.127
+# President, used 2x
+JP 人魚って…。
+EN A mermaid...?
+
+@ 206.138
+# President, used 2x
+JP （そう言って海の中に潜った。）
+EN (With that, she dove under the
+EN water.)
+
+@ 206.140
+# President, used 2x
+JP （人魚って…。
+JP 上半身裸で何するつもりだ？）
+EN (A mermaid...? What's she going to
+EN do,
+EN go topless?)
+
+@ 206.142
+# President, used 2x
+JP （それからしばらくして
+JP 祐希子が浮かんできた。）
+EN (A little while later,
+EN Yukiko surfaced.)
+
+@ 206.158
+# other, used 2x
+JP ジャーン！
+JP マーメイド祐希子参上ッ！
+EN Ta-daa!
+EN Mermaid Yukiko is here!
+
+@ 206.165
+# President, used 2x
+JP （あがってきた祐希子の胸には）
+EN (On Yukiko's chest, as she came up,)
+
+@ 206.167
+# President, used 2x
+JP （白い貝殻が付いていた。）
+EN (were two white seashells.)
+
+@ 206.173
+# other, used 2x
+JP ほら、社長、みてみて～。
+JP 人魚っぽい？
+EN Look, look, Boss!
+EN Do I look like a mermaid?
+
+@ 206.180
+# President, used 2x
+JP 人魚っぽいって…。
+JP それ海の中で取ってきたのか？
+EN Like a mermaid...?
+EN Did you find those in the sea?
+
+@ 206.186
+# other, used 2x
+JP あったり～！
+EN Bingo!
+
+@ 206.193
+# President, used 2x
+JP （そう言えば、よく人魚の絵だと
+JP 貝とかで胸を隠してたなあ。）
+EN (Come to think of it, mermaids in
+EN pictures always cover up with
+EN shells.)
+
+@ 206.199
+# other, used 2x
+JP で、どう、社長？
+JP 人魚に見える？
+EN So, Boss, what do you think?
+EN Do I look like a mermaid?
+
+@ 206.206
+# President, used 2x
+JP …うーん、微妙。
+EN ...Hmm. Not quite.
+
+@ 206.212
+# other, used 2x
+JP え～～！
+JP なんで～？
+EN Whaaat!?
+EN Why not!?
+
+@ 206.219
+# President, used 2x
+JP 貝をテープで止めてるところ。
+EN The shells are taped on.
+
+@ 206.225
+# other, used 2x
+JP うぅ…。
+EN Ugh...
+
+@ 206.232
+# President, used 2x
+JP 人魚にテープはないだろう。
+EN Mermaids don't use tape.
+
+@ 206.238
+# other, used 2x
+JP だって、水の中で使えるのって
+JP これしかないんだもの…。
+EN But it's the only thing
+EN that works underwater...
+
+@ 206.247
+# President, used 2x
+JP でも…まぁ綺麗だよ。
+EN Still... you look beautiful.
+
+@ 206.266
+# President, used 2x
+JP そこ以外は本当にマーメイドに
+JP 見えるかもな。
+EN Apart from the tape,
+EN you could pass for a real mermaid.
+
+@ 206.272
+# other, used 2x
+JP エヘヘヘッ！
+JP ありがとう。
+EN Ehehehe!
+EN Thanks!

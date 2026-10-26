@@ -1,0 +1,75 @@
+# Event script entry 103 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 103.94
+# President, case 0, used 2x
+JP おお、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ていてな…。
+EN Oh, you're here. Actually, there's
+EN an offer for a photo book of you...
+
+@ 103.108
+# President, case 0, used 2x
+JP 違う、違う。
+JP ヌードじゃない。
+JP 水着だよ。
+EN No, no. It's not a nude.
+EN It's swimsuits.
+
+@ 103.122
+# President, case 0, used 2x
+JP いや、顔は何かで隠していい。
+JP どうかな？
+EN No, you can cover your face with
+EN something. What do you say?
+
+@ 103.136
+# President, case 0, used 2x
+JP うーん…。
+JP 俺としてはやってほしいかな。
+EN Hmm... Personally, I'd like you
+EN to do it.
+
+@ 103.150
+# President, case 0, used 2x
+JP おお、そうか。
+EN Oh, really?
+
+@ 103.164
+# President, case 0, used 2x
+JP わかった。
+JP 支度ができたら出発しよう。
+EN Got it. We'll head out once you're
+EN ready.
+
+@ 103.257
+# President, case 0, used 2x
+JP お疲れさん。
+JP 綺麗に撮れてるよ。
+EN Good work. The photos came out
+EN beautifully.
+
+@ 103.272
+# President, case 0, used 2x
+JP お世辞を言ったって仕方ないよ。
+JP 本当だって。
+EN There's no point in flattering you.
+EN I mean it.
+
+@ 103.286
+# President, case 0, used 2x
+JP ああ、惚れそうだよ。
+EN Yeah, I could fall for you.
+
+@ 103.294
+# wrestler (voiced), case 0, used 2x
+JP …………なッ……！
+EN ............Wha......!

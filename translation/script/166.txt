@@ -1,0 +1,24 @@
+# Event script entry 166 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 166.19
+# Secretary, used 2x
+JP 革命軍からメッセージが届きました。
+EN A message has arrived
+EN from the revolution.
+
+@ 166.21
+# Secretary
+JP 前月の決戦に勝利した革命軍は、
+JP ふがいない正規軍に喝を入れるため
+JP 今後も革命軍を継続するそうです。
+EN Having won last month's showdown,
+EN the revolution will carry on to whip
+EN our sorry main roster into shape.

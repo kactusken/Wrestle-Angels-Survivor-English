@@ -1,0 +1,13 @@
+{
+ "english": "Entered",
+ "boxes": [[12, 222, 39, 16]],
+ "draw": "system.draw",
+ "fill": [255, 255, 255],
+ "ground": "keep",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 11,
+ "notes": "match-making sprites: the entered tag (WAS2: Entered)",
+ "catalogue": {"source": "/A020/A024.", "width": 312, "height": 256, "bpp": 8, "category": "button", "japanese": "出場"},
+ "margin": 0,
+ "repaint": [{"rect": [11, 222, 1, 16], "index": 29}, {"rect": [12, 222, 1, 16], "index": 32}, {"rect": [13, 222, 38, 16], "index": 165}, {"rect": [51, 222, 1, 16], "index": 32}]
+}

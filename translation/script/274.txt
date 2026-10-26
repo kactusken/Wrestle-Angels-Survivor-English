@@ -1,0 +1,942 @@
+# Event script entry 274 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 274.3
+# President
+JP 最近たるんでるんじゃないか？
+JP この前の試合はなんだ！
+EN Have you been slacking off lately?
+EN What was that last match?!
+
+@ 274.16
+# wrestler (voiced), case 0, used 2x
+JP ごめんなさい…。
+JP 気が緩んでしまって…。
+EN I'm sorry...
+EN I let my guard down...
+
+@ 274.25
+# wrestler (voiced), case 1, used 2x
+JP 一生懸命がんばってるのに～…。
+EN But I've been trying so hard...
+
+@ 274.35
+# wrestler (voiced), case 0, used 2x
+JP くっそーッ！
+JP 次見てて、次！
+JP 絶対いい試合見せるから！
+EN Dammit! Watch my next one, the next
+EN one! I'll show you a great match for
+EN sure!
+
+@ 274.44
+# wrestler (voiced), case 1, used 2x
+JP うぅ…。
+JP 怒られてしまった…。
+EN Ugh...
+EN I got scolded...
+
+@ 274.54
+# wrestler (voiced), case 0, used 2x
+JP 次こそはきっと！
+EN Next time for sure!
+
+@ 274.63
+# wrestler (voiced), case 1, used 2x
+JP クッ…。
+JP 言い返せない…。
+EN Tch...
+EN I can't argue with that...
+
+@ 274.73
+# wrestler (voiced), case 0, used 2x
+JP すいません…。
+JP 気が緩んでいました…。
+JP 心を入れ替えてがんばります。
+EN I'm sorry...
+EN I let my guard down...
+EN I'll turn over a new leaf.
+
+@ 274.82
+# wrestler (voiced), case 1, used 2x
+JP 人間誰しも不調のときくらい
+JP あると思うんです…。
+EN I think everyone has
+EN their off days...
+
+@ 274.92
+# wrestler (voiced), case 0, used 2x
+JP ご、ごめんなさい…。
+JP グスン…。
+EN I-I'm sorry...
+EN *sniff*...
+
+@ 274.101
+# wrestler (voiced), case 1, used 2x
+JP こんなにがんばってるのに…。
+JP 社長、わかってくれないの？
+EN I've been trying so hard...
+EN Don't you understand, Boss?
+
+@ 274.111
+# wrestler (voiced), case 0, used 2x
+JP すみません…。
+JP みっともない姿を見せてしまって…。
+EN I'm sorry...
+EN I let you see me at my worst...
+
+@ 274.120
+# wrestler (voiced), case 1, used 2x
+JP いつもベストな状態で
+JP いられるとは限りません。
+EN No one can be at their
+EN best all the time.
+
+@ 274.130
+# wrestler (voiced), case 0, used 2x
+JP ごめんなさい…。
+JP 気が緩んでました。
+EN I'm sorry...
+EN I let my guard down.
+
+@ 274.139
+# wrestler (voiced), case 1, used 2x
+JP あぅ…。
+JP がんばってるのに…。
+EN Aww...
+EN But I'm trying so hard...
+
+@ 274.149
+# wrestler (voiced), case 0, used 2x
+JP ごめんなさい。
+JP たるんでました。
+JP テヘッ。
+EN I'm sorry.
+EN I was slacking off.
+EN Tee-hee.
+
+@ 274.158
+# wrestler (voiced), case 1, used 2x
+JP こんなにがんばってるのに
+JP わかってくれないの～？
+JP …ひ、ひっく…ううっ……。
+EN Don't you see how hard
+EN I'm trying?
+EN ...*sniff*... *hic*... uuu......
+
+@ 274.168
+# wrestler (voiced), case 0, used 2x
+JP ごめんなさい…。
+JP このままじゃダメですよね！
+EN I'm sorry...
+EN I can't keep going like this, can I!
+
+@ 274.177
+# wrestler (voiced), case 1, used 2x
+JP そんな…。
+JP がんばってるのに
+JP ひどいじゃないですか！
+EN What...
+EN I'm working so hard,
+EN that's so mean!
+
+@ 274.187
+# wrestler (voiced), case 0, used 2x
+JP …申し訳ありません。
+EN ...My apologies.
+
+@ 274.196
+# wrestler (voiced), case 1, used 2x
+JP そういう言われ方は心外ですね。
+EN I resent being spoken to like that.
+
+@ 274.206
+# wrestler (voiced), case 0, used 2x
+JP …わるい……。
+EN ...My bad......
+
+@ 274.215
+# wrestler (voiced), case 1, used 2x
+JP ひとりにしてくれ…。
+EN Leave me alone...
+
+@ 274.225
+# wrestler (voiced), case 0, used 2x
+JP ごめんなさい…。
+JP このままじゃダメだよね！
+EN I'm sorry...
+EN I can't keep going like this, huh!
+
+@ 274.234
+# wrestler (voiced), case 1, used 2x
+JP がんばれないときだって
+JP あるんだよ～…。
+EN Sometimes you just
+EN can't try hard...
+
+@ 274.244
+# wrestler (voiced), case 0, used 2x
+JP そんなこと言ったって
+JP しょうがないじゃない！
+JP 次、がんばるわよー！
+EN Saying that won't
+EN change anything!
+EN I'll do better next time!
+
+@ 274.253
+# wrestler (voiced), case 1, used 2x
+JP ひっど～い…。
+JP がんばってるのに…。
+EN That's so mean...
+EN I'm trying so hard...
+
+@ 274.263
+# wrestler (voiced), case 0, used 2x
+JP すみません…。
+JP もっと努力します。
+EN I'm sorry...
+EN I'll make more of an effort.
+
+@ 274.272
+# wrestler (voiced), case 1, used 2x
+JP そんなッ…！
+JP まだ、たりませんか？
+EN What...!
+EN Still not enough?
+
+@ 274.282
+# wrestler (voiced), case 0, used 2x
+JP んまぁッ！
+JP 悔しいッ！！
+JP 次の試合で挽回して見せますわ！
+EN Why, I never!
+EN How vexing!!
+EN I shall redeem myself next match!
+
+@ 274.291
+# wrestler (voiced), case 1, used 2x
+JP …まあッ！
+JP 心外ですわ。
+EN ...Well!
+EN How insulting.
+
+@ 274.301
+# wrestler (voiced), case 0, used 2x
+JP そうだよね…。
+JP 私もっとがんばる！
+EN You're right...
+EN I'll try harder!
+
+@ 274.310
+# wrestler (voiced), case 1, used 2x
+JP …十分がんばってるじゃない…。
+EN ...I'm already trying plenty hard...
+
+@ 274.320
+# wrestler (voiced), case 0, used 2x
+JP すいません…。
+JP もっと精進します…。
+EN I'm sorry...
+EN I'll work harder at it...
+
+@ 274.329
+# wrestler (voiced), case 1, used 2x
+JP ……クッ…！
+EN ......Tch...!
+
+@ 274.339
+# wrestler (voiced), case 0, used 2x
+JP うるせーなぁ！
+JP わるかったよ…。
+EN Shut up already!
+EN Sorry, okay...
+
+@ 274.348
+# wrestler (voiced), case 1, used 2x
+JP ああ…。
+JP がんばってるんだけどな…。
+EN Yeah...
+EN I'm trying, though...
+
+@ 274.358
+# wrestler (voiced), case 0, used 2x
+JP 次は見ててよ！
+JP がんばるからッ！
+EN Watch me next time!
+EN I'll do my best!
+
+@ 274.367
+# wrestler (voiced), case 1, used 2x
+JP うぅ…。
+JP 社長、ひど～い…。
+EN Ugh...
+EN Boss, that's so mean...
+
+@ 274.377
+# wrestler (voiced), case 0, used 2x
+JP 心を入れ替えるわ…。
+EN I'll turn over a new leaf...
+
+@ 274.386
+# wrestler (voiced), case 1, used 2x
+JP …そう。
+JP 努力はしているんだけど…。
+EN ...I see.
+EN I am making an effort, though...
+
+@ 274.396
+# wrestler (voiced), case 0, used 2x
+JP ごめんなさい…。
+JP …が、がんばりますッ！
+EN I'm sorry...
+EN ...I-I'll do my best!
+
+@ 274.405
+# wrestler (voiced), case 1, used 2x
+JP うぅ…。
+JP がんばってるのに…。
+EN Ugh...
+EN But I'm trying so hard...
+
+@ 274.415
+# wrestler (voiced), case 0, used 2x
+JP わかった…。
+JP がんばるわ…。
+EN Fine...
+EN I'll do my best...
+
+@ 274.424
+# wrestler (voiced), case 1, used 2x
+JP ……ごめんなさい。
+EN ......I'm sorry.
+
+@ 274.434
+# wrestler (voiced), case 0, used 2x
+JP え～！
+JP ごめんって！
+JP 次は見ててよ！
+EN Aww!
+EN I said I'm sorry!
+EN Just watch me next time!
+
+@ 274.443
+# wrestler (voiced), case 1, used 2x
+JP うっ…。
+JP そこまで言わなくても…。
+EN Ugh...
+EN You didn't have to say it like
+EN that...
+
+@ 274.453
+# wrestler (voiced), case 0, used 2x
+JP すみません…。
+JP ボクを鍛えなおしてください！
+EN I'm sorry...
+EN Please train me all over again!
+
+@ 274.462
+# wrestler (voiced), case 1, used 2x
+JP …もう疲れてしまいました…。
+EN ...I'm just so tired now...
+
+@ 274.472
+# wrestler (voiced), case 0, used 2x
+JP 次で挽回してやるよ。
+EN I'll make up for it next time.
+
+@ 274.481
+# wrestler (voiced), case 1, used 2x
+JP 誰だって調子の悪いときぐらい
+JP あんだよ！
+EN Everybody has a bad day
+EN once in a while!
+
+@ 274.491
+# wrestler (voiced), case 0, used 2x
+JP …うぅ…。
+JP ごめんなさい！
+EN ...Ugh...
+EN I'm sorry!
+
+@ 274.500
+# wrestler (voiced), case 1, used 2x
+JP そんなに怒らなくてもいいのに…。
+JP えーん、え～んッ！
+EN You don't have to get so mad...
+EN Waaah, waaah!
+
+@ 274.510
+# wrestler (voiced), case 0, used 2x
+JP ごめんなさい…。
+JP 私としたことが…。
+EN I'm sorry...
+EN How unlike me...
+
+@ 274.519
+# wrestler (voiced), case 1, used 2x
+JP 私も落ち込むときくらいあります。
+EN Even I get down sometimes.
+
+@ 274.529
+# wrestler (voiced), case 0, used 2x
+JP ……努力…します。
+EN ......I'll...try harder.
+
+@ 274.548
+# wrestler (voiced), case 0, used 2x
+JP 申し訳ありません。
+JP 次は期待に応えます。
+EN My apologies.
+EN I will meet your expectations next
+EN time.
+
+@ 274.557
+# wrestler (voiced), case 1, used 2x
+JP …そんなッ。
+EN ...But...!
+
+@ 274.567
+# wrestler (voiced), case 0, used 2x
+JP う…。
+JP ごめんなさい。
+JP もっとがんばるから！
+EN Ugh...
+EN I'm sorry.
+EN I'll try harder!
+
+@ 274.576
+# wrestler (voiced), case 1, used 2x
+JP ひど～い…。
+JP がんばってるのに…。
+EN That's so mean...
+EN I'm trying so hard...
+
+@ 274.586
+# wrestler (voiced), case 0, used 2x
+JP …す、すみません！
+JP あたしの努力が
+JP たりなかったのかもしれませんね…。
+EN ...I-I'm sorry!
+EN Maybe I just wasn't
+EN putting in enough effort...
+
+@ 274.595
+# wrestler (voiced), case 1, used 2x
+JP そこまで言わなくても…。
+EN You didn't have to say it like
+EN that...
+
+@ 274.605
+# wrestler (voiced), case 0, used 2x
+JP す、すみません！
+JP 緊張感がたりませんでした…。
+EN I-I'm sorry!
+EN I wasn't focused enough...
+
+@ 274.614
+# wrestler (voiced), case 1, used 2x
+JP 自分はこの世界には
+JP 向いていないのでしょうか…。
+EN Am I just not cut out
+EN for this world...?
+
+@ 274.624
+# wrestler (voiced), case 0, used 2x
+JP ……たるみ…なくさないと……。
+EN ......I have to...stop
+EN slacking......
+
+@ 274.633
+# wrestler (voiced), case 1, used 2x
+JP ……この前の試合……？
+JP ……なんだろ……？
+EN ......The last match......?
+EN ......What was it......?
+
+@ 274.643
+# wrestler (voiced), case 0, used 2x
+JP 言い訳はしません。
+JP 次はもっと正確に計算します。
+EN I won't make excuses.
+EN Next time I'll calculate more
+EN precisely.
+
+@ 274.652
+# wrestler (voiced), case 1, used 2x
+JP あの相手が予測していない
+JP 動きを見せるから…。
+JP それがいけないんです！
+EN That opponent made moves
+EN I didn't predict...
+EN That's what went wrong!
+
+@ 274.662
+# wrestler (voiced), case 0, used 2x
+JP つい気が緩んでしまいました…。
+EN I let my guard down...
+
+@ 274.671
+# wrestler (voiced), case 1, used 2x
+JP …ひどい言われようだ。
+EN ...That's a harsh way to put it.
+
+@ 274.690
+# wrestler (voiced), case 1, used 2x
+JP ……それには…その…理由が……。
+EN ......There was...um...a
+EN reason......
+
+@ 274.700
+# wrestler (voiced), case 0, used 2x
+JP ご、ごめんなさい…。
+JP 今度こそボク結果を出します！
+EN I-I'm sorry...
+EN This time I'll get results for sure!
+
+@ 274.709
+# wrestler (voiced), case 1, used 2x
+JP やっぱりボクには無理です…。
+EN I knew it, I just can't do it...
+
+@ 274.719
+# wrestler (voiced), case 0, used 2x
+JP うぅ…。
+JP 次はがんばるぞ。
+EN Ugh...
+EN I'll do better next time.
+
+@ 274.728
+# wrestler (voiced), case 1, used 2x
+JP …むぅ……。
+EN ...Mmph......
+
+@ 274.738
+# wrestler (voiced), case 0, used 2x
+JP そう思われたのなら
+JP すみません…。
+JP もっとがんばります。
+EN If that's how it looked,
+EN I'm sorry...
+EN I'll try harder.
+
+@ 274.747
+# wrestler (voiced), case 1, used 2x
+JP そうですか…。
+JP がんばっているつもり
+JP なのですが…。
+EN I see...
+EN I thought I was
+EN trying hard, but...
+
+@ 274.757
+# wrestler (voiced), case 0, used 2x
+JP ごめんな…。
+JP 次はがんばるから。
+EN Sorry...
+EN I'll do better next time.
+
+@ 274.766
+# wrestler (voiced), case 1, used 2x
+JP え～ッ！？
+JP がんばってるけどな～。
+EN Whaaat?!
+EN But I've been trying...
+
+@ 274.776
+# wrestler (voiced), case 0, used 2x
+JP …えッ、そ、そうですか？
+JP ごめんなさい…。
+JP がんばります。
+EN ...Huh, r-really?
+EN I'm sorry...
+EN I'll do my best.
+
+@ 274.785
+# wrestler (voiced), case 1, used 2x
+JP む～！
+JP がんばってるのにぃ…。
+EN Hmph!
+EN But I'm trying so hard...
+
+@ 274.795
+# wrestler (voiced), case 0, used 2x
+JP そうですよね…。
+JP 仕事はきっちりとこなすのが
+JP スジですもんね。
+EN You're right...
+EN Doing the job properly
+EN is just how it should be.
+
+@ 274.804
+# wrestler (voiced), case 1, used 2x
+JP ごめんなさい…。
+JP がんばってるんですけど…。
+EN I'm sorry...
+EN I've been trying, though...
+
+@ 274.814
+# wrestler (voiced), case 0, used 2x
+JP そ、そうですね…。
+JP 私が間違ってました、キャプテン！
+EN Y-yes, you're right...
+EN I was wrong, Captain!
+
+@ 274.823
+# wrestler (voiced), case 1, used 2x
+JP …私は、これでも
+JP 努力を怠ったつもりはありませんッ！
+EN ...Even so, I don't believe
+EN I've been slacking on my effort!
+
+@ 274.833
+# wrestler (voiced), case 0, used 2x
+JP そう思わせてしまったのなら
+JP すみません…。
+JP いっそう努力します。
+EN If I gave you that impression,
+EN I'm sorry...
+EN I'll work even harder.
+
+@ 274.842
+# wrestler (voiced), case 1, used 2x
+JP そんなつもりはないのですが…。
+JP すみません…。
+EN I didn't mean to, but...
+EN I'm sorry...
+
+@ 274.852
+# wrestler (voiced), case 0, used 2x
+JP そんなことありません。
+JP がんばってますよ～。
+EN That's not true.
+EN I am trying~.
+
+@ 274.861
+# wrestler (voiced), case 1, used 2x
+JP まあ…そんなぁ…。
+JP ひどいです～。
+EN Oh... no...
+EN That's so mean.
+
+@ 274.871
+# wrestler (voiced), case 0, used 2x
+JP もっとがんばるよ～！
+JP ブ～～ッ！
+EN I'll try harder, okay?!
+EN Hmph!
+
+@ 274.880
+# wrestler (voiced), case 1, used 2x
+JP ふええッ！
+JP 社長ひどーい！
+JP あたし、がんばってるのにぃ～ッ！
+EN Waaah!
+EN Boss, you're so mean!
+EN I'm trying so hard!
+
+@ 274.890
+# wrestler (voiced), case 0, used 2x
+JP クソッ…！
+JP 結果さえ出せば文句ないだろ？
+EN Damn it...!
+EN If I get results, you got no
+EN complaints, right?
+
+@ 274.899
+# wrestler (voiced), case 1, used 2x
+JP モチベーション下げるようなこと
+JP 言うんじゃねーよ！
+EN Don't say stuff that
+EN kills my motivation!
+
+@ 274.909
+# wrestler (voiced), case 0, used 2x
+JP …チッ！
+JP 次に結果を出せば
+JP 文句ないだろ？
+EN ...Tch!
+EN If I get results next time,
+EN you got no complaints, right?
+
+@ 274.918
+# wrestler (voiced), case 1, used 2x
+JP やる気なくすようなこと
+JP 言うんじゃねーよ！
+EN Don't say stuff that
+EN makes me wanna quit!
+
+@ 274.928
+# wrestler (voiced), case 0, used 2x
+JP わるかったね…。
+JP 次は見てなよ！
+EN My bad...
+EN Just watch me next time!
+
+@ 274.937
+# wrestler (voiced), case 1, used 2x
+JP くぅッ…。
+JP 返す言葉もないねぇ…。
+EN Ugh...
+EN I've got nothing to say to that...
+
+@ 274.947
+# wrestler (voiced), case 0, used 2x
+JP …すまん。
+JP 鍛え直そう。
+EN ...Sorry.
+EN I'll retrain myself.
+
+@ 274.956
+# wrestler (voiced), case 1, used 2x
+JP …そうか。
+JP まだ、たりないか…。
+EN ...I see.
+EN Still not enough...
+
+@ 274.966
+# wrestler (voiced), case 0, used 2x
+JP 社長様に言われちゃあなぁ…。
+JP わかったよ！
+EN Well, if the great Boss says so...
+EN Fine, I got it!
+
+@ 274.975
+# wrestler (voiced), case 1, used 2x
+JP うるせえなぁ！
+EN Shut up already!
+
+@ 274.993
+# other, case 1, used 2x
+JP …………クッ……。
+EN ............Tch......
+
+@ 274.1005
+# wrestler (voiced), case 0
+JP …心外だな。
+EN ...I resent that.
+
+@ 274.1014
+# wrestler (voiced), case 1, used 2x
+JP そう…見えるのか…。
+EN So that's...how it looks...
+
+@ 274.1024
+# wrestler (voiced), case 0
+JP すみません！
+JP 気合入れなおします！
+EN I'm sorry!
+EN I'll get fired up again!
+
+@ 274.1033
+# wrestler (voiced), case 1
+JP あは…がんばってるんですけど…。
+EN Aha... I'm trying, though...
+
+@ 274.1043
+# wrestler (voiced), case 0
+JP わかったわ…。
+JP 見てなさい…！
+JP 今度はクールに決めてみせるわ。
+EN Fine...
+EN Just watch...!
+EN Next time I'll pull it off coolly.
+
+@ 274.1052
+# wrestler (voiced), case 1
+JP …フンだッ！
+EN ...Hmph!
+
+@ 274.1062
+# wrestler (voiced), case 0
+JP いいえ、まだよ！
+JP 私の力はこんなもんじゃ
+JP ありませんッ！
+EN No, not yet!
+EN That's not all
+EN I've got!
+
+@ 274.1071
+# wrestler (voiced), case 1
+JP …私…ダメかも…。
+EN ...Maybe I'm...no good...
+
+@ 274.1081
+# wrestler (voiced), case 0
+JP 返す言葉もありません。
+JP いっそう努力します。
+EN I have nothing to say in my defense.
+EN I will work even harder.
+
+@ 274.1090
+# wrestler (voiced), case 1
+JP お言葉ですが
+JP 私は常に全力を尽くしています。
+EN With all due respect,
+EN I always give it my all.
+
+@ 274.1100
+# wrestler (voiced), case 0
+JP もっとがんばる……。
+EN I'll try harder......
+
+@ 274.1109
+# wrestler (voiced), case 1
+JP ごめんなさい……。
+EN I'm sorry......
+
+@ 274.1119
+# wrestler (voiced), case 0
+JP あッ、あの…。
+JP がんばりますッ！
+EN Oh, um...
+EN I'll do my best!
+
+@ 274.1128
+# wrestler (voiced), case 1
+JP そんな…。
+JP 社長、ひどい…。
+EN What...
+EN Boss, that's mean...
+
+@ 274.1138
+# wrestler (voiced), case 0
+JP すみません！
+JP 次は完全燃焼してみせます！
+EN I'm sorry!
+EN Next time I'll burn all-out!
+
+@ 274.1147
+# wrestler (voiced), case 1
+JP 何が悪いんですか？
+EN What's wrong with it?
+
+@ 274.1157
+# wrestler (voiced), case 0
+JP クッ…。
+JP 以後気をつけますわ。
+EN Tch...
+EN I shall be more careful from now on.
+
+@ 274.1166
+# wrestler (voiced), case 1
+JP きいーーッ！
+JP 覚えてらっしゃい！
+EN Grrrr!
+EN You'll pay for this!
+
+@ 274.1176
+# wrestler (voiced), case 0
+JP う～ん…。
+JP なんとかがんばってみます～。
+EN Hmmm...
+EN I'll try somehow.
+
+@ 274.1185
+# wrestler (voiced), case 1
+JP いじめないでくださ～い…。
+EN Please don't bully me...
+
+@ 274.1195
+# wrestler (voiced), case 0
+JP ごめん…。
+JP 次はがんばるよ…。
+EN Sorry...
+EN I'll do better next time...
+
+@ 274.1204
+# wrestler (voiced), case 1
+JP なんだよ！
+JP ちゃんとやってるってー！
+EN What?!
+EN I'm doing my job properly!
+
+@ 274.1214
+# wrestler (voiced), case 0
+JP うわッ！
+JP ばれたッ！？
+JP ウソウソ、がんばりますって！
+EN Whoa!
+EN You noticed?!
+EN Kidding, kidding, I'll try harder!
+
+@ 274.1223
+# wrestler (voiced), case 1
+JP なんだよ…。
+JP ひでえなぁ…。
+EN What...
+EN That's harsh...
+
+@ 274.1233
+# wrestler (voiced), case 0
+JP すいません…。
+JP 少し気が抜けていたのかも
+JP しれません…。
+EN I'm sorry...
+EN Maybe I had relaxed
+EN a little too much...
+
+@ 274.1242
+# wrestler (voiced), case 1
+JP そうでしょうか…。
+EN Is that so...
+
+@ 274.1252
+# wrestler (voiced), case 0
+JP すみません。
+JP 努力します！
+EN I'm sorry.
+EN I'll make an effort!
+
+@ 274.1261
+# wrestler (voiced), case 1
+JP そう見えるんですか…。
+JP ショックだなぁ…。
+EN Is that how it looks...
+EN That's a shock...
+
+@ 274.1271
+# wrestler (voiced), case 0
+JP ごめんなさーい！
+JP がんばるから怒らないでー！
+EN I'm sorryyy!
+EN I'll try hard, so don't be mad!
+
+@ 274.1280
+# wrestler (voiced), case 1
+JP だって…見えるんだもん…。
+EN But... I can see them...
+
+@ 274.1290
+# wrestler (voiced), case 0
+JP 気合を入れてがんばります。
+EN I'll get fired up and do my best.
+
+@ 274.1299
+# wrestler (voiced), case 1
+JP そんなに悪くはないと
+JP 思いますが…。
+EN I don't think it was
+EN that bad, though...
+
+@ 274.2305
+# Secretary, case 0, used 2x
+JP {name:0}選手の
+JP 信頼度がアップしました。
+EN {name:0}'s trust
+EN has gone up.
+
+@ 274.2314
+# Secretary, case 1
+JP {name:0}選手の
+JP モラルと信頼度が
+JP 下がってしまったようです…。
+EN {name:0}'s morale and
+EN trust seem to have
+EN gone down...

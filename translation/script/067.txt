@@ -1,0 +1,93 @@
+# Event script entry 067 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 067.88
+# wrestler (voiced), case 0, used 6x
+JP はーい！
+JP なんですか？
+EN Ye-es! What is it?
+
+@ 067.102
+# wrestler (voiced), case 0, used 2x
+JP …え、写真集？
+JP わぁ～、やるやる！
+JP うれしいな～。
+EN ...Huh, a photo book? Wow!
+EN I'll do it, I'll do it! Yay!
+
+@ 067.108
+# President, case 0, used 2x
+JP 引き受けてくれるか？
+EN So you'll take it?
+
+@ 067.116
+# wrestler (voiced), case 0, used 2x
+JP そろそろ新しい西陣織
+JP 欲しいと思ってたんだ～。
+EN I was just thinking I wanted
+EN a new Nishijin silk outfit!
+
+@ 067.122
+# President, case 0, used 2x
+JP そこまでギャラが出るかわからんぞ。
+EN I'm not sure the pay will be
+EN THAT good.
+
+@ 067.130
+# wrestler (voiced), case 0, used 2x
+JP え～！
+JP そうなの～？
+EN Awww! Really?
+
+@ 067.136
+# President, case 0, used 2x
+JP （というより、お前の衣装が
+JP 高すぎるんだ…。）
+EN (Or rather, your costumes are
+EN just way too expensive...)
+
+@ 067.229
+# President, case 0, used 2x
+JP さすが手慣れたもんだな。
+JP かわいく写ってる。
+EN You're a natural, as expected.
+EN You look cute.
+
+@ 067.238
+# wrestler (voiced), case 0, used 2x
+JP フフフッ！
+JP 元がかわいいからね♪
+EN Hee hee! That's because the
+EN original's cute♪
+
+@ 067.244
+# President, case 0, used 2x
+JP お、言い切るか。
+EN Oh, you're saying it outright?
+
+@ 067.252
+# wrestler (voiced), case 0, used 2x
+JP 言い切りますよーだ！
+JP 自信なくっちゃアイドルレスラー
+JP なんかやってられないもの。
+EN I sure am! You can't be an idol
+EN wrestler without confidence!
+
+@ 067.258
+# President, case 0, used 2x
+JP そうだよなぁ。
+EN Yeah, I guess not.
+
+@ 067.264
+# President, case 0, used 2x
+JP （自信に見合うだけの魅力は
+JP 確かにもってるかもな。）
+EN (She certainly has the charm
+EN to back up that confidence.)

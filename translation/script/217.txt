@@ -1,0 +1,142 @@
+# Event script entry 217 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 217.92
+# other, used 2x
+JP よっしゃー！
+JP キレイな海～！
+JP 一番乗り～ッ！
+EN All right!
+EN Look at that gorgeous sea!
+EN I'm first!
+
+@ 217.99
+# President, used 2x
+JP ずいぶん喜んでるな？
+EN You're pretty excited, huh?
+
+@ 217.114
+# other, used 2x
+JP うん、そりゃもうッ！
+JP うう、ウズウズする～！
+EN Yeah, you bet!
+EN Ugh, I can't wait!
+
+@ 217.121
+# President, used 2x
+JP （エサを前にした子犬のようだ。）
+EN (Like a puppy in front of its food.)
+
+@ 217.123
+# President, used 2x
+JP （浜辺に着いたのは俺と小早川だけ。
+JP 他のみんなはまだ後方をゆっくり
+JP 歩いてきている。）
+EN (Only Kobayakawa and I had reached
+EN the beach. Everyone else was still
+EN strolling along behind us.)
+
+@ 217.132
+# other, used 2x
+JP 社長、泳いでいいかな？
+JP ねぇ、泳いでいいかな？
+EN Boss, can I go swimming?
+EN Hey, can I go swimming?
+
+@ 217.139
+# President, used 2x
+JP 本来なら全員来るまでお預けと
+JP 言うべきなんだろうが…。
+EN Normally I'd tell you to wait
+EN until everyone gets here, but...
+
+@ 217.141
+# President, used 2x
+JP せっかくのバカンスだしな。
+JP 好きにしろ！
+EN This is a vacation, after all.
+EN Do what you like!
+
+@ 217.147
+# other, used 2x
+JP やたッ！
+JP わーいッ！
+EN Yes!
+EN Woohoo!
+
+@ 217.178
+# President, used 2x
+JP おい、水着、上ッ！
+EN Hey, your top! Your swimsuit!
+
+@ 217.198
+# President, used 2x
+JP 一緒に脱げてる！
+EN It came off with your clothes!
+
+@ 217.207
+# wrestler (voiced), used 2x
+JP う、うわーーーッ！
+EN W-waaaaah!
+
+@ 217.214
+# President, used 2x
+JP （服を脱ぐときに
+JP 水着が一緒に脱げてしまった。）
+EN (When she pulled off her clothes,
+EN her swimsuit came off with them.)
+
+@ 217.216
+# President, used 2x
+JP （慣れない水着なんか
+JP 付けてくるから…。）
+EN (That's what she gets for wearing
+EN a swimsuit she's not used to...)
+
+@ 217.226
+# President, used 2x
+JP あっ、水着がッ！
+EN Ah, the swimsuit!
+
+@ 217.228
+# President, used 2x
+JP （さらに、突風が吹いて
+JP 水着が風で飛ばされていく。）
+EN (On top of that, a gust of wind
+EN carried the swimsuit away.)
+
+@ 217.234
+# other, used 2x
+JP うわーッ！
+JP 社長とってきてーーッ！
+EN Waaah!
+EN Boss, go get it!
+
+@ 217.241
+# President, used 2x
+JP なんで俺が…。
+EN Why me...?
+
+@ 217.243
+# President, used 2x
+JP （と言いかけたが、この状態では
+JP 追いかけられないだろう。）
+EN (I started to say that, but she
+EN can't exactly chase it like that.)
+
+@ 217.245
+# President, used 2x
+JP 仕方ないな…。
+EN Oh, all right...
+
+@ 217.247
+# President, used 2x
+JP （俺は水着を追って走り始めた。）
+EN (I took off after the swimsuit.)

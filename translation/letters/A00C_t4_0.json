@@ -1,0 +1,51 @@
+{
+ "english": "Page",
+ "boxes": [
+  [
+   264,
+   3,
+   48,
+   22
+  ]
+ ],
+ "draw": "system.draw",
+ "font": "BarlowCondensed-SemiBold.ttf",
+ "ground": "interpolate",
+ "fill": [
+  248,
+  247,
+  185
+ ],
+ "groups": [
+  {
+   "font": "BarlowSemiCondensed-Bold.ttf",
+   "cap": 12,
+   "fill": [
+    248,
+    246,
+    186
+   ],
+   "outline": {
+    "w": 1.25,
+    "rgb": [
+     46,
+     48,
+     144
+    ]
+   },
+   "ground": "interpolate",
+   "clear": [[265, 3, 47, 22]], "labels": [
+    0
+   ]
+  }
+ ],
+ "notes": "promotion history page: ページ Page",
+ "catalogue": {
+  "source": "/A000/A00C. table 4",
+  "width": 640,
+  "height": 304,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "ページ"
+ }
+}

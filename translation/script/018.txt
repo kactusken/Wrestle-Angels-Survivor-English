@@ -1,0 +1,469 @@
+# Event script entry 018 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 018.46
+# Secretary
+JP {name:0}選手が
+JP 反乱軍に加入したようです。
+EN {name:0} seems to have joined
+EN the Rebel Army.
+
+@ 018.58
+# wrestler (voiced), used 2x
+JP 私、断るのが苦手なんです～。
+EN I'm just no good at saying no~.
+
+@ 018.66
+# wrestler (voiced), used 2x
+JP あたしって言えば
+JP やっぱり反乱軍じゃない？
+EN When you think of me, don't you
+EN think Rebel Army?
+
+@ 018.74
+# wrestler (voiced), used 2x
+JP 私のしぶとさを
+JP 甘く見ない方がいいですよ。
+EN You'd better not underestimate
+EN how stubborn I can be.
+
+@ 018.82
+# wrestler (voiced), used 2x
+JP 戦力としてだけでなく
+JP 戦略面でも貢献できそうですから。
+EN I can contribute not just as a
+EN fighter, but on strategy too.
+
+@ 018.90
+# wrestler (voiced), used 2x
+JP もしかして私が入った方が
+JP 勝つのかな？
+EN Maybe they'll win if I join?
+
+@ 018.98
+# wrestler (voiced), used 2x
+JP 私でも必要としてくれる所が
+JP あるなら…。
+EN If there's somewhere that
+EN needs even me...
+
+@ 018.106
+# wrestler (voiced), used 2x
+JP あたしのファイトスタイルは
+JP 逆境でこそ活かせるはずです！
+EN My fighting style should shine
+EN brightest when the odds are against
+EN me!
+
+@ 018.114
+# wrestler (voiced), used 2x
+JP エヘヘッ！
+JP あたしお願いされちゃった！
+EN Ehehe!
+EN They asked me personally!
+
+@ 018.122
+# wrestler (voiced), used 2x
+JP 反乱軍さんが
+JP 人手不足みたいなので。
+EN The Rebel Army seems to be
+EN short-handed.
+
+@ 018.130
+# wrestler (voiced), used 2x
+JP 精神力を鍛えてこようと思います。
+EN I'm going to go strengthen my
+EN spirit.
+
+@ 018.138
+# wrestler (voiced), used 2x
+JP 存分に暴れてやるよ…。
+JP 腕がなるねぇ。
+EN I'll raise all the hell I want...
+EN I'm itching to go.
+
+@ 018.146
+# wrestler (voiced), used 2x
+JP 反乱軍に入っちゃうにゃん！
+EN I'm joining the Rebel Army, nya!
+
+@ 018.154
+# wrestler (voiced), used 2x
+JP 私がいないと
+JP なんにもできないんだからー。
+JP 仕方ないなぁ。
+EN They can't do a thing
+EN without me.
+EN Oh, fine then.
+
+@ 018.162
+# wrestler (voiced), used 2x
+JP ウフ…。
+JP 自分でもどういう心境の変化か
+JP よくわからなくて…。
+EN Ufufu...
+EN I'm not quite sure what
+EN changed my mind myself...
+
+@ 018.170
+# wrestler (voiced), used 2x
+JP エースの座を譲るとまで言われたら
+JP お受けするしかないですわ。
+EN When they offer to hand me the ace
+EN spot, I simply have to accept.
+
+@ 018.178
+# wrestler (voiced), used 2x
+JP 言ってみれば
+JP 私が一服の清涼剤ね！
+EN You could say I'm a
+EN breath of fresh air!
+
+@ 018.186
+# wrestler (voiced), used 2x
+JP 私の力が役に立つなら…。
+EN If my strength can be of use...
+
+@ 018.194
+# wrestler (voiced), used 2x
+JP 力を貸して欲しいって
+JP 言われたらなぁ…。
+EN When they ask me to
+EN lend a hand...
+
+@ 018.202
+# wrestler (voiced), used 2x
+JP よしッ！
+JP 私が力を貸してあげる！
+EN All right!
+EN I'll lend you my strength!
+
+@ 018.210
+# wrestler (voiced), used 2x
+JP 手を貸してみるのも
+JP 面白そうだから…。
+EN Lending a hand sounded
+EN like it might be fun...
+
+@ 018.218
+# wrestler (voiced), used 2x
+JP あたしの力で
+JP どこまで役に立てるか
+JP わかりませんが…。
+EN I don't know how much
+EN use I'll be, but...
+
+@ 018.226
+# wrestler (voiced), used 2x
+JP たまには環境を変えるのも
+JP いいでしょ？
+EN A change of scenery is nice
+EN once in a while, right?
+
+@ 018.234
+# wrestler (voiced), used 2x
+JP はい、はーい！
+JP 今日からあたし反乱軍の一員でーす！
+EN Yes, yes!
+EN I'm a member of the Rebel Army as of
+EN today!
+
+@ 018.242
+# wrestler (voiced), used 2x
+JP ボク、一生懸命反乱しますッ！
+EN I'll rebel as hard as I can!
+
+@ 018.250
+# wrestler (voiced), used 2x
+JP オレが入れば
+JP 鬼に金棒ってやつか？
+EN With me on board,
+EN it's an ogre with an iron club, huh?
+
+@ 018.258
+# wrestler (voiced), used 2x
+JP だって、かわいいコスチューム
+JP 買ってくれるって！
+EN 'Cause they said they'd buy
+EN me a cute costume!
+
+@ 018.266
+# wrestler (voiced), used 2x
+JP 私が加われば
+JP 正規軍なんて相手になりませんわ。
+EN With me on their side, the regulars
+EN won't stand a chance.
+
+@ 018.274
+# wrestler (voiced), used 2x
+JP 私にはこちらの方が
+JP 向いているようです…。
+EN This side seems to suit
+EN me better...
+
+@ 018.282
+# wrestler (voiced), used 2x
+JP これが正しいことなのか
+JP 私にもわかりませんが…。
+EN I don't know myself if
+EN this is the right thing, but...
+
+@ 018.290
+# wrestler (voiced), used 2x
+JP エヘヘッ！
+JP こっちで暴れてみたくてね！
+EN Ehehe!
+EN I wanted to raise some hell over
+EN here!
+
+@ 018.298
+# wrestler (voiced), used 2x
+JP いろんな経験がしてみたいんです。
+EN I want to try all kinds of
+EN experiences.
+
+@ 018.306
+# wrestler (voiced), used 2x
+JP 闘争あるところに真田ありッ！
+EN Wherever there's a fight,
+EN there's Sanada!
+
+@ 018.314
+# wrestler (voiced), used 2x
+JP ……反乱軍…入ってみた……。
+EN ......I tried joining... the Rebel
+EN Army......
+
+@ 018.322
+# wrestler (voiced), used 2x
+JP 私の加入で反乱軍の勝率は
+JP 30％上昇します。
+EN With me on board, the Rebel Army's
+EN chance of winning rises by 30%.
+
+@ 018.330
+# wrestler (voiced), used 2x
+JP たとえこの身が朽ちようとも…。
+EN Even if this body should wither
+EN away...
+
+@ 018.338
+# wrestler (voiced), used 2x
+JP ……誘われたら…断れない……。
+EN ......When they invite me... I can't
+EN say no......
+
+@ 018.346
+# wrestler (voiced), used 2x
+JP ボク反乱軍に入るって
+JP 決めたんだ！
+EN I've decided to join the Rebel Army!
+
+@ 018.354
+# wrestler (voiced), used 2x
+JP ハンラングンはうまいって
+JP 聞いたぞ！
+EN I heard the Rebel Army is tasty!
+
+@ 018.362
+# wrestler (voiced), used 2x
+JP これも仕事ですよね…？
+EN This is part of the job too...
+EN right?
+
+@ 018.370
+# wrestler (voiced), used 2x
+JP まー、そんな気分ちゅーことで。
+EN Eh, I'm just in that kinda mood.
+
+@ 018.378
+# wrestler (voiced), used 2x
+JP だって反乱軍って
+JP アダルトっぽくないですか？
+EN 'Cause isn't the Rebel Army
+EN kinda adult?
+
+@ 018.386
+# wrestler (voiced), used 2x
+JP ちーちゃん…。
+JP あたし間違ってないよね…？
+EN Chii...
+EN I'm not wrong, am I...?
+
+@ 018.394
+# wrestler (voiced), used 2x
+JP 悲劇のヒロインには
+JP なりませんよッ！
+EN I won't become some
+EN tragic heroine!
+
+@ 018.402
+# wrestler (voiced), used 2x
+JP 完璧なまでの反乱を
+JP ご覧にいれましょう…。
+EN Allow me to show you a rebellion
+EN of absolute perfection...
+
+@ 018.410
+# wrestler (voiced), used 2x
+JP あらら～。
+JP 反乱軍入っちゃいました～。
+EN Oh my~.
+EN I've joined the Rebel Army~.
+
+@ 018.418
+# wrestler (voiced), used 2x
+JP ムフフ～！
+JP こっちの方が楽しそう～。
+EN Mufufu~!
+EN This side looks like more fun~.
+
+@ 018.426
+# wrestler (voiced), used 2x
+JP 私が加わったら
+JP ただの反乱で済むと思うなよ！
+EN With me on board, don't think
+EN this'll
+EN stay just a rebellion!
+
+@ 018.434
+# wrestler (voiced), used 2x
+JP あたしの力が必要だってさ。
+JP いくらでも力貸してやるよ。
+EN They say they need my strength.
+EN I'll lend 'em all they want.
+
+@ 018.442
+# wrestler (voiced), used 2x
+JP あたしがいないと
+JP なんにもできやしないんだから…。
+JP 仕方ないねぇ。
+EN They can't do a thing
+EN without me...
+EN Oh, fine then.
+
+@ 018.450
+# wrestler (voiced), used 2x
+JP たとえ逆臣の誹りを
+JP 受けたとしても…。
+EN Even if I should be
+EN branded a traitor...
+
+@ 018.458
+# wrestler (voiced), used 2x
+JP くっはっはっはー！
+JP あたしは暴れられればいいんだよ！
+EN Kuhahahaha!
+EN As long as I get to raise hell, I'm
+EN happy!
+
+@ 018.474
+# wrestler (voiced)
+JP 環境を変えるのもいい経験だ。
+EN A change of scenery is a good
+EN experience too.
+
+@ 018.482
+# wrestler (voiced)
+JP 私、反乱軍に
+JP 入ってみようかなーって…。
+EN I thought maybe I'd try
+EN joining the Rebel Army...
+
+@ 018.490
+# wrestler (voiced)
+JP まぁ、私の力が
+JP 必要ってことじゃない？
+EN Well, I guess they need
+EN my strength, right?
+
+@ 018.498
+# wrestler (voiced)
+JP 私の判断は間違っていません！
+EN I know my judgment is right!
+
+@ 018.506
+# wrestler (voiced)
+JP 私の統率力が活かせそうです。
+EN I think I can put my leadership to
+EN use.
+
+@ 018.514
+# wrestler (voiced)
+JP 反乱軍に入った……。
+JP これも運命……。
+EN I joined the Rebel Army......
+EN This is fate too......
+
+@ 018.522
+# wrestler (voiced)
+JP わたし反乱軍に協力します。
+EN I'll help the Rebel Army.
+
+@ 018.530
+# wrestler (voiced)
+JP 光、反乱軍で燃え尽きます！
+EN Hikaru will burn out with
+EN the Rebel Army!
+
+@ 018.538
+# wrestler (voiced)
+JP 土下座までされたら
+JP 無下にはできませんわ。
+EN If they get down on their knees,
+EN I can hardly refuse them.
+
+@ 018.546
+# wrestler (voiced)
+JP あらら～。
+JP 反乱軍に入っちゃいました～。
+EN Oh my~.
+EN I've joined the Rebel Army~.
+
+@ 018.554
+# wrestler (voiced)
+JP ボクのパワーを活かすなら
+JP 反乱軍でしょ！
+EN If you wanna use my power,
+EN the Rebel Army's the place!
+
+@ 018.562
+# wrestler (voiced)
+JP 暴れまくるからな！
+JP 覚悟してなよッ！
+EN I'm gonna raise all kinds of hell!
+EN You'd better be ready!
+
+@ 018.570
+# wrestler (voiced)
+JP 私は秩序を乱している
+JP だけなのでしょうか…？
+EN Am I just disrupting
+EN order...?
+
+@ 018.578
+# wrestler (voiced)
+JP 私の力が必要にされるのなら
+JP どこだって！
+EN If my strength is needed,
+EN I'll go anywhere!
+
+@ 018.586
+# wrestler (voiced)
+JP 頭下げて頼まれたら
+JP 断れないでしょ？
+EN When they bow their heads and ask,
+EN how can I say no?
+
+@ 018.594
+# wrestler (voiced)
+JP 私のパワーを役立てるときが来た！
+EN The time has come to put my power to
+EN use!

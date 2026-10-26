@@ -1,0 +1,88 @@
+# Event script entry 090 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 090.88
+# wrestler (voiced), case 0, used 2x
+JP 社長、お呼びですか？
+EN You called for me, Boss?
+
+@ 090.122
+# President, case 0, used 2x
+JP 内容はアイドルの写真集と同じ
+JP 水着のヤツだ。
+EN It's a swimsuit one, just like
+EN an idol's photo book.
+
+@ 090.130
+# wrestler (voiced), case 0, used 2x
+JP はあ…。
+JP それは仕事ですか？
+EN I see... Is this work?
+
+@ 090.136
+# President, case 0, used 2x
+JP もちろんだ。
+EN Of course.
+
+@ 090.158
+# wrestler (voiced), case 0, used 2x
+JP 正直戸惑いの気持ちは大きいですが
+JP 仕事ならお受けします。
+EN To be honest, I'm quite bewildered,
+EN but if it's work, I'll accept.
+
+@ 090.164
+# President, case 0, used 2x
+JP そうか。
+JP 助かるよ。
+EN Great. That helps a lot.
+
+@ 090.256
+# other, case 0, used 4x
+JP お疲れ様。
+EN Good work.
+
+@ 090.263
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます。
+JP あんな感じで
+JP 良かったのでしょうか？
+EN Thank you. Was that... all right?
+
+@ 090.269
+# President, case 0, used 2x
+JP 十分さ。
+JP むしろ予想以上だよ。
+EN More than enough. Better than
+EN I expected, actually.
+
+@ 090.278
+# wrestler (voiced), case 0, used 2x
+JP そうですか…。
+JP ホッとしました。
+EN I see... What a relief.
+
+@ 090.284
+# President, case 0, used 2x
+JP ほら、こんなに魅力的に撮れてる。
+EN Look how attractive these came out.
+
+@ 090.292
+# wrestler (voiced), case 0, used 2x
+JP ……ハッ……。
+EN ......Ah......
+
+@ 090.306
+# wrestler (voiced), case 0, used 2x
+JP …いえ。
+JP 魅力的なのかどうか
+JP 自分ではわからなくて…。
+EN ...No. I just can't tell whether
+EN I'm attractive or not myself...

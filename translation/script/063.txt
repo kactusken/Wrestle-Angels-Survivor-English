@@ -1,0 +1,120 @@
+# Event script entry 063 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 063.88
+# wrestler (voiced), case 0, used 2x
+JP なーに、社長？
+EN What is it, Boss?
+
+@ 063.108
+# President, case 0, used 2x
+JP そう、写真集。
+EN Yeah, a photo book.
+
+@ 063.116
+# wrestler (voiced), case 0, used 2x
+JP 裸のエッチなヤツ？
+EN A naughty one, naked?
+
+@ 063.122
+# President, case 0, used 2x
+JP いや、水着。
+JP エッチかエッチでないかは
+JP 微妙だが…。
+EN No, swimsuits. Whether that counts
+EN as naughty is debatable...
+
+@ 063.130
+# wrestler (voiced), case 0, used 2x
+JP ふーん、水着か。
+JP ならやってもいいかな。
+EN Hmm, swimsuits, huh?
+EN Then I guess I'll do it.
+
+@ 063.136
+# President, case 0, used 4x
+JP ＯＫか？
+EN Okay?
+
+@ 063.144
+# wrestler (voiced), case 0, used 2x
+JP うん！
+JP だって水着でいろんなポーズとるの
+JP だったら、いつもやってるし。
+EN Yup! Striking all kinds of poses
+EN in a swimsuit is what I do every day
+EN anyway.
+
+@ 063.150
+# President, case 0, used 2x
+JP まあ、それはそうなんだが…。
+EN Well, that's true, but...
+
+@ 063.247
+# wrestler (voiced), case 0, used 2x
+JP あー、楽しかったー！
+EN Aah, that was fun!
+
+@ 063.253
+# President, case 0, used 2x
+JP そうか。
+JP それは良かった。
+EN I see. Glad to hear it.
+
+@ 063.261
+# wrestler (voiced), case 0, used 2x
+JP …ね？
+JP よく撮れてる？
+EN ...Well? Did they come out good?
+
+@ 063.267
+# President, case 0, used 2x
+JP ああ、かわいいよ。
+EN Yeah, you look cute.
+
+@ 063.275
+# wrestler (voiced), case 0, used 2x
+JP ……に、にゃあ……。
+EN ...N-nyaa...
+
+@ 063.281
+# President, case 0, used 20x
+JP どうした？
+EN What's wrong?
+
+@ 063.289
+# wrestler (voiced), case 0, used 2x
+JP 正面からかわいいとか言われると
+JP 照れるかも～…。
+EN When you call me cute to my face
+EN like that, it's kinda
+EN embarrassing...
+
+@ 063.295
+# President, case 0, used 2x
+JP よく言われてるじゃないか？
+EN Don't people say that to you a lot?
+
+@ 063.303
+# wrestler (voiced), case 0, used 2x
+JP でも、社長から言われると
+JP 照れるの～！
+EN But when it's you saying it, Boss,
+EN it's embarrassing!
+
+@ 063.309
+# President, case 0, used 2x
+JP そういうもんか？
+EN Is that how it works?
+
+@ 063.317
+# wrestler (voiced), case 0, used 2x
+JP そういうもんなの～ッ！
+EN That's how it works, nya!

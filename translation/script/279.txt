@@ -1,0 +1,528 @@
+# Event script entry 279 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 279.3
+# President
+JP 今後ベビーフェイスとして
+JP 活躍してもらいたいんだが…。
+EN From now on, I'd like you to work
+EN as a babyface...
+
+@ 279.16
+# wrestler (voiced), case 0, used 2x
+JP はぁ～い！
+JP がんばります～！
+EN Okaaay!
+EN I'll do my best!
+
+@ 279.35
+# wrestler (voiced), case 0, used 2x
+JP そういうのは任せてください！
+JP エヘヘッ！
+EN Leave that kind of thing to me!
+EN Ehehe!
+
+@ 279.54
+# wrestler (voiced), case 0, used 2x
+JP まぁいいですけど…。
+JP 私そういうキャラですか？
+EN Well, I don't mind...
+EN But is that really my character?
+
+@ 279.73
+# wrestler (voiced), case 0, used 2x
+JP ええ。
+JP もちろん任せてください！
+JP ご期待に沿えるようにがんばります。
+EN Yes. Of course, leave it to me!
+EN I'll do my best to live up to
+EN your expectations.
+
+@ 279.82
+# wrestler (voiced), case 1, used 2x
+JP そ、それは私でなくては
+JP いけないのでしょうか？
+EN D-does it have to be me?
+
+@ 279.92
+# wrestler (voiced), case 0, used 2x
+JP わーい！
+JP 正義の味方！
+JP 私にぴったりーッ！
+EN Yaaay! A champion of justice!
+EN That's perfect for me!
+
+@ 279.111
+# wrestler (voiced), case 0, used 2x
+JP …まあ、やってみます。
+EN ...Well, I'll give it a try.
+
+@ 279.130
+# wrestler (voiced), case 0, used 2x
+JP はいッ！
+JP あたし、がんばります！
+EN Yes!
+EN I'll do my best!
+
+@ 279.149
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ。
+JP やっぱりあたしは
+JP アイドルレスラーだよね。
+EN Ehehe.
+EN I'm an idol wrestler at heart,
+EN after all.
+
+@ 279.158
+# wrestler (voiced), case 1, used 2x
+JP 社長！
+JP 言ってることがよくわかんなーい！
+EN Boss!
+EN I don't get what you're saying!
+
+@ 279.168
+# wrestler (voiced), case 0, used 2x
+JP ずっとやりたかったんです！
+JP わーい、わーい！
+EN I've always wanted to do that!
+EN Yay, yay!
+
+@ 279.206
+# wrestler (voiced), case 0, used 2x
+JP アイドルレスラーには
+JP なれないけどね。
+EN Not that I'll ever be
+EN an idol wrestler.
+
+@ 279.225
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP 待ってましたーッ！
+JP 任せといて！
+EN Okaaay!
+EN I've been waiting for this!
+EN Leave it to me!
+
+@ 279.244
+# wrestler (voiced), case 0, used 2x
+JP …正義の味方？
+JP かっこいいじゃない！
+JP やるやるッ！
+EN ...A champion of justice?
+EN That's so cool!
+EN I'm in, I'm in!
+
+@ 279.263
+# wrestler (voiced), case 0, used 2x
+JP わかりました。
+JP やってみます！
+JP まぁ普段通りですけどね。
+EN Understood.
+EN I'll give it a try!
+EN Not that it's any different.
+
+@ 279.282
+# wrestler (voiced), case 0, used 2x
+JP 私の新しい魅力に
+JP ファンも大喜びですわね！
+EN The fans will be delighted by
+EN my new charms!
+
+@ 279.301
+# wrestler (voiced), case 0, used 2x
+JP …本当？うれしいなぁ。
+JP やっぱりアイドルは
+JP ベビーフェイスでしょ！
+EN ...Really? I'm so happy!
+EN An idol should be a babyface,
+EN after all!
+
+@ 279.339
+# wrestler (voiced), case 0, used 2x
+JP なんだか難しそうだな…。
+JP まあ、がんばるぜ！
+EN Sounds kinda hard...
+EN Well, I'll do my best!
+
+@ 279.358
+# wrestler (voiced), case 0, used 2x
+JP 正義の味方…？
+JP カッコいい！
+JP いいよ！
+EN A champion of justice...?
+EN Cool!
+EN Sure!
+
+@ 279.377
+# wrestler (voiced), case 0, used 2x
+JP …いいわよ。
+JP やるからには完璧に演じるわ。
+EN ...Fine. If I'm doing it,
+EN I'll play the part perfectly.
+
+@ 279.396
+# wrestler (voiced), case 0, used 2x
+JP はい。
+JP がんばります！
+EN Yes.
+EN I'll do my best!
+
+@ 279.415
+# wrestler (voiced), case 0, used 2x
+JP …仕事ならやるわよ。
+EN ...If it's work, I'll do it.
+
+@ 279.434
+# wrestler (voiced), case 0, used 2x
+JP やるやるッ！
+JP それってすごく目立てそう！
+EN I'm in, I'm in!
+EN I'll really stand out like that!
+
+@ 279.453
+# wrestler (voiced), case 0, used 2x
+JP ボクずっと憧れていたんです！
+JP 一生懸命がんばります！
+EN I've always looked up to that!
+EN I'll give it everything I've got!
+
+@ 279.472
+# wrestler (voiced), case 0, used 2x
+JP ハハッ！
+JP おもしれー！
+JP かわいいキャラに路線変更かよ？
+EN Haha! That's hilarious!
+EN Switching me to a cute character?
+
+@ 279.491
+# wrestler (voiced), case 0, used 2x
+JP 正義の味方なんてカッコいい！
+JP がんばっちゃうね！
+EN A champion of justice, how cool!
+EN I'll do my best!
+
+@ 279.510
+# wrestler (voiced), case 0, used 2x
+JP フッ…。
+JP ベビーだなんて
+JP 少し照れますわね。
+EN Heh...
+EN A babyface... How embarrassing.
+
+@ 279.529
+# wrestler (voiced), case 0, used 2x
+JP 私を選ぶ意図が不明瞭ですが…。
+JP わかりました。
+EN Your reason for choosing me is
+EN unclear, but... Understood.
+
+@ 279.548
+# wrestler (voiced), case 0, used 2x
+JP なんだか難しそうですが
+JP がんばりますね。
+EN It sounds kind of hard,
+EN but I'll do my best.
+
+@ 279.567
+# wrestler (voiced), case 0, used 2x
+JP しょうがないからやってあげる！
+EN Oh, fine.
+EN I'll do it, just for you!
+
+@ 279.586
+# wrestler (voiced), case 0, used 2x
+JP いいですよ。
+JP あたしはスタイルには
+JP こだわりませんから。
+EN Sure. I'm not particular
+EN about my style.
+
+@ 279.605
+# wrestler (voiced), case 0, used 2x
+JP 憧れのヒーロー役ですか！？
+JP 腕がなりますね！
+EN The hero role I've always dreamed
+EN of?!
+EN I'm itching to get started!
+
+@ 279.624
+# wrestler (voiced), case 0, used 2x
+JP ……ベビーフェイス……？
+JP ……別にいいけど……。
+EN ......Babyface......?
+EN ......Fine, I guess......
+
+@ 279.643
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP ベビーフェイスだろうと
+JP きっちりこなしてみせます。
+EN ...Yes. Babyface or not,
+EN I'll handle it properly.
+
+@ 279.662
+# wrestler (voiced), case 0, used 2x
+JP フッ…。
+JP 正義には赤いバラがよく似合う。
+EN Heh...
+EN A red rose suits justice well.
+
+@ 279.681
+# wrestler (voiced), case 0, used 2x
+JP ……正義は…か、勝ちますよね……？
+EN ......Justice... w-wins,
+EN right......?
+
+@ 279.700
+# wrestler (voiced), case 0, used 2x
+JP やったー！
+JP 憧れの正義の味方だ！
+EN Yaaay!
+EN The champion of justice I always
+EN dreamed of being!
+
+@ 279.719
+# wrestler (voiced), case 0, used 2x
+JP わかった！
+JP 正義の味方だな！
+EN Got it!
+EN A champion of justice!
+
+@ 279.738
+# wrestler (voiced), case 0, used 2x
+JP そうですね。
+JP そういった仕事は
+JP やりがいがあります。
+EN Indeed.
+EN That kind of work is rewarding.
+
+@ 279.757
+# wrestler (voiced), case 0, used 2x
+JP ま、ええんちゃう？
+JP ぼちぼちがんばるわ。
+EN Eh, sounds fine, don't it?
+EN I'll do my best, more or less.
+
+@ 279.776
+# wrestler (voiced), case 0, used 2x
+JP む～！
+JP 難しそうだけど
+JP やってみます！
+EN Mmm!
+EN It sounds hard, but I'll try!
+
+@ 279.795
+# wrestler (voiced), case 0, used 2x
+JP わかりました！
+JP やらせていただきます！
+EN Understood!
+EN I'll gladly do it!
+
+@ 279.814
+# wrestler (voiced), case 0, used 2x
+JP …はいッ！
+JP 悪と戦い敵を倒す！
+JP これぞ私の望んでいたものです！
+EN ...Yes!
+EN Fight evil, defeat the enemy!
+EN This is exactly what I wanted!
+
+@ 279.833
+# wrestler (voiced), case 0, used 2x
+JP それが仕事でしたら…。
+JP 私はそれを完璧に演じる
+JP だけですから…。
+EN If that's the job...
+EN I'll simply play it perfectly.
+
+@ 279.852
+# wrestler (voiced), case 0, used 2x
+JP まあ、わかりました。
+JP 努力します～。
+EN Well, understood.
+EN I'll make the effort.
+
+@ 279.871
+# wrestler (voiced), case 0, used 2x
+JP …おお！
+JP 正義の味方かぁ…。
+JP ムフフッ、がんばるね。
+EN ...Ooh! A champion of justice...
+EN Mufufu, I'll do my best.
+
+@ 279.890
+# wrestler (voiced), case 0, used 2x
+JP いいね、いいねぇ！
+JP 楽しくなってきそうだよ！
+JP ベビーフェイスね、ふはははは！
+EN Nice, nice! This is gonna be fun!
+EN A babyface, huh? Fuhahahaha!
+
+@ 279.909
+# wrestler (voiced), case 0, used 2x
+JP くっくく…いいね、いいねぇ！
+JP 楽しくなってきそうだよ！
+JP ベビーね、くくく…ふははは！
+EN Heh-heh... Nice, nice! This is
+EN gonna be fun! A babyface, huh?
+EN Heh-heh... Fuhahaha!
+
+@ 279.928
+# wrestler (voiced), case 0, used 2x
+JP あたしが？何かの冗談かい？
+JP まあ、やれって言うなら
+JP 考えるけどねぇ。
+EN Me? Is this some kind of joke?
+EN Well, if you say so,
+EN I'll think about it.
+
+@ 279.947
+# wrestler (voiced), case 0, used 2x
+JP できなくもないが…。
+EN I suppose I could...
+
+@ 279.966
+# wrestler (voiced), case 0, used 2x
+JP ヘッヘッヘ！
+JP 何企んでるのか知らねえが…。
+JP まあ、やってやるよ！
+EN Heh-heh-heh! Dunno what you're
+EN scheming, but...
+EN Fine, I'll do it!
+
+@ 279.1006
+# wrestler (voiced), case 0
+JP いいだろう。
+JP 手は抜かないぞ。
+EN Very well.
+EN I won't hold back.
+
+@ 279.1044
+# wrestler (voiced), case 0
+JP わかったわ。
+JP エレガントにきめるわよ。
+EN Got it.
+EN I'll do it with elegance.
+
+@ 279.1063
+# wrestler (voiced), case 0
+JP やったーッ！
+JP 私そういうのずっと憧れてたから！
+EN Yaaay!
+EN I've always dreamed of that!
+
+@ 279.1082
+# wrestler (voiced), case 0
+JP 了解です。
+JP 面白そうな任務ですね。
+EN Roger.
+EN Sounds like an interesting mission.
+
+@ 279.1101
+# wrestler (voiced), case 0
+JP ベビーフェイスやってみる……。
+EN I'll try being a babyface......
+
+@ 279.1120
+# wrestler (voiced), case 0
+JP …正義の味方？
+JP なんだか素敵ですね！
+EN ...A champion of justice?
+EN That sounds wonderful!
+
+@ 279.1129
+# wrestler (voiced), case 1
+JP え～と…。
+JP ごめんなさい…。
+JP よく…わかりません…。
+EN Umm...
+EN I'm sorry...
+EN I don't... really understand...
+
+@ 279.1139
+# wrestler (voiced), case 0
+JP もちろんやります！
+JP 光、もともと正義の味方だから！
+EN Of course I'll do it!
+EN Hikaru's always been a champion
+EN of justice!
+
+@ 279.1158
+# wrestler (voiced), case 0
+JP …あら？
+JP わたくしはもともと…。
+EN ...Oh my?
+EN But I've always been...
+
+@ 279.1177
+# wrestler (voiced), case 0
+JP わたしそんなに童顔ですか～？
+EN Do I really have that much
+EN of a baby face?
+
+@ 279.1182
+# wrestler (voiced), case 0
+JP …え？
+JP レスリングスタイル？
+JP あらら、やってみます～。
+EN ...Huh? A wrestling style?
+EN Oh my, I'll give it a try.
+
+@ 279.1201
+# wrestler (voiced), case 0
+JP ハハッ！
+JP やるやる！
+JP まかせてよ！
+EN Haha!
+EN I'm in, I'm in!
+EN Leave it to me!
+
+@ 279.1220
+# wrestler (voiced), case 0
+JP うおッ！
+JP アタシが正義の味方かよ！
+JP オッケー、オッケー！
+EN Whoa!
+EN Me, a champion of justice?!
+EN Okay, okay!
+
+@ 279.1239
+# wrestler (voiced), case 0
+JP 興行的には面白いかも
+JP しれませんね。
+JP やってみます。
+EN It might be good for business.
+EN I'll give it a try.
+
+@ 279.1258
+# wrestler (voiced), case 0
+JP わかりました。
+JP 全力でいきます！
+EN Understood.
+EN I'll give it everything!
+
+@ 279.1277
+# wrestler (voiced), case 0
+JP はーい！
+JP つまりヒロインですね！
+EN Okaaay!
+EN So, the heroine!
+
+@ 279.1286
+# wrestler (voiced), case 1
+JP えーッ！
+JP そんなのできませんよー。
+EN Whaaat?!
+EN I can't do that!
+
+@ 279.1296
+# wrestler (voiced), case 0
+JP やれと言われればやります。
+EN If you tell me to do it, I will.

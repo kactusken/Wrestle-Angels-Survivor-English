@@ -1,0 +1,1225 @@
+# Event script entry 321 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 396 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 321.0
+# other
+JP 素早いフットワークからの
+JP {name:2}！
+JP これでリズムをつかむかー！？
+EN Quick footwork sets up
+EN the {name:2}!
+EN Is she finding her rhythm?!
+
+@ 321.1
+# other
+JP 大きく抱え上げて
+JP {name:2}
+JP 背中から叩きつけたーッ！
+EN She hoists her up high!
+EN {name:2}!
+EN Slammed down flat on her back!
+
+@ 321.2
+# other
+JP 抱え込んで素早く投げたー！
+JP {name:2}！
+EN Wrapped up and thrown in a flash!
+EN {name:2}!
+
+@ 321.3
+# other
+JP 相手を高く抱え上げて後方へ！
+JP 滞空時間の長い
+JP {name:2}！
+EN Lifted way up and over backwards!
+EN What hang time on that
+EN {name:2}!
+
+@ 321.4
+# other
+JP ひねりの効いた
+JP {name:2}！
+JP 後頭部への衝撃は計測不能だぁー！
+EN What a twisting
+EN {name:2}!
+EN Off-the-charts impact to the head!
+
+@ 321.5
+# other
+JP 腕を抱えて綺麗なブリッジー！
+JP {name:2}！
+JP リングに輝く北斗七星だッ！
+EN Arm hooked, and a beautiful bridge!
+EN {name:2}!
+EN The Big Dipper shines in the ring!
+
+@ 321.6
+# other
+JP 首に巻き付くような豪快な
+JP {name:2}一本ッ！
+JP 意識は大丈夫かぁ！？
+EN A huge, neck-wrapping
+EN {name:2}!
+EN Is she still conscious?!
+
+@ 321.7
+# other
+JP 足と首を抱えてそのまま後方へ！
+JP {name:2}炸裂ぅ！
+JP これは決定的な一撃になるかぁ！？
+EN Leg and neck hooked, and over!
+EN {name:2}!
+EN Could this be the decisive blow?!
+
+@ 321.8
+# other
+JP 強引にぶっこ抜いたぁ！
+JP {name:2}！
+JP 相手の戦意を奪う驚異の一撃だぁ！
+EN She muscles her right up!
+EN {name:2}!
+EN A stunning blow to break her spirit!
+
+@ 321.9
+# other
+JP バックから腕を固めて投げきったぁ！
+JP {name:2}！
+JP リングは弱肉強食の様相だー！
+EN Arms locked from behind, and over!
+EN {name:2}!
+EN Survival of the fittest in there!
+
+@ 321.10
+# other
+JP 体を抱え上げてそのまま急降下！
+JP 危険度トリブルＡの自由落下！
+JP {name:2}炸裂だッ！
+EN Lifted up, and down like a rock!
+EN A triple-A danger rated free fall!
+EN {name:2}!
+
+@ 321.11
+# other
+JP 最終兵器{name:2}！
+JP リングにサイクロンが発生したぁ！
+JP 避難警報発令も時間の問題かぁ！？
+EN The ultimate weapon!
+EN {name:2}!
+EN A cyclone hits! Evacuate the arena!
+
+@ 321.12
+# other
+JP 腕がガッチリと入った！
+JP {name:2}で
+JP スタミナを奪う作戦か！？
+EN Locked in tight! Is she using the
+EN {name:2}
+EN to sap her stamina?!
+
+@ 321.13
+# other
+JP {name:2}に入った！
+JP 腕をギッチリと絞り上げる！
+JP 関節がきしんでいるぞー！
+EN Into the {name:2}!
+EN She's cranking on that arm!
+EN The joint is creaking!
+
+@ 321.14
+# other
+JP 強烈にしぼり上げる
+JP {name:2}に入った！
+JP 苦しい表情で必死にたえる！
+EN She's in a punishing
+EN {name:2}!
+EN She grimaces, fighting to hold on!
+
+@ 321.15
+# other
+JP {name:2}が
+JP ガッチリと決まったー！
+JP まるで大蛇が絞め上げているようだ！
+EN The {name:2}
+EN is locked in tight!
+EN Like a python crushing its prey!
+
+@ 321.16
+# other
+JP ドラゴンが脚に絡みついた！
+JP 膝を破壊する竜の一撃！
+JP {name:2}炸裂！
+EN The dragon coils around the leg!
+EN A knee-wrecking dragon strike!
+EN {name:2}!
+
+@ 321.17
+# other
+JP {name:2}に入った！
+JP アキレス腱をひねり上げる！
+JP 脱出できるか！？
+EN Into the {name:2}!
+EN She's twisting that Achilles tendon!
+EN Can she escape?!
+
+@ 321.18
+# other
+JP {name:2}！
+JP ここで{name:2}だ！
+JP 複数の関節が悲鳴を上げているッ！
+EN {name:2}!
+EN It's the {name:2}!
+EN Every joint is screaming in pain!
+
+@ 321.19
+# other
+JP 足を抱えてステップオーバー！
+JP {name:2}だ！
+JP サソリの猛毒にたえられるかー！？
+EN Grabs the legs and steps over!
+EN {name:2}!
+EN Can she take the scorpion's venom?!
+
+@ 321.20
+# other
+JP まさに電光石火の早業ぁ！
+JP {name:2}
+JP このままでは腕が折れてしまう！
+EN Lightning fast!
+EN {name:2}!
+EN That arm's about to snap!
+
+@ 321.21
+# other
+JP 竜の牙が獲物の首を捕らえたぁ！
+JP {name:2}！
+JP このまま落ちてしまうのかー！？
+EN The dragon's fangs grip the neck!
+EN {name:2}!
+EN Is she going to pass out?!
+
+@ 321.22
+# other
+JP 足と首を同時に極めたぁ！
+JP {name:2}だッ！
+JP これはもう脱出不可能かー！？
+EN Leg and neck locked at once!
+EN {name:2}!
+EN Is there any escape from this?!
+
+@ 321.23
+# other
+JP 究極のサブミッション！
+JP {name:2}だッ！
+JP 体が弓なりに軋んでいくーッ！
+EN The ultimate submission!
+EN {name:2}!
+EN Her body's bending like a bow!
+
+@ 321.24
+# other
+JP ロープに振って戻ったところに
+JP {name:2}！
+JP 相手を吹き飛ばす肩爆弾だ！
+EN Off the ropes, and on the rebound...
+EN {name:2}!
+EN A shoulder bomb sends her flying!
+
+@ 321.25
+# other
+JP {name:2}！
+JP さらに{name:2}！
+JP 頭突きの連続攻撃だぁ！
+EN {name:2}!
+EN Another {name:2}!
+EN Headbutt after headbutt!
+
+@ 321.26
+# other
+JP ロープに振って戻ったところに
+JP {name:2}！
+JP 戦慄の首折り弾直撃ーッ！
+EN Off the ropes, and on the rebound...
+EN {name:2}!
+EN A brutal neck-breaker of a hit!
+
+@ 321.27
+# other
+JP カウンターで相手を捕まえて
+JP {name:2}！
+JP 巨大なゴミを粉砕するようだーッ！
+EN She catches her on the counter!
+EN {name:2}!
+EN Like crushing a giant pile of junk!
+
+@ 321.28
+# other
+JP 首を脇に抱えてそのまま後方へ！
+JP {name:2}！
+JP デンジャラスな首折り攻撃ー！
+EN Headlock, and straight back!
+EN {name:2}!
+EN A dangerous neck-breaking attack!
+
+@ 321.29
+# other
+JP ダブルアームの体勢から
+JP {name:2}！
+JP ここで炸裂だーッ！
+EN From the double-arm position...
+EN {name:2}!
+EN It connects!
+
+@ 321.30
+# other
+JP 相手を抱え込んでの
+JP {name:2}！
+JP 脳天杭打ちだー！
+EN She wraps her up for the
+EN {name:2}!
+EN Spiked right on the head!
+
+@ 321.31
+# other
+JP 足を豪快に刈って浴びせ倒したッ！
+JP {name:2}炸裂！
+JP 全身を強烈に打ちつけたーッ！
+EN A big leg sweep takes her down!
+EN {name:2}!
+EN She slammed her whole body into it!
+
+@ 321.32
+# other
+JP 肩の上に担ぎ上げて急降下！
+JP {name:2}爆発！
+JP このまま死の谷に一直線かー！？
+EN Up on the shoulders, and down!
+EN {name:2}!
+EN Straight into Death Valley?!
+
+@ 321.33
+# other
+JP 反動を利用しての恐怖の一撃！
+JP {name:2}！
+JP ハイスピードのパワー殺法だッ！
+EN Using the rebound for a scary blow!
+EN {name:2}!
+EN High-speed power wrestling!
+
+@ 321.34
+# other
+JP 上空高く振り上げて叩き落としたッ！
+JP {name:2}！！
+JP ファイヤァァァ！！
+EN Swung up high and smashed down!
+EN {name:2}!!
+EN FIIIRE!!
+
+@ 321.35
+# other
+JP 高ーく担ぎ上げて背負い落としたー！
+JP {name:2}炸裂ーッ！
+JP 急角度の人間雪崩だーッ！
+EN Hoisted way up and dropped hard!
+EN {name:2}!
+EN A steep-angle human avalanche!
+
+@ 321.36
+# other
+JP チョップ、チョップ！
+JP {name:2}の連弾！
+JP 乾いた音が会場に響き渡る！
+EN Chop! Chop!
+EN Barrage of {name:2}!
+EN The crack echoes through the arena!
+
+@ 321.37
+# other
+JP エルボー、エルボー、エルボォォ！
+JP {name:2}！
+JP 強烈なヒジが突き刺さったぁ！
+EN Elbow, elbow, ELBOOOW!
+EN {name:2}!
+EN That elbow really dug in!
+
+@ 321.38
+# other
+JP 突き上げるような強烈な
+JP {name:2}！！
+JP 左右の連弾が顔面を捕らえたぁ！
+EN A rising, vicious
+EN {name:2}!!
+EN Left, right, right in the face!
+
+@ 321.39
+# other
+JP ロープに振って戻ったところに
+JP 豪快な{name:2}！
+JP 凄まじい威力の膝爆弾だぁ！
+EN Off the ropes, and on the rebound...
+EN a huge {name:2}!
+EN A knee bomb with incredible power!
+
+@ 321.40
+# other
+JP 相手をつかんで顔面蹴りーッ！
+JP 容赦ない{name:2}の
+JP 雨あられーッ！
+EN She grabs her and kicks her face!
+EN A merciless rain of
+EN {name:2}!
+
+@ 321.41
+# other
+JP ボディへの連続の膝攻撃！
+JP {name:2}で
+JP ボディを串刺しだーッ！
+EN Knee after knee to the body!
+EN The {name:2}
+EN skewers her midsection!
+
+@ 321.42
+# other
+JP 相手に背を向けて意表をついた
+JP {name:2}だッ！
+JP 奇襲攻撃が決まったーッ！
+EN She turns her back for a surprise
+EN {name:2}!
+EN The sneak attack lands!
+
+@ 321.43
+# other
+JP ローキックでバランスを崩す！
+JP そして、伝家の宝刀！
+JP {name:2}だーッ！
+EN A low kick to break her balance!
+EN And now, her trademark weapon!
+EN {name:2}!
+
+@ 321.44
+# other
+JP 相手の膝を利用して駆け上がる！
+JP 出たーーッ！
+JP {name:2}！
+EN She runs right up her knee!
+EN There it is!
+EN {name:2}!
+
+@ 321.45
+# other
+JP {name:2}一閃！
+JP まるで日本刀のような
+JP 鋭い切れ味だーッ！
+EN A flashing {name:2}!
+EN Sharp as a katana!
+
+@ 321.46
+# other
+JP 下半身に意識を向けさせてからの
+JP {name:2}がヒット！
+JP これは脳が揺れているーッ！
+EN Draws her attention down low...
+EN {name:2} hits!
+EN Her brain is rattled!
+
+@ 321.47
+# other
+JP ロー、ミドル、ハイ！
+JP 左右のキックがリズム良く入ったぁ！
+JP {name:2}だぁ！
+EN Low, middle, high!
+EN Left and right, kicks in rhythm!
+EN {name:2}!
+
+@ 321.48
+# other
+JP ロープに振って戻ったところに
+JP {name:2}！
+JP クリーンヒットーッ！
+EN Off the ropes, and on the rebound...
+EN {name:2}!
+EN A clean hit!
+
+@ 321.49
+# other
+JP 鋭い切れ味の
+JP {name:2}がヒット！
+JP 遠心力の効いた攻撃だぁ！
+EN A razor-sharp
+EN {name:2} lands!
+EN That's got real centrifugal force!
+
+@ 321.50
+# other
+JP ロープの反動を利用した
+JP {name:2}！
+JP 人間断頭台が首を直撃ぃー！
+EN Using the ropes' rebound...
+EN {name:2}!
+EN The human guillotine hits the neck!
+
+@ 321.51
+# other
+JP ロープに振って戻ったところに
+JP {name:2}炸裂ー！
+JP 首に狙いを絞ったかー！？
+EN Off the ropes, and on the rebound...
+EN {name:2}!
+EN Is she targeting the neck?!
+
+@ 321.52
+# other
+JP ロープに振って戻ったところに
+JP 全体重をかけた強烈な
+JP {name:2}！
+EN Off the ropes, and on the rebound...
+EN a vicious, full-weight
+EN {name:2}!
+
+@ 321.53
+# other
+JP コーナーから狙いを付けて急降下ー！
+JP {name:2}直撃ー！
+JP ロックオンは完璧だー！
+EN Taking aim from the corner... dive!
+EN {name:2}!
+EN A perfect lock-on!
+
+@ 321.54
+# other
+JP 勢いを付けて顔面を叩きつけたー！
+JP {name:2}！
+JP 顔が変形していないか心配だぁ！
+EN Face slammed down with momentum!
+EN {name:2}!
+EN Is her face still in one piece?!
+
+@ 321.55
+# other
+JP まさに電光石火！
+JP {name:2}！
+JP 目にも止まらぬスピードで炸裂！
+EN Lightning fast!
+EN {name:2}!
+EN Too fast for the eye to follow!
+
+@ 321.56
+# other
+JP ロープに振って戻ったところに
+JP 強烈な{name:2}！
+JP 跳躍力を活かした一撃が入ったーッ！
+EN Off the ropes, and on the rebound...
+EN a vicious {name:2}!
+EN What a leap behind that one!
+
+@ 321.57
+# other
+JP コーナーポストから飛んだー！
+JP 自由落下{name:2}！
+JP これは堪らなーーいッ！
+EN She flies off the top turnbuckle!
+EN Free fall {name:2}!
+EN That's got to hurt!
+
+@ 321.58
+# other
+JP リングに妖精が降臨したようだー！
+JP {name:2}！！
+JP 優雅に舞い、華麗に決まったーッ！
+EN It's like a fairy descending!
+EN {name:2}!!
+EN Graceful flight, perfect landing!
+
+@ 321.59
+# other
+JP コーナーポストからのビッグバンッ！
+JP {name:2}炸裂ー！
+JP 戦いの流星群が降臨だーッ！
+EN A big bang from the top turnbuckle!
+EN {name:2}!
+EN A meteor shower of battle!
+
+@ 321.60
+# other
+JP バックステップで間合いをとる。
+JP 相手の出方をうかがっているのか？
+EN She steps back to make some space.
+EN Is she reading her opponent?
+
+@ 321.61
+# other
+JP ガッチリと組み合ってリング中央へ。
+JP ここからどういった展開になるか？
+EN They lock up in the center.
+EN Where will this go from here?
+
+@ 321.62
+# other
+JP うまく丸め込んだ！
+JP {name:2}！
+JP これは一瞬の隙をついたーッ！
+EN A slick roll-up!
+EN {name:2}!
+EN She caught her in a split second!
+
+@ 321.63
+# other
+JP 両腕を捕らえて抑え込んだ！
+JP {name:2}！
+JP 逆転か、これで逆転か！？
+EN Both arms trapped, and the pin!
+EN {name:2}!
+EN A reversal?! Is this the comeback?!
+
+@ 321.64
+# other
+JP 両足で胴を挟んで丸め込んだ！
+JP {name:2}！
+JP これで決まるのかー！？
+EN Legs around the waist, roll-up!
+EN {name:2}!
+EN Is this the end?!
+
+@ 321.65
+# other
+JP 腕をとって回り込んだ！
+JP {name:2}！
+JP ルチャの奥義をここで出してきたー！
+EN She takes the arm and spins around!
+EN {name:2}!
+EN A secret lucha technique!
+
+@ 321.66
+# other
+JP 観客席のイスを使った
+JP 強烈な{name:2}だ！
+JP 首、そして頭へのイスの嵐だーッ！
+EN She's grabbed a chair from ringside!
+EN A brutal {name:2}!
+EN A storm of chair shots to the head!
+
+@ 321.67
+# other
+JP これは厳しいー！
+JP {name:2}だーッ！
+JP 鈍い金属音が聞こえてきたぁ！
+EN That's got to hurt!
+EN {name:2}!
+EN Hear that dull clang of metal!
+
+@ 321.68
+# other
+JP レフェリーのブラインドを使った
+JP 巧みな{name:2}だ！
+JP これには会場からもブーイングだ！
+EN Behind the referee's back...
+EN a crafty {name:2}!
+EN The crowd is booing that one!
+
+@ 321.69
+# other
+JP {name:2}！
+EN {name:2}!
+
+@ 321.70
+# other
+JP ロープに振って戻ったところに
+JP {name:2}！
+JP タイミングもピッタリだーッ！
+EN Off the ropes, and on the rebound...
+EN {name:2}!
+EN Perfect timing!
+
+@ 321.71
+# other
+JP ロープに振って戻ったところに
+JP {name:2}！
+JP まさにサンドイッチ状態だーッ！
+EN Off the ropes, and on the rebound...
+EN {name:2}!
+EN She's caught in a sandwich!
+
+@ 321.72
+# other
+JP パイルドライバーの体勢から
+JP さらに足を掴んで重力を加速！
+JP {name:2}炸裂！
+EN In piledriver position...
+EN she grabs the legs to add gravity!
+EN {name:2}!
+
+@ 321.73
+# other
+JP 相手を抱え上げた状態から
+JP 頭をつかんで叩き落とした！
+JP {name:2}！
+EN Holding her up high, she grabs
+EN the head and drives her down!
+EN {name:2}!
+
+@ 321.74
+# other
+JP コーナーポストからのラリアートッ！
+JP 超過激{name:2}！
+JP 見事なコンビネーション！
+EN A lariat off the top turnbuckle!
+EN Extreme {name:2}!
+EN What a combination!
+
+@ 321.75
+# other
+JP そのまま押さえ込む！
+EN She pins her down!
+
+@ 321.76
+# other
+JP {name:1}が
+JP {name:2}に入った！
+EN {name:1} is caught in the
+EN {name:2}!
+
+@ 321.77
+# other
+JP {name:3}の体勢！？
+JP いや投げられない、力比べだ！
+JP {name:2}で返した！
+EN Set for {name:3}?!
+EN No, no throw - a test of strength!
+EN Countered! {name:2}!
+
+@ 321.78
+# other
+JP {name:3}に入る！？
+JP いや、体勢が崩れた！
+JP {name:2}で返した！
+EN Going for {name:3}?!
+EN No, she loses her footing!
+EN Countered! {name:2}!
+
+@ 321.79
+# other
+JP {name:3}の体勢！
+JP しかし、渾身の力で抱えあげた！
+JP {name:2}で返した！
+EN Setting up {name:3}!
+EN But she lifts with all her might!
+EN Countered! {name:2}!
+
+@ 321.80
+# other
+JP {name:3}を放った！
+JP いや、うまく腕をたぐった！
+JP 逆転の{name:2}！
+EN Here comes {name:3}!
+EN No, she catches the arm!
+EN A reversal {name:2}!
+
+@ 321.81
+# other
+JP {name:3}を放った！
+JP いや、その下をうまくすり抜けた！
+JP 逆に{name:2}だー！
+EN Here comes {name:3}!
+EN No, she slips right under it!
+EN {name:2} instead!
+
+@ 321.82
+# other
+JP {name:3}か！？
+JP いや、脚を取って叩き落とした！
+JP 逆転の{name:2}！
+EN The {name:3}?!
+EN No, she grabs the leg and slams her!
+EN A reversal {name:2}!
+
+@ 321.83
+# other
+JP {name:3}炸裂か！？
+JP いや、くるりと巧く回転した！
+JP {name:2}で反撃ー！
+EN {name:3} lands?!
+EN No, she nimbly spins out of it!
+EN Counter! {name:2}!
+
+@ 321.84
+# other
+JP {name:3}一閃！？
+JP いや、視界から消えた！？
+JP {name:2}だー！
+EN Flashing {name:3}?!
+EN No, she vanished from sight?!
+EN {name:2}!
+
+@ 321.85
+# other
+JP {name:3}にいくか？
+JP いや、頭をガッチリ挟んで投げた！
+JP {name:2}決まった！
+EN Going for {name:3}?
+EN No, she traps the head and throws!
+EN {name:2}!
+
+@ 321.86
+# other
+JP {name:3}の体勢！？
+JP しかし、うまく振りほどいた！
+JP そのまま{name:2}！
+EN Set for {name:3}?!
+EN But she shakes it off!
+EN Right into {name:2}!
+
+@ 321.87
+# other
+JP {name:3}にいくか？
+JP しかし、体勢が崩れた！
+JP {name:2}だーッ！
+EN Going for {name:3}?
+EN But she loses her footing!
+EN {name:2}!
+
+@ 321.88
+# other
+JP 高々と抱えあげ、大技の体勢ッ！
+JP しかし、素早く切り返す！
+JP すかさず{name:2}！
+EN Lifted high for a big move!
+EN But she reverses it in a flash!
+EN Right into {name:2}!
+
+@ 321.89
+# other
+JP コーナーから狙いを付けて急降下ー！
+JP {name:3}！？
+JP いや、はたき落とされたぁ！
+EN Taking aim from the corner... dive!
+EN {name:3}?!
+EN No, she's swatted out of the air!
+
+@ 321.90
+# other
+JP コーナーポストから飛んだー！
+JP {name:3}だ！
+JP いや、膝が待っていた、剣山だーッ！
+EN She flies off the top turnbuckle!
+EN {name:3}!
+EN No, she lands right on raised knees!
+
+@ 321.91
+# other
+JP {name:2}か！？
+JP いや、蹴りで返した！
+JP イスを蹴り抜く強烈なキックだーッ！
+EN {name:2}?!
+EN No, she kicks back!
+EN A kick hard enough to break a chair!
+
+@ 321.92
+# other
+JP {name:3}にいくか？
+JP 逆に体を浴びせたー！
+JP {name:2}だーッ！
+EN Going for {name:3}?
+EN She drops her weight on her instead!
+EN {name:2}!
+
+@ 321.93
+# other
+JP コーナーから飛んだー！
+JP {name:3}だ！？
+JP 誰もいない、自爆だーッ！
+EN She flies off the corner!
+EN {name:3}?!
+EN Nobody's home! She crashes!
+
+@ 321.94
+# other
+JP {name:3}の体勢！？
+JP いや、足を取られたまま回転！
+JP {name:2}で返した！
+EN Set for {name:3}?!
+EN No, she rolls through, leg trapped!
+EN Countered! {name:2}!
+
+@ 321.95
+# other
+JP {name:3}の体勢！？
+JP いや、外れた！そのまま丸め込む！
+JP {name:2}！
+EN Set for {name:3}?!
+EN No, it slips! Roll-up instead!
+EN {name:2}!
+
+@ 321.96
+# other
+JP 脅威の{name:3}！？
+JP いや、崩れた、崩れたぁ！
+JP そのまま{name:2}！
+EN Fearsome {name:3}?!
+EN No, it falls apart, it falls apart!
+EN Right into {name:2}!
+
+@ 321.97
+# other
+JP {name:3}か！？
+JP いや、下から返す！
+JP {name:2}だー！
+EN The {name:3}?!
+EN No, she reverses it from below!
+EN {name:2}!
+
+@ 321.98
+# other
+JP {name:3}にいくか？
+JP しかし、崩れたー！
+JP そのまま{name:2}！
+EN Going for {name:3}?
+EN But it falls apart!
+EN Right into {name:2}!
+
+@ 321.99
+# other
+JP ロープに振ったー！？
+JP 逆にロープをつかんで飛んだ！
+JP {name:2}がヒット！
+EN Whipped into the ropes?!
+EN No, she uses the ropes to fly!
+EN {name:2} hits!
+
+@ 321.100
+# other
+JP ロープに振ったー！？
+JP 逆にロープをつかんで飛んだ！
+JP 強烈な{name:2}！
+EN Whipped into the ropes?!
+EN No, she uses the ropes to fly!
+EN A vicious {name:2}!
+
+@ 321.101
+# other
+JP 華麗に飛んだ！！
+JP {name:3}！？
+JP しかし、下には膝が待っていたぁ！
+EN A graceful leap!!
+EN {name:3}?!
+EN But the knees are waiting below!
+
+@ 321.102
+# other
+JP 奥義・{name:3}！？
+JP いや、下には膝が待っていたーッ！
+JP 剣山がボディをえぐったーッ！
+EN Her ace, {name:3}?!
+EN No, the knees are waiting below!
+EN Raised knees right into the gut!
+
+@ 321.103
+# other
+JP 華麗に飛んだ！
+JP {name:3}！？
+JP しかし、誰もいなーい、自爆だーッ！
+EN A graceful leap!
+EN {name:3}?!
+EN But nobody's home! She crashes!
+
+@ 321.104
+# other
+JP 奥義・{name:3}！？
+JP 下には誰もいなーい！
+JP 壮絶な自爆だーッ！
+EN Her ace, {name:3}?!
+EN Nobody's down there!
+EN What a brutal crash and burn!
+
+@ 321.105
+# other
+JP 両選手ともに場外に転落したぁ！
+EN Both wrestlers tumble to the floor!
+
+@ 321.106
+# other
+JP ここで両選手ともにリングに復帰！
+EN Both wrestlers are back in the ring!
+
+@ 321.107
+# other
+JP ギブアップ、ギブアップ！
+JP {name:0}が
+JP ギブアップを奪いましたッ！
+EN She gives up, she gives up!
+EN {name:0}
+EN wins by submission!
+
+@ 321.108
+# other
+JP ここでようやく技が外れた！
+EN The hold is finally broken!
+
+@ 321.109
+# other
+JP {name:1}！
+JP なんとか自力で脱出に成功！
+EN {name:1}!
+EN She escapes on her own!
+
+@ 321.110
+# other
+JP {name:1}
+JP かろうじてロープにたどり着いた！
+JP ロープブレイクです！
+EN {name:1}
+EN just barely makes it to the ropes!
+EN Rope break!
+
+@ 321.111
+# other
+JP {name:1}が
+JP たまらずカットに入った！
+EN {name:1}
+EN can't take it and breaks it up!
+
+@ 321.112
+# other
+JP カウントが入ります！
+JP {name:60}1　
+EN The referee counts!
+EN {name:60}1 
+
+@ 321.113
+# other
+JP カウントが入ります！
+JP {name:60}1　{name:60}2　
+EN The referee counts!
+EN {name:60}1 {name:60}2 
+
+@ 321.114
+# other
+JP カウントが入ります！
+JP {name:60}1　{name:60}2　{name:60}2.5　
+EN The referee counts!
+EN {name:60}1 {name:60}2 {name:60}2.5 
+
+@ 321.115
+# other
+JP カウントが入ります！
+JP {name:60}1　{name:60}2　{name:70}2.8　
+EN The referee counts!
+EN {name:60}1 {name:60}2 {name:70}2.8 
+
+@ 321.116
+# other
+JP カウントが入ります！
+JP {name:60}1　{name:60}2　{name:80}2.9　
+EN The referee counts!
+EN {name:60}1 {name:60}2 {name:80}2.9 
+
+@ 321.117
+# other
+JP カウントが入ります！
+JP {name:60}1　{name:60}2　{name:100}3　
+EN The referee counts!
+EN {name:60}1 {name:60}2 {name:100}3 
+
+@ 321.118
+# other
+JP {name:0}が
+JP 流血だーッ！視界は大丈夫かー！？
+EN {name:0}
+EN is bleeding! Can she still see?!
+
+@ 321.119
+# other
+JP {name:0}から
+JP {name:1}に
+JP タッチ！
+EN {name:0}
+EN tags in
+EN {name:1}!
+
+@ 321.120
+# other
+JP {name:0}が
+JP フォールに入った！
+EN {name:0}
+EN goes for the pin!
+
+@ 321.121
+# other
+JP {name:0}が
+JP カット妨害に成功！
+EN {name:0}
+EN stops the save!
+
+@ 321.122
+# other
+JP {name:0}が
+JP カットを妨害！
+EN {name:0}
+EN blocks the save!
+
+@ 321.123
+# other
+JP {name:1}が
+JP 一瞬すばやい！
+JP カット成功！
+EN {name:1}
+EN is a split second faster!
+EN The pin is broken up!
+
+@ 321.124
+# other
+JP {name:1}が
+JP {name:0}に
+JP 捕まったーッ！
+EN {name:1}
+EN is caught by
+EN {name:0}!
+
+@ 321.125
+# other
+JP {name:1}
+JP カット失敗！
+EN {name:1}
+EN fails to break it up!
+
+@ 321.126
+# other
+JP {name:1}
+JP カウント1で返した！
+EN {name:1}
+EN kicks out at 1!
+
+@ 321.127
+# other
+JP {name:1}
+JP カウント2で返したッ！
+EN {name:1}
+EN kicks out at 2!
+
+@ 321.128
+# other
+JP {name:1}
+JP カウント2.5でなんとか返したッ！
+EN {name:1}
+EN somehow kicks out at 2.5!
+
+@ 321.129
+# other
+JP {name:1}
+JP カウント2.8でかろうじて返したーッ！
+EN {name:1}
+EN barely kicks out at 2.8!
+
+@ 321.130
+# other
+JP {name:1}
+JP カウント2.9ギリギリで返した－ッ！
+EN {name:1}
+EN kicks out at 2.9! Just in time!
+
+@ 321.131
+# other
+JP {name:0}
+JP カウント3を奪いましたーッ！！
+EN {name:0}
+EN gets the 3 count!!
+
+@ 321.132
+# other
+JP ここでタイムアップだぁ！
+JP この試合時間切れ引き分けー！
+EN And that's time!
+EN This match is a time-limit draw!
+
+@ 321.133
+# other
+JP この試合時間切れですが……
+JP 健闘した{name:0}の
+JP 勝利とします！！
+EN The match is over on time, but...
+EN the win goes to the gutsy
+EN {name:0}!!
+
+@ 321.134
+# other, used 3x
+JP ダメだぁー！
+JP 抜けられないーッ！
+EN It's no use!
+EN She can't get out!
+
+@ 321.135
+# other
+JP カウントが入ります！
+JP 1　2
+EN The referee counts!
+EN 1 2
+
+@ 321.136
+# other
+JP ダメだぁー！
+JP ロープがまだ遠いッ！
+EN It's no use!
+EN The ropes are still too far!
+
+@ 321.139
+# other
+JP バックから腕を固めて投げきったー！
+JP {name:2}！
+JP 場外は弱肉強食の様相だー！
+EN Arms locked from behind, and over!
+EN {name:2}!
+EN Survival of the fittest out there!
+
+@ 321.140
+# other
+JP {name:2}！
+JP 相手を吹き飛ばす肩爆弾だ！
+EN {name:2}!
+EN A shoulder bomb sends her flying!
+
+@ 321.141
+# other
+JP {name:2}！
+JP 戦慄の首折り弾直撃ーッ！
+EN {name:2}!
+EN A brutal neck-breaker of a hit!
+
+@ 321.142
+# other
+JP {name:2}！
+JP クリーンヒットーッ！
+EN {name:2}!
+EN A clean hit!
+
+@ 321.143
+# other
+JP {name:2}！
+JP 人間断頭台が首を直撃ぃー！
+EN {name:2}!
+EN The human guillotine hits the neck!
+
+@ 321.144
+# other
+JP {name:2}炸裂ー！
+JP 首に狙いを絞ったかー！？
+EN {name:2}!
+EN Is she targeting the neck?!
+
+@ 321.145
+# other
+JP 全体重をかけた強烈な
+JP {name:2}！
+EN A vicious, full-weight
+EN {name:2}!
+
+@ 321.146
+# other
+JP {name:2}直撃ー！
+JP ロックオンは完璧だー！
+EN {name:2}!
+EN A perfect lock-on!

@@ -1,0 +1,149 @@
+# Event script entry 068 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 068.88
+# wrestler (voiced), case 0, used 2x
+JP はい！
+JP 何かご用でしょうか？
+EN Yes! Did you need something?
+
+@ 068.94
+# President, case 0, used 2x
+JP ああ、来てくれたか。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN Ah, you came. Actually, we've
+EN gotten an offer for a photo book
+EN of you...
+
+@ 068.102
+# wrestler (voiced), case 0, used 2x
+JP 私にオファーですか…？
+EN An offer... for me?
+
+@ 068.116
+# wrestler (voiced), case 0, used 2x
+JP どのような写真集です？
+EN What kind of photo book?
+
+@ 068.122
+# President, case 0, used 2x
+JP よくあるアイドルみたいな
+JP 水着のヤツだが…。
+EN The usual idol-type swimsuit
+EN thing...
+
+@ 068.130
+# wrestler (voiced), case 0, used 2x
+JP …あ～…。
+EN ...Ahh...
+
+@ 068.136
+# President, case 0, used 4x
+JP ダメか？
+EN No good?
+
+@ 068.144
+# wrestler (voiced), case 0, used 2x
+JP …いえ。
+JP かまわないと言えば
+JP かまわないのですが…。
+EN ...No. I suppose I don't mind,
+EN if you put it that way...
+
+@ 068.150
+# President, case 0, used 2x
+JP ですが？
+EN But?
+
+@ 068.158
+# wrestler (voiced), case 0, used 2x
+JP 人違いと言うことは…？　
+JP 本当に私を指名してきたんですか？
+EN Could it be a case of mistaken
+EN identity...? Did they really ask
+EN for me?
+
+@ 068.164
+# President, case 0, used 2x
+JP 間違いなくお前をご指名だ。
+EN You're definitely the one they want.
+
+@ 068.172
+# wrestler (voiced), case 0, used 21x
+JP そうですか…。
+EN I see...
+
+@ 068.186
+# wrestler (voiced), case 0, used 2x
+JP …いえ。
+JP 信じられないな。
+JP なんで私なんかをと思いまして…。
+EN ...No. I just can't believe it.
+EN I was wondering why they'd want
+EN someone like me...
+
+@ 068.279
+# President, case 0, used 2x
+JP お疲れさん。
+JP 綺麗だったよ。
+EN Good work. You looked beautiful.
+
+@ 068.288
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます。
+JP こういうのは初めてなので…。
+JP 変じゃなかったですか？
+EN Thank you. It's my first time doing
+EN something like this... Did I look
+EN strange?
+
+@ 068.294
+# President, case 0, used 2x
+JP 惚れそうになるくらい
+JP 綺麗だったよ。
+EN You were so beautiful I nearly
+EN fell for you.
+
+@ 068.302
+# wrestler (voiced), case 0, used 2x
+JP からかわないでください…。
+JP 人の悪い…。
+EN Please don't tease me...
+EN That's mean...
+
+@ 068.308
+# President, case 0, used 2x
+JP からかってないって…。
+JP この写真を見てみろ。
+JP オファーが来た理由もわかるだろ？
+EN I'm not teasing... Look at these
+EN photos. You can see why they
+EN made the offer, right?
+
+@ 068.315
+# other, case 0, used 2x
+JP …そう…です…ね。
+EN ...I... suppose... so.
+
+@ 068.323
+# President, case 0, used 2x
+JP そうだろう？
+JP お前はもっと自分に自信を持って
+JP いいんだよ。
+EN Right? You should have more
+EN confidence in yourself.
+
+@ 068.331
+# wrestler (voiced), case 0, used 2x
+JP これからはもう少しだけ
+JP 自分の魅力に自信を持ってみます。
+EN From now on, I'll try to be a little
+EN more confident in my own charms.

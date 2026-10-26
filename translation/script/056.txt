@@ -1,0 +1,120 @@
+# Event script entry 056 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 056.88
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP 来たよ！
+EN Hiii!
+EN I'm here!
+
+@ 056.94
+# President, case 0, used 12x
+JP ああ、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN Ah, you're here. Actually, you've
+EN gotten an offer for a photo book...
+
+@ 056.102
+# wrestler (voiced), case 0, used 20x
+JP …写真集？
+EN ...A photo book?
+
+@ 056.108
+# President, case 0, used 2x
+JP 会社としては受けたいと思っ…
+EN The company would like to acc...
+
+@ 056.116
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP いいよ！
+EN Yeah!
+EN Sure!
+
+@ 056.122
+# President, case 0, used 2x
+JP …すごい即断だな。
+EN ...That was quick.
+
+@ 056.130
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ！
+EN Ehehe!
+
+@ 056.136
+# President, case 0, used 2x
+JP いいのか？
+EN You're sure?
+
+@ 056.144
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP 社長のお願いだったら。
+EN Yeah!
+EN If you're the one asking, Boss.
+
+@ 056.150
+# President, case 0, used 4x
+JP それじゃ早速手配しよう。
+EN Then let's get it set up.
+
+@ 056.169
+# President, case 0, used 22x
+JP （カメラマン）
+JP はーい、こっち向いて。
+JP そうそう、いい感じだね～。
+EN (Photographer)
+EN Okay, look over here.
+EN That's it, looking good!
+
+@ 056.243
+# President, case 0, used 2x
+JP …うーん。
+JP すごい自然だな。
+EN ...Wow.
+EN That's really natural.
+
+@ 056.252
+# wrestler (voiced), case 0, used 2x
+JP あんなので良かったのかな？　
+JP 普通に泳いだり、遊んだりしてた
+JP だけだったのに…。
+EN Was that really okay? I was just
+EN swimming and playing around
+EN like normal...
+
+@ 056.258
+# President, case 0, used 2x
+JP それでいいんだよ。
+JP お前はヘタに演技なんかしない方が
+JP 魅力的なんだから。
+EN That's the point. You're more
+EN charming when you don't try to act.
+
+@ 056.266
+# wrestler (voiced), case 0, used 2x
+JP …ん～。
+JP それってほめてる？
+EN ...Hmm.
+EN Is that a compliment?
+
+@ 056.272
+# President, case 0, used 2x
+JP ベタぼめ！
+EN The highest praise!
+
+@ 056.280
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ！
+JP ありがと～。
+EN Ehehe!
+EN Thanks!

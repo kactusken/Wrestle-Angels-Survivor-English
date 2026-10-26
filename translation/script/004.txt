@@ -1,0 +1,426 @@
+# Event script entry 004 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 004.46
+# Secretary
+JP {name:0}選手が
+JP 試合で負傷しました。
+EN {name:0} got injured in a match.
+
+@ 004.48
+# Secretary
+JP 症状が軽いので
+JP 試合に支障はありませんが
+JP 用心が必要です。
+EN It's minor, so she can still
+EN compete, but she should be
+EN careful.
+
+@ 004.59
+# wrestler (voiced), used 2x
+JP このくらい平気です～。
+JP …あぃたたた……。
+EN This is nothing~.
+EN ...Ow-ow-ow...
+
+@ 004.66
+# wrestler (voiced), used 2x
+JP だいじょぶ、だいじょーぶ！
+JP こんなケガたいしたことないない！
+EN I'm fine, I'm fiiine!
+EN An injury like this is no big deal!
+
+@ 004.73
+# wrestler (voiced), used 2x
+JP こんなの…。
+JP たいしたことありません！
+EN This...
+EN This is nothing!
+
+@ 004.80
+# wrestler (voiced), used 2x
+JP 大丈夫です。
+JP 心配いりませんよ。
+EN I'm fine.
+EN There's no need to worry.
+
+@ 004.87
+# wrestler (voiced), used 2x
+JP だいじょぶ、だいじょぶ！
+JP このくらい平気だもん！
+EN I'm fine, I'm fine!
+EN This is nothing at all!
+
+@ 004.94
+# wrestler (voiced), used 2x
+JP このくらい
+JP たいしたことないです。
+EN This is
+EN no big deal.
+
+@ 004.101
+# wrestler (voiced), used 4x
+JP このくらいヘーキ、ヘーキ！
+EN Piece of cake, piece of cake!
+
+@ 004.108
+# wrestler (voiced), used 2x
+JP い、いた～い！
+JP ふ…ふえ～ん！
+EN Ow, it hurrrts!
+EN Wa... waaah!
+
+@ 004.115
+# wrestler (voiced), used 2x
+JP ヘーキ、ヘーキ！
+JP …あいたッ…あはは……。
+EN I'm fine, I'm fine!
+EN ...Ouch... Ahaha...
+
+@ 004.122
+# wrestler (voiced), used 2x
+JP 心配は無用です。
+EN There's no need for concern.
+
+@ 004.129
+# wrestler (voiced), used 2x
+JP こんなのたいしたことないよ。
+EN This is no big deal.
+
+@ 004.136
+# wrestler (voiced), used 2x
+JP 全然ヘーキ、ヘーキ！
+EN Totally fine, totally fine!
+
+@ 004.143
+# wrestler (voiced), used 2x
+JP 大丈夫！
+JP まだやれるわよ！
+EN I'm fine!
+EN I can still fight!
+
+@ 004.150
+# wrestler (voiced), used 2x
+JP このくらい大丈夫。
+JP たいしたことないですよ。
+EN I'm all right.
+EN It's no big deal.
+
+@ 004.157
+# wrestler (voiced), used 2x
+JP このくらいの怪我
+JP なんともありませんわ。
+EN An injury like this is
+EN nothing at all.
+
+@ 004.171
+# wrestler (voiced), used 2x
+JP こんな怪我たいしたことないです！
+EN This injury is no big deal!
+
+@ 004.178
+# wrestler (voiced), used 2x
+JP こんなの怪我のうちにも
+JP 入らねーよ！
+EN You call this an injury?
+EN Don't make me laugh!
+
+@ 004.185
+# wrestler (voiced), used 2x
+JP 平気、平気！
+JP こんなのなんともないよ！
+EN I'm fine, I'm fine!
+EN This is nothing!
+
+@ 004.192
+# wrestler (voiced), used 2x
+JP 大丈夫よ。
+JP なんともないわ。
+EN I'm fine.
+EN It's nothing.
+
+@ 004.199
+# wrestler (voiced), used 3x
+JP このくらい大丈夫ですよ。
+EN I'm all right, really.
+
+@ 004.206
+# wrestler (voiced), used 2x
+JP このくらい平気。
+JP たいしたことないわ。
+EN This is nothing.
+EN It's no big deal.
+
+@ 004.213
+# wrestler (voiced), used 2x
+JP このくらい全然問題な～しッ！
+EN Not a problem, not a problem at all!
+
+@ 004.220
+# wrestler (voiced), used 2x
+JP だっ、大丈夫ですッ！
+JP こんなの気合で治ります！
+EN I-I'm fine!
+EN Fighting spirit will heal this!
+
+@ 004.227
+# wrestler (voiced), used 2x
+JP あ、触んなよ！
+JP たいした事ないって！
+EN Hey, don't touch it!
+EN I said it's no big deal!
+
+@ 004.234
+# wrestler (voiced), used 2x
+JP いたいよ～ッ！！
+JP え～ん！！
+EN It huuurts!
+EN Waaah!!
+
+@ 004.241
+# wrestler (voiced), used 2x
+JP この程度どうってことありませんわ。
+EN Something this trivial is nothing to
+EN me.
+
+@ 004.248
+# wrestler (voiced), used 2x
+JP ……チッ。
+EN ...Tch.
+
+@ 004.255
+# wrestler (voiced), used 2x
+JP ほんの小さな傷ですから…。
+EN It's only a small cut...
+
+@ 004.262
+# wrestler (voiced), used 2x
+JP このくらい平気だよ。
+EN This is nothing.
+
+@ 004.269
+# wrestler (voiced), used 2x
+JP これくらいどうってことないわ。
+EN Something like this is nothing.
+
+@ 004.276
+# wrestler (voiced), used 2x
+JP こ、これしきのケガ
+JP 気合と根性で…。
+JP …っいたたたッ！
+EN A-an injury like this... Guts and
+EN fighting spirit will...
+EN ...Ow-ow-ow!
+
+@ 004.283
+# wrestler (voiced), used 2x
+JP ……痛いの痛いのとんでけー……。
+EN ...Pain, pain, go away...
+
+@ 004.290
+# wrestler (voiced), used 2x
+JP この痛みはただの捻挫でしょう。
+EN This pain is just a sprain, I
+EN believe.
+
+@ 004.297
+# wrestler (voiced), used 2x
+JP ……不覚ッ！
+JP この身に傷を付けてしまうとは！
+EN ...How careless of me!
+EN To let my body be wounded!
+
+@ 004.304
+# wrestler (voiced), used 2x
+JP ……ケガして…ごめんなさい……。
+EN ...Sorry... for getting hurt...
+
+@ 004.311
+# wrestler (voiced), used 2x
+JP 大丈夫。
+JP まだやれるよ！
+EN I'm fine.
+EN I can still fight!
+
+@ 004.318
+# wrestler (voiced), used 2x
+JP 平気だ。
+JP どうってことないぞ。
+EN I'm fine.
+EN It's nothing.
+
+@ 004.325
+# wrestler (voiced), used 2x
+JP このくらい問題ないですよ。
+EN This is no problem at all.
+
+@ 004.332
+# wrestler (voiced), used 2x
+JP こんなん全然たいしたことないてぇ！
+EN This? This ain't nothin' at all!
+
+@ 004.339
+# wrestler (voiced), used 2x
+JP このくらいなら平気だよ！
+JP …う、じゃなくて、平気ですよ！
+EN This is nothing! ...Uh, I mean,
+EN it's nothing, sir!
+
+@ 004.346
+# wrestler (voiced), used 2x
+JP こんなの怪我のうちに
+JP 入らないですよ！
+EN You can't even call this an injury!
+
+@ 004.353
+# wrestler (voiced), used 2x
+JP このくらい怪我と呼ぶ程のものでは
+JP ありませんから！
+EN This hardly counts as an injury!
+
+@ 004.360
+# wrestler (voiced), used 2x
+JP こんなもの怪我とは呼びませんよ。
+EN I wouldn't call this an injury.
+
+@ 004.367
+# wrestler (voiced), used 2x
+JP あら～…。
+JP このくらいなら大丈夫ですよ～。
+JP 合気道やってましたし～。
+EN Oh my...
+EN I'm fine, this is nothing~.
+EN I used to do aikido, after all~.
+
+@ 004.374
+# wrestler (voiced), used 2x
+JP ちょっぴり痛かったから
+JP なぐさめてぇ～。
+EN It hurt a teeny bit,
+EN so comfort me~.
+
+@ 004.381
+# wrestler (voiced), used 2x
+JP ……クソ！
+EN ...Damn it!
+
+@ 004.388
+# wrestler (voiced), used 4x
+JP ……チッ！
+EN ...Tch!
+
+@ 004.395
+# wrestler (voiced), used 2x
+JP こんなの舐めときゃ治っちまうよ！
+EN Just lick it and it'll heal!
+
+@ 004.402
+# wrestler (voiced), used 2x
+JP …こんなもの怪我とは呼ばん。
+EN ...I do not call this an injury.
+
+@ 004.409
+# wrestler (voiced), used 2x
+JP ……へへッ！
+JP 気持ちいいぐらいだよ！
+EN ...Heh heh!
+EN It actually feels kinda good!
+
+@ 004.415
+# other, used 4x
+JP …………ウッ……。
+EN .........Ugh......
+
+@ 004.424
+# wrestler (voiced)
+JP たいした事はない。
+EN It's nothing serious.
+
+@ 004.431
+# wrestler (voiced)
+JP こんなの気にしない、キニシナイ！
+EN Never mind this, never mind!
+
+@ 004.438
+# wrestler (voiced)
+JP こんなの気にしてたら
+JP クールなんて言えないわ。
+EN If I let this bother me,
+EN I couldn't call myself cool.
+
+@ 004.445
+# wrestler (voiced)
+JP このくらい問題ないよ！
+EN This is no problem!
+
+@ 004.452
+# wrestler (voiced)
+JP これしきのこと問題ありません！
+EN A trifle like this is no problem!
+
+@ 004.459
+# wrestler (voiced)
+JP 大丈夫……。
+EN I'm fine......
+
+@ 004.473
+# wrestler (voiced)
+JP あははッ。
+JP へいき、へいき！
+EN Ahaha.
+EN I'm fine, I'm fine!
+
+@ 004.480
+# wrestler (voiced)
+JP わたくしとしたことが…。
+EN How unlike me...
+
+@ 004.487
+# wrestler (voiced)
+JP いたたた…。
+EN Ow-ow-ow...
+
+@ 004.494
+# wrestler (voiced)
+JP い…いたくない。
+JP いたくない…。
+EN I-it doesn't hurt.
+EN It doesn't hurt...
+
+@ 004.501
+# wrestler (voiced)
+JP こんなのよゆー、よゆー！
+EN This is a breeze, a breeze!
+
+@ 004.508
+# wrestler (voiced)
+JP 私のミスです…。
+JP 気にしないでください。
+EN It was my mistake...
+EN Please don't worry about it.
+
+@ 004.515
+# wrestler (voiced)
+JP このくらいどうって事ありません！
+EN This is nothing at all!
+
+@ 004.522
+# wrestler (voiced)
+JP いたぁー…。
+JP あはは、たいしたことないです。
+EN Owww...
+EN Ahaha, it's no big deal.
+
+@ 004.529
+# wrestler (voiced)
+JP たいしたことありません。
+JP すぐ治ります…。
+EN It's no big deal.
+EN It'll heal soon...

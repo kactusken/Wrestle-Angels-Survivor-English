@@ -1,0 +1,25 @@
+{
+ "english": "Blade Uehara",
+ "boxes": [
+  [
+   0,
+   0,
+   176,
+   22
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 15,
+ "draw": "names.draw",
+ "mode": "strip",
+ "notes": "name strip under the wrestler in a match (tools/namegfx.py)",
+ "catalogue": {
+  "source": "/A040/A041. part 16",
+  "width": 256,
+  "height": 32,
+  "bpp": 4,
+  "category": "name",
+  "japanese": "ブレード上原"
+ }
+}

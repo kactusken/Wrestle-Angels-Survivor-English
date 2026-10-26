@@ -1,0 +1,221 @@
+# Event script entry 218 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 218.95
+# President, used 2x
+JP （そうでないのもいるか…。）
+EN (Not everyone, it seems...)
+
+@ 218.97
+# President, used 2x
+JP （ものすごい勢いで
+JP 木に巻き付けたマットに
+JP 蹴りを入れている。）
+EN (She was kicking a mat wrapped
+EN around a tree with tremendous
+EN force.)
+
+@ 218.99
+# President, used 2x
+JP おいおい、こんなところでも
+JP トレーニングか？
+EN Hey now, training
+EN even out here?
+
+@ 218.114
+# other, used 2x
+JP …あ、社長？
+EN ...Oh, Boss?
+
+@ 218.121
+# President, used 2x
+JP せっかく海に来たのに…。
+JP 泳がないのか？
+EN We came all the way to the beach...
+EN Aren't you going to swim?
+
+@ 218.130
+# other, used 2x
+JP いえ、泳ぎますよ。
+JP これは泳ぐ前の準備運動です。
+EN No, I will.
+EN This is just my warm-up first.
+
+@ 218.137
+# President, used 2x
+JP ずいぶん攻撃的な準備運動だな。
+EN Pretty aggressive warm-up.
+
+@ 218.146
+# other, used 2x
+JP …そうだ、社長？
+JP ミットお願いできませんか？
+EN ...Oh, Boss?
+EN Could you hold the mitts for me?
+
+@ 218.153
+# President, used 2x
+JP 泳ぐ前にバテないか？
+EN Won't you wear yourself out
+EN before your swim?
+
+@ 218.159
+# other, used 2x
+JP そんなヤワではないつもりです。
+EN I'm not that soft.
+
+@ 218.166
+# President, used 2x
+JP そうか。
+JP なら相手しよう。
+EN All right.
+EN Then I'll spar with you.
+
+@ 218.182
+# President, used 2x
+JP だが、その前に…。
+JP その下は水着か？
+EN But first...
+EN Is that a swimsuit underneath?
+
+@ 218.191
+# other, used 2x
+JP …はッ？
+JP そうですが…。
+EN ...Huh?
+EN Yes, but...
+
+@ 218.198
+# President, used 2x
+JP なら、その暑苦しいのを脱げ。
+JP 見てるこっちが熱中症になりそうだ。
+EN Then take off that stuffy gear.
+EN I'm getting heatstroke just looking.
+
+@ 218.204
+# other, used 2x
+JP は、はあ……。
+EN U-um, okay...
+
+@ 218.228
+# President, used 2x
+JP よし、右、右、左！
+JP そこで、ハイ！
+EN Okay, right, right, left!
+EN Now, high!
+
+@ 218.240
+# other, used 2x
+JP フッ！
+EN Hup!
+
+@ 218.249
+# President, used 2x
+JP （しかし、あれだな…。）
+EN (But, you know...)
+
+@ 218.251
+# President, used 2x
+JP 左、右、回ってソバット！
+JP つづけて、カカト！
+EN Left, right, spin, sobat!
+EN Then the heel!
+
+@ 218.257
+# other, used 2x
+JP フッ、ハッ、ダァーッ！
+EN Hup, hah, daaah!
+
+@ 218.270
+# President, used 2x
+JP （コスチュームも水着も
+JP そんなに大差はないはずなのに…。）
+EN (Her ring gear and a swimsuit
+EN shouldn't be all that different...)
+
+@ 218.272
+# President, used 2x
+JP 逆回転バックブロー！
+EN Spinning back blow!
+
+@ 218.278
+# other, used 2x
+JP ハッ！
+EN Hah!
+
+@ 218.285
+# President, used 2x
+JP （なんでこう、水着だと
+JP 目のやり場に困るんだろう…？）
+EN (So why don't I know where
+EN to look when she's in a
+EN swimsuit...?)
+
+@ 218.287
+# President, used 2x
+JP ハイキック！
+EN High kick!
+
+@ 218.289
+# President, used 2x
+JP （あ、そうか。）
+EN (Oh, I get it.)
+
+@ 218.295
+# other, used 2x
+JP ハァッ！
+EN Haah!
+
+@ 218.306
+# President, used 2x
+JP グハッ！
+EN Guhh!
+
+@ 218.312
+# other, used 2x
+JP しまっ…当たっ……。
+EN Oh no... it connected...
+
+@ 218.315
+# wrestler (voiced), used 2x
+JP 社長、大丈夫ですか？
+JP なんで急に目をそらして…。
+EN Boss, are you all right?
+EN Why'd you suddenly look away...
+
+@ 218.322
+# President, used 2x
+JP す…すまん。
+JP つい…。
+EN S-sorry.
+EN I just...
+
+@ 218.328
+# other, used 2x
+JP 社長ッ！
+EN Boss!
+
+@ 218.335
+# President, used 2x
+JP （いつもパンツスタイルだから。）
+EN (It's because she always wears
+EN pants.)
+
+@ 218.346
+# President, used 2x
+JP （こういう水着は…いつもと違って
+JP 色っぽく…見える…。）
+EN (A swimsuit like that... she looks
+EN different... kind of... sexy...)
+
+@ 218.353
+# other, used 2x
+JP 社長～～ッ！！
+EN Boooss!!

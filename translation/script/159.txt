@@ -1,0 +1,295 @@
+# Event script entry 159 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 159.73
+# wrestler (voiced), used 2x
+JP すいません…。
+JP 失礼します…。
+EN I'm sorry... Excuse me...
+
+@ 159.81
+# wrestler (voiced), used 2x
+JP バイバイ…。
+EN Bye-bye...
+
+@ 159.88
+# other, used 2x
+JP ……フゥ～……。
+EN ......Phew......
+
+@ 159.97
+# wrestler (voiced), used 2x
+JP バイバイ！
+JP あたし明日から来ないから。
+EN Bye-bye! I'm not coming in
+EN from tomorrow on.
+
+@ 159.105
+# wrestler (voiced), used 2x
+JP …バイバイ……。
+EN ...Bye-bye......
+
+@ 159.113
+# wrestler (voiced), used 2x
+JP みんな探さないで…。
+EN Don't come looking for me,
+EN everyone...
+
+@ 159.121
+# wrestler (voiced), used 2x
+JP 一人で考えさせてください…。
+EN Please let me think things over
+EN alone...
+
+@ 159.145
+# wrestler (voiced), used 2x
+JP もうヤダ…。
+EN I hate this...
+
+@ 159.153
+# wrestler (voiced), used 2x
+JP すみません…。
+EN I'm sorry...
+
+@ 159.161
+# wrestler (voiced), used 2x
+JP フンッ！
+JP こんな弱小団体
+JP 私には合いませんわ！
+EN Hmph! A tiny little promotion like
+EN this is no place for me!
+
+@ 159.169
+# wrestler (voiced), used 2x
+JP もう疲れたわ…。
+EN I'm so tired...
+
+@ 159.185
+# wrestler (voiced), used 2x
+JP 理由は聞くな！
+EN Don't ask me why!
+
+@ 159.201
+# wrestler (voiced), used 2x
+JP 私のことは放っておいて…。
+EN Just leave me alone...
+
+@ 159.209
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP 探さないで…。
+EN I'm sorry... Don't look for me...
+
+@ 159.217
+# wrestler (voiced), used 2x
+JP 放っておいて…。
+EN Leave me alone...
+
+@ 159.225
+# wrestler (voiced), used 2x
+JP わるいけど…。
+JP もうムリ…。
+EN Sorry, but... I can't anymore...
+
+@ 159.241
+# wrestler (voiced), used 2x
+JP もう戻るつもりはねぇから…。
+EN I've got no intention of coming
+EN back...
+
+@ 159.249
+# wrestler (voiced), used 2x
+JP …さよーなら…。
+EN ...Bye-byeee...
+
+@ 159.257
+# wrestler (voiced), used 2x
+JP みなさん。
+JP ごきげんよう。
+EN Everyone. Good day to you.
+
+@ 159.273
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP でも私…。
+EN I'm sorry... But I...
+
+@ 159.281
+# wrestler (voiced), used 2x
+JP もう、ついていけない！
+EN I can't keep up anymore!
+
+@ 159.289
+# wrestler (voiced), used 2x
+JP もうムリ…。
+EN I can't anymore...
+
+@ 159.297
+# wrestler (voiced), used 2x
+JP もう無理ッス…。
+EN I can't do it anymore, sir...
+
+@ 159.305
+# wrestler (voiced), used 2x
+JP ……ここにいるわたしは
+JP 本当のわたしじゃないような
+JP 気がする……。
+EN ......I feel like the me who's here
+EN isn't the real me......
+
+@ 159.313
+# wrestler (voiced), used 2x
+JP そうだ…。
+JP 温泉に行こう…。
+EN I know... I'll go to a hot spring...
+
+@ 159.321
+# wrestler (voiced), used 2x
+JP フフフッ、良い月夜ですね…。
+JP 今宵は私が誰かに甘えてみたい
+JP 夜です…。
+EN Fufufu, a lovely moonlit night...
+EN Tonight is a night when I wish to
+EN be pampered by someone...
+
+@ 159.337
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP ボクはもうダメです…。
+EN I'm sorry... I can't go on...
+
+@ 159.345
+# wrestler (voiced), used 2x
+JP 頼むから探さないでくれ…。
+EN Please...don't come looking
+EN for Maho...
+
+@ 159.361
+# wrestler (voiced), used 2x
+JP しばらく連絡せぇへんから…。
+JP ほなな…。
+EN I won't be in touch for a while...
+EN See ya...
+
+@ 159.377
+# wrestler (voiced), used 5x
+JP ごめんなさい…。
+EN I'm sorry...
+
+@ 159.385
+# wrestler (voiced), used 2x
+JP 根性を叩きなおす旅に出ます…。
+JP 探さないでください、キャプテン。
+EN I'm going on a journey to whip
+EN my guts back into shape...
+EN Don't look for me, Captain.
+
+@ 159.392
+# other, used 2x
+JP …話したくありません…。
+EN ...I don't want to talk...
+
+@ 159.402
+# wrestler (voiced), used 2x
+JP 実家に帰らせていただきます…。
+EN I'm going back to my parents'
+EN home...
+
+@ 159.410
+# wrestler (voiced), used 2x
+JP 社長、もうついていけな～い。
+EN Boss, I can't keep up anymo-ore.
+
+@ 159.418
+# wrestler (voiced), used 2x
+JP やってられないって言ってるだろ！
+EN I said I can't put up with this!
+
+@ 159.426
+# wrestler (voiced), used 2x
+JP やってらんねーって言ってるだろ！
+EN I said I ain't puttin' up with this!
+
+@ 159.434
+# wrestler (voiced), used 2x
+JP ……ウゥ……。
+EN ......Ugh......
+
+@ 159.450
+# wrestler (voiced), used 4x
+JP ……クッ！
+EN ......Tch!
+
+@ 159.466
+# wrestler (voiced)
+JP 孤独が友…か…。
+EN Solitude is my friend... huh...
+
+@ 159.474
+# wrestler (voiced)
+JP あは…ちょっとワンちゃんと
+JP 遊ぼうかなって…。
+EN Aha... I was just thinking I'd
+EN play with the doggies for a bit...
+
+@ 159.482
+# wrestler (voiced)
+JP 探さないでね！
+EN Don't look for me, okay?
+
+@ 159.490
+# wrestler (voiced)
+JP もうダメ～…。
+EN I can't take it anymore...
+
+@ 159.498
+# wrestler (voiced)
+JP この状態では不満がたまるのも
+JP 仕方ないのでは？
+EN Under these conditions, isn't it
+EN only natural for complaints to
+EN pile up?
+
+@ 159.506
+# wrestler (voiced)
+JP 疲れた……。
+EN I'm tired......
+
+@ 159.530
+# wrestler (voiced)
+JP …フゥ～……。
+EN ...Phew......
+
+@ 159.538
+# wrestler (voiced)
+JP もう、いやなんです～。
+EN I don't want to anymore~.
+
+@ 159.554
+# wrestler (voiced)
+JP …チクショーッ！
+EN ...Dammit!
+
+@ 159.562
+# wrestler (voiced)
+JP 一人にしてください…。
+EN Please leave me alone...
+
+@ 159.570
+# wrestler (voiced)
+JP もうダメですッ！
+EN I can't do it anymore!
+
+@ 159.578
+# wrestler (voiced)
+JP …出るんですって…。
+JP アレ…。
+EN ...They say it comes out...
+EN That thing...

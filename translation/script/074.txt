@@ -1,0 +1,99 @@
+# Event script entry 074 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 074.88
+# wrestler (voiced), case 0, used 2x
+JP 呼ばれましたー！
+JP なんです？
+EN You called! What's up?
+
+@ 074.102
+# wrestler (voiced), case 0, used 2x
+JP …え、写真集？
+JP ホントッ？
+JP やるやるッ！
+EN ...Huh, a photo book? Really?
+EN I'll do it, I'll do it!
+
+@ 074.108
+# President, case 0, used 2x
+JP 二つ返事か…。
+JP まあ、ありがたいが…。
+JP 内容は聞かなくていいのか？
+EN Without even thinking, huh...
+EN I appreciate it, but don't you want
+EN to hear what it involves?
+
+@ 074.116
+# wrestler (voiced), case 0, used 2x
+JP …内容？
+JP 聞く必要なーし！
+JP なんでもやっちゃうよー！
+EN ...What it involves? No need!
+EN I'll do anything!
+
+@ 074.122
+# President, case 0, used 2x
+JP 男らしいな…。
+JP いや、この場合は女らしいと
+JP 言うべきか…。
+EN How manly... No, in this case
+EN I guess I should say womanly...
+
+@ 074.219
+# wrestler (voiced), case 0, used 2x
+JP あー、楽しかった～！
+EN Aah, that was fun!
+
+@ 074.225
+# President, case 0, used 2x
+JP そんなに楽しかったのか？
+EN Was it that much fun?
+
+@ 074.233
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP またやりたいな！
+EN Yeah! I want to do it again!
+
+@ 074.239
+# President, case 0, used 2x
+JP しかし、こうやって写真になると。
+JP うーん…。
+EN But seeing you in photos like
+EN this...
+EN Hmm...
+
+@ 074.247
+# wrestler (voiced), case 0, used 2x
+JP ウフフフッ。
+JP 美人でしょー！
+EN Ufufu. I'm a beauty, right?
+
+@ 074.253
+# President, case 0, used 2x
+JP そうだな。
+JP 気をつけないと騙されそうだ。
+EN That you are. I'd better be careful
+EN or I'll get fooled.
+
+@ 074.261
+# wrestler (voiced), case 0, used 2x
+JP またまた騙されたいくせに～。
+JP このこの～！
+EN Oh, come on, you WANT to be fooled!
+EN C'mon, c'mon!
+
+@ 074.267
+# President, case 0, used 2x
+JP （この性格じゃなきゃ
+JP いくらでも騙されるんだがな…。）
+EN (If not for that personality, I'd
+EN let her fool me all she wants...)

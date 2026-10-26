@@ -1,0 +1,894 @@
+# Event script entry 273 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 273.3
+# President
+JP 最近がんばってるみたいだな。
+JP これからもその調子でよろしくな。
+EN You've been working hard lately.
+EN Keep it up, all right?
+
+@ 273.16
+# wrestler (voiced), case 0, used 2x
+JP はい！
+JP がんばります～！
+EN Yes!
+EN I'll do my best!
+
+@ 273.25
+# wrestler (voiced), case 1, used 2x
+JP マイペースでいきます～…。
+EN I'll go at my own pace...
+
+@ 273.35
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP ガンガン調子上げてっちゃうよ！
+EN Okaaay!
+EN I'm gonna crank it up even more!
+
+@ 273.44
+# wrestler (voiced), case 1, used 2x
+JP 社長…それ本気で言ってる…？
+EN Boss... are you serious...?
+
+@ 273.54
+# wrestler (voiced), case 0, used 2x
+JP い、言われなくてもやります…。
+EN I-I'll do it without being told...
+
+@ 273.63
+# wrestler (voiced), case 1, used 2x
+JP お世辞は必要ありません。
+EN Flattery isn't necessary.
+
+@ 273.73
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます！
+JP ご期待にそえるようにがんばります！
+EN Thank you very much!
+EN I'll do my best to live up to it!
+
+@ 273.82
+# wrestler (voiced), case 1, used 2x
+JP 本調子ではないのですが…。
+EN I'm not quite at my best, though...
+
+@ 273.92
+# wrestler (voiced), case 0, used 2x
+JP はい、はーい！
+JP まかせて、社長！
+EN Yes, yes!
+EN Leave it to me, Boss!
+
+@ 273.101
+# wrestler (voiced), case 1, used 2x
+JP …もう、がんばれないかも…。
+EN ...I don't think I can try
+EN anymore...
+
+@ 273.130
+# wrestler (voiced), case 0, used 2x
+JP エヘヘヘッ！
+JP 最近すっごく調子がいいんだ！
+EN Ehehehe!
+EN I've been in great shape lately!
+
+@ 273.139
+# wrestler (voiced), case 1, used 2x
+JP それなりにやってみまーす…。
+EN I'll do what I can, I guess...
+
+@ 273.149
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ！
+JP ほめられちゃった。
+EN Ehehe!
+EN I got praised.
+
+@ 273.158
+# wrestler (voiced), case 1, used 2x
+JP あんまりやる気が出ないよぅ…。
+EN I just can't get motivated...
+
+@ 273.168
+# wrestler (voiced), case 0, used 2x
+JP 社長、見ててくれたんですね！
+JP もっと、もっとがんばります！
+EN You were watching me, Boss!
+EN I'll work harder and harder!
+
+@ 273.177
+# wrestler (voiced), case 1, used 2x
+JP なんとか
+JP やってはみますけど…。
+EN I'll try somehow,
+EN but...
+
+@ 273.187
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます。
+JP これからもがんばります。
+EN Thank you.
+EN I'll keep working hard.
+
+@ 273.206
+# wrestler (voiced), case 0, used 2x
+JP このペースでやっていくさ。
+EN I'll keep going at this pace.
+
+@ 273.215
+# wrestler (voiced), case 1, used 2x
+JP …まぁ…。
+JP そうですね…。
+EN ...Well...
+EN I suppose...
+
+@ 273.225
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP まかせといて、社長！
+EN Yeah!
+EN Leave it to me, Boss!
+
+@ 273.234
+# wrestler (voiced), case 1, used 2x
+JP ぼちぼちやってみるけど…。
+EN I'll take it slow and see, but...
+
+@ 273.244
+# wrestler (voiced), case 0, used 2x
+JP え～、そ…そう？
+JP なんか照れちゃうな！
+JP ありがとう、がんばるよ。
+EN Aw, r-really?
+EN That's kinda embarrassing!
+EN Thanks, I'll do my best.
+
+@ 273.253
+# wrestler (voiced), case 1, used 2x
+JP はぁ…。
+JP はいはい…。
+EN Sigh...
+EN Yeah, yeah...
+
+@ 273.263
+# wrestler (voiced), case 0, used 2x
+JP …そ、そうですか？
+JP ウフ…ありがとうございます。
+JP がんばりますね。
+EN ...R-really?
+EN Ufu... thank you.
+EN I'll do my best.
+
+@ 273.272
+# wrestler (voiced), case 1, used 2x
+JP …はい…。
+JP がんばってみます…。
+EN ...Yes...
+EN I'll try my best...
+
+@ 273.282
+# wrestler (voiced), case 0, used 2x
+JP まあ、社長ったら。
+JP でも悪い気はしませんわね。
+JP ご期待に応えてみせますわ！
+EN Oh, Boss, really. Still, I can't say
+EN I mind. I shall live up to your
+EN expectations!
+
+@ 273.291
+# wrestler (voiced), case 1, used 2x
+JP ええ。
+JP 努力しますわ。
+EN Yes.
+EN I shall make an effort.
+
+@ 273.301
+# wrestler (voiced), case 0, used 2x
+JP え～、どうしたの急に？
+JP でも、うれしいなぁ！
+JP がんばるねッ！
+EN Huh, what's this all of a sudden?
+EN But it makes me happy!
+EN I'll do my best!
+
+@ 273.310
+# wrestler (voiced), case 1, used 2x
+JP …なんか心がこもってないなぁ…。
+EN ...That didn't sound very sincere...
+
+@ 273.320
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます。
+JP 期待にそえるようがんばります。
+EN Thank you.
+EN I'll work hard to meet expectations.
+
+@ 273.329
+# wrestler (voiced), case 1, used 2x
+JP …そんな。
+JP 買いかぶらないでください…。
+EN ...Oh, no.
+EN Please don't overestimate me...
+
+@ 273.339
+# wrestler (voiced), case 0, used 2x
+JP なんだよ、急に…。
+JP でも…ありがとうよ！
+JP がんばるぜッ！
+EN What's this, all of a sudden...
+EN But... thanks!
+EN I'll give it my all!
+
+@ 273.348
+# wrestler (voiced), case 1, used 2x
+JP …ああ？
+JP なんだよ…。
+JP ヤブから棒に…。
+EN ...Huh?
+EN What's this...
+EN Out of nowhere...
+
+@ 273.358
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ。
+JP うれしいな～。
+JP がんばるねッ！
+EN Ehehe.
+EN That makes me happy.
+EN I'll do my best!
+
+@ 273.367
+# wrestler (voiced), case 1, used 2x
+JP …うん…。
+JP がんばってみるよ…。
+EN ...Okay...
+EN I'll try my best...
+
+@ 273.377
+# wrestler (voiced), case 0, used 2x
+JP 当たり前でしょ。
+JP 私は常に完璧を目指してるんだから。
+JP でも…ありがとう…。
+EN Of course.
+EN I always aim for perfection.
+EN But... thank you...
+
+@ 273.386
+# wrestler (voiced), case 1, used 2x
+JP …がんばるわ。
+EN ...I'll do my best.
+
+@ 273.396
+# wrestler (voiced), case 0, used 2x
+JP ……えッ？
+JP あ、ありがとうございます！
+EN ......Huh?
+EN Th-thank you very much!
+
+@ 273.405
+# wrestler (voiced), case 1, used 4x
+JP …はい。
+JP がんばってみます…。
+EN ...Yes.
+EN I'll try my best...
+
+@ 273.415
+# wrestler (voiced), case 0, used 2x
+JP …そう。
+JP まあいいんじゃない。
+EN ...I see.
+EN I guess that's fine.
+
+@ 273.424
+# wrestler (voiced), case 1, used 2x
+JP ……ふ～ん。
+EN ......Hmm.
+
+@ 273.434
+# wrestler (voiced), case 0, used 2x
+JP も～、社長ってば
+JP ほめるのうまいんだから～！
+JP がんばっちゃうよ～！
+EN Oh, Boss, you're so
+EN good at compliments!
+EN Now I'm gonna try extra hard!
+
+@ 273.443
+# wrestler (voiced), case 1, used 2x
+JP …あー。
+JP まあ、がんばるわ…。
+EN ...Ah.
+EN Well, I'll do my best...
+
+@ 273.453
+# wrestler (voiced), case 0, used 2x
+JP はいッ！
+JP がんばりますッ！
+JP 見守っていてください！
+EN Yes!
+EN I'll do my best!
+EN Please keep watching over me!
+
+@ 273.462
+# wrestler (voiced), case 1, used 2x
+JP やるだけやってみますけど…。
+EN I'll do what I can, but...
+
+@ 273.472
+# wrestler (voiced), case 0, used 2x
+JP …フッ。
+JP まあ見てなって！
+EN ...Heh.
+EN Just watch me!
+
+@ 273.481
+# wrestler (voiced), case 1, used 2x
+JP …ん。
+JP まぁ程々にやるわ…。
+EN ...Mm.
+EN I'll do it in moderation...
+
+@ 273.491
+# wrestler (voiced), case 0, used 2x
+JP うんッ！
+JP がんばる！
+JP 今度勝ったらごほうび買ってね！
+EN Yeah!
+EN I'll do my best!
+EN Buy me a reward next time I win!
+
+@ 273.500
+# wrestler (voiced), case 1, used 2x
+JP …うん。
+JP わかった…。
+EN ...Yeah.
+EN Okay...
+
+@ 273.510
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP 社長のためにもがんばりますわ。
+EN ...Yes.
+EN I shall do my best, for your sake
+EN too.
+
+@ 273.519
+# wrestler (voiced), case 1, used 2x
+JP …え、ええ…。
+JP お約束できるか不安ですが…。
+EN ...Y-yes...
+EN Though I'm not sure I can promise...
+
+@ 273.529
+# wrestler (voiced), case 0, used 2x
+JP …はい。
+JP がんばります。
+EN ...Yes.
+EN I'll do my best.
+
+@ 273.548
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます。
+JP うれしいです…。
+EN Thank you.
+EN I'm happy...
+
+@ 273.557
+# wrestler (voiced), case 1, used 2x
+JP …えぇ。
+JP がんばってみます…。
+EN ...Yes.
+EN I'll try my best...
+
+@ 273.567
+# wrestler (voiced), case 0, used 2x
+JP …え～。
+JP なんか照れるなぁ。
+JP がんばっちゃうよ～！
+EN ...Aww.
+EN That's kinda embarrassing.
+EN I'm gonna try extra hard!
+
+@ 273.576
+# wrestler (voiced), case 1, used 2x
+JP …んー。
+JP 努力はしてみるよ…。
+EN ...Mmm.
+EN I'll make an effort...
+
+@ 273.586
+# wrestler (voiced), case 0, used 2x
+JP …そんな、たまたまですって！
+JP でも、うれしいです！
+JP がんばりますッ！
+EN ...Oh, that was just luck!
+EN But I'm happy!
+EN I'll do my best!
+
+@ 273.605
+# wrestler (voiced), case 0, used 2x
+JP はいッ！
+JP 自分はプロレス一筋ですから！
+EN Yes!
+EN Pro wrestling is my whole life!
+
+@ 273.614
+# wrestler (voiced), case 1, used 2x
+JP やるだけやってみる
+JP つもりですが…。
+EN I intend to do
+EN what I can, but...
+
+@ 273.643
+# wrestler (voiced), case 0, used 2x
+JP 当然のことです。
+EN Naturally.
+
+@ 273.652
+# wrestler (voiced), case 1, used 2x
+JP 社長、分析力が不足していますよ。
+EN Boss, your analysis is lacking.
+
+@ 273.662
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP 期待していてください。
+EN ...Yes.
+EN You may look forward to it.
+
+@ 273.671
+# wrestler (voiced), case 1, used 2x
+JP その調子とは
+JP どんな調子ですか…？
+EN "Keep it up"?
+EN Keep what up, exactly...?
+
+@ 273.681
+# wrestler (voiced), case 0, used 2x
+JP ……は…はい……。
+EN ......Y...yes......
+
+@ 273.690
+# wrestler (voiced), case 1, used 2x
+JP ……と言われても……。
+EN ......Even if you say that......
+
+@ 273.700
+# wrestler (voiced), case 0, used 2x
+JP …あ、ありがとうございます！
+JP ボクがんばリます！
+EN ...Th-thank you very much!
+EN I'll do my best!
+
+@ 273.709
+# wrestler (voiced), case 1, used 2x
+JP …うぅ…。
+JP プレッシャーが…。
+EN ...Ugh...
+EN The pressure...
+
+@ 273.719
+# wrestler (voiced), case 0, used 2x
+JP わかった！
+JP 真帆はがんばるぞ！
+EN Got it!
+EN Maho will do her best!
+
+@ 273.728
+# wrestler (voiced), case 1, used 2x
+JP それはムリだ。
+EN That's impossible.
+
+@ 273.738
+# wrestler (voiced), case 0, used 2x
+JP 仕事ですから…。
+JP でも、うれしいです。
+JP がんばりますね。
+EN It's my job, after all...
+EN But I'm happy.
+EN I'll do my best.
+
+@ 273.747
+# wrestler (voiced), case 1, used 2x
+JP …はぁ…。
+JP 努力しますが…。
+EN ...Well...
+EN I'll make an effort, but...
+
+@ 273.757
+# wrestler (voiced), case 0, used 2x
+JP またまた～！
+JP でも、ありがと！
+JP がんばっちゃうよ～！
+EN Oh, come on!
+EN But thanks!
+EN I'm gonna try extra hard!
+
+@ 273.766
+# wrestler (voiced), case 1, used 2x
+JP …そぅ？
+JP ま、ぼちぼちがんばりますわ。
+EN ...Really?
+EN Well, I'll just plug away at it.
+
+@ 273.776
+# wrestler (voiced), case 0, used 2x
+JP …えッ、あの…う、うれしいです！
+JP がんばっちゃう…じゃなくて
+JP 精一杯がんばります！
+EN ...Oh, um... I-I'm so happy!
+EN I'm gonna try... I mean,
+EN I'll try as hard as I can!
+
+@ 273.785
+# wrestler (voiced), case 1, used 2x
+JP 当然です！
+JP 言われなくても、がんばりますよ。
+EN Of course!
+EN I'll work hard without being told.
+
+@ 273.795
+# wrestler (voiced), case 0, used 2x
+JP …あ、ありがとうございます！
+JP 社長にそう言ってもらえるなんて
+JP うれしいです！
+EN ...Th-thank you very much!
+EN I'm so happy to hear
+EN that from you, Boss!
+
+@ 273.804
+# wrestler (voiced), case 1, used 2x
+JP …はい。
+JP がんばります…。
+EN ...Yes.
+EN I'll do my best...
+
+@ 273.814
+# wrestler (voiced), case 0, used 2x
+JP もちろんです！
+JP がんばります、キャプテン！
+EN Of course!
+EN I'll do my best, Captain!
+
+@ 273.823
+# wrestler (voiced), case 1, used 2x
+JP …はい。
+JP でもまだまだなんです…。
+EN ...Yes.
+EN But I've still got a long way to
+EN go...
+
+@ 273.833
+# wrestler (voiced), case 0, used 2x
+JP 当たり前です。
+JP がんばらなかったときなど
+JP なかったつもりですが？
+EN Naturally.
+EN I don't believe there's ever been
+EN a time I didn't work hard.
+
+@ 273.842
+# wrestler (voiced), case 1, used 2x
+JP …はい。
+JP わかっています…。
+EN ...Yes.
+EN I understand...
+
+@ 273.852
+# wrestler (voiced), case 0, used 2x
+JP …まあ。
+JP うれしいです。
+JP がんばります～。
+EN ...Oh my.
+EN I'm happy.
+EN I'll do my best.
+
+@ 273.861
+# wrestler (voiced), case 1, used 2x
+JP …また～。
+JP 社長もお世辞がお上手で…。
+EN ...Oh, stop.
+EN You're such a flatterer, Boss...
+
+@ 273.871
+# wrestler (voiced), case 0, used 2x
+JP エッヘッヘー！
+JP そんなこと言われたら
+JP ますますがんばっちゃうもんね！
+EN Eh-heh-heh!
+EN If you say stuff like that,
+EN I'll just have to try even harder!
+
+@ 273.880
+# wrestler (voiced), case 1, used 2x
+JP ん～～。
+JP 努力はするよ。
+EN Mmm...
+EN I'll make an effort.
+
+@ 273.890
+# wrestler (voiced), case 0, used 2x
+JP 当たり前だろ？
+JP これからもこの調子で
+JP いくワケだし。
+EN Obviously, right?
+EN I'm gonna keep going
+EN just like this.
+
+@ 273.899
+# wrestler (voiced), case 1, used 2x
+JP そう言われて喜ぶほど
+JP 単純じゃねーよ。
+EN I'm not so simple that
+EN a line like that makes me happy.
+
+@ 273.909
+# wrestler (voiced), case 0, used 2x
+JP トーゼンだろ？
+JP これからもこの調子でいく
+JP ワケだし？
+EN Obviously, right?
+EN I'm gonna keep going
+EN just like this, y'know?
+
+@ 273.918
+# wrestler (voiced), case 1, used 2x
+JP そう言われて
+JP 喜ぶとでも思ってんのか？
+EN You think a line like that
+EN is gonna make me happy?
+
+@ 273.928
+# wrestler (voiced), case 0, used 2x
+JP うれしいこと
+JP 言ってくれるじゃないか。
+JP がんばるよ！
+EN Now that's nice
+EN of you to say.
+EN I'll do my best!
+
+@ 273.937
+# wrestler (voiced), case 1, used 2x
+JP …ああ！
+JP うるさいねぇ。
+EN ...Ugh!
+EN Enough already.
+
+@ 273.947
+# wrestler (voiced), case 0, used 2x
+JP もちろんだ。
+JP ありがとう…。
+EN Of course.
+EN Thank you...
+
+@ 273.956
+# wrestler (voiced), case 1, used 2x
+JP かたじけない…。
+EN I am in your debt...
+
+@ 273.966
+# wrestler (voiced), case 0, used 2x
+JP ヘッヘッヘ…。
+JP たまにはいいこと言うじゃねーか！
+EN Heh-heh-heh...
+EN You say something nice for once!
+
+@ 273.975
+# wrestler (voiced), case 1, used 2x
+JP ああ！
+JP そうかよ。
+EN Yeah?
+EN Whatever.
+
+@ 273.1005
+# wrestler (voiced), case 0
+JP そんなこと…。
+JP 突然…言うな…。
+EN Don't...
+EN say that so suddenly...
+
+@ 273.1014
+# wrestler (voiced), case 1
+JP …なんだ？
+JP いきなり…。
+EN ...What?
+EN All of a sudden...
+
+@ 273.1024
+# wrestler (voiced), case 0
+JP ありがとうございます！
+JP 社長直々ってなんか照れますね。
+EN Thank you very much!
+EN Hearing it from you is kinda
+EN embarrassing.
+
+@ 273.1033
+# wrestler (voiced), case 1
+JP あは…がんばります…。
+EN Aha... I'll do my best...
+
+@ 273.1043
+# wrestler (voiced), case 0
+JP とーぜんよ！
+JP 私、まだまだ伸びるんだから！
+EN Obviously!
+EN I've still got lots of room to grow!
+
+@ 273.1062
+# wrestler (voiced), case 0
+JP 任せて！
+JP まだまだいけるから！
+EN Leave it to me!
+EN I've still got plenty left!
+
+@ 273.1071
+# wrestler (voiced), case 1
+JP まぁ、がんばるね…。
+EN Well, I'll do my best...
+
+@ 273.1081
+# wrestler (voiced), case 0
+JP 任務ですから当然です。
+JP ですが、ありがとうございます。
+EN It's my duty, so naturally.
+EN Nevertheless, thank you.
+
+@ 273.1090
+# wrestler (voiced), case 1
+JP …善処します。
+EN ...I will see what I can do.
+
+@ 273.1100
+# wrestler (voiced), case 0, used 6x
+JP ありがとう……。
+EN Thank you......
+
+@ 273.1109
+# wrestler (voiced), case 1
+JP もうがんばってる……。
+EN I'm already trying......
+
+@ 273.1119
+# wrestler (voiced), case 0
+JP …ほ、本当ですか？
+JP うれしいです。
+EN ...R-really?
+EN I'm happy.
+
+@ 273.1128
+# wrestler (voiced), case 1
+JP え～と…。
+JP …はい。
+JP そうですね…。
+EN Um...
+EN ...Yes.
+EN I suppose...
+
+@ 273.1138
+# wrestler (voiced), case 0
+JP エッヘへッ。
+JP ありがとうございます！
+EN Ehehe.
+EN Thank you very much!
+
+@ 273.1147
+# wrestler (voiced), case 1
+JP アハハ…。
+JP ちゃんとやりますよ…。
+EN Ahaha...
+EN I'll do it properly...
+
+@ 273.1157
+# wrestler (voiced), case 0
+JP お上手ですわね。
+JP まあ、悪い気はしませんけど。
+EN You do flatter well.
+EN Well, I can't say I mind.
+
+@ 273.1166
+# wrestler (voiced), case 1
+JP 話ってそれだけですの？
+EN Is that all you wanted to say?
+
+@ 273.1176
+# wrestler (voiced), case 0
+JP この調子で頼まれました～。
+EN Keep it up like this?
+EN You got it~.
+
+@ 273.1185
+# wrestler (voiced), case 1
+JP また～。
+JP 急にほめないでくださいよ～。
+EN Oh, stop.
+EN Don't praise me out of nowhere!
+
+@ 273.1195
+# wrestler (voiced), case 0
+JP ははッ！
+JP ありがと。
+JP がんばってみようかな。
+EN Haha!
+EN Thanks.
+EN Maybe I'll give it a shot.
+
+@ 273.1204
+# wrestler (voiced), case 1
+JP ほめたって何も出ないよ。
+EN Flattery won't get you anything.
+
+@ 273.1214
+# wrestler (voiced), case 0
+JP あったりまえよ！
+JP まぁ、社長をがっかりは
+JP させねーよ！
+EN Damn right!
+EN Well, I ain't gonna let
+EN you down, Boss!
+
+@ 273.1223
+# wrestler (voiced), case 1
+JP …あぁ。
+JP まー、テキトーにな…。
+EN ...Yeah.
+EN I'll just wing it...
+
+@ 273.1233
+# wrestler (voiced), case 0
+JP …あ、ありがとうございます。
+JP ほめられるのは
+JP やはりうれしいものですね…。
+EN ...Th-thank you very much.
+EN Being praised really is
+EN nice, isn't it...
+
+@ 273.1242
+# wrestler (voiced), case 1
+JP 私は仕事をしている
+JP だけですから…。
+EN I'm only doing
+EN my job...
+
+@ 273.1252
+# wrestler (voiced), case 0
+JP ありがとうございます。
+JP もっとがんばります！
+EN Thank you very much.
+EN I'll work even harder!
+
+@ 273.1261
+# wrestler (voiced), case 1
+JP そこそこやってみます…。
+EN I'll do a decent job...
+
+@ 273.1271
+# wrestler (voiced), case 0
+JP そんなことないですよ～。
+JP ヘヘへ～。
+EN Oh, that's not true!
+EN Hehehe!
+
+@ 273.1280
+# wrestler (voiced), case 1
+JP …あ、はい…。
+JP …そんなにがんばって
+JP ないんだけどな…。
+EN ...Oh, yes...
+EN ...I'm not really trying
+EN that hard, though...
+
+@ 273.2305
+# Secretary, case 0
+JP {name:0}選手の
+JP モラルがアップしました。
+EN {name:0}'s morale
+EN has gone up.

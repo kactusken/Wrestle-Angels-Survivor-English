@@ -1,0 +1,205 @@
+# Event script entry 188 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 188.76
+# other, used 2x
+JP 社長、お腹すいてませんか？
+EN Boss, aren't you hungry?
+
+@ 188.83
+# President, used 2x
+JP あ、石川か。
+JP そうだなぁ…。
+EN Oh, Ishikawa.
+EN Let's see...
+
+@ 188.85
+# President, used 2x
+JP 結構減ってる…かな？
+EN I guess I'm pretty hungry...?
+
+@ 188.91
+# other, used 2x
+JP そうですか。
+JP よかったー。
+JP 実はお弁当作ってきたんです～。
+EN Really?
+EN Oh, good!
+EN Actually, I made us a bento~
+
+@ 188.109
+# President, used 2x
+JP 弁当？
+EN A bento?
+
+@ 188.115
+# other, used 2x
+JP …ええ。
+JP ご一緒にいかがです？
+EN ...Yes.
+EN Would you like to share it?
+
+@ 188.122
+# President, used 2x
+JP おお、うまそうだ。
+JP もらっていいのか？
+EN Oh, that looks good.
+EN Are you sure?
+
+@ 188.128
+# other, used 2x
+JP ええ、いっぱい作りましたから。
+JP 他の子たちにもあげられるくらい
+JP 作ってきたんです～。
+EN Yes, I made plenty.
+EN I made enough to share with
+EN the other girls too~
+
+@ 188.135
+# President, used 2x
+JP そうか。
+JP じゃ、いただきま…。
+EN I see.
+EN Well, thanks for the f...
+
+@ 188.137
+# President, used 2x
+JP （口に入れる直前、俺の手が止まった。）
+EN (Just before it reached my mouth,
+EN my hand stopped.)
+
+@ 188.139
+# President, used 2x
+JP （何かすっぱい臭いがする…。）
+EN (Something smells sour...)
+
+@ 188.141
+# President, used 2x
+JP （この臭いを感じたのは
+JP 石川も同じだったらしい。）
+EN (Apparently Ishikawa had noticed
+EN the smell too.)
+
+@ 188.143
+# President, used 2x
+JP （ただ、俺のように直前で
+JP 手を止められなかったのだろう。）
+EN (But unlike me, she must not have
+EN stopped her hand in time.)
+
+@ 188.153
+# President, used 2x
+JP （一口かじった状態で
+JP 複雑な表情を浮かべている。）
+EN (She's wearing a complicated
+EN look, with one bite taken.)
+
+@ 188.155
+# President, used 2x
+JP （涙目だし…。）
+EN (And her eyes are watering...)
+
+@ 188.157
+# President, used 2x
+JP つかぬ事を聞くが…。
+EN This might be a strange question,
+EN but...
+
+@ 188.163
+# other, used 2x
+JP ふぁい…。
+EN Yesh...?
+
+@ 188.170
+# President, used 2x
+JP この弁当いつどこで作った？
+EN When and where did you make this
+EN bento?
+
+@ 188.176
+# other, used 2x
+JP 日本で出発前に…。
+JP エヘッ…。
+JP 日本食がいいなあって。
+EN In Japan, before we left...
+EN Ehehe... I wanted some
+EN Japanese food.
+
+@ 188.183
+# President, used 2x
+JP 出発前か…。
+EN Before we left, huh...
+
+@ 188.189
+# other, used 2x
+JP １日くらい平気だと思って～。
+JP ほら、中身梅干しなんですよ。
+EN I figured a day would be fine~
+EN See, it's got pickled plums inside.
+
+@ 188.198
+# President, used 2x
+JP （南国の暑さの中で
+JP １日放置すればなあ…。）
+EN (Leave it out a whole day in the
+EN tropical heat, and well...)
+
+@ 188.204
+# other, used 2x
+JP うぅ～…。
+JP 社長…。
+EN Uuugh...
+EN Boss...
+
+@ 188.217
+# other, used 2x
+JP 口の中がすっぱいです～。
+EN My mouth is all sour~
+
+@ 188.224
+# President, used 2x
+JP 報告する前に吐き出せ。
+EN Spit it out before you tell me.
+
+@ 188.230
+# other, used 2x
+JP でも、もったいなくて…。
+EN But it'd be such a waste...
+
+@ 188.237
+# President, used 2x
+JP 腹痛で明日からのバカンスを
+JP 台なしにする方がもったいないだろ？
+EN Isn't ruining the rest of the
+EN vacation
+EN with a stomachache more of a waste?
+
+@ 188.243
+# other, used 2x
+JP うぅ～…。
+JP 朝４時に起きてがんばって
+JP 作ったのに…。
+EN Uuugh...
+EN I got up at 4 in the morning
+EN to make it...
+
+@ 188.254
+# President, used 2x
+JP （石川はそう言いながら
+JP 泣く泣く弁当を処分した…。）
+EN (Saying that, Ishikawa tearfully
+EN threw the bento away...)
+
+@ 188.256
+# President, used 2x
+JP （家庭的で優しいんだが
+JP どこか抜けてるんだよなぁ…。）
+EN (She's homey and kind, but she's
+EN a bit of an airhead...)

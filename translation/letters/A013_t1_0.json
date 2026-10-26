@@ -1,0 +1,9 @@
+{
+ "english": "Dominance Map | Page",
+ "boxes": [[24, 1, 196, 31], [160, 32, 48, 22]],
+ "draw": "system.draw",
+ "ground": "keep",
+ "groups": [{"labels": [0], "font": "BarlowCondensed-ExtraBoldItalic.ttf", "cap": 22, "margin": 2, "fill": {"grad": [[5, 14, 253], [0, 125, 254]]}, "outline": {"w": 2, "rgb": [255, 255, 255]}, "glow": {"w": 2, "blur": 3, "rgb": [255, 255, 240], "a": 170}, "inpaint": [{"rect": [20, 2, 202, 30], "mode": "rowlerp", "seed": [[0, 15, 253], [0, 40, 253], [0, 70, 253], [0, 100, 253], [0, 125, 254], [60, 140, 253], [120, 180, 253], [180, 215, 253]], "tol": 45, "near": 3}]}, {"labels": [1], "font": "BarlowCondensed-Bold.ttf", "cap": 13, "margin": 2, "align": "left", "fill": [249, 246, 185], "outline": {"w": 2, "rgb": [46, 48, 145]}, "repaint": [{"rect": [160, 32, 48, 22], "index": "auto"}]}],
+ "notes": "screen title banner over the map / shop screens; (L1 R1) Page on the plate below. The band behind the title is rebuilt row by row from the pixels either side of the old letters",
+ "catalogue": {"source": "/A000/A013.", "width": 256, "height": 64, "bpp": 8, "category": "title", "japanese": "最大勢力図 | ページ"}
+}

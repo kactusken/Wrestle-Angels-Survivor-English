@@ -1,0 +1,1920 @@
+# Event script entry 180 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 180.77
+# wrestler (voiced), case 8, used 2x
+JP …えッ、私？
+JP なんでしょうか～？
+EN ...Huh, me?
+EN What is it?
+
+@ 180.84
+# wrestler (voiced), case 8, used 2x
+JP …ン、なに？
+JP あたし？
+EN ...Hm, what?
+EN Me?
+
+@ 180.105
+# wrestler (voiced), case 8, used 2x
+JP …えっと、誰？
+EN ...Um, who are you?
+
+@ 180.119
+# wrestler (voiced), case 8, used 2x
+JP …ン、なになに？
+JP なんか用？
+EN ...Hm, what's up?
+EN You need something?
+
+@ 180.126
+# wrestler (voiced), case 8, used 2x
+JP はーい、なんですかぁ？
+EN Yeees, what is it?
+
+@ 180.133
+# wrestler (voiced), case 8, used 4x
+JP 何かご用ですか？
+EN Can I help you?
+
+@ 180.154
+# wrestler (voiced), case 8, used 2x
+JP なーに？
+JP ナンパならお断りしま～す！
+EN Whaaat?
+EN If you're hitting on me, no thanks!
+
+@ 180.189
+# wrestler (voiced), case 8, used 2x
+JP …ン、何か用ですか？
+EN ...Hm, can I help you?
+
+@ 180.196
+# wrestler (voiced), case 8, used 2x
+JP ナニ？
+JP なんか用すか？
+EN What?
+EN You need somethin'?
+
+@ 180.203
+# wrestler (voiced), case 8, used 2x
+JP …ン、呼んだ？
+EN ...Hm, you called?
+
+@ 180.210
+# wrestler (voiced), case 8, used 2x
+JP ……なんですか？
+EN ......What is it?
+
+@ 180.224
+# wrestler (voiced), case 8, used 2x
+JP なに？
+JP 何か用事？
+EN What?
+EN You need something?
+
+@ 180.231
+# wrestler (voiced), case 8, used 2x
+JP なーに？
+JP あたしに話って？
+EN Whaaat?
+EN You wanted to talk to me?
+
+@ 180.238
+# wrestler (voiced), case 8, used 2x
+JP はいッ？
+JP なんですかッ？
+EN Yes?
+EN What is it?
+
+@ 180.252
+# wrestler (voiced), case 8, used 4x
+JP なんですかー？
+EN What is iiit?
+
+@ 180.266
+# wrestler (voiced), case 8, used 2x
+JP はい、呼びましたか？
+EN Yes, did you call me?
+
+@ 180.273
+# wrestler (voiced), case 8, used 6x
+JP 私に何か？
+EN Can I help you?
+
+@ 180.280
+# wrestler (voiced), case 8, used 2x
+JP …えッ、なに？
+EN ...Huh, what?
+
+@ 180.287
+# wrestler (voiced), case 8, used 8x
+JP はい、なんですか？
+EN Yes, what is it?
+
+@ 180.322
+# wrestler (voiced), case 8, used 2x
+JP ……な、何か……用ですか……？
+EN ......C-can I... help you...?
+
+@ 180.336
+# wrestler (voiced), case 8, used 2x
+JP …ン、なんだ？
+EN ...Hm, what?
+
+@ 180.343
+# wrestler (voiced), case 8, used 2x
+JP 自分に何か？
+EN You need something from me?
+
+@ 180.357
+# wrestler (voiced), case 8, used 2x
+JP あたしに用ですか？
+JP おじさん…ダレ？
+EN You want me?
+EN Mister... who are you?
+
+@ 180.364
+# wrestler (voiced), case 8, used 2x
+JP …はい？
+JP あの…あたしに何か用ですか？
+EN ...Yes?
+EN Um... can I help you?
+
+@ 180.371
+# wrestler (voiced), case 8, used 6x
+JP はいッ！
+JP なんでしょうか？
+EN Yes!
+EN What can I do for you?
+
+@ 180.378
+# wrestler (voiced), case 8, used 2x
+JP …はい、誰ですか？
+EN ...Yes, who are you?
+
+@ 180.385
+# wrestler (voiced), case 8, used 2x
+JP はい、どちら様でしょうか～？
+EN Yes, and who might you be?
+
+@ 180.392
+# wrestler (voiced), case 8, used 2x
+JP はいはい、あたしに用かな？
+EN Yes, yes, looking for me?
+
+@ 180.413
+# wrestler (voiced), case 8, used 2x
+JP …あん？
+JP なんだい…？
+JP おっさん誰？
+EN ...Huh?
+EN What is it...?
+EN Who are you, old man?
+
+@ 180.433
+# other, case 8, used 4x
+JP …………ん……？
+EN ..........Hm......?
+
+@ 180.442
+# wrestler (voiced), case 8
+JP なにか？
+EN Yes?
+
+@ 180.449
+# wrestler (voiced), case 8
+JP はい、なんでしょう？
+EN Yes, what can I do for you?
+
+@ 180.456
+# wrestler (voiced), case 8
+JP あら？
+JP 何かしら？
+EN Oh?
+EN What might this be?
+
+@ 180.463
+# wrestler (voiced), case 8, used 4x
+JP …あ、はい。
+JP なんですか？
+EN ...Oh, yes.
+EN What is it?
+
+@ 180.498
+# wrestler (voiced), case 8, used 3x
+JP どちら様？
+EN And you are?
+
+@ 180.505
+# wrestler (voiced), case 8
+JP あ、どうも～。
+JP どなたでしたっけ？
+EN Oh, hello!
+EN Have we met?
+
+@ 180.512
+# wrestler (voiced), case 8
+JP おじさん、誰？
+EN Mister, who are you?
+
+@ 180.519
+# wrestler (voiced), case 8
+JP あー？
+JP アタシになんだって？
+EN Huh?
+EN What d'you want with me?
+
+@ 180.526
+# wrestler (voiced), case 8, used 2x
+JP はい、なんでしょうか？
+EN Yes, what can I do for you?
+
+@ 180.540
+# wrestler (voiced), case 8
+JP えー、なんですかー？
+EN Ehh, what is iiit?
+
+@ 180.929
+# wrestler (voiced), case 8, used 2x
+JP あー、あの団体の社長さんですか！？
+JP 私に何かご用ですか～？
+EN Oh, the president of that
+EN promotion!?
+EN What can I do for you?
+
+@ 180.936
+# wrestler (voiced), case 8, used 2x
+JP …えッ、社長さんッ！？
+JP 何かご用ですか？
+EN ...Huh, a president!?
+EN What can I do for you?
+
+@ 180.943
+# wrestler (voiced), case 8, used 2x
+JP ああ、あの団体の…。
+EN Oh, from that promotion...
+
+@ 180.950
+# wrestler (voiced), case 8, used 2x
+JP ど、どのようなご用件でしょう？
+EN H-how may I help you?
+
+@ 180.957
+# wrestler (voiced), case 8, used 2x
+JP プロレス団体の社長さん！？
+JP 私に何か用…？
+EN A wrestling promotion's president!?
+EN What do you want with me...?
+
+@ 180.963
+# other, case 8, used 4x
+JP ……で？
+EN ......And?
+
+@ 180.971
+# wrestler (voiced), case 8, used 2x
+JP あー、知ってる、知ってる！
+EN Oh, I know, I know!
+
+@ 180.978
+# wrestler (voiced), case 8, used 2x
+JP えーと…。
+JP それでなんですか？
+EN Umm...
+EN So what is it?
+
+@ 180.985
+# wrestler (voiced), case 8, used 2x
+JP 社長さんなんですか！？
+JP …それであの…どんなご用ですか？
+EN You're a president!?
+EN ...So, um... what can I do for you?
+
+@ 180.992
+# wrestler (voiced), case 8, used 2x
+JP ああ、それでなんでしょう？
+EN Ah. So, what is it?
+
+@ 180.1006
+# wrestler (voiced), case 8, used 2x
+JP …へッ！？
+JP 社長さん？
+JP 何か用ですか～？
+EN ...Huh!?
+EN A president?
+EN What do you need?
+
+@ 180.1020
+# wrestler (voiced), case 8, used 2x
+JP 社長さん…ですか？
+JP それで、私に何かご用ですか？
+EN A president... you say?
+EN So, what can I do for you?
+
+@ 180.1034
+# wrestler (voiced), case 8, used 2x
+JP へえ、社長さんなの。
+JP それで、話って？
+EN Oh, a president.
+EN So, what did you want to talk about?
+
+@ 180.1048
+# wrestler (voiced), case 8, used 2x
+JP へぇ、社長さんね…。
+JP …で、なに？
+EN Huh, a president...
+EN ...So, what?
+
+@ 180.1055
+# wrestler (voiced), case 8, used 2x
+JP へぇ～、社長さん？
+JP 私になんの用？
+EN Ooh, a president?
+EN What do you want with me?
+
+@ 180.1062
+# wrestler (voiced), case 8, used 2x
+JP それで、どういった用件？
+EN So, what's this about?
+
+@ 180.1076
+# wrestler (voiced), case 8, used 2x
+JP へぇ、社長さんね…。
+JP …で、何か用？
+EN Huh, a president...
+EN ...So, what do you want?
+
+@ 180.1083
+# wrestler (voiced), case 8, used 2x
+JP 社長さん！？
+JP へー、すごいね。
+JP …で、あたしに話って？
+EN A president!?
+EN Wow, impressive.
+EN ...So, you wanted to talk to me?
+
+@ 180.1097
+# wrestler (voiced), case 8, used 2x
+JP マジ！？
+JP どこの団体？
+JP なんの用？
+EN Seriously!?
+EN Which promotion?
+EN What do you want?
+
+@ 180.1104
+# wrestler (voiced), case 8, used 2x
+JP へぇ、社長さんなんだぁ！
+JP すごいね！
+EN Ooh, you're a president!
+EN That's amazing!
+
+@ 180.1111
+# wrestler (voiced), case 8, used 2x
+JP ということは、社長さんですの？
+EN Which means you are a president?
+
+@ 180.1118
+# wrestler (voiced), case 8, used 2x
+JP それで、何か…？
+EN And so...?
+
+@ 180.1132
+# wrestler (voiced), case 8, used 2x
+JP へ～、社長さんかぁ…。
+JP …で、あたしに話って？
+EN Ooh, a president, huh...
+EN ...So, you wanted to talk to me?
+
+@ 180.1146
+# wrestler (voiced), case 8, used 4x
+JP 社長さんなんですか！？
+JP どんなご用ですか？
+EN You're a president!?
+EN What can I do for you?
+
+@ 180.1153
+# wrestler (voiced), case 8, used 4x
+JP ……経営……？
+EN ......Management......?
+
+@ 180.1160
+# wrestler (voiced), case 8, used 2x
+JP やはり移籍交渉ですね？
+EN A transfer negotiation, I presume?
+
+@ 180.1167
+# wrestler (voiced), case 8, used 2x
+JP はて、どのようなご用向きでしょう？
+EN Now then, what brings you here?
+
+@ 180.1174
+# wrestler (voiced), case 8, used 2x
+JP ……あ、怪しい勧誘じゃ
+JP ないですよね……？
+EN ......Th-this isn't some
+EN shady sales pitch, is it......?
+
+@ 180.1181
+# wrestler (voiced), case 8, used 2x
+JP ええッ！
+JP 本当に！？
+JP 何か用？
+EN Whoa!
+EN Really!?
+EN What do you want?
+
+@ 180.1188
+# wrestler (voiced), case 8, used 2x
+JP 本当か？
+JP どの団体だ？
+JP 何か用事か？
+EN Really?
+EN Which promotion?
+EN What do you want?
+
+@ 180.1195
+# wrestler (voiced), case 8, used 2x
+JP はあ、社長をされてるんですか。
+JP …で、自分に用というのは？
+EN Oh, you're a president.
+EN ...And what do you need me for?
+
+@ 180.1202
+# wrestler (voiced), case 8, used 2x
+JP へ～、社長さんなんや！
+JP …で、ウチに用って？
+EN Ooh, a president!
+EN ...So what d'ya want with me?
+
+@ 180.1209
+# wrestler (voiced), case 8, used 2x
+JP あ、社長さんでしたか。
+JP ごめんなさい、そう見えなくて…。
+JP それで、話ってなんですか？
+EN Oh, you're a president.
+EN Sorry, you didn't look like one...
+EN So, what did you want to talk about?
+
+@ 180.1216
+# wrestler (voiced), case 8, used 2x
+JP はい、それで、その社長さんが
+JP あたしに何か？
+EN Okay, and what does
+EN a president want with me?
+
+@ 180.1223
+# wrestler (voiced), case 8, used 2x
+JP はい、それで、その社長さんが
+JP 私に話があると…？
+EN Yes, and this president
+EN has something to discuss with me...?
+
+@ 180.1230
+# wrestler (voiced), case 8, used 2x
+JP それで、その社長さんが
+JP 私に何か用ですか？
+EN And what does this president
+EN want with me?
+
+@ 180.1237
+# wrestler (voiced), case 8, used 2x
+JP まあ、では私をスカウトしに来たと
+JP いうのですか？
+EN My, so you have come
+EN to scout me, is that it?
+
+@ 180.1244
+# wrestler (voiced), case 8, used 2x
+JP へー、社長さんやってるんだ。
+JP それで、あたしに話って、なあに？
+EN Wow, so you run a promotion.
+EN So, what did you want to talk about?
+
+@ 180.1251
+# wrestler (voiced), case 8, used 4x
+JP …他の団体の？
+EN ...From another promotion?
+
+@ 180.1265
+# wrestler (voiced), case 8, used 2x
+JP へえ、社長さんかい…？
+JP その社長さんが
+JP あたしになんの用だい？
+EN Oh, a president, are ya...?
+EN And what does a president
+EN want with me?
+
+@ 180.1293
+# wrestler (voiced), case 8
+JP 社長…？
+JP 社長が何か？
+EN President...?
+EN What about it?
+
+@ 180.1300
+# wrestler (voiced), case 8
+JP えッ、ということは
+JP 社長さんなんですか。
+JP 私になんでしょう？
+EN Huh, so that means
+EN you're a president?
+EN What can I do for you?
+
+@ 180.1307
+# wrestler (voiced), case 8
+JP 社長さんなんだ。
+JP それで、私に何かしら？
+EN So you're a president.
+EN And what do you want with me?
+
+@ 180.1314
+# wrestler (voiced), case 8
+JP はあ、社長さんですか？
+JP 私に何か？
+EN Oh, a president?
+EN Can I help you?
+
+@ 180.1321
+# wrestler (voiced), case 8
+JP 団体の社長ですか。
+JP 私に何か？
+EN A promotion's president.
+EN Can I help you?
+
+@ 180.1342
+# wrestler (voiced), case 8
+JP その社長さんがなんの用？
+EN And what does this president want?
+
+@ 180.1349
+# wrestler (voiced), case 8
+JP あら、他団体の社長さんですか？
+EN Oh, the president of another
+EN promotion?
+
+@ 180.1363
+# wrestler (voiced), case 8, used 2x
+JP ふーん…。
+JP 社長さんねぇ。
+EN Hmm...
+EN A president, huh.
+
+@ 180.1370
+# wrestler (voiced), case 8, used 2x
+JP へー、あんた偉いんだ？
+JP それで？
+EN Wow, so you're a big shot?
+EN And?
+
+@ 180.1384
+# wrestler (voiced), case 8
+JP 社長さんなんですか…。
+JP なんでしょうか？
+EN You're a president...
+EN What can I do for you?
+
+@ 180.1391
+# wrestler (voiced), case 8
+JP へー、社長さんなんですかー。
+EN Wow, you're a president, huh.
+
+@ 180.1398
+# wrestler (voiced), case 8
+JP それで…？
+EN And...?
+
+@ 180.1769
+# President, case 8
+JP うちの団体に移籍して
+JP もらえないでしょうか？
+EN Would you consider transferring
+EN to my promotion?
+
+@ 180.1779
+# wrestler (voiced), case 8, used 2x
+JP 新しい団体…？
+JP う～ん…。
+JP 急に言われても…。
+EN A new promotion...?
+EN Hmm...
+EN This is so sudden...
+
+@ 180.1786
+# wrestler (voiced), case 8, used 2x
+JP 移籍ッ！？
+JP なに、いわゆるひとつの
+JP ヘッドハンティングってやつ？
+EN A transfer!?
+EN What, you mean like...
+EN headhunting?
+
+@ 180.1793
+# wrestler (voiced), case 8, used 2x
+JP 移籍…ですか……？
+EN A transfer... you say......?
+
+@ 180.1800
+# wrestler (voiced), case 8, used 2x
+JP 移籍…ですか？
+JP いいお話ですけど
+JP 少し考えさせてください…。
+EN A transfer...?
+EN It's a nice offer, but
+EN please let me think about it...
+
+@ 180.1807
+# wrestler (voiced), case 8, used 2x
+JP 移籍！？
+EN A transfer!?
+
+@ 180.1813
+# other, case 8, used 2x
+JP 急に言われても…。
+JP 今の団体に恩もあるし…。
+EN This is so sudden...
+EN And I owe my promotion a lot...
+
+@ 180.1821
+# wrestler (voiced), case 8, used 2x
+JP えッ、それって
+JP ヘッドハンティング！？
+EN Whoa, wait, is this
+EN headhunting!?
+
+@ 180.1828
+# wrestler (voiced), case 8, used 2x
+JP ナンパかと思ったら移籍の話！？
+JP どうしようかなぁ…。
+EN I thought you were hitting on me,
+EN but it's a transfer!? Hmm, what to
+EN do...
+
+@ 180.1835
+# wrestler (voiced), case 8, used 2x
+JP ええッ、いきなり移籍ですか！？
+JP ど、どうしよう…。
+EN Whoa, a transfer, just like that!?
+EN Wh-what do I do...
+
+@ 180.1842
+# wrestler (voiced), case 8, used 2x
+JP 移籍…ですか…。
+JP 私を認めてくださっているのですね。
+EN A transfer...
+EN So you recognize my ability.
+
+@ 180.1856
+# wrestler (voiced), case 8, used 2x
+JP 新手のナンパかと思っちゃった！
+JP 移籍…ですか…？
+EN I thought it was a new pickup line!
+EN A transfer... you say...?
+
+@ 180.1863
+# wrestler (voiced), case 8, used 2x
+JP 社長さんの団体に？
+JP うーん…。
+JP そんな急に言われても…。
+EN To your promotion?
+EN Hmm...
+EN That's so sudden...
+
+@ 180.1877
+# wrestler (voiced), case 8, used 2x
+JP そうねぇ…。
+JP どうしようかしら？
+EN Let's see...
+EN What shall I do?
+
+@ 180.1884
+# wrestler (voiced), case 8, used 2x
+JP えッ、アイドルの私を引き抜き！？
+JP うーん…。
+JP どうしよっかな…。
+EN Whoa, poaching an idol like me!?
+EN Hmm...
+EN What should I do...
+
+@ 180.1933
+# wrestler (voiced), case 8, used 2x
+JP ん～…。
+JP そうねぇ…。
+EN Mm...
+EN Let's see...
+
+@ 180.1940
+# wrestler (voiced), case 8, used 2x
+JP ええーッ！？
+JP もしかして引き抜きですか！？
+EN Whaaat!?
+EN Are you trying to poach me!?
+
+@ 180.1947
+# wrestler (voiced), case 8, used 2x
+JP 条件次第で考えてやってもいいよ。
+EN Depending on the terms,
+EN maybe I'll think about it.
+
+@ 180.1954
+# wrestler (voiced), case 8, used 2x
+JP 移籍…？
+JP 難しくってよくワカンナイ…。
+EN A transfer...?
+EN That's too hard, I don't get it...
+
+@ 180.1961
+# wrestler (voiced), case 8, used 2x
+JP ウッフフッ。
+JP そんな焦らないで…。
+EN Ufufu.
+EN Don't be so hasty...
+
+@ 180.1975
+# wrestler (voiced), case 8, used 2x
+JP 少し…考えさせてください…。
+EN Please... let me think about it...
+
+@ 180.1982
+# wrestler (voiced), case 8, used 2x
+JP え～。
+JP そうだなぁ…。
+EN Ehh.
+EN Let me see...
+
+@ 180.1989
+# wrestler (voiced), case 8, used 2x
+JP なるほど…移籍ですか…。
+EN I see... a transfer...
+
+@ 180.1996
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP 悩みどころですね…。
+EN Hmm...
+EN That's a tough one...
+
+@ 180.2010
+# wrestler (voiced), case 8, used 4x
+JP それは重要な問題ですので
+JP 即答はできかねますが…。
+EN This is an important matter,
+EN so I can't give you an answer
+EN right away, but...
+
+@ 180.2017
+# wrestler (voiced), case 8, used 4x
+JP まずは条件提示をして
+JP いただけませんか？
+EN Could you first tell me
+EN your terms?
+
+@ 180.2031
+# wrestler (voiced), case 8, used 2x
+JP え～、移籍！？
+JP そんなボクなんか…嘘でしょ？
+EN Whaaat, a transfer!?
+EN Someone like me... you're kidding?
+
+@ 180.2038
+# wrestler (voiced), case 8, used 2x
+JP 少し考えてもいいか…？
+EN Can I think about it a little...?
+
+@ 180.2045
+# wrestler (voiced), case 8, used 2x
+JP なるほど…。
+JP あなたの団体に…。
+EN I see...
+EN To your promotion...
+
+@ 180.2059
+# wrestler (voiced), case 8
+JP スカウトか…。
+JP む～。
+JP どうしよう…。
+EN Scouting, huh...
+EN Mmm.
+EN What do I do...
+
+@ 180.2066
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP 他の団体かあ…。
+JP 条件によっては考えてもいいですよ？
+EN Hmm...
+EN Another promotion...
+EN Depending on the terms, maybe?
+
+@ 180.2073
+# wrestler (voiced), case 8, used 2x
+JP すると、新しい団体で
+JP 新たな敵と戦うと…。
+EN So, in a new promotion,
+EN I'd fight new opponents...
+
+@ 180.2080
+# wrestler (voiced), case 8, used 2x
+JP 移籍ですか…？
+EN A transfer...?
+
+@ 180.2087
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP そうですねえ～…。
+EN Hmm...
+EN Let me seeee...
+
+@ 180.2094
+# wrestler (voiced), case 8
+JP 社長さんの団体に～！？
+JP ん～…。
+JP そうだなぁ…？
+EN To your promotion!?
+EN Mm...
+EN Let me think...?
+
+@ 180.2101
+# wrestler (voiced), case 8, used 4x
+JP そんなに移って欲しいのか？
+EN You want me that badly?
+
+@ 180.2108
+# wrestler (voiced), case 8, used 2x
+JP へー。
+EN Huh.
+
+@ 180.2115
+# wrestler (voiced), case 8, used 2x
+JP つまり、おたくの団体に
+JP 移ってほしいってことかい？
+EN So you want me to move
+EN to your promotion, that it?
+
+@ 180.2129
+# wrestler (voiced), case 8, used 2x
+JP あんたの団体ねぇ…。
+EN Your promotion, huh...
+
+@ 180.2143
+# wrestler (voiced), case 8
+JP 移籍…？
+JP 本気か？
+EN A transfer...?
+EN Are you serious?
+
+@ 180.2150
+# wrestler (voiced), case 8
+JP そちらの団体にですか…？
+JP うーん…。
+EN To your promotion...?
+EN Hmm...
+
+@ 180.2157
+# wrestler (voiced), case 8
+JP 私があなたの団体に？
+JP ふーん…。
+EN Me, in your promotion?
+EN Hmm...
+
+@ 180.2164
+# wrestler (voiced), case 8
+JP 社長さんの団体かぁ…。
+EN Your promotion, huh...
+
+@ 180.2171
+# wrestler (voiced), case 8
+JP そちらに移籍せよと？
+JP うーん…。
+EN You want me to transfer to yours?
+EN Hmm...
+
+@ 180.2178
+# wrestler (voiced), case 8
+JP あなたの団体…？
+EN Your promotion...?
+
+@ 180.2185
+# wrestler (voiced), case 8
+JP ええッ、移籍ですか！？
+JP 社長さんの団体に？
+JP え～と、う～ん…。
+EN Whoa, a transfer!?
+EN To your promotion?
+EN Um, uh, hmm...
+
+@ 180.2192
+# wrestler (voiced), case 8
+JP 移籍ねえ…。
+EN A transfer, huh...
+
+@ 180.2199
+# wrestler (voiced), case 8
+JP どうしようかしら？
+EN What shall I do?
+
+@ 180.2206
+# wrestler (voiced), case 8
+JP う～ん…。
+JP う～ん…。
+EN Hmm...
+EN Hmmm...
+
+@ 180.2213
+# wrestler (voiced), case 8
+JP うーん…。
+JP どうするかなぁ…？
+EN Hmm...
+EN What should I do...?
+
+@ 180.2220
+# wrestler (voiced), case 8
+JP へー、それって
+JP ヘッドハンティングってやつ？
+EN Huh, so is this that
+EN "headhunting" thing?
+
+@ 180.2227
+# wrestler (voiced), case 8
+JP あなたの団体にですか？
+JP 私が…？
+EN To your promotion?
+EN Me...?
+
+@ 180.2234
+# wrestler (voiced), case 8
+JP 移籍ですか…。
+JP うーん…。
+EN A transfer...
+EN Hmm...
+
+@ 180.2241
+# wrestler (voiced), case 8
+JP 移籍ですか？
+EN A transfer?
+
+@ 180.2535
+# wrestler (voiced), case 8
+JP スカウトか…。
+JP む～…。
+JP どうしよう…。
+EN Scouting, huh...
+EN Mmm...
+EN What do I do...
+
+@ 180.2570
+# wrestler (voiced), case 8
+JP 社長さんの団体に～！？
+JP ん～～。
+JP そうだなぁ…？
+EN To your promotion!?
+EN Mmm.
+EN Let me think...?
+
+@ 180.2632
+# wrestler (voiced), case 0, used 3x
+JP そうですね～。
+JP 気分一新、新しいリングで
+JP がんばります～！
+EN Okay!
+EN A fresh start in a new ring...
+EN I'll do my best!
+
+@ 180.2641
+# wrestler (voiced), case 1, used 4x
+JP 今の団体が気に入っていますので…。
+JP ごめんなさい…。
+EN I like my current promotion...
+EN I'm sorry...
+
+@ 180.2651
+# wrestler (voiced), case 0, used 4x
+JP いく、いく！
+JP もう即決ッ！
+JP お世話になりますッ！
+EN I'm in, I'm in!
+EN Decided, just like that!
+EN I'm in your hands!
+
+@ 180.2660
+# wrestler (voiced), case 1, used 4x
+JP うーん…。
+JP 今はまだ考えられないかな…。
+JP つーわけで、ゴメンね！
+EN Hmm...
+EN I can't really think about that now.
+EN So, sorry!
+
+@ 180.2679
+# wrestler (voiced), case 1, used 4x
+JP 今の団体を裏切れないわ…。
+EN I can't betray my promotion...
+
+@ 180.2689
+# wrestler (voiced), case 0, used 4x
+JP わかりました。
+JP そのお話お受けします。
+JP お世話になります！
+EN Understood.
+EN I accept your offer.
+EN I'm in your hands!
+
+@ 180.2698
+# wrestler (voiced), case 1, used 2x
+JP 申し訳ありませんが
+JP 私は今の団体でがんばろうと
+JP 思います。
+EN I'm sorry, but I intend
+EN to keep working hard
+EN at my current promotion.
+
+@ 180.2708
+# wrestler (voiced), case 0, used 3x
+JP うん、いいよ！
+JP 社長さんのために
+JP ひと肌脱いじゃう！
+EN Sure, okay!
+EN I'll roll up my sleeves
+EN for you, Boss!
+
+@ 180.2717
+# wrestler (voiced), case 1, used 4x
+JP そういう話は
+JP ちゃんと事務所通してね！
+EN Offers like that
+EN go through my agency, okay?
+
+@ 180.2727
+# wrestler (voiced), case 0, used 4x
+JP 私の実力を認めてくれるのですね…。
+JP わかりました。
+JP お受けします。
+EN So you recognize my strength...
+EN Very well.
+EN I accept.
+
+@ 180.2746
+# wrestler (voiced), case 0, used 4x
+JP 決めた、やります！
+JP そのかわりお給料はずんでくださいね！
+JP エヘヘッ。
+EN Decided, I'm in!
+EN But you'd better pay me well!
+EN Ehehe.
+
+@ 180.2755
+# wrestler (voiced), case 1, used 4x
+JP ごめんなさい…。
+JP まだまだ今の団体でがんばります。
+EN I'm sorry...
+EN I'll keep at it with my promotion.
+
+@ 180.2765
+# wrestler (voiced), case 0, used 4x
+JP わかりました！
+JP 移籍しちゃいますッ！
+EN Got it!
+EN I'm transferring!
+
+@ 180.2784
+# wrestler (voiced), case 0, used 4x
+JP 社長さんにお世話になっちゃいます！
+JP よろしくお願いします！
+EN I'm in your hands, Boss!
+EN Nice to work with you!
+
+@ 180.2793
+# wrestler (voiced), case 1, used 2x
+JP あッ、練習の時間だ！
+JP やっぱり、ご、ごめんなさい！
+EN Oh, it's time for practice!
+EN S-sorry, I'll pass after all!
+
+@ 180.2803
+# wrestler (voiced), case 0, used 4x
+JP わかりました。
+JP お受けします。
+JP お世話になります。
+EN Understood.
+EN I accept.
+EN I'm in your hands.
+
+@ 180.2822
+# wrestler (voiced), case 0, used 4x
+JP わかった。
+JP 移籍するよ。
+EN Fine.
+EN I'll transfer.
+
+@ 180.2841
+# wrestler (voiced), case 0, used 3x
+JP うん、やってみるッ！
+JP 社長さんにお世話になっちゃいます！
+EN Okay, I'll give it a shot!
+EN I'm in your hands, Boss!
+
+@ 180.2850
+# wrestler (voiced), case 1, used 4x
+JP ん～…。
+JP 今は考えられないかなぁ。
+JP ごめんね。
+EN Mm...
+EN I can't really think about it now.
+EN Sorry.
+
+@ 180.2860
+# wrestler (voiced), case 0, used 4x
+JP 新しい団体も悪くないわね。
+JP よし、いいわよ！
+EN A new promotion isn't bad.
+EN All right, you've got a deal!
+
+@ 180.2869
+# wrestler (voiced), case 1, used 4x
+JP ごめんね、お断りします。
+JP 理由？
+JP ひ・み・つ♪
+EN Sorry, I'll have to decline.
+EN Why?
+EN It's a se-cret♪
+
+@ 180.2879
+# wrestler (voiced), case 0, used 4x
+JP そうですね。
+JP 新しい団体も悪くないですね。
+JP わかりました、お世話になります。
+EN Yes...
+EN A new promotion doesn't sound bad.
+EN All right, I'm in your hands.
+
+@ 180.2888
+# wrestler (voiced), case 1, used 3x
+JP ごめんなさい…。
+JP 今の団体を裏切ることは
+JP できません。
+EN I'm sorry...
+EN I can't betray
+EN my current promotion.
+
+@ 180.2898
+# wrestler (voiced), case 0, used 2x
+JP 移籍も悪くないですわね。
+JP そのかわりトップでなくては
+JP 承知しませんわよ！
+EN A transfer isn't so bad, I suppose.
+EN But I won't accept anything
+EN less than the top spot!
+
+@ 180.2907
+# wrestler (voiced), case 1, used 4x
+JP 今の団体に不満はありませんの。
+JP ごめんあそばせ！
+EN I have no complaints about
+EN my current promotion. Toodle-oo!
+
+@ 180.2917
+# wrestler (voiced), case 0
+JP んー、移籍も悪くないわね。
+JP よろしくね、社長さん！
+EN Mm, a transfer isn't bad.
+EN Take care of me, Boss!
+
+@ 180.2926
+# wrestler (voiced), case 1, used 4x
+JP ダメダメ！
+JP わるいんだけど
+JP 今の団体を移る気はないの。
+EN No way, no way!
+EN Sorry, but I'm not
+EN leaving my promotion.
+
+@ 180.2936
+# wrestler (voiced), case 0, used 4x
+JP 移籍か…。
+JP わかりました。
+JP よろしくお願いします。
+EN A transfer, huh...
+EN All right.
+EN Nice to work with you.
+
+@ 180.2945
+# wrestler (voiced), case 1, used 4x
+JP 今の団体に不満はないので
+JP わるいけど、お断りします。
+EN I'm happy where I am,
+EN so sorry, but I'll pass.
+
+@ 180.2955
+# wrestler (voiced), case 0, used 3x
+JP 移籍も悪くないな。
+JP よしッ、決めた！
+JP よろしくッ！
+EN A transfer's not bad.
+EN All right, decided!
+EN Let's do this!
+
+@ 180.2964
+# wrestler (voiced), case 1, used 4x
+JP わるいけど
+JP あんたの所に行く気はないね。
+EN Sorry, but I've got no
+EN interest in joining your outfit.
+
+@ 180.2974
+# wrestler (voiced), case 0, used 4x
+JP いいよ！
+JP 社長さんの団体興味あるしね。
+JP よろしくッ！
+EN Sure!
+EN I'm curious about your promotion.
+EN Let's do this!
+
+@ 180.2983
+# wrestler (voiced), case 1, used 4x
+JP ごめんね～。
+JP 今の団体に不満はないし…。
+JP 聞かなかったことにしとく。
+EN Sorry!
+EN I'm happy where I am...
+EN I'll pretend I didn't hear that.
+
+@ 180.2993
+# wrestler (voiced), case 0, used 4x
+JP わかったわ。
+JP 違うフィールドでも
+JP 私の力を試したいしね。
+EN All right.
+EN I'd like to test my strength
+EN in a different arena anyway.
+
+@ 180.3002
+# wrestler (voiced), case 1, used 4x
+JP 今の団体を離れる気はないの…。
+EN I have no intention of leaving
+EN my promotion...
+
+@ 180.3012
+# wrestler (voiced), case 0, used 4x
+JP そうですね。
+JP 社長さんいい人そうだし…。
+JP よろしくお願いします。
+EN Okay.
+EN You seem like a nice person, Boss...
+EN Nice to work with you.
+
+@ 180.3021
+# wrestler (voiced), case 1, used 4x
+JP えっと…。
+JP ごめんなさい。
+JP 今の団体に不満はないので…。
+EN Um...
+EN I'm sorry.
+EN I'm happy where I am...
+
+@ 180.3031
+# wrestler (voiced), case 0, used 4x
+JP まあ、別にいいけど…。
+JP じゃ、よろしく、社長。
+EN Well, I don't mind...
+EN Guess we're a team now, Boss.
+
+@ 180.3040
+# wrestler (voiced), case 1, used 4x
+JP ん～、わるいけど
+JP 今の所に不満はないから。
+JP 帰ってくれる？
+EN Mm, sorry, but
+EN I'm happy where I am.
+EN Would you mind leaving?
+
+@ 180.3050
+# wrestler (voiced), case 0, used 4x
+JP いいわよ。
+JP こんな美人が移籍してくれるなんて
+JP うれしいでしょ～？
+EN Sure.
+EN Aren't you thrilled a beauty
+EN like me is joining you?
+
+@ 180.3059
+# wrestler (voiced), case 1, used 4x
+JP ん～、わるいけど
+JP 今の団体裏切れないし。
+JP ごめんね、社長さん！
+EN Mm, sorry, but
+EN I can't betray my promotion.
+EN Sorry, Boss!
+
+@ 180.3069
+# wrestler (voiced), case 0, used 4x
+JP 前から興味あったんです！
+JP よろしくお願いしますッ！
+EN I've been curious for a while!
+EN Nice to work with you!
+
+@ 180.3078
+# wrestler (voiced), case 1, used 4x
+JP ボク、今の団体を裏切れません！
+JP ごめんなさいッ！
+EN I can't betray my promotion!
+EN I'm sorry!
+
+@ 180.3088
+# wrestler (voiced), case 0, used 4x
+JP よっしゃ！
+JP それで引き受けた。
+EN All right!
+EN Then you've got a deal.
+
+@ 180.3097
+# wrestler (voiced), case 1, used 4x
+JP やっぱ気が変わった。
+JP わりぃね。
+EN Changed my mind after all.
+EN Sorry 'bout that.
+
+@ 180.3107
+# wrestler (voiced), case 0, used 4x
+JP うん、よくわかんないけど
+JP 面白そうだからやってみようかな！
+EN Yeah, I don't really get it,
+EN but it sounds fun, so I'll try!
+
+@ 180.3116
+# wrestler (voiced), case 1, used 4x
+JP よくわかんないからヤダ！
+EN I don't get it, so no way!
+
+@ 180.3126
+# wrestler (voiced), case 0, used 4x
+JP わかりましたわ。
+JP 交渉成立を記念して
+JP 乾杯しませんこと？
+EN Very well.
+EN Shall we have a toast
+EN to celebrate our agreement?
+
+@ 180.3145
+# wrestler (voiced), case 0, used 4x
+JP 移籍ですか…。
+JP わかりました。
+JP かまいません。
+EN A transfer...
+EN Understood.
+EN I don't mind.
+
+@ 180.3154
+# wrestler (voiced), case 1, used 4x
+JP まだ移籍する気は
+JP ありませんので…。
+EN I have no intention of
+EN transferring yet...
+
+@ 180.3164
+# wrestler (voiced), case 0, used 8x
+JP わかりました。
+JP よろしくお願いいたします。
+EN Understood.
+EN I look forward to working with you.
+
+@ 180.3173
+# wrestler (voiced), case 1, used 4x
+JP 申し訳ありません…。
+JP お受けすることはできません…。
+EN I'm terribly sorry...
+EN I cannot accept...
+
+@ 180.3183
+# wrestler (voiced), case 0, used 4x
+JP オッケー！
+JP 行くよ！
+EN Okay!
+EN I'm in!
+
+@ 180.3192
+# wrestler (voiced), case 1, used 4x
+JP ごめんねッ！
+EN Sorry!
+
+@ 180.3202
+# wrestler (voiced), case 0, used 6x
+JP わかりました。
+JP 新しい団体で鍛えなおすのも
+JP いいですし！
+EN Understood.
+EN Retraining myself in a new
+EN promotion could be good too!
+
+@ 180.3211
+# wrestler (voiced), case 1, used 2x
+JP すみません…。
+JP 今は移籍なんて
+JP 考えられないので…。
+EN I'm sorry...
+EN I can't even think about
+EN transferring right now...
+
+@ 180.3221
+# wrestler (voiced), case 0, used 4x
+JP 了解です！
+JP その話お受けします！
+EN Roger that!
+EN I accept your offer!
+
+@ 180.3230
+# wrestler (voiced), case 1, used 4x
+JP 自分、今の団体を裏切れません…。
+JP 申し訳ありません…。
+EN I can't betray my promotion...
+EN I'm very sorry...
+
+@ 180.3268
+# wrestler (voiced), case 1, used 4x
+JP 申し訳ありませんが
+JP お受けできません。
+EN I'm sorry,
+EN but I cannot accept.
+
+@ 180.3278
+# wrestler (voiced), case 0, used 4x
+JP その条件で引き受けましょう。
+EN I'll accept on those terms.
+
+@ 180.3287
+# wrestler (voiced), case 1, used 4x
+JP それでは納得できませんね…。
+EN I can't agree to that...
+
+@ 180.3297
+# wrestler (voiced), case 0, used 4x
+JP ……い…いきます……。
+EN ......I... I'll go......
+
+@ 180.3316
+# wrestler (voiced), case 0, used 4x
+JP わかりました！
+JP よろしくお願いします！
+EN Okay!
+EN Nice to work with you!
+
+@ 180.3325
+# wrestler (voiced), case 1, used 4x
+JP すみません…。
+JP ボクにはとても…。
+EN I'm sorry...
+EN Someone like me could never...
+
+@ 180.3335
+# wrestler (voiced), case 0, used 4x
+JP わかった！
+JP イセキする。
+EN Got it!
+EN Maho will "transfer"!
+
+@ 180.3344
+# wrestler (voiced), case 1, used 4x
+JP ダメだ！
+JP イセキしない。
+EN Nope!
+EN Maho won't "transfer"!
+
+@ 180.3354
+# wrestler (voiced), case 0, used 4x
+JP そうですね。
+JP そちらの団体でもいい仕事が
+JP できそうですし受けますよ。
+EN All right.
+EN I think I can do good work there,
+EN so I accept.
+
+@ 180.3363
+# wrestler (voiced), case 1, used 4x
+JP 申し訳ないですけど
+JP やらなくてはいけない仕事が
+JP ありますので…。
+EN I'm sorry, but there's
+EN work I still need to do
+EN here...
+
+@ 180.3373
+# wrestler (voiced), case 0, used 4x
+JP 新しい団体も悪くないかな～。
+JP ほな、まあＯＫって事で！
+EN A new promotion ain't so bad.
+EN So, yeah, it's a deal!
+
+@ 180.3382
+# wrestler (voiced), case 1, used 4x
+JP ウチには今の団体の方が
+JP 合うてると思うねん。
+JP だからムリ…。
+EN I reckon my current promotion
+EN suits me better.
+EN So, no can do...
+
+@ 180.3392
+# wrestler (voiced), case 0, used 4x
+JP えっと、じゃあ、あたしを
+JP セクシー路線で出してくれるなら
+JP いいですよ！
+EN Um, okay, if you'll promote me
+EN with a sexy image,
+EN then sure!
+
+@ 180.3401
+# wrestler (voiced), case 1, used 4x
+JP ごめんなさいッ！
+JP 今は移籍とか考えてないので。
+EN I'm sorry!
+EN I'm not thinking of
+EN transferring right now.
+
+@ 180.3411
+# wrestler (voiced), case 0, used 4x
+JP わかりました！
+JP じゃあ、よろしくお願いしますねッ！
+EN Okay!
+EN Then I look forward to working with
+EN you!
+
+@ 180.3420
+# wrestler (voiced), case 1, used 4x
+JP やっぱり、そちらには移れないです。
+JP ごめんなさいッ！
+EN I can't move to your side after all.
+EN I'm sorry!
+
+@ 180.3430
+# wrestler (voiced), case 0, used 4x
+JP その挑戦受けて立ちます！
+JP よろしくお願いしますッ！
+EN I accept that challenge!
+EN I look forward to working with you!
+
+@ 180.3439
+# wrestler (voiced), case 1, used 4x
+JP 私には、まだ終えていない
+JP 任務があるのです！
+EN I still have a mission
+EN I have yet to complete!
+
+@ 180.3449
+# wrestler (voiced), case 0, used 2x
+JP そこまで必要としていただけるなら
+JP わかりました。
+JP 私もプロとして期待に応えましょう。
+EN If you need me that much,
+EN very well. As a professional,
+EN I'll live up to your expectations.
+
+@ 180.3458
+# wrestler (voiced), case 1, used 4x
+JP 私には、この団体を離れる理由が
+JP ありませんので。
+EN I have no reason
+EN to leave this promotion.
+
+@ 180.3468
+# wrestler (voiced), case 0, used 4x
+JP 貴方の団体に
+JP 私、大変興味を惹かれました。
+JP よろしくお願いします～。
+EN Your promotion has
+EN greatly piqued my interest.
+EN I look forward to working with you.
+
+@ 180.3477
+# wrestler (voiced), case 1, used 4x
+JP 申し訳ありませ～ん…。
+JP 私は今の団体になんの不満も
+JP ないんです…。
+EN I'm so sorryyy...
+EN I have no complaints at all
+EN about my current promotion...
+
+@ 180.3487
+# wrestler (voiced), case 0, used 4x
+JP よぉし、わかった！
+JP 入ってあ・げ・る♪
+EN Okaaay, fine!
+EN I'll join...just for yo-u♪
+
+@ 180.3496
+# wrestler (voiced), case 1, used 4x
+JP 今の団体、居心地いいから
+JP 好きなんだー。
+JP だから～、ごめんねッ？
+EN My current promotion is so comfy,
+EN I love it there.
+EN So... sorry, okay?
+
+@ 180.3506
+# wrestler (voiced), case 0, used 8x
+JP とりあえず移ってやるよ。
+EN Fine, I'll move over for now.
+
+@ 180.3515
+# wrestler (voiced), case 1, used 8x
+JP 冗談じゃねぇ。
+JP 出直してきな！
+EN You've gotta be kidding.
+EN Come back when you're serious!
+
+@ 180.3544
+# wrestler (voiced), case 0, used 4x
+JP 新しい団体も悪くないかもねぇ…。
+JP よし、わかったよ！
+EN A new promotion might not be so
+EN bad...
+EN All right, you got it!
+
+@ 180.3553
+# wrestler (voiced), case 1, used 4x
+JP わるいけど行けないね。
+JP 今の団体には義理もあるしねぇ。
+EN Sorry, but I can't go.
+EN I owe my current promotion.
+
+@ 180.3563
+# wrestler (voiced), case 0, used 4x
+JP …いいだろう。
+JP その話受けよう。
+EN ...Very well.
+EN I'll accept your offer.
+
+@ 180.3572
+# wrestler (voiced), case 1, used 2x
+JP わるいな…。
+JP 今の団体には恩もある。
+JP 聞かなかったことにしてくれ…。
+EN Forgive me...
+EN I owe my current promotion.
+EN Forget you ever asked...
+
+@ 180.3582
+# wrestler (voiced), case 0, used 4x
+JP くっくっく…。
+JP あたしに来て欲しいなんて
+JP あんたも物好きだなぁ！
+EN Heh heh heh...
+EN You want me? You've got
+EN some strange taste, pal!
+
+@ 180.3591
+# wrestler (voiced), case 1, used 4x
+JP わるいけど
+JP あんたの団体には
+JP 興味ないんでね…。
+EN Sorry, but I've got
+EN no interest in
+EN your promotion...
+
+@ 180.3622
+# wrestler (voiced), case 0, used 2x
+JP いいだろう。
+JP 私が必要ならば。
+EN Very well.
+EN If you need me.
+
+@ 180.3631
+# wrestler (voiced), case 1, used 2x
+JP すまないが、そんな気はない。
+EN Sorry, but I'm not interested.
+
+@ 180.3641
+# wrestler (voiced), case 0, used 4x
+JP わかりました！
+JP そちらでがんばってみます！
+EN Okay!
+EN I'll give it my best over there!
+
+@ 180.3650
+# wrestler (voiced), case 1, used 2x
+JP あは…私には合わないかなって…。
+JP あ、ワンちゃんだ、待ってー！
+EN Aha... I don't think it'd suit me...
+EN Oh, a doggy! Wait for meee!
+
+@ 180.3660
+# wrestler (voiced), case 0
+JP いいわ。
+JP オッケーしてあげる。
+JP クールな技見せてあげるわ。
+EN Fine.
+EN I'll give you an okay.
+EN I'll show you some cool moves.
+
+@ 180.3669
+# wrestler (voiced), case 1, used 2x
+JP エレガントじゃないわね。
+JP お・こ・と・わ・り。
+EN That's not very elegant.
+EN I de-cline.
+
+@ 180.3679
+# wrestler (voiced), case 0
+JP いいよ！
+JP 私にはそっちの方があってそうだし。
+EN Sure!
+EN Your place sounds like a better fit.
+
+@ 180.3698
+# wrestler (voiced), case 0, used 2x
+JP 面白そうですね。
+JP 了解です！
+JP ヨロシクお願いします
+EN Sounds interesting.
+EN Roger that!
+EN Nice to work with you!
+
+@ 180.3707
+# wrestler (voiced), case 1, used 4x
+JP 申し訳ありません。
+JP 今回は縁がなかったということで。
+JP では！
+EN I'm sorry.
+EN It wasn't meant to be this time.
+EN Farewell!
+
+@ 180.3717
+# wrestler (voiced), case 0, used 2x
+JP わかりました……。
+JP 運命の赴くままに……。
+EN Very well......
+EN Wherever fate may lead......
+
+@ 180.3726
+# wrestler (voiced), case 1, used 2x
+JP ごめんなさい……。
+JP 他に運命を感じる……。
+EN I'm sorry......
+EN I sense a different fate......
+
+@ 180.3736
+# wrestler (voiced), case 0, used 2x
+JP え～と、え～と…。
+JP はい、よろしくお願いします。
+EN Um, um...
+EN Yes, nice to work with you.
+
+@ 180.3745
+# wrestler (voiced), case 1, used 2x
+JP う～、ごめんなさい…。
+JP あの…。
+JP 今の団体に不満はないので…。
+EN Ugh, I'm sorry...
+EN Um...
+EN I'm happy where I am...
+
+@ 180.3755
+# wrestler (voiced), case 0, used 2x
+JP してもいいかな。
+JP よろしくね。
+EN I guess I could.
+EN Nice to work with you.
+
+@ 180.3764
+# wrestler (voiced), case 1
+JP やっぱりやめとく。
+JP 今の所でも十分熱くなれるから。
+EN Never mind, I'll pass.
+EN I can get fired up enough here.
+
+@ 180.3774
+# wrestler (voiced), case 0, used 2x
+JP 仕方ないですわねぇ…。
+JP よろしくお願いいたしますわ。
+EN Well, it can't be helped...
+EN I look forward to working with you.
+
+@ 180.3783
+# wrestler (voiced), case 1, used 2x
+JP あなたとこれ以上お話しすることは
+JP ございませんわ。
+JP ごきげんよう。
+EN I have nothing further
+EN to discuss with you.
+EN Good day.
+
+@ 180.3793
+# wrestler (voiced), case 0, used 2x
+JP はい～。
+JP 入団します～。
+EN Okaaay.
+EN I'll join~
+
+@ 180.3802
+# wrestler (voiced), case 1, used 2x
+JP ごめんなさい～。
+JP さようなら～。
+EN Sorryyy.
+EN Goodbyeee.
+
+@ 180.3812
+# wrestler (voiced), case 0, used 2x
+JP ま、いっか。
+JP 入ってあげる。
+EN Eh, why not.
+EN I'll join you.
+
+@ 180.3821
+# wrestler (voiced), case 1, used 2x
+JP やっぱやめとく。
+JP ここ気に入ってるしね。
+EN Nah, I'll pass.
+EN I like it here.
+
+@ 180.3831
+# wrestler (voiced), case 0, used 2x
+JP ま、いっか。
+JP なんか面白そうだし。
+JP いいぜ、いってやる！
+EN Eh, why not.
+EN Sounds kinda fun.
+EN Fine, I'm in!
+
+@ 180.3840
+# wrestler (voiced), case 1, used 2x
+JP ワリッ！
+JP 全然興味ねーの！
+JP じゃな！
+EN Sorry!
+EN Not interested at all!
+EN Later!
+
+@ 180.3850
+# wrestler (voiced), case 0, used 2x
+JP そうですね。
+JP 私が必要と言ってくださるのなら
+JP お応えしたいと思います。
+EN Yes...
+EN If you say you need me,
+EN I'd like to answer that call.
+
+@ 180.3859
+# wrestler (voiced), case 1, used 2x
+JP わがままかもしれませんが
+JP 今の所が気に入っていますので…。
+EN It may be selfish of me,
+EN but I like where I am...
+
+@ 180.3869
+# wrestler (voiced), case 0, used 2x
+JP わかりました！
+JP そちらでお世話になろうと思います。
+EN Okay!
+EN I'll be in your care over there.
+
+@ 180.3878
+# wrestler (voiced), case 1, used 2x
+JP うーん、やっぱり今はまだ
+JP やり残している事もあるし…。
+JP ごめんなさい。
+EN Hmm, I still have unfinished
+EN business where I am...
+EN I'm sorry.
+
+@ 180.3888
+# wrestler (voiced), case 0, used 2x
+JP 環境を変えるのもいいかもね。
+EN A change of scenery might be nice.
+
+@ 180.3897
+# wrestler (voiced), case 1, used 4x
+JP う～ん…。
+JP なんかイヤ！
+JP またね！
+EN Hmm...
+EN Just no!
+EN See ya!
+
+@ 180.3916
+# wrestler (voiced), case 1, used 2x
+JP 他の団体に移る気はないです。
+EN I don't intend to move
+EN to another promotion.
+
+@ 180.4002
+# wrestler (voiced), case 0
+JP うん、いいよ！
+JP 社長さんのためにひと肌脱いじゃう！
+EN Sure, okay!
+EN I'll roll up my sleeves for you,
+EN Boss!
+
+@ 180.4211
+# wrestler (voiced), case 0, used 3x
+JP んー…。
+JP 移籍も悪くないわね。
+JP よろしくね、社長さん！
+EN Mm...
+EN A transfer isn't bad.
+EN Take care of me, Boss!

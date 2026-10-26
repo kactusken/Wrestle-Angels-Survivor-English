@@ -1,0 +1,129 @@
+# Event script entry 189 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 189.70
+# other, used 2x
+JP わーーッ！
+JP 海の中が気持ちいい～ッ！
+EN Wheee!
+EN The sea feels so good!
+
+@ 189.77
+# President, used 2x
+JP （おー、はしゃいでるな。）
+EN (Oh, she's having a blast.)
+
+@ 189.79
+# President, used 2x
+JP （あんなところにいるのに
+JP 声が届くのか…。）
+EN (Her voice carries all the way
+EN from out there...)
+
+@ 189.81
+# President, used 2x
+JP （あッ、目があった。）
+EN (Oh, she spotted me.)
+
+@ 189.87
+# other, used 2x
+JP …あッ！
+JP 社長～！
+EN ...Oh!
+EN Boss~!
+
+@ 189.90
+# wrestler (voiced), used 2x
+JP やっほーッ！
+JP こっち、こっちー！
+EN Yoo-hoo!
+EN Over here, over here!
+
+@ 189.99
+# President, used 2x
+JP （海の中をこっちに向かってくる。）
+EN (She's swimming over this way.)
+
+@ 189.101
+# President, used 2x
+JP （元気があって…って、おい！）
+EN (So full of energy... Wait, hey!)
+
+@ 189.107
+# President, used 2x
+JP おいッ！
+JP 水着が！
+EN Hey!
+EN Your swimsuit!
+
+@ 189.113
+# other, used 6x
+JP ……えッ？
+EN ......Huh?
+
+@ 189.131
+# other, used 2x
+JP きゃ――――ッ！！
+EN Kyaaaaaah!!
+
+@ 189.138
+# President, used 2x
+JP （どうやら泳いでいる間に
+JP 水着が流されていたらしい。）
+EN (Looks like her swimsuit got
+EN washed away while she swam.)
+
+@ 189.140
+# President, used 2x
+JP 大丈夫か！？
+EN Are you OK!?
+
+@ 189.146
+# other, used 2x
+JP や―ッ！
+JP こっちこないで――ッ！
+EN Noooo!
+EN Don't come over heeere!
+
+@ 189.153
+# President, used 2x
+JP あ、わるい…。
+JP それじゃ、俺はあっちに…。
+EN Oh, sorry...
+EN I'll just head over there, then...
+
+@ 189.159
+# other, used 2x
+JP 行かないでッ！
+JP タオル取ってきてーッ！
+EN Don't go!
+EN Get me a towel!
+
+@ 189.166
+# President, used 2x
+JP （どっちだ、おい…。）
+EN (Which is it...)
+
+@ 189.168
+# President, used 2x
+JP ほら、タオル…。
+EN Here, a towel...
+
+@ 189.174
+# other, used 2x
+JP こっち見ないでーッ！
+EN Don't look over heeere!
+
+@ 189.181
+# President, used 2x
+JP （どうやってそっちへ行けば
+JP いいんだ？）
+EN (How am I supposed to get over
+EN there, then?)

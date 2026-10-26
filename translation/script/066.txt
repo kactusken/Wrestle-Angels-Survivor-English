@@ -1,0 +1,129 @@
+# Event script entry 066 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 066.88
+# wrestler (voiced), case 0, used 2x
+JP お呼びになったかしら、社長？
+JP 出向いて差し上げたわよ。
+EN Did you call for me, President?
+EN I've graciously come to see you.
+
+@ 066.94
+# President, case 0, used 2x
+JP 実はお前に写真集を出さないか
+JP というオファーがあってな…。
+EN Actually, there's an offer asking
+EN if you'd put out a photo book...
+
+@ 066.116
+# wrestler (voiced), case 0, used 2x
+JP まったく今更ですの…？
+EN Honestly, only NOW...?
+
+@ 066.124
+# wrestler (voiced), case 0, used 2x
+JP 本来なら私がこの団体に入ったときに
+JP すぐオファーを入れるのが常識だと
+JP 言うのに…。
+EN By rights, any sensible person would
+EN have made me an offer the moment
+EN I joined this promotion...
+
+@ 066.130
+# President, case 0, used 2x
+JP …お前の星の常識はおいといて。
+JP どうする？
+EN ...Leaving your planet's idea of
+EN "sensible" aside, what'll it be?
+
+@ 066.138
+# wrestler (voiced), case 0, used 2x
+JP そうですわねぇ…。
+JP 仕方ないから受けて差し上げますわ。
+EN Let me see... I suppose I'll
+EN graciously accept.
+
+@ 066.146
+# wrestler (voiced), case 0, used 2x
+JP 向こうも社運を
+JP かけているでしょうし…。
+JP これも人助けですわね。
+EN They must be staking their whole
+EN company on it... I'm doing them
+EN a favor, really.
+
+@ 066.152
+# President, case 0, used 2x
+JP （社運って…。何部刷らせる気だ？）
+EN (Their whole company...? How many
+EN copies is she going to make them
+EN print?)
+
+@ 066.184
+# President, case 0, used 2x
+JP （カメラマン）
+JP うーん、色っぽいね…。
+JP いいねぇ、すごいよ。
+EN (Cameraman)
+EN Mmm, sexy...
+EN Nice, that's amazing!
+
+@ 066.197
+# President, case 0, used 2x
+JP （カメラマン）
+JP はーい、そうそう。
+JP さすが最強のお嬢様だねぇ。
+EN (Cameraman)
+EN Okay, yes, just like that.
+EN The strongest ojou-sama indeed!
+
+@ 066.245
+# President, case 0, used 2x
+JP お前はいつでも自信満々だな。
+JP 写真からも自信が溢れてきそうだ。
+EN You're always brimming with
+EN confidence. It practically spills
+EN out of the photos.
+
+@ 066.254
+# wrestler (voiced), case 0, used 2x
+JP 当然ですわ！
+JP 自信のない私など私にあらずですわ！
+EN Naturally! A me without confidence
+EN would not be me at all!
+
+@ 066.260
+# President, case 0, used 2x
+JP ま、そうかもな…。
+EN Well, maybe so...
+
+@ 066.268
+# wrestler (voiced), case 0, used 2x
+JP その見本写真は
+JP 特別にお守りとして
+JP 差し上げますわ。
+EN I'll give you that sample photo
+EN as a special good-luck charm.
+
+@ 066.274
+# President, case 0, used 2x
+JP お守りと言うより魔よけだな…。
+EN More like something to ward off
+EN evil spirits...
+
+@ 066.282
+# wrestler (voiced), case 0, used 2x
+JP 何か言いまして？
+EN Did you say something?
+
+@ 066.288
+# President, case 0, used 2x
+JP いえ、別に…。
+EN No, nothing...

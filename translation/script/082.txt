@@ -1,0 +1,151 @@
+# Event script entry 082 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 082.94
+# President, case 0, used 4x
+JP ああ、来たか…。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN Ah, you're here... Actually,
+EN there's an offer for a photo book
+EN of you...
+
+@ 082.102
+# wrestler (voiced), case 0, used 8x
+JP …写真集ですか？
+EN ...A photo book?
+
+@ 082.116
+# wrestler (voiced), case 0, used 2x
+JP ああ、キック入門書とかの
+JP 見本写真とかですか？
+EN Oh, like sample photos for a
+EN beginner's guide to kicking?
+
+@ 082.122
+# President, case 0, used 2x
+JP いやいや。
+JP アイドルみたいな水着写真。
+EN No, no. Idol-style swimsuit photos.
+
+@ 082.130
+# wrestler (voiced), case 0, used 2x
+JP ……えッ。
+EN ......Huh?
+
+@ 082.141
+# wrestler (voiced), case 0, used 2x
+JP じゃ、そういうことで…。
+EN Well then, I'll be going...
+
+@ 082.147
+# President, case 0, used 2x
+JP まてまてまて。
+JP なんで逃げようとする。
+EN Wait, wait, wait. Why are you
+EN trying to run away?
+
+@ 082.155
+# wrestler (voiced), case 0, used 2x
+JP ムリですって！
+JP あたしがそんなのッ！
+EN No way! Me doing something
+EN like that!
+
+@ 082.161
+# President, case 0, used 2x
+JP 無理じゃないって。
+EN It's not impossible.
+
+@ 082.169
+# wrestler (voiced), case 0, used 2x
+JP いや、絶対にムリ、ムリ！
+JP そんなアイドルみたいなの！
+EN No, absolutely not, no way!
+EN Idol stuff like that!
+
+@ 082.175
+# President, case 0, used 2x
+JP できるって！
+JP お前ならできる！
+EN You can do it! I know you can!
+
+@ 082.183
+# wrestler (voiced), case 0, used 2x
+JP ムリですって、恥かくだけですから！
+EN No way! I'll just embarrass myself!
+
+@ 082.189
+# President, case 0, used 2x
+JP そんなことないって！
+EN That's not true!
+
+@ 082.286
+# wrestler (voiced), case 0, used 2x
+JP もう…団体の恥になっても
+JP 知りませんよ…。
+EN Geez... Don't blame me if I end up
+EN embarrassing the promotion...
+
+@ 082.292
+# President, case 0, used 2x
+JP それはないね。
+JP ほら、こんなに綺麗に撮れてる。
+EN Not a chance. Look how
+EN beautifully these came out.
+
+@ 082.300
+# wrestler (voiced), case 0, used 2x
+JP …ん。
+JP たまたまその写真が
+JP よく撮れてるんですよ。
+EN ...Mm. That one just happened to
+EN come out well.
+
+@ 082.306
+# President, case 0, used 2x
+JP そんなことないぞ。
+JP ほらコレも魅力的じゃないか。
+EN That's not true. Look, this one's
+EN attractive too, isn't it?
+
+@ 082.314
+# wrestler (voiced), case 0, used 2x
+JP …カッ、カメラマンの腕が
+JP 良かったんですよッ！
+EN ...Th-the cameraman was just
+EN really good!
+
+@ 082.320
+# President, case 0, used 2x
+JP カメラマンの腕もあるが
+JP 何より素材が良かったのさ。
+EN The cameraman was good, but above
+EN all, the material was great.
+
+@ 082.328
+# wrestler (voiced), case 0, used 2x
+JP そんなムリに持ち上げなくって
+JP いいですって！
+EN You don't have to force yourself
+EN to flatter me!
+
+@ 082.334
+# President, case 0, used 2x
+JP 無理なんかしてないって。
+EN I'm not forcing anything.
+
+@ 082.337
+# President, case 0, used 2x
+JP （なんで試合と違って
+JP こんなに弱気になるかな…。）
+EN (Why is she so timid about this
+EN when she's nothing like that in a
+EN match...?)

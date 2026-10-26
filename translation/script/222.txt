@@ -1,0 +1,278 @@
+# Event script entry 222 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 222.98
+# President, used 2x
+JP （みんな楽しんでるようだな。）
+EN (Looks like everyone's having fun.)
+
+@ 222.120
+# President, used 2x
+JP ……ん、どうした？
+EN ...Hm, what's up?
+
+@ 222.126
+# other, used 2x
+JP 今から勝負に行ってきます。
+EN I'm off to a showdown.
+
+@ 222.133
+# President, used 2x
+JP ……勝負？
+JP 今月は試合組んでないぞ？
+EN ...A showdown?
+EN There are no matches booked this
+EN month.
+
+@ 222.142
+# other, used 2x
+JP はい…。
+JP これは団体とは関係ない勝負。
+JP 私、個人の誇りをかけた戦いです。
+EN Indeed...
+EN It has nothing to do with the
+EN promotion. My pride is at stake.
+
+@ 222.149
+# President, used 2x
+JP おいおい、穏やかじゃないな。
+JP その勝負はいつ決まったんだ？
+EN Hey now, that doesn't sound good.
+EN When was this showdown set?
+
+@ 222.158
+# other, used 2x
+JP つい先刻…。
+JP ビーチについたときに
+JP 挑戦状を突きつけられたのです。
+EN Just a moment ago...
+EN When I arrived at the beach,
+EN a challenge was thrust upon me.
+
+@ 222.165
+# President, used 2x
+JP ……挑戦状？
+EN ...A challenge?
+
+@ 222.174
+# other, used 2x
+JP はい…。
+JP では行ってきます。
+JP 夕刻までには戻ります。
+EN Yes...
+EN Well, I'm off.
+EN I'll be back by evening.
+
+@ 222.181
+# other, used 2x
+JP もちろん、勝利の二文字を連れて
+JP 帰ってきますがね。
+EN Bringing victory home
+EN with me, of course.
+
+@ 222.188
+# President, used 2x
+JP 待て待て、俺も行く。
+EN Wait, wait, I'm coming too.
+
+@ 222.197
+# other, used 2x
+JP ……社長も？
+EN ...You too, Boss?
+
+@ 222.204
+# President, used 2x
+JP そんな話を聞かされて
+JP 黙って待っていられるか。
+EN You think I can just sit and wait
+EN after hearing something like that?
+
+@ 222.213
+# other, used 2x
+JP わかりました…。
+JP ではまいりましょう。
+JP ともに勝負の場へ！
+EN Very well...
+EN Then let us go.
+EN Together, to the field of battle!
+
+@ 222.220
+# President, used 2x
+JP …お、おお…！
+EN ...S-sure...!
+
+@ 222.222
+# President, used 2x
+JP （どんな勝負か知らないが…。
+JP 危険があったらまずいしな。）
+EN (No idea what this showdown is...
+EN but I can't let her get into
+EN danger.)
+
+@ 222.244
+# President, used 2x
+JP （司会者）
+JP さあ、盛り上がってきました！
+EN (Emcee)
+EN All right, things are heating up!
+
+@ 222.246
+# President, used 2x
+JP （司会者）
+JP 第１３回ビーチクィーンコンテスト！ 
+EN (Emcee)
+EN The 13th Beach Queen Contest!
+
+@ 222.248
+# President, used 2x
+JP （司会者）
+JP 次は飛び入りッ！
+JP 日本から来たプロレスラーだ！
+EN (Emcee)
+EN Next up, a walk-in!
+EN A pro wrestler from Japan!
+
+@ 222.261
+# other, used 2x
+JP やあ！
+JP 南国の愛しき観客の皆さん！
+JP ごきげんようッ！
+EN Hello!
+EN My dear audience of the tropics!
+EN Good day to you!
+
+@ 222.270
+# President, used 2x
+JP （……勝負？）
+EN (...A showdown?)
+
+@ 222.272
+# President, used 2x
+JP （……これが？）
+EN (...This?)
+
+@ 222.274
+# President, used 2x
+JP （俺は手に持ったチラシに
+JP 目を落とした。）
+EN (I glanced down at the flyer
+EN in my hand.)
+
+@ 222.276
+# President, used 2x
+JP （そこにはビーチクィーンコンテスト
+JP 飛び入り大歓迎！）
+EN (On it, the words "Beach Queen
+EN Contest - Walk-ins Welcome!")
+
+@ 222.278
+# President, used 2x
+JP （……という文字が躍っていた。）
+EN (...danced across the page.)
+
+@ 222.284
+# other, used 2x
+JP 今日は私に会うために
+JP わざわざ集まってもらって
+JP ありがとう！
+EN Thank you all for gathering
+EN here today just to see me!
+
+@ 222.287
+# wrestler (voiced), used 2x
+JP 私は今、感激で胸がいっぱいだ！
+EN My heart is overflowing with
+EN emotion!
+
+@ 222.294
+# President, used 2x
+JP （別にお前目当てで
+JP 集まった訳じゃないだろう。
+JP …飛び入りだし。）
+EN (They didn't come here to see you.
+EN ...You're a walk-in.)
+
+@ 222.296
+# President, used 2x
+JP （観客）
+JP きゃ――、素敵――――！ 
+EN (Audience)
+EN Kyaaah, how dreamy!
+
+@ 222.303
+# other, used 2x
+JP ありがとう！
+JP お嬢さん達！
+EN Thank you,
+EN young ladies!
+
+@ 222.310
+# President, used 2x
+JP （観客）
+JP きゃーーッ！
+JP こっち向いてーー！
+EN (Audience)
+EN Kyaaah!
+EN Look over here!
+
+@ 222.313
+# wrestler (voiced), used 2x
+JP （黄色い歓声が飛ぶ…。）
+EN (Shrill cheers fly...)
+
+@ 222.319
+# other, used 2x
+JP では、愛する皆さんのために
+JP 恋の歌を一曲…。
+EN Now, for all of you I love,
+EN a song of love...
+
+@ 222.326
+# President, used 2x
+JP （観客）
+JP きゃーーーッ！
+EN (Audience)
+EN Kyaaaah!
+
+@ 222.329
+# wrestler (voiced), used 2x
+JP （あー…。）
+EN (Ahh...)
+
+@ 222.331
+# President, used 2x
+JP （帰るか…。）
+EN (Guess I'll go back...)
+
+@ 222.333
+# President, used 2x
+JP （俺は勝負をそこまで見て
+JP 浜辺に戻った…。）
+EN (Having seen that much of
+EN the showdown, I returned to the
+EN beach...)
+
+@ 222.354
+# President, used 2x
+JP （……そして。）
+EN (...And then.)
+
+@ 222.356
+# President, used 2x
+JP （滝は夕方ビーチプリンスの
+JP 称号とともに帰ってきた。）
+EN (That evening Taki came back with
+EN the title of Beach Prince.)
+
+@ 222.358
+# President, used 2x
+JP （今回急遽作られた賞らしい…。）
+EN (Apparently they made the award
+EN up on the spot...)

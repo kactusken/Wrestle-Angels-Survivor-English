@@ -1,0 +1,600 @@
+# Event script entry 172 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 172.43
+# President
+JP ただ今より
+JP {name:0}選手の
+JP 引退式を執り行います。
+EN We will now hold
+EN the retirement ceremony
+EN of {name:0}.
+
+@ 172.57
+# wrestler (voiced), used 2x
+JP みなさんのご声援で
+JP ここまでがんばってこられました。
+JP ありがとうございました～。
+EN Your cheers carried me
+EN all the way here.
+EN Thank you so much!
+
+@ 172.65
+# wrestler (voiced), used 2x
+JP うぇ～ん…グスグス…。
+JP みんな…今まで応援ありがとー！
+JP うぇ～ん…。
+EN Waaah... sniff, sniff...
+EN Thank you for cheering, everyone!
+EN Waaah...
+
+@ 172.73
+# wrestler (voiced), used 2x
+JP 私は燃え尽きました。
+JP 今日でリングを去ります。
+JP ありがとうございましたッ！
+EN I've burned myself out.
+EN Today I leave the ring.
+EN Thank you all so much!
+
+@ 172.81
+# wrestler (voiced), used 2x
+JP みなさん…今日まで…
+JP 本当にありがとうございました…。
+JP …ヒクッ…。
+EN Everyone... up until today...
+EN thank you, truly...
+EN ...Hic...
+
+@ 172.89
+# wrestler (voiced), used 2x
+JP ふぇ～ん…私…私…ヒクッ…。
+JP 私…バイバイ……。
+JP ああぁ～ん…。
+EN Waaah... I... I... hic...
+EN I... bye-bye......
+EN Waaaah...
+
+@ 172.97
+# wrestler (voiced), used 2x
+JP 拳ひとつで、ここまでやってくる
+JP ことができました…。
+JP ありがとうございました…。
+EN With nothing but my fists,
+EN I made it all this way...
+EN Thank you so much...
+
+@ 172.105
+# wrestler (voiced), used 2x
+JP あたしは思い残すことはありません。
+JP 今まで応援ありがとうございました！
+EN I have no regrets.
+EN Thank you for all your support!
+
+@ 172.113
+# wrestler (voiced), used 2x
+JP ふぇ…ふぇ～ん…。
+JP びんだあでぃがと～…。
+JP ふぇ～ん……。
+EN Wah... waaah...
+EN Fank you, ebewybody...
+EN Waaah......
+
+@ 172.121
+# wrestler (voiced), used 2x
+JP みなさーん！
+JP 今まで応援ありがとう
+JP ございましたー！
+EN Everyone!
+EN Thank you for cheering
+EN for me all this time!
+
+@ 172.124
+# wrestler (voiced), used 2x
+JP 良かったら実家のレストランにも
+JP 遊びに来てくださーい！
+EN Come visit my family's
+EN restaurant sometime, okay?
+
+@ 172.132
+# wrestler (voiced), used 2x
+JP こ、こういうのは
+JP 苦手なんで…すみません……。
+JP 今まで応援ありがとうございました！
+EN I-I'm no good
+EN at this... sorry......
+EN Thank you for all your support!
+
+@ 172.140
+# wrestler (voiced), used 2x
+JP あたしは今日で引退する。
+JP みんな今までありがとよッ！
+JP じゃあなッ！
+EN I'm retiring today.
+EN Thanks for everything, all of you!
+EN See ya!
+
+@ 172.148
+# wrestler (voiced), used 2x
+JP みんな今までアリガトにゃん！
+EN Thanks for everything, everyone,
+EN nya!
+
+@ 172.156
+# wrestler (voiced), used 2x
+JP みんな今まで応援ありがとう！
+JP 即売会であったときはよろしくね！
+EN Thanks for all your support!
+EN If we meet at a con, say hi!
+
+@ 172.164
+# wrestler (voiced), used 2x
+JP みなさん！
+JP 今まで応援ありがとう
+JP ございました！
+EN Everyone!
+EN Thank you for cheering
+EN for me all this time!
+
+@ 172.168
+# wrestler (voiced), used 2x
+JP 私は引退しますが
+JP これからも団体へのご声援
+JP よろしくお願いいたします！
+EN I'm retiring, but please
+EN keep supporting our
+EN promotion from here on!
+
+@ 172.176
+# wrestler (voiced), used 2x
+JP 美しい薔薇も散るときが
+JP まいりますわ…。
+EN Even the loveliest rose
+EN must one day fall...
+
+@ 172.180
+# wrestler (voiced), used 2x
+JP みなさん！
+JP ごきげんよう～！
+EN Everyone!
+EN Farewell!
+
+@ 172.188
+# wrestler (voiced), used 2x
+JP アイドルレスラーとして
+JP 伝説を作ることができました！
+JP みんなアリガト～！
+EN I got to become a legend
+EN as an idol wrestler!
+EN Thanks, everyone!
+
+@ 172.196
+# wrestler (voiced), used 2x
+JP 精一杯やってきました。
+JP 応援ありがとうございました！
+EN I gave it everything I had.
+EN Thank you for your support!
+
+@ 172.204
+# wrestler (voiced), used 2x
+JP 自分のパワーの限界を感じました。
+JP 今まで応援ありがとうございました！
+EN I've reached the limit of my power.
+EN Thank you for all your support!
+
+@ 172.212
+# wrestler (voiced), used 2x
+JP 私はみんなのおかげで
+JP ここまでこれました！
+JP みんな今まで応援ありがとう！
+EN I made it this far
+EN thanks to all of you!
+EN Thanks for cheering for me!
+
+@ 172.220
+# wrestler (voiced), used 2x
+JP え、えーと私は不器用なので
+JP うまく言えないけど…。
+JP 今まで応援ありがとう。
+EN W-well, I'm not good with words,
+EN so I can't say this well...
+EN Thanks for all your support.
+
+@ 172.228
+# wrestler (voiced), used 2x
+JP みなさん、本当にありがとう
+JP ございました！
+JP …ヒクッ…。
+EN Everyone, thank you
+EN so very much!
+EN ...Hic...
+
+@ 172.232
+# wrestler (voiced), used 2x
+JP これからも団体の応援
+JP よろしくお願いします！
+JP …グスッ……。
+EN Please keep supporting
+EN our promotion!
+EN ...Sniff......
+
+@ 172.240
+# wrestler (voiced), used 2x
+JP えーと…あたしは今日で
+JP リングを下ります…。
+JP ありがとうございました。
+EN Um... as of today,
+EN I'm stepping out of the ring...
+EN Thank you so much.
+
+@ 172.248
+# wrestler (voiced), used 2x
+JP あたしはリングを下りるけど
+JP とっても楽しかったよー！
+JP ありがとーッ！
+EN I'm leaving the ring,
+EN but it was so much fun!
+EN Thank youuu!
+
+@ 172.256
+# wrestler (voiced), used 2x
+JP グス…ボクは普通の女の子に
+JP なりますが、団体のこと
+JP 応援よろしくお願いします！
+EN Sniff... I'm going back to being a
+EN normal girl, but please keep
+EN supporting the promotion!
+
+@ 172.264
+# wrestler (voiced), used 2x
+JP まー、なんだ…。
+JP 今日で引退することになったけど
+JP 今までアリガトよッ！
+EN Well, uh, y'know...
+EN I'm retirin' as of today,
+EN but thanks for everything!
+
+@ 172.272
+# wrestler (voiced), used 2x
+JP みんな！
+JP 今まで応援ありがとね！
+EN Everyone!
+EN Thanks for all the support!
+
+@ 172.280
+# wrestler (voiced), used 2x
+JP 去り際は美しく…。
+JP みなさん、お別れですわ。
+EN One should exit gracefully...
+EN Everyone, this is farewell.
+
+@ 172.288
+# wrestler (voiced), used 2x
+JP これで、さよならです…。
+EN So this is goodbye...
+
+@ 172.296
+# wrestler (voiced), used 2x
+JP 涙で…目がくもって…。
+JP どうしてこんなに…。
+JP …すみません……。
+EN My eyes... are blurry with tears...
+EN Why am I so...
+EN ...I'm sorry......
+
+@ 172.304
+# wrestler (voiced), used 2x
+JP グスッ…。
+JP 今まで…応援
+JP ありがとうございました！
+EN Sniff...
+EN Thank you... for all
+EN your support!
+
+@ 172.312
+# wrestler (voiced), used 2x
+JP 今日でリングを下ります！
+JP ありがとうございました！
+EN Today I leave the ring!
+EN Thank you so much!
+
+@ 172.320
+# wrestler (voiced), used 2x
+JP 自分は…自分は
+JP 全力で突っ走ってきました！
+JP ありがとうございましたッ！
+EN I... I've charged ahead
+EN at full speed all the way!
+EN Thank you so much!
+
+@ 172.328
+# wrestler (voiced), used 2x
+JP ……みんな…バイバイ……。
+JP ……あれ……？
+JP ……どうしてわたし泣いてるの……？
+EN ......Bye-bye...everyone......
+EN ......Huh......?
+EN ......Why am I crying......?
+
+@ 172.336
+# wrestler (voiced), used 2x
+JP 計算通りの引退時期なのに
+JP どうして涙が…。
+EN I'm retiring right on schedule,
+EN so why these tears...
+
+@ 172.344
+# wrestler (voiced), used 2x
+JP 今までありがとう！
+JP 不死鳥も翼を休めるときが
+JP 来たようだ…。
+EN Thank you for everything!
+EN It seems the time has come
+EN for the phoenix to rest her wings...
+
+@ 172.352
+# wrestler (voiced), used 2x
+JP ……みんな……。
+JP ……ホントに…ありがとう……。
+EN ......Everyone......
+EN ......Thank you...so much......
+
+@ 172.360
+# wrestler (voiced), used 2x
+JP ボクは…ボクは
+JP 全力を出し切りました。
+JP 悔いはありませんッ！
+EN I... I gave it
+EN absolutely everything.
+EN I have no regrets!
+
+@ 172.368
+# wrestler (voiced), used 2x
+JP 真帆は…真帆は
+JP …ウグ、ウグッ…うわぁぁぁん！
+EN Maho... Maho is...
+EN ...Ugh, urgh... Waaaaah!
+
+@ 172.376
+# wrestler (voiced), used 2x
+JP 自分の仕事はこれで終わりです。
+JP ありがとうございました。
+EN My work here is done.
+EN Thank you very much.
+
+@ 172.384
+# wrestler (voiced), used 2x
+JP ほんまアリガト～！
+JP おおきに、おおきに～！
+EN Thanks a bunch, really!
+EN Thank ya, thank ya!
+
+@ 172.392
+# wrestler (voiced), used 2x
+JP あたし…あたし…今日で～！
+JP ふぇ～～～ん！
+EN I... I'm... as of today...!
+EN Waaaaaah!
+
+@ 172.400
+# wrestler (voiced), used 2x
+JP みなさん応援ありがとう
+JP ございました。
+EN Thank you all
+EN for your support.
+
+@ 172.403
+# wrestler (voiced), used 2x
+JP ちーちゃん…。
+JP あたしもう引退しても
+JP いいよね…。
+EN Chii...
+EN It's okay if I retire
+EN now, right...?
+
+@ 172.411
+# wrestler (voiced), used 2x
+JP 私は…戦うヒロインから引退します。
+JP でも、正義の志はきっと誰かが
+JP 継いでくれるはずですッ！
+EN I retire as a fighting heroine.
+EN But someone will surely carry
+EN on the spirit of justice!
+
+@ 172.419
+# wrestler (voiced), used 2x
+JP 諸君！
+JP これでさよならだッ！
+EN All of you!
+EN This is farewell!
+
+@ 172.427
+# wrestler (voiced), used 2x
+JP みなさん！
+JP さよならです～！
+EN Everyone!
+EN Goodbye!
+
+@ 172.435
+# wrestler (voiced), used 2x
+JP あたしの第二の人生も
+JP 応援ヨロシク～！
+EN Cheer me on in my
+EN second life too, 'kay?
+
+@ 172.443
+# wrestler (voiced), used 2x
+JP 私は辞めたいときに辞める
+JP それだけだよ！
+EN I quit when I want to quit.
+EN That's all there is to it!
+
+@ 172.451
+# wrestler (voiced), used 2x
+JP あたしは辞めたいから辞める
+JP それだけだよ！
+EN I'm quittin' 'cause I wanna quit.
+EN That's all there is to it!
+
+@ 172.459
+# wrestler (voiced), used 2x
+JP あたしのこと忘れんじゃないよ！
+JP あばよッ！
+EN Don't you forget me!
+EN So long!
+
+@ 172.467
+# wrestler (voiced), used 2x
+JP 私のようなものに
+JP 応援…ありがとう……。
+EN Thank you... for supporting
+EN someone like me......
+
+@ 172.475
+# wrestler (voiced), used 2x
+JP せいせいしたよッ！
+JP じゃーな！
+EN Good riddance!
+EN Later!
+
+@ 172.491
+# wrestler (voiced)
+JP みんな…。
+JP 今まで、あ…ありがとう……。
+EN Everyone...
+EN Th-thank you... for everything......
+
+@ 172.499
+# wrestler (voiced)
+JP これからはニャンコちゃんと
+JP ゆっくり遊びます。
+JP ありがとうございましたー！
+EN From now on I'll take it easy
+EN and play with my kitties.
+EN Thank you all so much!
+
+@ 172.507
+# wrestler (voiced)
+JP 最後だものね…。
+JP クール＆エレガントに…。
+EN It's the last time...
+EN Let's keep it Cool & Elegant...
+
+@ 172.511
+# wrestler (voiced)
+JP みんな…ありが…と…。
+JP うぇ～ん…え～ん……。
+EN Everyone... thank... you...
+EN Waaah... waaah......
+
+@ 172.519
+# wrestler (voiced)
+JP 私、私…今日で引退…。
+JP う…うぇ～ん…うぇ～ん……。
+EN I, I'm... retiring today...
+EN W...waaah... waaah......
+
+@ 172.527
+# wrestler (voiced)
+JP 戦士は死なず
+JP ただ去りゆくのみです！
+EN Old warriors never die,
+EN they simply fade away!
+
+@ 172.535
+# wrestler (voiced)
+JP 運命の歯車が止まるの……。
+EN The gears of fate are stopping......
+
+@ 172.543
+# wrestler (voiced)
+JP わたし…わたし
+JP 普通の女の子に戻ります。
+JP ありがとうございました！
+EN I... I'm going back
+EN to being a normal girl.
+EN Thank you so much!
+
+@ 172.551
+# wrestler (voiced)
+JP 光は…。
+JP 光は…完全燃焼しました！
+JP 応援ありがとうございました！
+EN Hikaru has...
+EN Hikaru has burned all-out!
+EN Thank you for your support!
+
+@ 172.559
+# wrestler (voiced)
+JP ほーーほっほっほっほ！
+JP わたくしは伝説として
+JP みなさんの心に残りますわ！
+EN Oh-ho-ho-ho-ho!
+EN I shall live on as a legend
+EN in all of your hearts!
+
+@ 172.567
+# wrestler (voiced)
+JP みなさーん！
+JP わたし今日で引退しちゃいま～す！
+JP ありがとうございました～！
+EN Everyoooone!
+EN I'm retiring today!
+EN Thank you so much!
+
+@ 172.575
+# wrestler (voiced)
+JP ボクは今日まで
+JP 精一杯やってきました。
+JP 応援ありがとうございました！
+EN I've given it my all
+EN up until today.
+EN Thank you for your support!
+
+@ 172.583
+# wrestler (voiced)
+JP 楽しくやらせてもらったよ！
+JP あばよッ！
+EN It's been a blast!
+EN So long!
+
+@ 172.591
+# wrestler (voiced)
+JP みなさんの暖かいご声援
+JP 忘れませんッ！
+EN I'll never forget
+EN your warm support!
+
+@ 172.599
+# wrestler (voiced)
+JP 私は全力で戦ってきました！
+JP もう思い残すことはありませんッ！
+JP ありがとうございました！
+EN I fought with everything I had!
+EN I have no regrets left!
+EN Thank you so much!
+
+@ 172.607
+# wrestler (voiced)
+JP みんなー！
+JP 今まで応援アリガトー！
+JP …ヒクッ……。
+EN Everyone!
+EN Thanks for all the support!
+EN ...Hic......
+
+@ 172.615
+# wrestler (voiced)
+JP う、うぅ…みなさん
+JP ご声援ありがとうございました…。
+JP …うぅ……。
+EN Ugh, uuh... everyone,
+EN thank you for your support...
+EN ...Uuh......

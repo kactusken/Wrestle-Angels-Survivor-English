@@ -1,0 +1,463 @@
+# Event script entry 176 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 176.37
+# wrestler (voiced), used 2x
+JP そう…ですか…。
+JP …仕方ないです～…。
+JP ありがとうございました～…。
+EN I... see...
+EN ...It can't be helped...
+EN Thank you anyway...
+
+@ 176.44
+# wrestler (voiced), used 2x
+JP ふーん…。
+JP あっそ…。
+JP 見る目ないなぁ。
+EN Hmph...
+EN Whatever...
+EN You've got no eye for talent.
+
+@ 176.51
+# wrestler (voiced), used 2x
+JP …クッ！
+JP こいつらわかってないな！
+EN ...Gh!
+EN These people just don't get it!
+
+@ 176.58
+# wrestler (voiced), used 2x
+JP ありがとうございました。
+JP また機会があれば
+JP よろしくお願いします。
+EN Thank you very much.
+EN If there's another chance,
+EN please consider me again.
+
+@ 176.65
+# wrestler (voiced), used 2x
+JP ええっ！
+JP 信じらんなーい！
+JP もう大っ嫌いッ！
+EN What?!
+EN I can't believe it!
+EN I hate you!
+
+@ 176.79
+# wrestler (voiced), used 2x
+JP あー、ダメかぁ…。
+JP 仕方ない。
+JP 次がんばろっと…。
+EN Aw, I didn't make it...
+EN Oh well.
+EN I'll try harder next time...
+
+@ 176.86
+# wrestler (voiced), used 2x
+JP 落ちちゃったぁ…。
+JP ふっ、ふぇ～ん…。
+EN I failed...
+EN Wh-waaah...
+
+@ 176.93
+# wrestler (voiced), used 2x
+JP …えッ！？
+JP どうしてダメなんですか？
+EN ...Huh?!
+EN Why didn't I pass?
+
+@ 176.100
+# wrestler (voiced), used 2x
+JP もう一度出直します…。
+EN I'll come back and try again...
+
+@ 176.107
+# wrestler (voiced), used 2x
+JP どこがいけなかったんだ…？
+EN Where did I go wrong...?
+
+@ 176.114
+# wrestler (voiced), used 2x
+JP うぅ～…。
+JP がんばったのにぃ…。
+EN Uuuh...
+EN But I tried so hard...
+
+@ 176.121
+# wrestler (voiced), used 2x
+JP え～ッ！？
+JP じゃ、いいわよッ！
+EN Whaaat?!
+EN Fine, then!
+
+@ 176.128
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP 力不足ってことですね。
+EN I see...
+EN So I wasn't good enough.
+
+@ 176.135
+# wrestler (voiced), used 2x
+JP まぁッ！
+JP この私を落とすなんて！
+JP 見る目がないにも程がありますわ！
+EN Well!
+EN To fail me, of all people!
+EN Your lack of taste knows no bounds!
+
+@ 176.142
+# wrestler (voiced), used 2x
+JP …えー！
+JP そうなの～？
+JP 残念…。
+EN ...Whaaat!
+EN Really?
+EN Too bad...
+
+@ 176.149
+# wrestler (voiced), used 2x
+JP …そう。
+JP わかりました。
+EN ...I see.
+EN Understood.
+
+@ 176.156
+# wrestler (voiced), used 2x
+JP …ケッ！
+JP そうかよ！
+JP 見る目ねぇなぁ…。
+EN ...Tch!
+EN Fine!
+EN You've got no eye for talent...
+
+@ 176.163
+# wrestler (voiced), used 2x
+JP えーッ！？
+JP がんばったのになぁ…。
+EN Whaaat?!
+EN But I tried so hard...
+
+@ 176.170
+# wrestler (voiced), used 2x
+JP 仕方ないわね…。
+EN Oh well...
+
+@ 176.184
+# wrestler (voiced), used 2x
+JP …そう。
+JP わかったわ…。
+EN ...I see.
+EN Fine, then...
+
+@ 176.191
+# wrestler (voiced), used 2x
+JP ふーんだッ！
+EN Hmph!
+
+@ 176.198
+# wrestler (voiced), used 2x
+JP ありがとうございました！
+JP またがんばりますッ！
+EN Thank you very much!
+EN I'll keep at it!
+
+@ 176.205
+# wrestler (voiced), used 2x
+JP …チッ！
+JP なんだよ
+JP ぬか喜びさせやがって！
+EN ...Tch!
+EN What the hell,
+EN gettin' my hopes up like that!
+
+@ 176.212
+# wrestler (voiced), used 2x
+JP …えーッ！？
+JP なんで、なんで？
+JP どうしてダメなのぉ？
+EN ...Whaaat?!
+EN Why, why?
+EN Why didn't I pass?
+
+@ 176.219
+# wrestler (voiced), used 2x
+JP 後悔しても知りませんわよ。
+EN Don't come crying to me when you
+EN regret it.
+
+@ 176.226
+# wrestler (voiced), used 4x
+JP ……はい。
+EN ......Okay.
+
+@ 176.233
+# wrestler (voiced), used 4x
+JP 仕方ないですね…。
+EN I suppose it can't be helped...
+
+@ 176.240
+# wrestler (voiced), used 2x
+JP チェッ…。
+JP ダメか…。
+EN Tch...
+EN No good, huh...
+
+@ 176.247
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP また機会があれば…。
+EN I see...
+EN Maybe another time, then...
+
+@ 176.254
+# wrestler (voiced), used 2x
+JP もっと力をつけて出直します…。
+EN I'll get stronger and come back...
+
+@ 176.261
+# wrestler (voiced), used 2x
+JP ……あ…そう……。
+EN ......Oh...okay......
+
+@ 176.268
+# wrestler (voiced), used 2x
+JP 不採用の理由を
+JP 教えていただけますでしょうか？
+EN Might I ask the reason
+EN I was turned down?
+
+@ 176.275
+# wrestler (voiced), used 2x
+JP こちらから願い下げです。
+EN I'd have refused you anyway.
+
+@ 176.282
+# wrestler (voiced), used 2x
+JP ……ああ……。
+JP ……ここもダメ……。
+EN ......Oh......
+EN ......Not here either......
+
+@ 176.289
+# wrestler (voiced), used 2x
+JP あ～あ…。
+JP やっぱりダメかぁ…。
+EN Awww...
+EN I knew I wouldn't make it...
+
+@ 176.296
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP がっかりだ……。
+EN Ugh...
+EN What a bummer...
+
+@ 176.303
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP わかりました…。
+EN I see...
+EN Understood...
+
+@ 176.310
+# wrestler (voiced), used 2x
+JP う～ん…。
+JP ウチのどこがアカンかったか
+JP 全然わからへん！
+EN Hmmm...
+EN I've got no clue what was
+EN wrong with me!
+
+@ 176.317
+# wrestler (voiced), used 2x
+JP む～…。
+JP がんばったんだけどな～…。
+EN Mmm...
+EN But I tried so hard...
+
+@ 176.324
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP 残念です…。
+JP はぁ～…。
+EN I see...
+EN That's too bad...
+EN Sigh...
+
+@ 176.331
+# wrestler (voiced), used 2x
+JP 残念です…。
+JP 残念ですッ！
+EN That's too bad...
+EN That's too bad!
+
+@ 176.338
+# wrestler (voiced), used 2x
+JP 残念ですが
+JP ご縁がなかったということですね。
+EN Too bad, but I suppose
+EN it just wasn't meant to be.
+
+@ 176.345
+# wrestler (voiced), used 2x
+JP あら…そうですの…。
+JP 残念ですわ～…。
+EN Oh my... is that so...
+EN What a shame...
+
+@ 176.352
+# wrestler (voiced), used 2x
+JP え～～！？
+JP ダメなのー？
+JP ブー、ブーッ！
+EN Whaaat?!
+EN I didn't make it?
+EN Boo, booo!
+
+@ 176.359
+# wrestler (voiced), used 2x
+JP …フンッ！
+JP こんな弱小団体
+JP 受けるんじゃなかったぜ！
+EN ...Hmph!
+EN I shouldn't have bothered with
+EN some two-bit promotion like this!
+
+@ 176.366
+# wrestler (voiced), used 2x
+JP こんな弱小団体
+JP こっちから願い下げだよ！
+EN I wouldn't join a two-bit
+EN promotion like this anyway!
+
+@ 176.373
+# wrestler (voiced), used 2x
+JP そうかい…。
+JP これからは夜道にゃ
+JP 気をつけるんだな！
+EN That so...
+EN Better watch yourself
+EN on dark streets from now on!
+
+@ 176.387
+# wrestler (voiced), used 2x
+JP なんだと！？
+JP 覚えてろよー！
+EN What did you say?!
+EN You'll regret this!
+
+@ 176.401
+# wrestler (voiced)
+JP 了解した…。
+EN Understood...
+
+@ 176.408
+# wrestler (voiced)
+JP あは…ちょっと残念です…。
+EN Aha... that's a little
+EN disappointing...
+
+@ 176.415
+# wrestler (voiced)
+JP えーッ！？
+JP ウソでしょー！
+JP …ウッ、ウン、仕方ないわね。
+EN Whaaat?!
+EN You're kidding!
+EN ...Ahem, well, it can't be helped.
+
+@ 176.422
+# wrestler (voiced)
+JP ハァ～…。
+JP また今度よろしくね…。
+EN Sigh...
+EN Maybe next time, then...
+
+@ 176.429
+# wrestler (voiced), used 3x
+JP 残念です…。
+EN That's too bad...
+
+@ 176.436
+# wrestler (voiced)
+JP 運命の歯車が廻らなかった……。
+EN The gears of fate did not turn......
+
+@ 176.443
+# wrestler (voiced)
+JP う～…。
+JP どうせわたしなんて…。
+EN Uuh...
+EN I knew I was no good anyway...
+
+@ 176.450
+# wrestler (voiced)
+JP えーー！？
+JP 嘘でしょー？
+EN Whaaat?!
+EN You're kidding, right?
+
+@ 176.457
+# wrestler (voiced)
+JP よくも…わたくしに
+JP 恥をかかせてくれましたわね。
+JP あなたの顔覚えておきますわ！
+EN How dare you
+EN humiliate me like this.
+EN I shall remember your face!
+
+@ 176.464
+# wrestler (voiced)
+JP あれ…？
+JP だめですか～？
+EN Huh...?
+EN I didn't pass?
+
+@ 176.471
+# wrestler (voiced)
+JP 次は必ず合格してみせるよ！
+EN I'll pass next time for sure!
+
+@ 176.478
+# wrestler (voiced)
+JP マジかよッ！？
+JP 信じられねー！
+EN Seriously?!
+EN I can't believe it!
+
+@ 176.485
+# wrestler (voiced)
+JP そうですか…。
+JP 仕方ありませんね…。
+EN I see...
+EN I suppose it can't be helped...
+
+@ 176.492
+# wrestler (voiced)
+JP そ、そうですか…。
+JP ありがとうございました…。
+EN I-I see...
+EN Thank you very much...
+
+@ 176.499
+# wrestler (voiced)
+JP え～…。
+JP そうなんですかー？
+JP ガッカリ…。
+EN Awww...
+EN Really?
+EN What a letdown...
+
+@ 176.506
+# wrestler (voiced), used 3x
+JP …そうですか…。
+EN ...I see...

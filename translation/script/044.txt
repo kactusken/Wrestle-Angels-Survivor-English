@@ -1,0 +1,31 @@
+# Event script entry 044 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 044.19
+# Secretary
+JP 新日本女子プロレスから
+JP 年末のタッグリーグ戦への
+JP 参戦依頼がありました。
+EN New Japan Women's Pro has
+EN invited us to their year-end tag
+EN league.
+
+@ 044.21
+# Secretary
+JP 参戦しますか？
+EN Will we take part?
+
+@ 044.25
+# Secretary, case 0
+JP {name:0}選手と
+JP {name:1}選手を
+JP ＥＸタッグリーグに派遣しておきます。
+EN I'll send {name:0} and {name:1}
+EN to the EX Tag League.

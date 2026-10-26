@@ -1,0 +1,341 @@
+# Event script entry 009 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 009.46
+# Secretary
+JP {name:0}選手の
+JP ケガが完治しました。
+EN {name:0}'s injury has fully healed.
+
+@ 009.57
+# wrestler (voiced), used 2x
+JP もう大丈夫です～。
+EN I'm all better now~.
+
+@ 009.64
+# wrestler (voiced), used 2x
+JP もう、だいじょーぶ！
+EN I'm totally fiiine now!
+
+@ 009.71
+# wrestler (voiced), used 4x
+JP もう問題ありません。
+EN There's no problem anymore.
+
+@ 009.78
+# wrestler (voiced), used 2x
+JP あ…もう大丈夫ですから。
+EN Oh... I'm fine now, really.
+
+@ 009.85
+# wrestler (voiced), used 2x
+JP もう全然平気だよ！
+EN I'm totally fine now!
+
+@ 009.99
+# wrestler (voiced), used 2x
+JP うん！
+JP もうヘーキです。
+EN Yep!
+EN I'm fine now.
+
+@ 009.106
+# wrestler (voiced), used 2x
+JP もう治ったよー！
+EN I'm all healed!
+
+@ 009.113
+# wrestler (voiced), used 2x
+JP もうヘーキでーす！
+EN I'm totally fiiine now!
+
+@ 009.120
+# wrestler (voiced), used 5x
+JP もう大丈夫です。
+EN I'm all right now.
+
+@ 009.127
+# wrestler (voiced), used 2x
+JP もう大丈夫だよ。
+EN I'm fine now.
+
+@ 009.134
+# wrestler (voiced), used 2x
+JP もうダイジョブにゃん！
+EN I'm all better, nya!
+
+@ 009.141
+# wrestler (voiced), used 2x
+JP もう大丈夫よ！
+EN I'm fine now!
+
+@ 009.148
+# wrestler (voiced), used 4x
+JP ご心配をおかけしました。
+EN Sorry to have worried you.
+
+@ 009.155
+# wrestler (voiced), used 2x
+JP もう大丈夫でしてよ。
+EN I am quite all right now.
+
+@ 009.162
+# wrestler (voiced), used 2x
+JP もう平気よ！
+EN I'm fine now!
+
+@ 009.176
+# wrestler (voiced), used 2x
+JP ヘヘッ！
+JP もう大丈夫だよ。
+EN Hehe!
+EN I'm fine now.
+
+@ 009.183
+# wrestler (voiced), used 2x
+JP もうバッチリ大丈夫！
+EN I'm totally, perfectly fine!
+
+@ 009.190
+# wrestler (voiced), used 2x
+JP もう問題ないわ。
+EN There's no problem anymore.
+
+@ 009.197
+# wrestler (voiced), used 2x
+JP はい！
+JP もう大丈夫ですよ。
+EN Yes!
+EN I'm all right now.
+
+@ 009.204
+# wrestler (voiced), used 2x
+JP もう大丈夫よ。
+EN I'm fine now.
+
+@ 009.211
+# wrestler (voiced), used 2x
+JP もう全然オッケー！
+EN I'm totally A-OK now!
+
+@ 009.218
+# wrestler (voiced), used 2x
+JP もう大丈夫です。
+JP よろしくお願いします！
+EN I'm all right now.
+EN Let's get back to work!
+
+@ 009.225
+# wrestler (voiced), used 2x
+JP もう大丈夫だってよ。
+EN Doc says I'm good to go.
+
+@ 009.232
+# wrestler (voiced), used 2x
+JP 治ったよー！！
+JP 良かった～！
+EN I'm healed!!
+EN Thank goodness!
+
+@ 009.239
+# wrestler (voiced), used 2x
+JP ご心配をおかけしましたわ。
+EN Forgive me for causing you such
+EN concern.
+
+@ 009.246
+# wrestler (voiced), used 2x
+JP …もう大丈夫だ。
+EN ...I'm fine now.
+
+@ 009.253
+# wrestler (voiced), used 2x
+JP もう大丈夫です。
+JP ご心配をおかけしました。
+EN I'm all right now.
+EN Sorry to have worried you.
+
+@ 009.260
+# wrestler (voiced), used 4x
+JP もう大丈夫だよ！
+EN I'm fine now!
+
+@ 009.267
+# wrestler (voiced), used 2x
+JP もう大丈夫！
+JP ビシビシ鍛えてください。
+EN I'm fine now!
+EN Train me hard, please.
+
+@ 009.274
+# wrestler (voiced), used 2x
+JP もう大丈夫ッス。
+EN I'm good now.
+
+@ 009.281
+# wrestler (voiced), used 2x
+JP ……わたし…元気……？
+EN ......Am I... okay......?
+
+@ 009.288
+# wrestler (voiced), used 2x
+JP 温泉治療が効いたようです。
+EN The hot spring cure seems to
+EN have worked.
+
+@ 009.295
+# wrestler (voiced), used 2x
+JP 私は不死鳥……。
+EN I am the phoenix......
+
+@ 009.302
+# wrestler (voiced), used 2x
+JP ……もう…大丈夫……。
+EN ......I'm... fine now......
+
+@ 009.309
+# wrestler (voiced), used 2x
+JP ボク、もう大丈夫だよ。
+EN I'm all better now.
+
+@ 009.316
+# wrestler (voiced), used 2x
+JP うん。
+JP 治ったぞ！
+EN Yeah.
+EN I'm healed!
+
+@ 009.330
+# wrestler (voiced), used 2x
+JP もう大丈夫やって！
+EN I'm fine now, I said!
+
+@ 009.337
+# wrestler (voiced), used 2x
+JP もう大丈夫で～す！
+EN I'm all better now~!
+
+@ 009.344
+# wrestler (voiced), used 2x
+JP あたし、もう大丈夫です！
+EN I'm all right now!
+
+@ 009.351
+# wrestler (voiced), used 2x
+JP もう全快です！
+EN I'm fully recovered!
+
+@ 009.358
+# wrestler (voiced), used 2x
+JP もう完璧です！
+EN I'm in perfect shape!
+
+@ 009.365
+# wrestler (voiced), used 3x
+JP もう大丈夫みたいです～。
+EN Looks like I'm all better~.
+
+@ 009.372
+# wrestler (voiced), used 2x
+JP ムフ～、もう大丈夫だよ～。
+JP さびしかった～？
+EN Mufu~, I'm all better now~.
+EN Did you miss me?
+
+@ 009.379
+# wrestler (voiced), used 2x
+JP 病み上がりなんだから
+JP いたわりなよ！
+EN I just got better, so
+EN go easy on me!
+
+@ 009.386
+# wrestler (voiced), used 2x
+JP …チッ！
+JP もう治っちまった…。
+EN ...Tch!
+EN Already healed...
+
+@ 009.393
+# wrestler (voiced), used 2x
+JP もう心配ないよ。
+EN No need to worry anymore.
+
+@ 009.400
+# wrestler (voiced), used 2x
+JP もう心配は無用だ。
+EN There's no more need for concern.
+
+@ 009.407
+# wrestler (voiced), used 2x
+JP 倍返しに決まってるだろ！
+EN Payback, double. Obviously!
+
+@ 009.414
+# wrestler (voiced), used 345x
+JP ………………。
+EN ..................
+
+@ 009.421
+# wrestler (voiced)
+JP …もう心配ない。
+EN ...No need to worry now.
+
+@ 009.428
+# wrestler (voiced)
+JP もう大丈夫、ダイジョーブ！
+EN I'm fine now, totally fine!
+
+@ 009.435
+# wrestler (voiced)
+JP もう心配ないわ！
+EN No need to worry now!
+
+@ 009.449
+# wrestler (voiced)
+JP 私はもう大丈夫です！
+EN I'm all right now!
+
+@ 009.456
+# wrestler (voiced)
+JP 治った……。
+EN Healed......
+
+@ 009.463
+# wrestler (voiced), used 2x
+JP もう大丈夫です！
+EN I'm all right now!
+
+@ 009.470
+# wrestler (voiced)
+JP もう万全です。
+EN I'm in top condition.
+
+@ 009.477
+# wrestler (voiced)
+JP もう大丈夫ですわ。
+EN I am quite all right now.
+
+@ 009.498
+# wrestler (voiced)
+JP もう大丈夫だッ！
+EN I'm fine now!
+
+@ 009.505
+# wrestler (voiced)
+JP ご迷惑をおかけしました。
+JP もう大丈夫です。
+EN Sorry for the trouble.
+EN I'm all right now.
+
+@ 009.519
+# wrestler (voiced)
+JP バッチリオッケーです！
+EN Totally A-OK!

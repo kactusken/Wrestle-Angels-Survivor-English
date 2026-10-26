@@ -1,0 +1,1586 @@
+# Event script entry 312 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 312.446
+# wrestler (voiced), case 0, used 2x
+JP みなさんの応援のおかげです！
+JP ありがとうございます～！
+EN It's all thanks to your support!
+EN Thank you so much!
+
+@ 312.450
+# wrestler (voiced), case 1, used 2x
+JP あらあら～…。
+JP 優勝しちゃったみたいです～。
+EN Oh my, oh my...
+EN Looks like I won the whole thing~.
+
+@ 312.455
+# wrestler (voiced), case 0, used 2x
+JP やったーッ！
+JP これはあれかな？
+JP もって生まれた才能？
+EN Yaaay!
+EN Is this what they call
+EN natural-born talent?
+
+@ 312.459
+# wrestler (voiced), case 1, used 2x
+JP イェーイ！
+JP これがあたしの実力ってやつ？
+EN Yeah!
+EN I guess this is what I can really
+EN do!
+
+@ 312.464
+# wrestler (voiced), case 0, used 2x
+JP たいしたことなかったですね。
+EN That wasn't much of a challenge.
+
+@ 312.468
+# wrestler (voiced), case 1, used 2x
+JP 次回も優勝を狙いますッ！
+EN I'm going for the win next time too!
+
+@ 312.473
+# wrestler (voiced), case 0, used 2x
+JP 練習の成果を発揮できたみたいです。
+EN Looks like my training paid off.
+
+@ 312.477
+# wrestler (voiced), case 1, used 2x
+JP ありがとうございます！
+JP 次回も優勝を狙います！
+EN Thank you!
+EN I'll go for the win next time too!
+
+@ 312.482
+# wrestler (voiced), case 0, used 2x
+JP エヘヘッ
+JP 優勝しちゃいましたー！
+EN Ehehe!
+EN I won the whole thing!
+
+@ 312.486
+# wrestler (voiced), case 1, used 2x
+JP 私が本気を出したら
+JP こんなもんだよ！
+EN This is what happens
+EN when I get serious!
+
+@ 312.491
+# wrestler (voiced), case 0, used 2x
+JP これからも精進します。
+EN I'll keep working hard.
+
+@ 312.495
+# wrestler (voiced), case 1, used 2x
+JP 結果がすべてですから…。
+EN Results are all that matter...
+
+@ 312.500
+# wrestler (voiced), case 0, used 2x
+JP やりましたー！
+JP これであの人に近づけたかな…。
+EN I did it!
+EN Am I a little closer to her now...?
+
+@ 312.504
+# wrestler (voiced), case 1, used 2x
+JP 次も優勝狙っちゃいますよー！
+EN I'm going for the win next time too!
+
+@ 312.509
+# wrestler (voiced), case 0, used 2x
+JP あたし、もしかして強くなった？
+EN Hey, did I get stronger?
+
+@ 312.513
+# wrestler (voiced), case 1, used 2x
+JP やったーッ！
+JP もしかして最強伝説の始まりかな。
+JP エヘヘッ！
+EN Yaaay!
+EN Is this the start of my legend
+EN as the strongest? Ehehe!
+
+@ 312.518
+# wrestler (voiced), case 0, used 2x
+JP 勝っちゃいました！
+JP みんな応援ありがとー！
+EN I won!
+EN Thanks for cheering, everyone!
+
+@ 312.522
+# wrestler (voiced), case 1, used 2x
+JP あの～…。
+JP 実家のレストラン
+JP 宣伝していいですか？
+EN Um...
+EN Could I plug my family's
+EN restaurant real quick?
+
+@ 312.527
+# wrestler (voiced), case 0, used 2x
+JP 優勝か…。
+JP まだまだもっと上を目指さないと。
+EN The win, huh...
+EN I've still got to aim higher.
+
+@ 312.531
+# wrestler (voiced), case 1, used 2x
+JP 次も優勝を狙えるよう
+JP これからも精進あるのみです。
+EN All I can do is keep working
+EN so I can win again next time.
+
+@ 312.536
+# wrestler (voiced), case 0, used 2x
+JP まだまだ…。
+JP こんなところで
+JP 満足してられない！
+EN Not yet...
+EN I can't be satisfied
+EN with just this!
+
+@ 312.540
+# wrestler (voiced), case 1, used 2x
+JP これも努力の結果
+JP というところかな…。
+EN I guess you could call it
+EN the fruit of my hard work...
+
+@ 312.545
+# wrestler (voiced), case 0, used 2x
+JP 優勝しちゃった～！
+JP 最高にゃん！
+EN I won~!
+EN This is the best, nya!
+
+@ 312.549
+# wrestler (voiced), case 1, used 2x
+JP 次も優勝しちゃうよッ！
+EN I'm gonna win next time too!
+
+@ 312.554
+# wrestler (voiced), case 0, used 2x
+JP みんなのおかげで優勝できました！
+JP これからもがんばるねー！
+EN I won thanks to all of you!
+EN I'll keep doing my best!
+
+@ 312.558
+# wrestler (voiced), case 1, used 2x
+JP すご～い！
+JP 私、優勝しちゃったよ！
+JP これも、みんなのおかげだね！
+EN Amaziiing!
+EN I won the whole thing!
+EN It's all thanks to everyone!
+
+@ 312.563
+# wrestler (voiced), case 0, used 2x
+JP 優勝できたのも
+JP みなさんの応援のおかげです！
+EN I owe this win to
+EN all of your support!
+
+@ 312.567
+# wrestler (voiced), case 1, used 2x
+JP これも毎日の努力の結果だと
+JP 思います。
+JP これからもがんばります！
+EN I think this comes from
+EN working hard every day.
+EN I'll keep at it!
+
+@ 312.572
+# wrestler (voiced), case 0, used 2x
+JP 私ってどうしてこんなに
+JP 完璧なのかしら！
+JP オーッホッホッホ！
+EN Why must I be so perfect?
+EN Oh-ho-ho-ho!
+
+@ 312.576
+# wrestler (voiced), case 1, used 2x
+JP オーッホッホッホ！
+JP まあ、決まりきった結果ですわね！
+EN Oh-ho-ho-ho!
+EN Well, the outcome was never in
+EN doubt!
+
+@ 312.581
+# wrestler (voiced), case 0, used 2x
+JP この優勝はみなさんのおかげです！
+JP これからもよろしくねー！
+EN This win is all thanks to you!
+EN Keep cheering for me!
+
+@ 312.585
+# wrestler (voiced), case 1, used 2x
+JP これで私も
+JP カワイイだけじゃないってことが
+JP 証明できたわ！
+EN Now I've proven I'm not
+EN just cute!
+
+@ 312.590
+# wrestler (voiced), case 0, used 2x
+JP みなさんの応援のおかげで
+JP 優勝することができました！
+EN Thanks to your support,
+EN I was able to win!
+
+@ 312.594
+# wrestler (voiced), case 1, used 2x
+JP 厳しい戦いでした…。
+JP 優勝できて本当に良かったです。
+EN It was a tough fight...
+EN I'm really glad I won.
+
+@ 312.599
+# wrestler (voiced), case 0, used 2x
+JP まあ、当然の結果だけどな！
+JP エヘヘー！
+EN Well, of course I won!
+EN Ehehe!
+
+@ 312.603
+# wrestler (voiced), case 1, used 2x
+JP やっぱ、うれしいもんだな！
+JP ウフフッ！
+EN Still, it feels good!
+EN Ufufu!
+
+@ 312.608
+# wrestler (voiced), case 0, used 2x
+JP まさか優勝できるなんて…。
+JP すっごくうれしい！
+EN I can't believe I won...
+EN I'm sooo happy!
+
+@ 312.612
+# wrestler (voiced), case 1, used 2x
+JP これもみんなのおかげだよ！
+JP 次もがんばるからねッ！
+EN It's all thanks to everyone!
+EN I'll do my best next time too!
+
+@ 312.617
+# wrestler (voiced), case 0, used 2x
+JP もっと技に磨きをかけて
+JP 次も優勝目指します。
+EN I'll polish my moves even more
+EN and aim to win again.
+
+@ 312.621
+# wrestler (voiced), case 1, used 2x
+JP 思い描いていた通りの
+JP 結果を出せてうれしいわ。
+EN I'm glad it turned out
+EN just as I pictured it.
+
+@ 312.626
+# wrestler (voiced), case 0, used 2x
+JP まさか優勝できるなんて…。
+JP うれしいですッ！
+JP ありがとうございます！
+EN I never thought I'd win...
+EN I'm so happy!
+EN Thank you!
+
+@ 312.630
+# wrestler (voiced), case 1, used 2x
+JP これも、みなさんのおかげです。
+JP …うれしいです！
+EN This is all thanks to you.
+EN ...I'm so happy!
+
+@ 312.635
+# wrestler (voiced), case 0, used 2x
+JP うれしいけど…。
+JP 優勝はただ勝ち進んだ結果かな。
+EN I'm happy, but...
+EN I guess I just kept on winning.
+
+@ 312.639
+# wrestler (voiced), case 1, used 2x
+JP ありがとう…。
+JP 普段の力が出せて良かった。
+EN Thank you...
+EN I'm glad I fought my usual game.
+
+@ 312.644
+# wrestler (voiced), case 0, used 2x
+JP まあ、あたしの実力なら
+JP 当たり前でしょ！
+JP なんちゃって♪
+EN Well, with my skills,
+EN that's a given!
+EN Just kidding♪
+
+@ 312.648
+# wrestler (voiced), case 1, used 2x
+JP ん～！
+JP やっぱ目立つのって
+JP 気持ちいいーッ！
+EN Mmm!
+EN Being in the spotlight
+EN feels sooo good!
+
+@ 312.653
+# wrestler (voiced), case 0, used 2x
+JP ボクが優勝？
+JP やったーッ！
+EN I won?
+EN Yaaay!
+
+@ 312.657
+# wrestler (voiced), case 1, used 2x
+JP やったーッ！
+JP がんばってきたかいが
+JP ありましたッ！
+EN Yaaay!
+EN All my hard work paid off!
+
+@ 312.662
+# wrestler (voiced), case 0, used 2x
+JP 相手にならねーなぁ！
+JP もっと強いやつと戦わせな！
+EN None of you were any match!
+EN Give me someone tougher!
+
+@ 312.666
+# wrestler (voiced), case 1, used 2x
+JP 度胸のあるヤツはかかって来な！
+EN Anyone with guts, bring it on!
+
+@ 312.671
+# wrestler (voiced), case 0, used 2x
+JP 優勝なんてウソみたーい！
+JP 夢じゃないよね？
+EN I can't believe I won!
+EN This isn't a dream, right?
+
+@ 312.675
+# wrestler (voiced), case 1, used 2x
+JP 信じらんなーい！？
+JP 優勝したよーッ！
+EN No waaay!?
+EN I won!
+
+@ 312.680
+# wrestler (voiced), case 0, used 2x
+JP 私が最も優勝にふさわしかったと
+JP いうことかしら？
+EN I suppose that means I was
+EN the most deserving winner?
+
+@ 312.684
+# wrestler (voiced), case 1, used 2x
+JP みなさん！
+JP もっと練習した方が
+JP よろしくてよ。
+EN Everyone!
+EN You'd do well to
+EN train harder.
+
+@ 312.689
+# wrestler (voiced), case 0, used 2x
+JP 次もベストを尽くします…。
+EN I'll do my best next time too...
+
+@ 312.693
+# wrestler (voiced), case 1, used 2x
+JP 今回は運が良かっただけです…。
+EN I just got lucky this time...
+
+@ 312.698
+# wrestler (voiced), case 0, used 2x
+JP 優勝…。
+JP 日頃の修練のたまものでしょうか。
+EN The win...
+EN Perhaps the fruit of my daily
+EN training.
+
+@ 312.702
+# wrestler (voiced), case 1, used 2x
+JP 日々の積み重ねが
+JP 優勝につながったようです…。
+EN It seems my daily efforts
+EN led to this win...
+
+@ 312.707
+# wrestler (voiced), case 0, used 2x
+JP あったりまえじゃん！
+JP これでも一生懸命やったんだから！
+EN Well, duh!
+EN I gave it my all, you know!
+
+@ 312.711
+# wrestler (voiced), case 1, used 2x
+JP 優勝だなんて…。
+JP うれしい！
+JP 信じられないッ！
+EN I won...?
+EN I'm so happy!
+EN I can't believe it!
+
+@ 312.716
+# wrestler (voiced), case 0, used 2x
+JP この拳一つで頂上に立つという
+JP 夢がかないました！
+EN My dream of reaching the top
+EN with my fists alone came true!
+
+@ 312.720
+# wrestler (voiced), case 1, used 2x
+JP みなさんの応援が
+JP とても心強かったです！
+JP ありがとうございました！
+EN Your cheers gave me
+EN so much strength!
+EN Thank you so much!
+
+@ 312.725
+# wrestler (voiced), case 0, used 2x
+JP 努力と根性の結果ですッ！
+JP これからも気合でいきますッ！
+EN This is the result of effort and
+EN guts!
+EN I'll keep fighting with spirit!
+
+@ 312.729
+# wrestler (voiced), case 1, used 2x
+JP この結果に満足することなく
+JP もっと気合い入れていきますッ！
+EN I won't settle for this!
+EN I'll push even harder!
+
+@ 312.734
+# wrestler (voiced), case 0
+JP ……負けなかっただけなのに
+JP ……優勝できた……。
+EN ......All I did was not lose,
+EN ......and I won......
+
+@ 312.738
+# wrestler (voiced), case 1, used 2x
+JP ……あ……もう終わり……？
+JP ……あれ……？
+JP ……優勝……。
+EN ......Oh......it's over......?
+EN ......Huh......?
+EN ......I won......
+
+@ 312.743
+# wrestler (voiced), case 0, used 2x
+JP すべて計算通りでしたね。
+EN Everything went exactly
+EN as calculated.
+
+@ 312.747
+# wrestler (voiced), case 1, used 2x
+JP スタミナ配分ですよ。
+JP 手を抜くところは抜く。
+JP これが重要なんです。
+EN It's all about pacing your stamina.
+EN You ease off where you can.
+EN That's what matters.
+
+@ 312.752
+# wrestler (voiced), case 0, used 2x
+JP 愛しのバンビーノ達！
+JP これからも私についてきてくれるね？
+EN My darling bambini!
+EN You'll keep following me, won't you?
+
+@ 312.756
+# wrestler (voiced), case 1, used 2x
+JP 私が優勝すること…。
+JP それもまたさだめ…。
+EN My victory...
+EN That, too, was destiny...
+
+@ 312.761
+# wrestler (voiced), case 0, used 2x
+JP ……あ…あの……。
+JP ……えっと…優勝できました……。
+EN ......U-um......
+EN ......Well...I won......
+
+@ 312.765
+# wrestler (voiced), case 1, used 2x
+JP ……あ…あの……。
+JP ……えっと…勝てたみたいです……。
+EN ......U-um......
+EN ......Well...looks like I won......
+
+@ 312.770
+# wrestler (voiced), case 0, used 2x
+JP やったーッ！
+JP 完全勝利！
+EN Yaaay!
+EN A total victory!
+
+@ 312.774
+# wrestler (voiced), case 1, used 2x
+JP ボクが優勝…？
+JP 夢じゃないよね！
+EN I won...?
+EN This isn't a dream, right!
+
+@ 312.779
+# wrestler (voiced), case 0, used 2x
+JP みんな真帆の強さわかったか？
+EN Everybody see how strong Maho is?
+
+@ 312.783
+# wrestler (voiced), case 1, used 2x
+JP 真帆が一番強いのか？
+JP そうなのか！？
+EN Is Maho the strongest?
+EN Is she!?
+
+@ 312.788
+# wrestler (voiced), case 0, used 2x
+JP みなさんの応援のおかげで
+JP 優勝できました。
+JP ありがとうございます。
+EN Thanks to your support,
+EN I was able to win.
+EN Thank you very much.
+
+@ 312.792
+# wrestler (voiced), case 1, used 2x
+JP 自分の仕事を
+JP 完璧にこなしたまでです。
+EN I simply did my job
+EN to perfection.
+
+@ 312.797
+# wrestler (voiced), case 0, used 2x
+JP 初めから結果はわかっとったけどな。
+JP ウチにかかればこんなもんよ！
+EN I knew how it'd end from the start.
+EN That's what happens when I show up!
+
+@ 312.801
+# wrestler (voiced), case 1, used 2x
+JP あはははッ！
+JP めっちゃうれしい！
+JP ありがとう！
+EN Ahahaha!
+EN I'm so stinkin' happy!
+EN Thank you!
+
+@ 312.806
+# wrestler (voiced), case 0, used 2x
+JP 優勝できましたー！
+JP みんなありがとねーッ！
+EN I won!
+EN Thanks, everybody!
+
+@ 312.810
+# wrestler (voiced), case 1, used 2x
+JP えっと、すっごいうれしいです！
+JP 次も絶対ここに立ちます！
+EN Um, I'm super happy!
+EN I'll be standing here again next
+EN time!
+
+@ 312.815
+# wrestler (voiced), case 0, used 2x
+JP ありがとうございます！
+JP 優勝賞金って出ますか？
+EN Thank you!
+EN Is there prize money for winning?
+
+@ 312.819
+# wrestler (voiced), case 1, used 2x
+JP ありがとうございます！
+JP ちーちゃん、見てるー？
+EN Thank you!
+EN Chii, are you watching?
+
+@ 312.824
+# wrestler (voiced), case 0, used 2x
+JP これからも努力と根性で
+JP がんばりますッ！
+EN I'll keep giving it my all
+EN with effort and guts!
+
+@ 312.828
+# wrestler (voiced), case 1, used 2x
+JP 戦う女として
+JP また一歩前進できましたッ！
+EN As a fighting woman,
+EN I've taken another step forward!
+
+@ 312.833
+# wrestler (voiced), case 0, used 2x
+JP プロとして
+JP 優勝を目指すのは当然！
+EN As a pro, aiming for the win
+EN is only natural!
+
+@ 312.837
+# wrestler (voiced), case 1, used 2x
+JP この優勝に気を抜くことなく
+JP 次もこの場所に立てるように
+JP 努力していきます！
+EN I won't let this win make me lazy.
+EN I'll keep working so I can
+EN stand here again next time!
+
+@ 312.842
+# wrestler (voiced), case 0, used 2x
+JP 優勝できました。
+JP 私でもやればできるんですね～。
+EN I won.
+EN So even I can do it if I try~.
+
+@ 312.846
+# wrestler (voiced), case 1, used 2x
+JP まさか優勝できるとは
+JP 思いませんでした～。
+JP これからも応援してくださいね～！
+EN I never thought I'd win~.
+EN Please keep cheering for me~!
+
+@ 312.851
+# wrestler (voiced), case 0, used 2x
+JP まさか優勝できるなんて…。
+JP これも社長の愛のおかげかな？
+JP なんちゃって♪
+EN I can't believe I won...
+EN Thanks to the Boss's love, maybe?
+EN Just kidding♪
+
+@ 312.855
+# wrestler (voiced), case 1, used 2x
+JP みんなの応援のおかげだよ！
+JP 本当にありがとーッ！
+EN It's all thanks to your cheers!
+EN Thank you so much!
+
+@ 312.860
+# wrestler (voiced), case 0, used 2x
+JP もっとレベルの高い試合を
+JP 用意しな！
+EN Set me up with some
+EN higher-level matches!
+
+@ 312.864
+# wrestler (voiced), case 1, used 2x
+JP ザコがいくら集まっても
+JP 私には勝てないんだよ！
+EN No matter how many small fry
+EN gang up, they can't beat me!
+
+@ 312.869
+# wrestler (voiced), case 0, used 2x
+JP ザコばっかりで
+JP まるで話にならねーな！
+EN Nothing but small fry.
+EN Not even worth talking about!
+
+@ 312.873
+# wrestler (voiced), case 1, used 2x
+JP こんなレベルの低い試合じゃ
+JP 勝って当たり前だろ！
+EN With matches this weak,
+EN of course I won!
+
+@ 312.878
+# wrestler (voiced), case 0, used 2x
+JP あたしゃ、まだまだ
+JP こんなもんじゃないんで
+JP 夜露死苦ッ！
+EN I'm just gettin' started,
+EN so watch out!
+
+@ 312.882
+# wrestler (voiced), case 1, used 2x
+JP やっぱ天下取るのは気持ちいいねぇ！
+EN Ruling the top sure feels great!
+
+@ 312.887
+# wrestler (voiced), case 0, used 2x
+JP 騒ぐほどの事ではない…。
+EN It's nothing to make a fuss over...
+
+@ 312.891
+# wrestler (voiced), case 1, used 2x
+JP これからも日々鍛錬だ…。
+EN I'll keep training every day...
+
+@ 312.896
+# wrestler (voiced), case 0, used 2x
+JP まだまだ殴りたりないんだよ！
+EN I haven't punched nearly enough!
+
+@ 312.900
+# wrestler (voiced), case 1, used 2x
+JP この次も血の海を見せてやるよ。
+JP くっくっく！
+EN Next time I'll show you
+EN a sea of blood. Heh heh heh!
+
+@ 312.909
+# wrestler (voiced), case 1, used 12x
+JP …………うむ……！
+EN ............Mm......!
+
+@ 312.914
+# wrestler (voiced), case 0
+JP 結果は見えていた。
+JP それがすべてだ。
+EN The outcome was clear.
+EN That is all.
+
+@ 312.918
+# wrestler (voiced), case 1
+JP 結果がすべて…。
+JP それだけだ…。
+EN Results are everything...
+EN Nothing more...
+
+@ 312.923
+# wrestler (voiced), case 0
+JP 優勝できましたー！
+JP 今夜はパーティー、パーティー！
+EN I won!
+EN Party tonight! Party!
+
+@ 312.927
+# wrestler (voiced), case 1
+JP 勝っちゃいましたーッ！
+JP 優勝、優勝やったね！
+EN I won!
+EN We won, we won, yay!
+
+@ 312.932
+# wrestler (voiced), case 0
+JP 優勝してもクールに喜ばないとね。
+EN Even when I win,
+EN I've gotta play it cool.
+
+@ 312.936
+# wrestler (voiced), case 1
+JP キャ、やったーッ！
+JP …コホン…優勝くらい
+JP と、とーぜんの結果よね…。
+EN Eek, yaaay!
+EN ...Ahem... Winning is
+EN o-only natural for me...
+
+@ 312.941
+# wrestler (voiced), case 0
+JP やったね！
+JP やっぱり正義は勝つって言葉は
+JP 正しいよね！
+EN We did it!
+EN Justice really does prevail,
+EN just like they say!
+
+@ 312.945
+# wrestler (voiced), case 1
+JP 正義の味方は無敵だよ！
+EN Defenders of justice are invincible!
+
+@ 312.950
+# wrestler (voiced), case 0
+JP ありがとうございます！
+JP 良い結果を残せました。
+EN Thank you!
+EN I got a good result.
+
+@ 312.954
+# wrestler (voiced), case 1
+JP ありがとうございます。
+JP 優勝という最大の目標を
+JP 達成できました。
+EN Thank you.
+EN I've achieved my biggest goal:
+EN winning it all.
+
+@ 312.959
+# wrestler (voiced), case 0
+JP 優勝……。
+EN I won......
+
+@ 312.963
+# wrestler (voiced), case 1
+JP 優勝、これも運命……。
+EN Winning... this too is fate......
+
+@ 312.968
+# wrestler (voiced), case 0
+JP え～と…。
+JP みなさんのおかげで
+JP 優勝できました！
+EN Umm...
+EN Thanks to all of you,
+EN I was able to win!
+
+@ 312.972
+# wrestler (voiced), case 1
+JP この優勝を励みに
+JP もっともっとがんばって
+JP いきたいと思います！
+EN This win will spur me on
+EN to work even harder!
+
+@ 312.977
+# wrestler (voiced), case 0
+JP あははッ！
+JP 優勝しちゃったー！
+JP 完全燃焼できた証拠だよね！
+EN Ahaha!
+EN I won!
+EN Proof I burned all-out!
+
+@ 312.981
+# wrestler (voiced), case 1
+JP 優勝、感動、完全燃焼ッ！
+JP みんなありがとう！
+EN Victory! Emotion! All-out burn!
+EN Thanks, everybody!
+
+@ 312.986
+# wrestler (voiced), case 0
+JP わたくしには頂点しか
+JP 似合いませんわ！
+EN Only the summit suits me!
+
+@ 312.990
+# wrestler (voiced), case 1
+JP 当然の結果ですわ！
+JP ムダな時間でしたわね。
+EN The obvious outcome!
+EN What a waste of time.
+
+@ 312.995
+# wrestler (voiced), case 0
+JP みなさ～ん！
+JP 勝っちゃいました～！
+EN Everyone~!
+EN I won~!
+
+@ 312.999
+# wrestler (voiced), case 1
+JP わたしが優勝なんて
+JP 奇跡が起きた気がします～。
+EN Me, winning...
+EN Feels like a miracle happened~.
+
+@ 312.1004
+# wrestler (voiced), case 0
+JP 優勝できるなんて夢みたいだ。
+JP 応援してくれたみんな
+JP ありがとう！
+EN Winning feels like a dream.
+EN Thanks to everyone
+EN who cheered for me!
+
+@ 312.1008
+# wrestler (voiced), case 1
+JP ホントに優勝しちゃった…。
+JP ボクってこんなに
+JP 強くなってたんだ…。
+EN I really won...
+EN I guess I've gotten
+EN this strong...
+
+@ 312.1013
+# wrestler (voiced), case 0
+JP アタシがナンバーワンってね！
+EN I'm number one!
+
+@ 312.1017
+# wrestler (voiced), case 1
+JP まだまだ！
+JP こんなんじゃ満足してねーぜ！
+EN Not yet!
+EN I ain't satisfied with this!
+
+@ 312.1022
+# wrestler (voiced), case 0
+JP 優勝か…。
+JP 練習の成果が出せたみたいですね。
+EN The win, huh...
+EN Looks like my training paid off.
+
+@ 312.1026
+# wrestler (voiced), case 1
+JP みなさんの応援のおかげです。
+JP ありがとうございました。
+EN It's all thanks to your support.
+EN Thank you very much.
+
+@ 312.1031
+# wrestler (voiced), case 0
+JP やったねッ！
+JP 次も優勝目指してがんばります！
+EN Yay!
+EN I'll aim to win next time too!
+
+@ 312.1035
+# wrestler (voiced), case 1
+JP みんなー優勝できたよ！
+JP 応援ありがとーッ！
+EN Everyone, I won!
+EN Thanks for cheering!
+
+@ 312.1040
+# wrestler (voiced), case 0
+JP やりましたー！
+JP みんな声援ありがとー！
+EN I did it!
+EN Thanks for the cheers, everyone!
+
+@ 312.1044
+# wrestler (voiced), case 1
+JP 練習の成果が出せました！
+JP みんな、これからもよろしくねーッ！
+EN My training paid off!
+EN Keep cheering for me, everyone!
+
+@ 312.1049
+# wrestler (voiced), case 0
+JP 誰が最強かわかったろッ！
+EN Now ya know who's the strongest!
+
+@ 312.1053
+# wrestler (voiced), case 1
+JP 次に叩き潰されたいのはどいつだ？
+EN Which one of ya wants
+EN to get crushed next?
+
+@ 312.1346
+# wrestler (voiced), case 0
+JP ……負けなかっただけなのに
+JP 優勝できた……。
+EN ......All I did was not lose,
+EN and I won......
+
+@ 312.1526
+# wrestler (voiced), case 0, used 2x
+JP やったわ！
+JP 喜びのダンスでもしようかしら？
+EN I did it!
+EN Maybe I'll do a little victory
+EN dance?
+
+@ 312.1530
+# wrestler (voiced), case 1, used 2x
+JP やったわ！
+JP お祝いのダンスでもしようかしら？
+EN I did it!
+EN Maybe I'll do a celebration dance?
+
+@ 312.1535
+# wrestler (voiced), case 0, used 2x
+JP 次も優勝を狙っちゃうぞー！
+EN I'm going for the win next time too!
+
+@ 312.1539
+# wrestler (voiced), case 1, used 2x
+JP ボクは誰の挑戦でも受けるよ！
+EN I'll take on any challenger!
+
+@ 312.1544
+# wrestler (voiced), case 0, used 2x
+JP まだまだ優勝狙うわよー！
+EN I'm still gunning for more wins!
+
+@ 312.1548
+# wrestler (voiced), case 1, used 2x
+JP 我こそと思うアナタ
+JP 挑戦お待ちしてます！
+EN Think you've got what it takes?
+EN I'll be waiting for your challenge!
+
+@ 312.1553
+# wrestler (voiced), case 0, used 2x
+JP 頂きに着いたらやることはひとつ！
+JP アオーン！
+EN Reach the summit,
+EN and there's only one thing to do!
+EN Awoooo!
+
+@ 312.1557
+# wrestler (voiced), case 1, used 2x
+JP 他の選手には
+JP 災いの名前となっただろうな。
+JP フェンリルという名は！
+EN To the other wrestlers,
+EN the name Fenrir must now
+EN spell doom!
+
+@ 312.1562
+# wrestler (voiced), case 0, used 2x
+JP 頂上はやはり良いものだぞ！
+JP アオーン！
+EN The summit is a fine place indeed!
+EN Awoooo!
+
+@ 312.1566
+# wrestler (voiced), case 1, used 2x
+JP 我々は眠らない！
+JP マットに横たわるのは
+JP お前たちだけで十分だ！
+EN We never sleep!
+EN Lying on the mat?
+EN We'll leave that to you lot!
+
+@ 312.1571
+# wrestler (voiced), case 0, used 2x
+JP まさしく一騎当千のこの力！
+EN Worth a thousand warriors -
+EN that's this power of mine!
+
+@ 312.1575
+# wrestler (voiced), case 1, used 2x
+JP 烏合の衆にあって
+JP この優勝は当然、必然！
+EN Among a rabble like this,
+EN my win was certain, inevitable!
+
+@ 312.1580
+# wrestler (voiced), case 0, used 2x
+JP お嬢様…。
+JP この優勝はあなたに捧げます。
+EN My lady...
+EN I dedicate this win to you.
+
+@ 312.1584
+# wrestler (voiced), case 1, used 2x
+JP この優勝、お嬢様の右腕として
+JP ふさわしい結果では
+JP ないでしょうか？
+EN Isn't this win a fitting result
+EN for my lady's right hand?
+
+@ 312.1589
+# wrestler (voiced), case 0, used 2x
+JP 優勝カラーはまさしくゴールド！
+JP わたしにふさわしい色…。
+EN The color of victory is gold!
+EN The color that suits me...
+
+@ 312.1593
+# wrestler (voiced), case 1, used 2x
+JP わたしが優勝…！？
+JP （はっ、もしかしてお嬢様や
+JP １号よりも、わたしのほうが…。）
+EN I won...!?
+EN (Wait, could it be that I'm better
+EN than my lady and No. 1...?)
+
+@ 312.1598
+# wrestler (voiced), case 0, used 2x
+JP これでお終い？
+JP まだ暴れたりないわねぇ。
+EN That's it?
+EN I haven't run wild nearly enough.
+
+@ 312.1602
+# wrestler (voiced), case 1, used 2x
+JP あらあらあら…？
+JP もう全試合消化しちゃったのね？
+EN Oh my, oh my...?
+EN All the matches are over already?
+
+@ 312.1607
+# wrestler (voiced), case 0, used 2x
+JP 次も優勝狙っていきますね！
+EN I'll go for the win next time too!
+
+@ 312.1611
+# wrestler (voiced), case 1, used 2x
+JP 誰の挑戦も受けて立つわよ！
+JP どこからでもかかってらっしゃい！
+EN I'll take on any challenger!
+EN Come at me from anywhere!
+
+@ 312.1616
+# wrestler (voiced), case 0, used 2x
+JP 強さというピラミッドの
+JP 頂上に咲く一輪の薔薇…。
+JP その薔薇こそワタクシですわ！
+EN The single rose blooming atop
+EN the pyramid of strength...
+EN That rose is me!
+
+@ 312.1620
+# wrestler (voiced), case 1, used 2x
+JP 大勢の中でも最も目立つ位置に
+JP 来てしまう…。
+JP それがワタクシの運命！
+EN Even among so many, I end up
+EN in the most eye-catching spot...
+EN That is my destiny!
+
+@ 312.1625
+# wrestler (voiced), case 0, used 2x
+JP ウフフフ～。
+JP 運も実力の内！
+JP なんちゃって！
+EN Ufufufu~.
+EN Luck is a skill too!
+EN Just kidding!
+
+@ 312.1629
+# wrestler (voiced), case 1, used 2x
+JP ふぅ～…。
+JP しんどかった…。
+EN Phew~...
+EN That was rough...
+
+@ 312.1634
+# wrestler (voiced), case 0, used 2x
+JP 応援してくれたみんなに
+JP 感謝のキスを贈りまーす！
+EN To everyone who cheered for me,
+EN here's a thank-you kiss!
+
+@ 312.1638
+# wrestler (voiced), case 1, used 2x
+JP あたしは永遠に無敵でーす！
+EN I'm invincible forever!
+
+@ 312.1643
+# wrestler (voiced), case 0, used 2x
+JP この腰抜けが！
+JP お前らしょっぱすぎて
+JP 話にならねーよ！
+EN You cowards!
+EN You're all so weak,
+EN it's not even funny!
+
+@ 312.1647
+# wrestler (voiced), case 1, used 2x
+JP ハッ！
+JP 当然の結果に決まってんだろ！
+JP フフッ…。
+EN Hah!
+EN Of course I won!
+EN Heh...
+
+@ 312.1652
+# wrestler (voiced), case 0, used 2x
+JP フフフ…。
+JP 私の行く先に敵などいない。
+EN Hehehe...
+EN No enemy stands in my path.
+
+@ 312.1656
+# wrestler (voiced), case 1, used 2x
+JP フフフ…。
+JP 予想通りの展開！
+JP 悔しかったらここまでいらっしゃい。
+EN Hehehe...
+EN Just as I predicted!
+EN If it stings, come up here and try.
+
+@ 312.1661
+# wrestler (voiced), case 0, used 2x
+JP もっとまともな相手を
+JP 連れてきなさい。
+JP 話にならないわ…。
+EN Bring me a decent opponent.
+EN This is pathetic...
+
+@ 312.1665
+# wrestler (voiced), case 1, used 2x
+JP 試合をする意味もなかったわね…。
+EN There was no point
+EN in even having matches...
+
+@ 312.1670
+# wrestler (voiced), case 0, used 2x
+JP 新しい勝利の女神は
+JP この私のことね！
+EN The new goddess of victory
+EN is me!
+
+@ 312.1674
+# wrestler (voiced), case 1, used 2x
+JP みなさーん！
+JP もっと私に注目してね！
+EN Everyone!
+EN Pay more attention to me!
+
+@ 312.1679
+# wrestler (voiced), case 0, used 2x
+JP 私にかなうものなどいなーいッ！
+EN Nobody can match me!
+
+@ 312.1683
+# wrestler (voiced), case 1, used 2x
+JP このまま世界中のベルトを
+JP 手に入れてやる！
+EN I'll keep going and take
+EN every belt in the world!
+
+@ 312.1688
+# wrestler (voiced), case 0, used 2x
+JP ついにやったよ！
+JP 私はベリーストロングね！
+EN I finally did it!
+EN I'm VERY strong!
+
+@ 312.1692
+# wrestler (voiced), case 1, used 2x
+JP 優勝したよ！
+JP みんな見てる？
+EN I won!
+EN Is everyone watching?
+
+@ 312.1697
+# wrestler (voiced), case 0, used 2x
+JP 黒い超新星を止められる者は
+JP いなかったというわけだな…。
+EN So no one could stop
+EN the Black Supernova...
+
+@ 312.1701
+# wrestler (voiced), case 1, used 2x
+JP ムダだ。
+JP 誰が相手でも叩き伏せてやる…。
+EN It's pointless.
+EN I'll crush anyone who faces me...
+
+@ 312.1706
+# wrestler (voiced), case 0, used 2x
+JP 当ったり前じゃないッ！
+JP みんな弱すぎるのよ！
+EN Well, obviously!
+EN Everyone's way too weak!
+
+@ 312.1710
+# wrestler (voiced), case 1, used 2x
+JP フッ…。
+JP まあ、わたしの実力なら
+JP 優勝なんて当たり前の結果よ！
+EN Hmph...
+EN Well, with my skills,
+EN winning was only natural!
+
+@ 312.1715
+# wrestler (voiced), case 0, used 2x
+JP 一度優勝したくらいで
+JP 満足はできませんから…。
+EN I can't be satisfied
+EN with just one win...
+
+@ 312.1719
+# wrestler (voiced), case 1, used 2x
+JP うれしいですわ…。
+JP 次も仮面の貴婦人の力
+JP 存分にお見せしましょう。
+EN I am delighted...
+EN Next time I shall show you the full
+EN power of the Masked Lady.
+
+@ 312.1724
+# wrestler (voiced), case 0, used 2x
+JP フンッ…。
+JP 腰抜けばかりだな。
+EN Hmph...
+EN Nothing but cowards.
+
+@ 312.1728
+# wrestler (voiced), case 1, used 2x
+JP 負けた奴らの苦痛に歪んだ顔が
+JP 何よりの喜びだ！
+EN The faces of the losers,
+EN twisted in pain, are my greatest
+EN joy!
+
+@ 312.1733
+# wrestler (voiced), case 0, used 2x
+JP まぁこのくらい当然の結果よね！
+EN Well, that's only natural!
+
+@ 312.1737
+# wrestler (voiced), case 1, used 2x
+JP やったーッ！
+JP このまま突っ走るわよー！
+EN Yaaay!
+EN I'm gonna keep charging ahead!
+
+@ 312.1742
+# wrestler (voiced), case 0, used 4x
+JP 質実剛健…。
+JP それが何よりの勝因です。
+EN Simplicity and strength...
+EN That is the key to victory.
+
+@ 312.1751
+# wrestler (voiced), case 0, used 2x
+JP 楽しませる試合の展開！
+JP これが即ち強さだと
+JP 証明できました！
+EN Matches that entertain!
+EN I've proven that's what
+EN strength really is!
+
+@ 312.1755
+# wrestler (voiced), case 1, used 2x
+JP 派手なマスクはだてじゃないってね！
+EN My flashy mask isn't just for show!
+
+@ 312.1760
+# wrestler (voiced), case 0, used 2x
+JP これからはあたしの時代だぁ！
+EN From now on, it's my era!
+
+@ 312.1764
+# wrestler (voiced), case 1, used 2x
+JP 最後まで全力を出し切れた！
+JP 優勝はその結果だぁ！
+EN I gave it everything to the end!
+EN This win is the result!
+
+@ 312.1769
+# wrestler (voiced), case 0, used 2x
+JP アメリカがナンバーワン！
+JP な、嘘やないやろ？
+EN America's number one!
+EN See? I ain't lyin', right?
+
+@ 312.1773
+# wrestler (voiced), case 1, used 2x
+JP なんやなんや…。
+JP やっぱりあたいがナンバーワン
+JP なんやね！
+EN Well, whaddaya know...
+EN Guess I really am
+EN number one!
+
+@ 312.1778
+# wrestler (voiced), case 0, used 2x
+JP これからも勝ち続けるよ！
+JP 力の限りッ！
+EN I'll keep on winning!
+EN With all my might!
+
+@ 312.1782
+# wrestler (voiced), case 1, used 2x
+JP やったーッ！
+JP イェイ、イェイ！
+EN Yaaay!
+EN Yay, yay!
+
+@ 312.1787
+# wrestler (voiced), case 0, used 2x
+JP 当然の結果よ…。
+JP 向かうところに敵はなし！
+EN The obvious outcome...
+EN No one can stand in my way!
+
+@ 312.1791
+# wrestler (voiced), case 1, used 2x
+JP フンッ…。
+JP 雑魚ばっかりね！
+JP 体がなまってしまうわ。
+EN Hmph...
+EN Nothing but small fry!
+EN I'm getting rusty.
+
+@ 312.1796
+# wrestler (voiced), case 0, used 2x
+JP プロレスにかける情熱は
+JP 世界中の誰にも負けない！
+EN My passion for wrestling is
+EN second to no one in the world!
+
+@ 312.1800
+# wrestler (voiced), case 1, used 2x
+JP 中国四千年の歴史の力を
+JP 実証できたようね。
+EN Looks like I've proven the power of
+EN 4,000 years of Chinese history.
+
+@ 312.1805
+# wrestler (voiced), case 0, used 2x
+JP わ、私が優勝ですか…？
+JP だ、騙されてはいないでしょうか…？
+EN I-I won...?
+EN I-I'm not being tricked, am I...?
+
+@ 312.1809
+# wrestler (voiced), case 1, used 2x
+JP ゆ、優勝だなんて…。
+JP せ、責任が持てません…。
+EN W-winning...
+EN I-I can't handle the
+EN responsibility...
+
+@ 312.1814
+# wrestler (voiced), case 0, used 2x
+JP あたし気がついたら
+JP 優勝しちゃった！
+EN Before I knew it,
+EN I'd won!
+
+@ 312.1818
+# wrestler (voiced), case 1, used 2x
+JP ライバル達を超え
+JP また成長しちゃいました！
+EN I got past my rivals
+EN and grew even more!
+
+@ 312.1823
+# wrestler (voiced), case 0, used 2x
+JP 確率で言えば
+JP わたしの優勝は驚くことではない。
+EN In terms of probability,
+EN my win is no surprise.
+
+@ 312.1827
+# wrestler (voiced), case 1, used 2x
+JP 興味深いデータが取れたが
+JP 予想の範囲を超えては
+JP いなかったな…。
+EN I gathered interesting data,
+EN but nothing beyond
+EN my predictions...
+
+@ 312.1832
+# wrestler (voiced), case 0, used 2x
+JP 最初からわかりきってたことよ。
+EN It was obvious from the start.
+
+@ 312.1836
+# wrestler (voiced), case 1, used 2x
+JP 次はもっと強い相手を連れてきてね。
+EN Bring me tougher opponents next
+EN time.
+
+@ 312.1841
+# wrestler (voiced), case 0, used 2x
+JP 優勝できるなんて
+JP これもみなさんのおかげです。
+EN I owe this win
+EN to all of you.
+
+@ 312.1845
+# wrestler (voiced), case 1, used 2x
+JP フフフッ！
+JP うれしいでーす！
+JP もっともっとがんばりますよ～。
+EN Fufufu!
+EN I'm so happy!
+EN I'll work even harder~.
+
+@ 312.1850
+# wrestler (voiced), case 0, used 2x
+JP みんなありがとーッ！
+EN Thanks, everybody!
+
+@ 312.1854
+# wrestler (voiced), case 1, used 2x
+JP とっても、とーっても
+JP うれしいでーすッ！
+EN I'm really, reeeally
+EN happy!
+
+@ 312.1859
+# wrestler (voiced), case 0, used 2x
+JP よしッ！
+JP 次だ！
+JP 次も優勝するぞ！
+EN All right!
+EN On to the next!
+EN I'll win that one too!
+
+@ 312.1863
+# wrestler (voiced), case 1, used 2x
+JP 優勝してみると空しいものだね…。
+JP もっと強い相手はいないのか？
+EN Winning feels kind of empty...
+EN Isn't there anyone stronger?
+
+@ 312.1868
+# wrestler (voiced), case 0, used 2x
+JP このくらい予想はしていた…。
+EN I expected as much...
+
+@ 312.1872
+# wrestler (voiced), case 1, used 2x
+JP もっと強い奴はいないのか？
+EN Isn't there anyone stronger?
+
+@ 312.1877
+# wrestler (voiced), case 0, used 2x
+JP フフッ…。
+JP まあ、楽しめた方かしら？
+EN Hehe...
+EN Well, I suppose that was fun?
+
+@ 312.1881
+# wrestler (voiced), case 1, used 2x
+JP もっといたぶってあげれば
+JP 良かった…。
+EN I should've tormented them
+EN a little more...
+
+@ 312.1886
+# wrestler (voiced), case 0, used 2x
+JP ワタシが優勝…？
+JP だ、ダメだ！
+JP どうしても顔がニヤけてしまうよ！
+EN I won...?
+EN N-no good!
+EN I just can't stop grinning!
+
+@ 312.1890
+# wrestler (voiced), case 1, used 2x
+JP この結果を
+JP 偶然という言葉で片付けるのは
+JP ナンセンスだと思うのだよ？
+EN To dismiss this result
+EN as mere chance would be
+EN nonsense, don't you think?
+
+@ 312.1895
+# wrestler (voiced), case 0, used 2x
+JP イヤッホー！
+JP みんなだらしないな！
+JP もっと練習しろよ！
+EN Yahoo!
+EN You're all so sloppy!
+EN Train harder!
+
+@ 312.1899
+# wrestler (voiced), case 1, used 2x
+JP やった、やった！
+JP やったぜッ！
+EN I did it, I did it!
+EN Yeah, I did it!
+
+@ 312.1904
+# wrestler (voiced), case 0, used 2x
+JP 夢みたい！
+JP すっごくうれしい！
+EN It's like a dream!
+EN I'm so happy!
+
+@ 312.1908
+# wrestler (voiced), case 1, used 2x
+JP アハッ！
+JP これからも応援よろしくね！
+EN Aha!
+EN Keep cheering for me!

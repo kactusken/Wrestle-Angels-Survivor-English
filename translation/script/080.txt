@@ -1,0 +1,154 @@
+# Event script entry 080 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 080.94
+# President, case 0, used 4x
+JP ああ、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ていてな…。
+EN Ah, you're here. Actually, there's
+EN an offer for a photo book of you...
+
+@ 080.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集…ですか？
+EN ...A photo... book?
+
+@ 080.116
+# wrestler (voiced), case 0, used 4x
+JP …う～ん……。
+EN ...Hmmm...
+
+@ 080.122
+# President, case 0, used 2x
+JP どうした？
+JP 不思議そうな顔をして？
+EN What's wrong? You look puzzled.
+
+@ 080.130
+# wrestler (voiced), case 0, used 2x
+JP いえ…。
+JP 写真集とはどのようなものかと…。
+EN No... I was just wondering what
+EN a "photo book" might be...
+
+@ 080.136
+# President, case 0, used 2x
+JP …ああ。
+JP アイドルの水着の写真集
+JP みたいなヤツだよ。
+EN ...Ah. It's like those swimsuit
+EN photo books idols do.
+
+@ 080.143
+# other, case 0, used 2x
+JP …はあ……。
+EN ...I see......
+
+@ 080.151
+# President, case 0, used 2x
+JP どうかな…？
+JP 会社としては受けたいんだが。
+EN What do you say...? The company
+EN would like to accept.
+
+@ 080.159
+# wrestler (voiced), case 0, used 2x
+JP あの…。
+EN Um...
+
+@ 080.165
+# President, case 0, used 14x
+JP なんだ？
+EN What is it?
+
+@ 080.173
+# wrestler (voiced), case 0, used 2x
+JP アイドルの写真集とは
+JP どのようなものなのでしょうか？
+EN What exactly is an idol's photo
+EN book, may I ask?
+
+@ 080.179
+# President, case 0, used 2x
+JP （そこから説明するのか…。）
+EN (I have to explain it from
+EN THERE...?)
+
+@ 080.272
+# President, case 0, used 2x
+JP ほら、こんなに綺麗に撮れてるぞ。
+EN Look, see how beautifully these
+EN came out?
+
+@ 080.281
+# wrestler (voiced), case 0, used 12x
+JP はあ…。
+EN I see...
+
+@ 080.287
+# President, case 0, used 2x
+JP どうした？
+JP 怪訝そうな顔をして？
+EN What's wrong? You look puzzled.
+
+@ 080.295
+# wrestler (voiced), case 0, used 2x
+JP いえ、写真集というのが
+JP やはりよくわからなくて…。
+EN No, I still don't quite understand
+EN what a photo book is for...
+
+@ 080.301
+# President, case 0, used 2x
+JP ん～、まだわからないか…。
+JP 要するにお前の写真を一冊の本に…
+EN Hmm, still not getting it... Put
+EN simply, it's your photos made into
+EN one book...
+
+@ 080.309
+# wrestler (voiced), case 0, used 2x
+JP いえ、それはわかりました。
+EN No, I understood that much.
+
+@ 080.315
+# President, case 0, used 2x
+JP なら、何がわからないんだ？
+EN Then what don't you get?
+
+@ 080.323
+# wrestler (voiced), case 0, used 2x
+JP え～と…。
+EN Well...
+
+@ 080.329
+# President, case 0, used 4x
+JP うん。
+EN Yeah?
+
+@ 080.365
+# wrestler (voiced), case 0, used 2x
+JP つまり誰がどういう目的で
+JP 買うのでしょう？
+EN In other words, who buys it,
+EN and for what purpose?
+
+@ 080.371
+# President, case 0, used 2x
+JP ああ…。
+EN Ah...
+
+@ 080.374
+# President, case 0, used 2x
+JP （確かにそれはちょっと
+JP 説明が難しいなぁ…。）
+EN (That one is a little hard
+EN to explain...)

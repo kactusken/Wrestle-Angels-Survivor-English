@@ -1,0 +1,73 @@
+{
+ "english": "CHALLENGE",
+ "boxes": [
+  [
+   176,
+   46,
+   150,
+   36
+  ]
+ ],
+ "draw": "photos.draw",
+ "font": "BarlowCondensed-Black.ttf",
+ "cap": 24,
+ "tracking": 1,
+ "axes": [
+  [
+   0.857,
+   0.515
+  ],
+  [
+   -0.85,
+   0.53
+  ]
+ ],
+ "blur": 0.3,
+ "colour": [
+  8,
+  8,
+  10
+ ],
+ "erase": [
+  {
+   "poly": [
+    [
+     176,
+     20
+    ],
+    [
+     198,
+     6
+    ],
+    [
+     335,
+     86
+    ],
+    [
+     330,
+     116
+    ],
+    [
+     296,
+     118
+    ],
+    [
+     174,
+     44
+    ]
+   ],
+   "ink": "r + g + b < 560 and abs(r - b) < 40",
+   "grow": 1
+  }
+ ],
+ "notes": "challenge-letter event banner: 対戦要望書 (letter requesting a match) in black brush letters on a white slip; painted out of the slip, English along the slip with its slant (tools/letter_ext/photos.py)",
+ "catalogue": {
+  "source": "/A000/A00E. (pieces, part 8)",
+  "width": 512,
+  "height": 128,
+  "bpp": 8,
+  "category": "banner",
+  "japanese": "対戦要望書"
+ },
+ "rough": 0.7
+}

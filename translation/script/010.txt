@@ -1,0 +1,486 @@
+# Event script entry 010 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 010.46
+# Secretary, used 2x
+JP {name:0}選手より
+JP 引退届けが出ています。
+EN {name:0} has submitted her
+EN retirement notice.
+
+@ 010.48
+# Secretary
+JP ケガの回復状況から
+JP 現役続行は難しいと診断されて
+JP 本人も引退を決意したようです。
+EN The doctors say her injury makes it
+EN hard for her to keep competing, so
+EN she's decided to retire.
+
+@ 010.59
+# wrestler (voiced), used 2x
+JP がんばったんですけど…。
+JP もう限界です…。
+EN I tried my best, but...
+EN I've reached my limit...
+
+@ 010.66
+# wrestler (voiced), used 2x
+JP さ、これからどうしよっかな～。
+JP やっぱアイドル転向？
+EN So, what should I do now?
+EN Maybe switch to being an idol?
+
+@ 010.73
+# wrestler (voiced), used 2x
+JP あとは…みんなに任せます…。
+EN I'll leave the rest... to
+EN everyone...
+
+@ 010.80
+# wrestler (voiced), used 2x
+JP ケガの具合が…思わしくありません。
+JP これではもう…。
+EN My injury... isn't healing well.
+EN At this rate...
+
+@ 010.87
+# wrestler (voiced), used 2x
+JP もうダメかも…。
+JP グスン…。
+EN I might be done for...
+EN *sniff*...
+
+@ 010.94
+# wrestler (voiced), used 2x
+JP もう…これ以上は…。
+JP 体力の限界です…。
+EN I can't... go on any longer...
+EN My body's reached its limit...
+
+@ 010.101
+# wrestler (voiced), used 2x
+JP もう戦えないみたい…。
+JP こんなところで終わっちゃう
+JP なんて…。
+EN Looks like I can't fight anymore...
+EN To think it would end
+EN like this...
+
+@ 010.108
+# wrestler (voiced), used 2x
+JP も、もうダメ…。
+JP ふえ～ん！
+EN I-I can't do it anymore...
+EN Waaah!
+
+@ 010.115
+# wrestler (voiced), used 2x
+JP 実家に戻ってお店手伝います。
+EN I'll go home and help out
+EN at the family shop.
+
+@ 010.122
+# wrestler (voiced), used 2x
+JP 悔しいですが、もう戦えません…。
+EN It's frustrating, but I can't fight
+EN anymore...
+
+@ 010.129
+# wrestler (voiced), used 2x
+JP もうリングを下りるから…。
+EN I'm leaving the ring...
+
+@ 010.136
+# wrestler (voiced), used 2x
+JP もう続けられない…。
+EN I can't go on anymore...
+
+@ 010.143
+# wrestler (voiced), used 2x
+JP う～ん…。
+JP もう無理かも…。
+EN Hmm...
+EN I don't think I can do it anymore...
+
+@ 010.150
+# wrestler (voiced), used 2x
+JP 社長、すみません…。
+JP もう以前のような試合ができない
+JP みたいです…。
+EN I'm sorry, Boss...
+EN I don't think I can wrestle
+EN like I used to anymore...
+
+@ 010.157
+# wrestler (voiced), used 2x
+JP 私のいないプロレスなんて…。
+JP たくさんのファンが
+JP 悲しみますわねぇ…。
+EN Pro wrestling without me...
+EN So many fans will be
+EN heartbroken...
+
+@ 010.164
+# wrestler (voiced), used 2x
+JP この衣装とも…もうお別れか…。
+EN So it's farewell to this costume...
+
+@ 010.171
+# wrestler (voiced), used 2x
+JP ダメなものは仕方ないですね…。
+EN If it's no good, it can't be
+EN helped...
+
+@ 010.178
+# wrestler (voiced), used 2x
+JP …クソッ！
+JP 限界か…。
+EN ...Damn it!
+EN So this is my limit...
+
+@ 010.185
+# wrestler (voiced), used 2x
+JP ごめんね…。
+JP もうダメみたい…。
+EN I'm sorry...
+EN I don't think I can go on...
+
+@ 010.192
+# wrestler (voiced), used 2x
+JP …限界…か……。
+EN ...So this... is my limit......
+
+@ 010.199
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP このまま続けるのは
+JP 難しいみたいです…。
+EN I'm sorry...
+EN It looks like I won't be able
+EN to keep going...
+
+@ 010.206
+# wrestler (voiced), used 2x
+JP わるいけど…あたしの体
+JP もう限界みたい…。
+EN Sorry, but... I think my body's
+EN reached its limit...
+
+@ 010.213
+# wrestler (voiced), used 2x
+JP まー、楽しかったしね…。
+JP 続けられないのは残念だけど…。
+EN Well, it was fun...
+EN Too bad I can't keep going,
+EN though...
+
+@ 010.220
+# wrestler (voiced), used 2x
+JP お世話になりました！
+JP 普通の女の子に戻りますッ！
+EN Thank you for everything!
+EN I'm going back to being a normal
+EN girl!
+
+@ 010.227
+# wrestler (voiced), used 2x
+JP とうとう限界が来ちまった
+JP みたいだ…。
+EN Looks like I've finally
+EN hit my limit...
+
+@ 010.234
+# wrestler (voiced), used 2x
+JP もうがんばれません…。
+EN I can't keep going anymore...
+
+@ 010.241
+# wrestler (voiced), used 2x
+JP これ以上…傷を増やす訳には
+JP いきません…。
+EN I cannot afford... to be
+EN scarred any further...
+
+@ 010.248
+# wrestler (voiced), used 2x
+JP 体が…もうダメです…。
+EN My body... can't take any more...
+
+@ 010.255
+# wrestler (voiced), used 2x
+JP 体が言うことを
+JP 聞いてくれません…。
+EN My body won't do what
+EN I tell it to...
+
+@ 010.262
+# wrestler (voiced), used 2x
+JP あのケガさえしなければ…。
+EN If only I hadn't gotten hurt...
+
+@ 010.269
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP 最後まで戦えなくて…。
+EN I'm sorry...
+EN I couldn't fight to the end...
+
+@ 010.276
+# wrestler (voiced), used 2x
+JP 自分の意思は後輩たちがきっと…。
+EN My juniors will surely carry on
+EN my will...
+
+@ 010.283
+# wrestler (voiced), used 2x
+JP ……さよなら……。
+EN ......Goodbye......
+
+@ 010.290
+# wrestler (voiced), used 2x
+JP 今回のケガではもう続けられないと
+JP 判断しました…。
+EN I've concluded that I can't continue
+EN with this injury...
+
+@ 010.297
+# wrestler (voiced), used 2x
+JP ああ、なんて惜しいことだ！
+JP 格闘界から一輪の華麗な花が
+JP 摘まれてしまった…。
+EN Ah, what a tragic loss! A lone
+EN brilliant flower has been plucked
+EN from the fighting world...
+
+@ 010.304
+# wrestler (voiced), used 2x
+JP ……か、体がもう…あの……。
+EN ......M-my body... um......
+
+@ 010.311
+# wrestler (voiced), used 2x
+JP ボクはもう戦えません…。
+EN I can't fight anymore...
+
+@ 010.318
+# wrestler (voiced), used 2x
+JP もうダメだ…。
+EN It's over...
+
+@ 010.325
+# wrestler (voiced), used 2x
+JP すみません…。
+JP こんな形で引退はしたく
+JP なかったのですが…。
+EN I'm sorry...
+EN I didn't want to retire
+EN like this...
+
+@ 010.332
+# wrestler (voiced), used 2x
+JP なんかもうアカンかもしれへん…。
+JP ごめんな…。
+EN I think I'm done for...
+EN Sorry...
+
+@ 010.339
+# wrestler (voiced), used 2x
+JP もう続けられないんだって…。
+JP くやしいけど…。
+EN They say I can't keep going...
+EN It's so frustrating...
+
+@ 010.346
+# wrestler (voiced), used 2x
+JP ケガぐらいで辞めるわけには
+JP いかなかったんですけど…。
+JP もう限界みたいで…。
+EN I didn't want to quit over
+EN just an injury, but...
+EN I've hit my limit...
+
+@ 010.353
+# wrestler (voiced), used 2x
+JP こんな事で引退なんて…。
+JP 努力や根性だけでは
+JP どうしようもない事があるんですね。
+EN Retiring over something like this...
+EN Some things just can't be fixed
+EN with effort and guts, huh.
+
+@ 010.360
+# wrestler (voiced), used 2x
+JP 申し訳ありませんが
+JP もう限界のときが来たようです…。
+EN I'm sorry, but it seems
+EN my time has come...
+
+@ 010.367
+# wrestler (voiced), used 2x
+JP どうもケガが完治しないようで…。
+JP 申し訳ありませんが、では～…。
+EN It seems my injury won't fully
+EN heal...
+EN I'm sorry, so... farewell~...
+
+@ 010.374
+# wrestler (voiced), used 2x
+JP ごめんね、社長。
+JP あたし、もう限界みたいなの～。
+EN Sorry, Boss.
+EN I think I've hit my limit~.
+
+@ 010.381
+# wrestler (voiced), used 2x
+JP やめやめ！
+JP こんなケガするんじゃ
+JP 割りに合わないぜ！
+EN I quit, I quit!
+EN Getting hurt like this
+EN ain't worth it!
+
+@ 010.388
+# wrestler (voiced), used 2x
+JP あー、やめた、やめた！
+JP こんなケガするんじゃ
+JP 割りに合わないよ！
+EN Ugh, I quit, I quit!
+EN Getting hurt like this
+EN isn't worth it!
+
+@ 010.395
+# wrestler (voiced), used 2x
+JP 悪いねえ。
+JP どうも、ここらが限界みたいだ…。
+EN Sorry about this.
+EN Looks like this is as far as I go...
+
+@ 010.402
+# wrestler (voiced), used 2x
+JP すまん…。
+JP 限界のようだ…。
+EN Forgive me...
+EN It seems I have reached my limit...
+
+@ 010.409
+# wrestler (voiced), used 2x
+JP もう限界だよ…。
+JP じゃあな！
+EN I've hit my limit...
+EN See ya!
+
+@ 010.415
+# other, used 2x
+JP …………無理だ……。
+EN ............It's no use......
+
+@ 010.424
+# wrestler (voiced)
+JP 私は…もう戦えない…。
+EN I... can't fight anymore...
+
+@ 010.431
+# wrestler (voiced)
+JP あ～、ちょっと
+JP 無理しちゃったかな～…。
+EN Ahh, maybe I pushed myself
+EN a bit too hard...
+
+@ 010.438
+# wrestler (voiced)
+JP こんな形で引退だなんて…。
+JP 社長、元気でね…。
+EN Retiring like this...
+EN Boss, take care of yourself...
+
+@ 010.445
+# wrestler (voiced)
+JP ごめん…。
+JP がんばったけどムリみたい…。
+EN Sorry...
+EN I tried hard, but I can't...
+
+@ 010.452
+# wrestler (voiced)
+JP ケガで戦線離脱とは
+JP 我ながらふがいない事です…。
+EN Taken off the front line by an
+EN injury...
+EN How pathetic of me...
+
+@ 010.459
+# wrestler (voiced)
+JP もう無理だって……。
+EN They say it's no use......
+
+@ 010.466
+# wrestler (voiced)
+JP ごめんなさい…。
+JP もうダメみたいです…。
+EN I'm sorry...
+EN I don't think I can go on...
+
+@ 010.473
+# wrestler (voiced)
+JP ひっ、ひっぐ…わあぁぁぁッ！
+EN *hic*, *sob*... Waaaaah!
+
+@ 010.480
+# wrestler (voiced)
+JP 体が言うことを
+JP 聞いてくれませんの。
+EN My body refuses to
+EN obey me.
+
+@ 010.487
+# wrestler (voiced)
+JP 残念です～…。
+EN It's a shame~...
+
+@ 010.494
+# wrestler (voiced)
+JP 心は折れてないのに
+JP 体が…負けるなんて…。
+EN My spirit isn't broken,
+EN but my body... gave out...
+
+@ 010.501
+# wrestler (voiced)
+JP ちっくしょう…。
+JP アタシだって悔しいよ！
+EN Damn it...
+EN I'm frustrated too, you know!
+
+@ 010.508
+# wrestler (voiced)
+JP すいません…。
+JP こんな事で…。
+EN I'm sorry...
+EN Over something like this...
+
+@ 010.515
+# wrestler (voiced)
+JP すみません…。
+JP 自分でも不本意なのですが…。
+EN I'm sorry...
+EN This isn't what I wanted either...
+
+@ 010.522
+# wrestler (voiced)
+JP 私、まだやれるのに…。
+JP くやしい…！
+EN I can still fight, but...
+EN It's so frustrating...!
+
+@ 010.529
+# wrestler (voiced)
+JP もうダメみたいです…。
+EN I don't think I can go on...

@@ -1,0 +1,131 @@
+# Event script entry 079 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 079.88
+# wrestler (voiced), case 0, used 2x
+JP お呼びですか…？
+EN You called...?
+
+@ 079.94
+# President, case 0, used 2x
+JP ああ、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ているんだ…。
+EN Ah, you're here. Actually, there's
+EN an offer for a photo book of you...
+
+@ 079.102
+# wrestler (voiced), case 0, used 2x
+JP …え？
+EN ...What?
+
+@ 079.108
+# President, case 0, used 2x
+JP 聞こえなかったか。
+JP お前に写真集のオファーが…。
+EN Didn't you hear me? There's an
+EN offer for a photo book of...
+
+@ 079.116
+# wrestler (voiced), case 0, used 2x
+JP いいえ、聞こえてます。
+JP …写真集？
+JP …私に？
+EN No, I heard. ...A photo book?
+EN ...Of me?
+
+@ 079.130
+# wrestler (voiced), case 0, used 4x
+JP …………………。
+EN ..................
+
+@ 079.144
+# wrestler (voiced), case 0, used 2x
+JP 私、マスクしてますが…？
+EN I wear a mask, you know...?
+
+@ 079.150
+# President, case 0, used 2x
+JP 先方も承知している。
+EN They're aware of that.
+
+@ 079.158
+# wrestler (voiced), case 0, used 2x
+JP 外せと…？
+EN They want me to take it off...?
+
+@ 079.164
+# President, case 0, used 2x
+JP 何かで隠してかまわないそうだ。
+EN They say it's fine to cover your
+EN face with something.
+
+@ 079.171
+# other, case 0, used 6x
+JP ……はあ……。
+EN ......Huh......
+
+@ 079.179
+# President, case 0, used 2x
+JP 話を進めていいかな？
+EN Mind if we move things along?
+
+@ 079.187
+# wrestler (voiced), case 0, used 2x
+JP 私を選ぶ意図が不明瞭ですが…。
+JP かまいません。
+EN Their reason for choosing me is
+EN unclear... But I don't mind.
+
+@ 079.280
+# President, case 0, used 2x
+JP お疲れ様。
+JP 自分の写真を見てどうだ？
+EN Good work. So how do you like
+EN your photos?
+
+@ 079.295
+# President, case 0, used 2x
+JP 何か不満か？
+EN Not satisfied with something?
+
+@ 079.303
+# wrestler (voiced), case 0, used 2x
+JP やはり解せませんね…。
+EN I still don't understand...
+
+@ 079.309
+# President, case 0, used 2x
+JP 何がだ？
+EN Understand what?
+
+@ 079.317
+# wrestler (voiced), case 0, used 2x
+JP これなら別に私じゃなくても
+JP 良かったのではないですか？
+EN With photos like these, wouldn't
+EN anyone other than me have done?
+
+@ 079.323
+# President, case 0, used 2x
+JP お前でないとダメさ。
+JP ファンはそういうものだ。
+EN No, it has to be you.
+EN That's how fans are.
+
+@ 079.331
+# wrestler (voiced), case 0, used 2x
+JP そういうもの…ですか…。
+EN That's how... they are...?
+
+@ 079.337
+# President, case 0, used 2x
+JP そういうものさ。
+EN That's how they are.

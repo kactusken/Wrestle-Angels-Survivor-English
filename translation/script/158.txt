@@ -1,0 +1,396 @@
+# Event script entry 158 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 158.49
+# wrestler (voiced), used 2x
+JP みんな、ごめんね…。
+JP 私を探さないで…。
+EN Sorry, everyone...
+EN Don't come looking for me...
+
+@ 158.57
+# wrestler (voiced), used 2x
+JP あ、ちょっとそこの
+JP コンビニ行ってくるね。
+EN Oh, I'm just popping out to the
+EN convenience store.
+
+@ 158.65
+# wrestler (voiced), used 2x
+JP やってられません！
+EN I can't put up with this!
+
+@ 158.73
+# wrestler (voiced), used 2x
+JP すいません…。
+JP しばらく一人で
+JP 考えさせてください…。
+EN I'm sorry... Please let me think
+EN things over alone for a while...
+
+@ 158.81
+# wrestler (voiced), used 2x
+JP …もう疲れちゃった…。
+EN ...I'm so tired...
+
+@ 158.88
+# other, used 2x
+JP もう無理です…。
+EN I can't do it anymore...
+
+@ 158.97
+# wrestler (voiced), used 2x
+JP こんな練習でホントに上を
+JP 目指せるのかなぁ…。
+EN Can I really get to the top with
+EN training like this...?
+
+@ 158.105
+# wrestler (voiced), used 2x
+JP ふ、ふえ～～～ん！
+EN W-waaaaah!
+
+@ 158.113
+# wrestler (voiced), used 2x
+JP もう休みたい…ッ！
+EN I just want to rest...!
+
+@ 158.121
+# wrestler (voiced), used 2x
+JP これでは体が…。
+EN At this rate my body will...
+
+@ 158.129
+# wrestler (voiced), used 2x
+JP もう疲れた…。
+EN I'm tired...
+
+@ 158.137
+# wrestler (voiced), used 2x
+JP もう消えちゃいたい…。
+EN I just want to disappear...
+
+@ 158.145
+# wrestler (voiced), used 5x
+JP 疲れちゃった…。
+EN I'm worn out...
+
+@ 158.153
+# wrestler (voiced), used 2x
+JP もう…ついていけません…。
+EN I can't... keep up anymore...
+
+@ 158.161
+# wrestler (voiced), used 2x
+JP …もうッ！
+JP たえられませんわ！
+EN ...Honestly! I cannot stand this!
+
+@ 158.169
+# wrestler (voiced), used 2x
+JP ごめんね…。
+JP しばらく探さないで…。
+EN Sorry... Don't come looking for me
+EN for a while...
+
+@ 158.185
+# wrestler (voiced), used 6x
+JP フンッ！
+EN Hmph!
+
+@ 158.193
+# wrestler (voiced), used 2x
+JP しばらく一人になりたいの…。
+JP ごめんね…。
+EN I want to be alone for a while...
+EN Sorry...
+
+@ 158.201
+# wrestler (voiced), used 2x
+JP しばらく一人になりたいの…。
+EN I want to be alone for a while...
+
+@ 158.209
+# wrestler (voiced), used 4x
+JP もう疲れちゃいました…。
+EN I'm all worn out...
+
+@ 158.217
+# wrestler (voiced), used 2x
+JP 疲れた…。
+EN I'm tired...
+
+@ 158.225
+# wrestler (voiced), used 2x
+JP 辛すぎるわよ～…。
+EN This is way too hard...
+
+@ 158.233
+# wrestler (voiced), used 2x
+JP 探さないでください！
+EN Please don't look for me!
+
+@ 158.241
+# wrestler (voiced), used 2x
+JP あばよ…。
+EN So long...
+
+@ 158.249
+# wrestler (voiced), used 2x
+JP …こっそり帰っちゃおっと。
+EN ...I'll just sneak off home.
+
+@ 158.257
+# wrestler (voiced), used 2x
+JP あの方を誘って逃避行を…。
+EN I shall invite that certain someone
+EN to run away with me...
+
+@ 158.265
+# wrestler (voiced), used 2x
+JP 今日は勘弁してください…。
+EN Please let me off today...
+
+@ 158.273
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP 私もう…。
+EN I'm sorry... I just can't...
+
+@ 158.281
+# wrestler (voiced), used 2x
+JP だって疲れちゃったの…。
+EN But I'm all worn out...
+
+@ 158.289
+# wrestler (voiced), used 2x
+JP 体力の限界です…。
+EN My body's reached its limit...
+
+@ 158.297
+# wrestler (voiced), used 2x
+JP オーバーワークだと
+JP 言っているのに…。
+EN I keep telling you it's overwork...
+
+@ 158.305
+# wrestler (voiced), used 2x
+JP ……風船ふわふわーって……。
+JP ……ついて行かないと……。
+EN ......A balloon floating away......
+EN ......I have to follow it......
+
+@ 158.313
+# wrestler (voiced), used 2x
+JP これは決して逃亡ではなく
+JP 正当な自主休暇として…。
+EN This is by no means running away.
+EN It's a legitimate self-granted
+EN leave...
+
+@ 158.321
+# wrestler (voiced), used 2x
+JP 芸術に理解のない人たちだ…。
+JP 勝敗よりも価値のある雅を
+JP 認めようとしないなんて…。
+EN People who don't understand art...
+EN Refusing to see an elegance worth
+EN more than winning or losing...
+
+@ 158.329
+# wrestler (voiced), used 2x
+JP ……だって……。
+EN ......But......
+
+@ 158.337
+# wrestler (voiced), used 2x
+JP ボクはもう疲れたよ…。
+EN I'm so tired...
+
+@ 158.345
+# wrestler (voiced), used 2x
+JP …そっとしておいてくれ…。
+EN ...Leave me be...
+
+@ 158.353
+# wrestler (voiced), used 2x
+JP 探さないでください…。
+EN Please don't look for me...
+
+@ 158.361
+# wrestler (voiced), used 2x
+JP もうムリッ！
+JP ついていけへん！
+EN I can't! I can't keep up!
+
+@ 158.377
+# wrestler (voiced), used 2x
+JP しばらくは
+JP 何もしたくないんです…。
+EN I don't want to do anything
+EN for a while...
+
+@ 158.385
+# wrestler (voiced), used 2x
+JP 自分を見つめ直してきますッ！
+EN I'm off to take a hard look at
+EN myself!
+
+@ 158.393
+# wrestler (voiced), used 2x
+JP しばらくの間
+JP 私に構わないでもらいたい…。
+EN I'd like you to leave me alone
+EN for a while...
+
+@ 158.401
+# wrestler (voiced), used 2x
+JP 疲れてしまいました～…。
+EN I've gotten so tired~...
+
+@ 158.409
+# wrestler (voiced), used 2x
+JP もう疲れちゃった～…。
+EN I'm all tired out~...
+
+@ 158.417
+# wrestler (voiced), used 2x
+JP もうムリ、ムリ！
+JP これ以上やってられないね！
+EN No way, no way! I can't do this
+EN anymore!
+
+@ 158.425
+# wrestler (voiced), used 2x
+JP これ以上やってられるかって…。
+EN Like I'd keep putting up with
+EN this...
+
+@ 158.433
+# wrestler (voiced), used 2x
+JP わるいね…。
+JP しばらく一人にしてくれないかい？
+EN Sorry... Mind leaving me alone
+EN for a while?
+
+@ 158.441
+# wrestler (voiced), used 2x
+JP 正直疲れた…。
+EN Honestly, I'm tired...
+
+@ 158.449
+# wrestler (voiced), used 2x
+JP お前らをボコボコにしないだけ
+JP マシに思うんだなッ！
+EN Be grateful I'm not beating
+EN you all to a pulp!
+
+@ 158.456
+# other, used 2x
+JP …………ンッ……！
+EN ............Nngh......!
+
+@ 158.465
+# wrestler (voiced)
+JP 孤独であれ…か…。
+EN "Be solitary"... huh...
+
+@ 158.473
+# wrestler (voiced)
+JP あは…ちょっとニャンコちゃんと
+JP 遊ぼうかなって…。
+EN Aha... I was just thinking I'd
+EN play with the kitties for a bit...
+
+@ 158.481
+# wrestler (voiced)
+JP やってられないって言ってるの！
+EN I said I can't put up with this!
+
+@ 158.497
+# wrestler (voiced)
+JP 私にも限界はあります！
+EN Even I have my limits!
+
+@ 158.505
+# wrestler (voiced)
+JP 誰かが呼んでる……。
+EN Someone is calling......
+
+@ 158.513
+# wrestler (voiced)
+JP もうダメ…。
+JP 辛すぎます…。
+EN I can't... It's too hard...
+
+@ 158.521
+# wrestler (voiced)
+JP もう、やってられませんッ！
+EN I can't put up with this anymore!
+
+@ 158.529
+# wrestler (voiced)
+JP もう、やっていられませんわッ！
+EN I simply cannot put up with this
+EN anymore!
+
+@ 158.537
+# wrestler (voiced)
+JP もう、いやです～！
+EN I don't want to anymore~!
+
+@ 158.545
+# wrestler (voiced)
+JP いやーッ！
+EN Nooo!
+
+@ 158.553
+# wrestler (voiced)
+JP あー、やめだ！
+JP やーめッ！
+EN Argh, I quit! I'm done!
+
+@ 158.561
+# wrestler (voiced)
+JP 少し時間をください…。
+EN Please give me some time...
+
+@ 158.569
+# wrestler (voiced)
+JP もうダメッ！
+JP 探さないで！
+EN I can't! Don't look for me!
+
+@ 158.577
+# wrestler (voiced)
+JP イヤ～！
+JP キャー！
+JP デター、オーバーケ～ッ！
+EN Nooo! Eek! It's a gh-gh-ghost!
+
+@ 158.585
+# wrestler (voiced), used 3x
+JP 探さないで…。
+EN Don't look for me...
+
+@ 158.1016
+# Secretary, used 2x
+JP {name:0}選手が
+JP 行方不明です。
+EN {name:0} has gone missing.
+
+@ 158.1018
+# Secretary, used 2x
+JP 団体への信頼が
+JP 激しく落ち込んでいるようです。
+JP 来月には戻って欲しいのですが…。
+EN Her trust in the promotion seems
+EN to have dropped sharply. I hope
+EN she comes back next month...

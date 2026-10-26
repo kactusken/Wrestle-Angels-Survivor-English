@@ -1,0 +1,514 @@
+# Event script entry 051 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 051.46
+# Secretary
+JP {name:0}選手に
+JP １日署長の依頼がきています。
+EN {name:0} has been asked to be
+EN police chief for a day.
+
+@ 051.48
+# Secretary
+JP {name:0}選手が
+JP 署長だなんて
+JP すごい世の中になったものです。
+EN {name:0} as a police chief...
+EN What a world we live in.
+
+@ 051.60
+# wrestler (voiced), used 2x
+JP …制服、私に似合うでしょうか？
+EN ...Do you think the uniform
+EN will suit me?
+
+@ 051.68
+# wrestler (voiced), used 2x
+JP パトロール開始しまーす！
+JP いい子にしてないと
+JP 逮捕しちゃうよん！
+EN Starting patrol! If you're
+EN not good, I'll arrest you!
+
+@ 051.76
+# wrestler (voiced), used 2x
+JP 私は１日署長と言えども
+JP 真剣に取り組みますよ。
+EN Even if it's only for a day,
+EN I'll take it seriously.
+
+@ 051.84
+# wrestler (voiced), used 2x
+JP 国家公務員の資格を
+JP 持っていない私が…署長に…？
+JP 精一杯がんばります！
+EN Me, police chief...? Without
+EN a civil service license...?
+EN I'll do my very best!
+
+@ 051.92
+# wrestler (voiced), used 2x
+JP 楽しみだなぁ…。
+JP エヘヘッ！
+JP いってきまーす！
+EN I can't wait... Ehehe!
+EN I'm off!
+
+@ 051.100
+# wrestler (voiced), used 2x
+JP 行ってまいります。
+EN I'll be going, then.
+
+@ 051.108
+# wrestler (voiced), used 2x
+JP そのまま転職しちゃおっかなぁ
+JP なんてねッ！
+EN Maybe I'll just switch careers...
+EN Just kidding!
+
+@ 051.116
+# wrestler (voiced), used 2x
+JP エヘヘヘッ！
+JP この格好どう？
+EN Ehehehe!
+EN How do I look?
+
+@ 051.124
+# wrestler (voiced), used 2x
+JP 火の用心ッ！
+JP えッ、警察署でしたか！？
+EN Beware of fire! Huh, it's the
+EN police station, not the fire
+EN station!?
+
+@ 051.132
+# wrestler (voiced), used 2x
+JP 今日は世の中の悪と戦ってきます。
+EN Today I'll go fight the evils
+EN of the world.
+
+@ 051.140
+# wrestler (voiced), used 2x
+JP 気分転換してくるか…。
+EN Guess I'll go get a change of
+EN pace...
+
+@ 051.148
+# wrestler (voiced), used 4x
+JP じゃ、いってきまーす！
+EN Okay, I'm off!
+
+@ 051.156
+# wrestler (voiced), used 2x
+JP 行ってきま～す！
+JP …あ、そうだ！
+JP 制服はもらえるのかな？
+EN I'm off! ...Oh, right!
+EN Do I get to keep the uniform?
+
+@ 051.164
+# wrestler (voiced), used 2x
+JP 社会的に有意義な仕事は
+JP やりがいがありますね。
+EN Work that benefits society
+EN is really rewarding.
+
+@ 051.172
+# wrestler (voiced), used 2x
+JP 犯罪は許さなくてよ！
+JP 悪人は私の足元にひれふすが
+JP いいですわ！
+EN I shall not tolerate crime!
+EN Villains may grovel at my feet!
+
+@ 051.180
+# wrestler (voiced), used 2x
+JP 西陣織の警察署長…。
+JP ってのもアリでしょ？
+EN A police chief in Nishijin silk...
+EN That works, right?
+
+@ 051.188
+# wrestler (voiced), used 2x
+JP それでは行ってきます！
+EN Well then, I'm off!
+
+@ 051.196
+# wrestler (voiced), used 2x
+JP 曲がった根性を叩き直してやるぜ！
+EN I'll straighten out those
+EN crooked punks!
+
+@ 051.204
+# wrestler (voiced), used 2x
+JP やるやる！
+JP よーしッ！
+JP 行ってきまーす！
+EN I'm in, I'm in! All right!
+EN I'm off!
+
+@ 051.212
+# wrestler (voiced), used 2x
+JP 一日署長の本…はないわよね…。
+EN I don't suppose there's a book on
+EN being police chief for a day...
+
+@ 051.216
+# wrestler (voiced), used 2x
+JP 行ってくるわ。
+EN I'm off.
+
+@ 051.224
+# wrestler (voiced), used 2x
+JP …一日署長？
+JP …あたしが？
+JP できるかなぁ…？
+EN ...Police chief for a day?
+EN ...Me? Can I do it...?
+
+@ 051.232
+# wrestler (voiced), used 2x
+JP …ふーん。
+JP 気分転換になるかもね。
+EN ...Hmm. Could be a nice
+EN change of pace.
+
+@ 051.240
+# wrestler (voiced), used 2x
+JP ウフフッ！
+JP たくさん目立つぞ～！
+EN Ufufu!
+EN I'm gonna stand out big time!
+
+@ 051.248
+# wrestler (voiced), used 2x
+JP 悪人いーっぱい逮捕しちゃいます！
+EN I'll arrest tons of bad guys!
+
+@ 051.256
+# wrestler (voiced), used 2x
+JP お前ら悪さしたら
+JP ボコボコにすっぜー？
+EN If you punks cause trouble,
+EN I'll beat you to a pulp, got it?
+
+@ 051.264
+# wrestler (voiced), used 2x
+JP この制服かわいい！
+JP もらっちゃダメ？
+EN This uniform is cute!
+EN Can't I keep it?
+
+@ 051.272
+# wrestler (voiced), used 2x
+JP どう似合うかしら？
+JP なにやら熱い視線を感じますわ…。
+EN How does it look on me? I can feel
+EN some rather heated gazes...
+
+@ 051.280
+# wrestler (voiced), used 2x
+JP 私を選ぶ意図が不明瞭ですが…。
+JP 行ってきます。
+EN I don't quite see why they chose
+EN me...
+EN but I'll be going.
+
+@ 051.288
+# wrestler (voiced), used 2x
+JP 一日署長ですか？
+JP では、行ってまいります。
+EN Police chief for a day?
+EN Then I'll be on my way.
+
+@ 051.296
+# wrestler (voiced), used 2x
+JP へー、あたしに依頼ねぇ…。
+JP じゃ、行ってくるよ！
+EN Huh, they asked me, huh...
+EN Okay, I'm off!
+
+@ 051.304
+# wrestler (voiced), used 2x
+JP １日とは言え責任を感じます…。
+EN Even if it's just a day,
+EN I feel responsible...
+
+@ 051.312
+# wrestler (voiced), used 2x
+JP きっちり仕事してきますッ！
+EN I'll do the job properly!
+
+@ 051.320
+# wrestler (voiced), used 2x
+JP ……犯人役は誰がやるの……？
+JP ……えッ、犯人はいないの……？
+EN ...Who plays the criminal...?
+EN ...Huh, there's no criminal...?
+
+@ 051.328
+# wrestler (voiced), used 2x
+JP …署長。
+JP つまりグループのトップですね。
+JP 引き受けてみましょうか。
+EN ...Chief. In other words, the head
+EN of the group. I'll take it on.
+
+@ 051.336
+# wrestler (voiced), used 2x
+JP 私はこのままレスラーと
+JP 掛け持ちでも構いませんが…？
+EN I wouldn't mind doing it alongside
+EN wrestling permanently...?
+
+@ 051.344
+# wrestler (voiced), used 2x
+JP ……誰か逮捕しないといけない……？
+EN ......Do I have to arrest
+EN someone......?
+
+@ 051.352
+# wrestler (voiced), used 2x
+JP ボク、こどもの頃
+JP 警察官に憧れてたんだ！
+EN I wanted to be a police officer
+EN when I was a kid!
+
+@ 051.360
+# wrestler (voiced), used 2x
+JP 悪いやつを倒せばいいんだな？
+EN So I just beat up bad guys, right?
+
+@ 051.368
+# wrestler (voiced), used 2x
+JP 一日署長ですか…。
+JP わかりました。
+JP 行ってきます。
+EN Police chief for a day...
+EN Understood. I'll be going.
+
+@ 051.376
+# wrestler (voiced), used 2x
+JP あっはははははは！
+JP 一日署長？
+JP なんやアイドルみたいやなぁ～。
+EN Ahahahahaha! Police chief for a day?
+EN That's kinda like an idol gig!
+
+@ 051.384
+# wrestler (voiced), used 2x
+JP えっと…はい！
+JP お受けします！
+JP がんばります！
+EN Um... yes! I accept!
+EN I'll do my best!
+
+@ 051.392
+# wrestler (voiced), used 2x
+JP …一日署長ですか？
+JP はい、お受けします！
+JP ギャラは出るんでしょうか…？
+EN ...Police chief for a day? Yes,
+EN I accept! Do I get paid...?
+
+@ 051.400
+# wrestler (voiced), used 2x
+JP …一日署長！？
+JP そ、それは悪と戦い、悪を滅ぼす
+JP 正義の仕事！
+EN ...Police chief for a day!?
+EN Wh-why, that's the righteous work
+EN of fighting and destroying evil!
+
+@ 051.404
+# wrestler (voiced), used 2x
+JP 一日と言わず毎日でもいいです！
+EN Not just one day, I'd do it
+EN every day!
+
+@ 051.412
+# wrestler (voiced), used 2x
+JP なぜ私がそんなことを？
+EN Why should I do such a thing?
+
+@ 051.420
+# wrestler (voiced), used 2x
+JP まあ～！
+JP 変わったお仕事があるんですね～。
+JP お受けいたします～。
+EN My~ What an unusual job~
+EN I'll accept~
+
+@ 051.428
+# wrestler (voiced), used 2x
+JP なんか面白そう！
+JP ついでに社長のハートも
+JP 逮捕しちゃおー！
+EN Sounds fun! While I'm at it,
+EN I'll arrest your heart too, Boss!
+
+@ 051.436
+# wrestler (voiced), used 2x
+JP 私みたいにきれいな娘を
+JP 呼びたいだけだろ？
+EN They just want a pretty girl
+EN like me, right?
+
+@ 051.444
+# wrestler (voiced), used 2x
+JP あたしみたいにカワイイ娘を
+JP 呼びたいだけだろ？
+EN They just want a cute girl
+EN like me, right?
+
+@ 051.452
+# wrestler (voiced), used 2x
+JP …い、一日署長！？
+JP あたしゃ苦手なんだよね…。
+JP 大人しくしとくよ…。
+EN ...P-police chief for a day!?
+EN I'm no good with cops...
+EN I'll keep my head down...
+
+@ 051.460
+# wrestler (voiced), used 2x
+JP それは何をすればいいんだ？
+EN So what am I supposed to do?
+
+@ 051.468
+# wrestler (voiced), used 2x
+JP ヘッヘッヘ！
+JP あたしに一日署長！？
+JP 面白い、行ってやるよ！
+EN Heh heh heh! Me, police chief
+EN for a day!? Interesting, I'll go!
+
+@ 051.475
+# other, used 2x
+JP …………署長……！？
+EN ............Police chief......!?
+
+@ 051.485
+# wrestler (voiced)
+JP 似合うとは思えんが…。
+EN I doubt it'll suit me...
+
+@ 051.493
+# wrestler (voiced)
+JP 私、署長さんですか！？
+JP あは、ちょっと緊張します。
+EN Me, a police chief!?
+EN Aha, I'm a little nervous.
+
+@ 051.501
+# wrestler (voiced)
+JP クールな私には知的な役が
+JP ぴったりね。
+EN An intellectual role suits
+EN cool me perfectly.
+
+@ 051.505
+# wrestler (voiced)
+JP …えッ！？
+JP 制服が子供サイズって
+JP どういうこと？
+EN ...What!? What do you mean the
+EN uniform is kids' size?
+
+@ 051.513
+# wrestler (voiced)
+JP 制服着れるの？
+JP 行ってきまーす！
+EN I get to wear a uniform?
+EN I'm off!
+
+@ 051.521
+# wrestler (voiced)
+JP 署長ですか。
+JP 面白い任務ですね。
+JP ええ、指揮は得意分野ですよ。
+EN Police chief. An interesting
+EN mission.
+EN Yes, command is my specialty.
+
+@ 051.529
+# wrestler (voiced)
+JP 私が…署長……。
+EN Me... a police chief......
+
+@ 051.537
+# wrestler (voiced)
+JP う～、緊張…。
+JP がんばってきます…。
+EN Ugh, I'm nervous...
+EN I'll do my best...
+
+@ 051.545
+# wrestler (voiced)
+JP 犯罪発生件数ゼロにしてみせます！
+EN I'll bring the crime rate to zero!
+
+@ 051.553
+# wrestler (voiced)
+JP 悪人は成敗しますわ！
+EN Villains shall be punished!
+
+@ 051.561
+# wrestler (voiced)
+JP わたし転職するんですか～？
+EN Am I changing jobs~?
+
+@ 051.569
+# wrestler (voiced)
+JP 一日署長がんばりますッ！
+EN I'll do my best as
+EN police chief for a day!
+
+@ 051.577
+# wrestler (voiced)
+JP …署長って…。
+JP なんか知らないけど偉いんだろ？
+JP エヘヘッ！
+EN ...Police chief... Dunno what it is,
+EN but it's important, right? Ehehe!
+
+@ 051.585
+# wrestler (voiced)
+JP 一日署長ですか…。
+JP がんばってきます。
+EN Police chief for a day...
+EN I'll do my best.
+
+@ 051.593
+# wrestler (voiced)
+JP …しょ、署長！？
+JP 私がですか！？
+EN ...P-police chief!?
+EN Me!?
+
+@ 051.601
+# wrestler (voiced)
+JP 一日署長ですか。
+JP かっこいいです～！
+EN Police chief for a day?
+EN How cool~!
+
+@ 051.609
+# wrestler (voiced)
+JP 逆に私が取り締まられるんじゃ…。
+EN Won't I be the one getting
+EN arrested instead...?
+
+@ 051.1050
+# Secretary
+JP わが社の評価も上がりました！
+JP 50ＡＰの収入がありました。
+EN Our company's reputation went up!
+EN We earned 50 AP.

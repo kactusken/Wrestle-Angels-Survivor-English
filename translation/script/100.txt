@@ -1,0 +1,112 @@
+# Event script entry 100 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 100.88
+# wrestler (voiced), case 0, used 2x
+JP 社長、呼んだかい？
+EN You called, Boss?
+
+@ 100.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集！？
+JP あたしにかい？
+EN ...A photo book!? For me?
+
+@ 100.108
+# President, case 0, used 2x
+JP あらかじめ言っておくと
+JP ヌードじゃないぞ。
+JP 水着のアイドルみたいなヤツだ。
+EN Let me say up front, it's not
+EN a nude. It's a swimsuit thing,
+EN like an idol's.
+
+@ 100.121
+# other, case 0, used 2x
+JP ……ぷっ！
+EN ......Pfft!
+
+@ 100.129
+# wrestler (voiced), case 0, used 2x
+JP くく…はは…あっはっはっは！
+JP あ、あたしにアイドル！？
+JP なんだよ、なんの冗談だよ！
+EN Heh... haha... ahahahaha!
+EN M-me, an idol!? Come on, what kind
+EN of joke is this?
+
+@ 100.135
+# President, case 0, used 2x
+JP 冗談じゃないんだ。
+EN It's not a joke.
+
+@ 100.143
+# wrestler (voiced), case 0, used 2x
+JP あー、わるい、わるい。
+JP 別に疑ってる訳じゃなくてさ。
+EN Ah, sorry, sorry. It's not that
+EN I doubt you.
+
+@ 100.151
+# wrestler (voiced), case 0, used 2x
+JP 傑作だと思っただけ。
+JP フッフフフフッ！
+JP あたしにねぇ…世も末だ。
+EN I just thought it was a riot.
+EN Hehehehe! Me, huh... It's the end
+EN of the world.
+
+@ 100.157
+# President, case 0, used 2x
+JP そうでもないぞ。
+JP お前は女性としても魅力的だからな。
+JP 出版社の連中も見るとこ見てるよ。
+EN Not really. You're attractive as a
+EN woman too. The publishers know
+EN what to look for.
+
+@ 100.165
+# wrestler (voiced), case 0, used 2x
+JP なんだよ…。
+JP あんまりマジに言うなよ。
+JP 照れくさいじゃないか…。
+EN Come on... Don't say it so
+EN seriously. It's embarrassing...
+
+@ 100.171
+# President, case 0, used 2x
+JP 本心からそう思ってるからなぁ。
+EN Well, I mean it from the heart.
+
+@ 100.272
+# President, case 0, used 2x
+JP こんなに美人に撮れてるぞ。
+EN Look how beautiful you came out.
+
+@ 100.281
+# wrestler (voiced), case 0, used 2x
+JP …ほー。
+JP 本当だ…。
+JP これがあたし…ねぇ…。
+EN ...Huh. It's true... So this is
+EN me, huh...
+
+@ 100.287
+# President, case 0, used 2x
+JP 出版社の連中も見る目あるだろ？
+EN The publishers have a good eye,
+EN don't they?
+
+@ 100.295
+# wrestler (voiced), case 0, used 2x
+JP こりゃ参ったよ。
+JP 驚いたねぇ…。
+EN Well, you got me there.
+EN That's a surprise...

@@ -1,0 +1,127 @@
+# Event script entry 085 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 085.94
+# President, case 0, used 2x
+JP ああ、練習中すまないな。
+JP お前に写真集のオファーがあってな。
+EN Ah, sorry to interrupt training.
+EN There's an offer for a photo book
+EN of you.
+
+@ 085.108
+# President, case 0, used 2x
+JP アイドルみたいな。
+JP ああいうやつだ。
+EN Like an idol's. That kind of thing.
+
+@ 085.116
+# wrestler (voiced), case 0, used 2x
+JP 「アイドルみたいなああいうの」と
+JP いうのは…？
+JP ちょっと私にはわかりませんが。
+EN "That kind of thing, like an
+EN idol's"...? I'm afraid I don't
+EN quite follow.
+
+@ 085.124
+# wrestler (voiced), case 0, used 2x
+JP それに私はアイドルでは
+JP ありませんよ？
+EN Besides, I'm not an idol, you know?
+
+@ 085.130
+# President, case 0, used 2x
+JP それはわかってる。
+JP でも先方はアイドル並の価値を
+JP お前に認めたということだ。
+EN I know that. But it means they think
+EN you're worth as much as an idol.
+
+@ 085.138
+# wrestler (voiced), case 0, used 2x
+JP そうですか…。
+JP 自覚も自信もありませんが。
+JP あの…。
+EN I see... Though I have neither the
+EN awareness nor the confidence. Um...
+
+@ 085.152
+# wrestler (voiced), case 0, used 2x
+JP 社長はどう思っているのです？
+JP そのオファーは無謀だと
+JP 思いませんか？
+EN What do you think, Boss? Don't you
+EN think the offer is a bit reckless?
+
+@ 085.158
+# President, case 0, used 2x
+JP 別にそうは思わないよ。
+JP 俺もお前は魅力的だと思ってるから。
+EN Not at all. I think you're
+EN attractive too.
+
+@ 085.166
+# wrestler (voiced), case 0, used 2x
+JP …ン……。
+EN ...Mm......
+
+@ 085.174
+# wrestler (voiced), case 0, used 2x
+JP そ、そうですか…。
+JP なら、社長の言葉を信じて
+JP お受けします…。
+EN I-is that so... Then I'll trust
+EN your word, Boss, and accept...
+
+@ 085.267
+# President, case 0, used 2x
+JP お疲れさん。
+JP とても良かったよ。
+EN Good work. That was really great.
+
+@ 085.276
+# wrestler (voiced), case 0, used 2x
+JP あ、ありがとうございます…。
+EN Th-thank you very much...
+
+@ 085.282
+# President, case 0, used 2x
+JP それにしてもすごいな…。
+JP かわいいとは思っていたが
+JP こんなに色っぽいとは。
+EN Still, this is amazing... I knew you
+EN were cute, but I didn't know you
+EN could be this sexy.
+
+@ 085.290
+# wrestler (voiced), case 0, used 2x
+JP が、がんばりましたから…。
+EN I-I did my best...
+
+@ 085.298
+# wrestler (voiced), case 0, used 2x
+JP 自信はありませんでしたけれど
+JP 社長のご期待には応えたいと
+JP 思いまして…。
+EN I wasn't confident, but I wanted
+EN to live up to your expectations,
+EN Boss...
+
+@ 085.304
+# President, case 0, used 2x
+JP 期待以上だったよ。
+EN You went beyond them.
+
+@ 085.312
+# wrestler (voiced), case 0, used 2x
+JP そうですか…。
+JP 良かったです。
+EN I see... I'm glad.

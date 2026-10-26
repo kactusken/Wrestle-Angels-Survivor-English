@@ -1,0 +1,397 @@
+# Event script entry 186 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 186.48
+# wrestler (voiced), used 2x
+JP ただいま戻ってきました～。
+EN I'm back~
+
+@ 186.56
+# wrestler (voiced), used 2x
+JP ただいまーッ！
+JP …あッ！
+JP おみやげ忘れちゃったぁ！
+EN I'm hooome!
+EN ...Oh!
+EN I forgot your souvenir!
+
+@ 186.64
+# wrestler (voiced), used 2x
+JP ただいま帰りました！
+JP 有意義な遠征ができました。
+EN I'm back!
+EN It was a worthwhile tour.
+
+@ 186.72
+# wrestler (voiced), used 4x
+JP ただいま戻りました。
+EN I'm back.
+
+@ 186.80
+# wrestler (voiced), used 2x
+JP やっほーッ！
+JP 帰ってきたよ！
+EN Yoo-hoo!
+EN I'm back!
+
+@ 186.87
+# other, used 4x
+JP ただいま帰りました。
+EN I have returned.
+
+@ 186.96
+# wrestler (voiced), used 2x
+JP ただいまー！
+JP 帰ってきたよ！
+EN I'm home!
+EN I'm back!
+
+@ 186.104
+# wrestler (voiced), used 2x
+JP たっだいまー！
+JP 楽しかったぁ～。
+EN I'm hooome!
+EN That was so much fun~
+
+@ 186.112
+# wrestler (voiced), used 6x
+JP ただいま帰りました！
+EN I'm back!
+
+@ 186.120
+# wrestler (voiced), used 2x
+JP 戻りました。
+JP 手ごたえは十分です。
+EN I'm back.
+EN I feel I've made real progress.
+
+@ 186.128
+# wrestler (voiced), used 2x
+JP いま帰ったよ。
+JP 手ごたえ十分だよ。
+EN I'm back.
+EN I made some real progress.
+
+@ 186.136
+# wrestler (voiced), used 2x
+JP にゃっほ～！
+JP ただいま！
+EN Nyahoo~!
+EN I'm home!
+
+@ 186.144
+# wrestler (voiced), used 2x
+JP たっだいまー！
+EN I'm hooome!
+
+@ 186.152
+# wrestler (voiced), used 2x
+JP ただいま帰りました、社長！
+EN I'm back, Boss!
+
+@ 186.160
+# wrestler (voiced), used 2x
+JP ただいま帰りましたわ！
+EN I have returned!
+
+@ 186.168
+# wrestler (voiced), used 2x
+JP ただいまー！
+EN I'm home!
+
+@ 186.176
+# wrestler (voiced), used 2x
+JP ただいま帰りました。
+JP 世界は広いですね。
+EN I'm back.
+EN The world is a big place.
+
+@ 186.184
+# wrestler (voiced), used 2x
+JP ただいまー！
+JP あー、疲れたぁ…。
+EN I'm home!
+EN Ugh, I'm exhausted...
+
+@ 186.192
+# wrestler (voiced), used 2x
+JP ただいま戻りましたー！
+EN I'm back!
+
+@ 186.200
+# wrestler (voiced), used 2x
+JP 戻ったわ。
+EN I'm back.
+
+@ 186.216
+# wrestler (voiced), used 2x
+JP 帰りました。
+EN I'm back.
+
+@ 186.224
+# wrestler (voiced), used 2x
+JP 帰ったわよ！
+JP あー、楽しかったぁ！
+EN I'm back!
+EN Ahh, that was fun!
+
+@ 186.232
+# wrestler (voiced), used 2x
+JP ただいま帰りましたッ！
+EN I'm back!
+
+@ 186.240
+# wrestler (voiced), used 2x
+JP やっぱ世界はやりがいがあるなぁ！
+EN Wrestlin' on the world stage
+EN sure is worth it!
+
+@ 186.248
+# wrestler (voiced), used 2x
+JP ただいま～！
+JP おみやげいっぱい買ってきたよ！
+EN I'm home~!
+EN I bought loads of souvenirs!
+
+@ 186.256
+# wrestler (voiced), used 2x
+JP ただいま帰国しましたわ。
+EN I have returned to Japan.
+
+@ 186.280
+# wrestler (voiced), used 2x
+JP いま帰ったよ！
+EN I'm back!
+
+@ 186.304
+# wrestler (voiced), used 2x
+JP ……ただいま～……。
+EN ......I'm home~......
+
+@ 186.312
+# wrestler (voiced), used 2x
+JP ただいま戻りました。
+JP おみやげは強さで異存は
+JP ないですね？
+EN I'm back.
+EN I trust strength will do
+EN as a souvenir?
+
+@ 186.320
+# wrestler (voiced), used 2x
+JP 待たせてしまったね、みんな。
+JP ただいま…。
+JP 私は戻りました！
+EN Sorry to keep you waiting, everyone.
+EN I'm home...
+EN I have returned!
+
+@ 186.328
+# wrestler (voiced), used 2x
+JP ……も、戻ってきてよかった……？
+EN ......W-was it OK to come
+EN back......?
+
+@ 186.336
+# wrestler (voiced), used 2x
+JP よーし！
+JP 日本でまたがんばるぞ！
+EN All right!
+EN Time to work hard in Japan again!
+
+@ 186.344
+# wrestler (voiced), used 2x
+JP 強いやつがいっぱいいたぞ！
+EN There were tons of strong people!
+
+@ 186.352
+# wrestler (voiced), used 2x
+JP 帰りました。
+JP きっちり仕事をしてきました。
+EN I'm back.
+EN I did the job properly.
+
+@ 186.360
+# wrestler (voiced), used 2x
+JP たっだいまー！
+JP ふ～、買い物しすぎたー。
+EN I'm hooome!
+EN Phew, I went way overboard shopping.
+
+@ 186.368
+# wrestler (voiced), used 2x
+JP 遠征先で子供と間違われた…。
+JP うぅぅ…。
+EN On tour, they thought I was a kid...
+EN Ugh...
+
+@ 186.376
+# wrestler (voiced), used 2x
+JP 帰りました。
+JP 海外ってやっぱりすごいんですねぇ。
+EN I'm back.
+EN It really is amazing overseas.
+
+@ 186.384
+# wrestler (voiced), used 2x
+JP 藤原、ただいま帰りましたッ！
+EN Fujiwara, back and reporting!
+
+@ 186.392
+# wrestler (voiced), used 2x
+JP 帰りました。
+JP なかなか収穫がありましたよ。
+EN I'm back.
+EN It was quite a fruitful trip.
+
+@ 186.400
+# wrestler (voiced), used 2x
+JP ただいま帰ってまいりました。
+JP 向こうは冷えました～。
+EN I have returned.
+EN It was so cold over there~
+
+@ 186.408
+# wrestler (voiced), used 2x
+JP ただいま～！
+JP 社長、さびしかったでしょ～？
+EN I'm home~!
+EN Boss, you missed me, didn't you~?
+
+@ 186.416
+# wrestler (voiced), used 2x
+JP なんだよ！
+JP あっちでも練習ばっかじゃねーか？
+EN What the hell!
+EN It was nothing but training there
+EN too!
+
+@ 186.424
+# wrestler (voiced), used 2x
+JP なんだよ！
+JP あのスケジュール！
+JP まともに観光もできねーよ！
+EN What the hell!
+EN That schedule!
+EN I couldn't do any sightseeing!
+
+@ 186.432
+# wrestler (voiced), used 2x
+JP 帰ったよ！
+EN I'm back!
+
+@ 186.440
+# wrestler (voiced), used 2x
+JP 帰ったぞ。
+EN I'm back.
+
+@ 186.448
+# wrestler (voiced), used 2x
+JP 帰ったよ。
+EN I'm back.
+
+@ 186.472
+# wrestler (voiced)
+JP ただいまでーす！
+JP ニャンコちゃんにあいたいよー！
+EN I'm hooome!
+EN I wanna see the kitties!
+
+@ 186.480
+# wrestler (voiced)
+JP 戻りました。
+JP 社長、さびしかったでしょ？
+JP フフッ…。
+EN I'm back.
+EN You missed me, didn't you, Boss?
+EN Heh...
+
+@ 186.488
+# wrestler (voiced)
+JP ただいまー！
+JP おみやげあるよー！
+EN I'm home!
+EN I brought souvenirs!
+
+@ 186.496
+# wrestler (voiced), used 2x
+JP ただいま戻りました！
+EN I'm back!
+
+@ 186.504
+# wrestler (voiced)
+JP ただいま……。
+EN I'm home......
+
+@ 186.512
+# wrestler (voiced)
+JP いま帰りました！
+EN I'm back!
+
+@ 186.520
+# wrestler (voiced)
+JP ひとまわり大きくなって
+JP 帰ってきました！
+EN I've come back a whole lot
+EN bigger and better!
+
+@ 186.528
+# wrestler (voiced)
+JP ただいま帰りました。
+JP 向こうは練習がきつくて
+JP 大変でしたわ。
+EN I have returned.
+EN The training over there was
+EN quite severe.
+
+@ 186.536
+# wrestler (voiced)
+JP ここ…日本ですか～…？
+EN Is this... Japan~...?
+
+@ 186.544
+# wrestler (voiced)
+JP ただいま！
+EN I'm home!
+
+@ 186.552
+# wrestler (voiced)
+JP たっだいまーっと！
+EN I'm hooome!
+
+@ 186.568
+# wrestler (voiced)
+JP 戻りました！
+JP 楽しかったですよー！
+EN I'm back!
+EN It was so much fun!
+
+@ 186.576
+# wrestler (voiced)
+JP ただいまー！
+JP ……えッ？
+JP 幽霊なんか出ませんでしたよ！
+EN I'm home!
+EN ......Huh?
+EN N-no ghosts showed up at all!
+
+@ 186.584
+# wrestler (voiced)
+JP 帰ってきました。
+EN I'm back.
+
+@ 186.1015
+# Secretary
+JP {name:0}選手が
+JP 海外遠征から帰国しました。
+JP 遠征の結果が楽しみですね。
+EN {name:0} has returned from
+EN her overseas tour.
+EN I can't wait to see the results.

@@ -1,0 +1,188 @@
+# Event script entry 209 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 209.98
+# President, used 4x
+JP （みんな楽しんでるな。）
+EN (Everyone's having fun.)
+
+@ 209.100
+# President, used 2x
+JP （……ん？
+JP あいつ、荷物まとめて帰る気か？）
+EN (...Hm? Is she packing up
+EN to go back?)
+
+@ 209.122
+# other, used 2x
+JP 泳ぎたい気分じゃないし…。
+JP ホテルに戻ろうかなって。
+JP …じゃ。
+EN I'm not in the mood to swim...
+EN Thought I'd go back to the hotel.
+EN ...Bye.
+
+@ 209.129
+# President, used 2x
+JP （一度こう言い出したら
+JP きかないからなぁ…。）
+EN (Once she says something like that,
+EN there's no changing her mind...)
+
+@ 209.131
+# President, used 2x
+JP それなら、あそこに行かないか？
+EN In that case, want to go over there?
+
+@ 209.140
+# other, used 2x
+JP あそこ？
+EN Over there?
+
+@ 209.170
+# other, used 2x
+JP 別につきあってくれなくても
+JP いいのに…。
+EN You didn't have to
+EN come along, you know...
+
+@ 209.177
+# President, used 2x
+JP 外国で女の子を１人にしておく
+JP 訳にもいかないだろ。
+EN I can't leave a girl on her own
+EN in a foreign country.
+
+@ 209.183
+# other, used 2x
+JP そういうもの？
+EN Is that how it works?
+
+@ 209.190
+# President, used 2x
+JP そういうもの。
+EN That's how it works.
+
+@ 209.199
+# wrestler (voiced), used 2x
+JP ま、いいけどね…。
+JP おごってもらってるし
+JP お金浮いたし。
+EN Well, whatever...
+EN You're treating me,
+EN so I'm saving money.
+
+@ 209.206
+# President, used 2x
+JP お前みんなの中でも
+JP そんな感じなのか？
+EN Are you like this
+EN with everyone else too?
+
+@ 209.219
+# President, used 2x
+JP 仲のいい友達いないのか？
+EN Don't you have any close friends?
+
+@ 209.225
+# other, used 4x
+JP ん～……。
+EN Hmm...
+
+@ 209.228
+# wrestler (voiced), used 2x
+JP リング下の友達は…いないかな。
+JP 別に欲しくもない。
+JP あの子は友達多そうだけれどね…。
+EN Friends outside the ring? Nah.
+EN Don't want any, either.
+EN That girl seems to have plenty...
+
+@ 209.235
+# President, used 2x
+JP あの子？
+EN That girl?
+
+@ 209.241
+# other, used 2x
+JP …ん、なんでもない。
+EN ...Mm, never mind.
+
+@ 209.248
+# President, used 2x
+JP でもまあ、仲のいいヤツ
+JP 少しは作っておいた方がいいぞ。
+EN Still, you ought to make
+EN at least a few friends.
+
+@ 209.254
+# other, used 2x
+JP 別にいらないんだけれどなぁ…。
+EN I really don't need any, though...
+
+@ 209.257
+# wrestler (voiced), used 2x
+JP …そうだ！
+JP なら、社長。
+JP 社長があたしと仲良くなってよ。
+EN ...I know!
+EN Then, Boss.
+EN You can be my friend.
+
+@ 209.264
+# President, used 2x
+JP 俺か？
+EN Me?
+
+@ 209.266
+# President, used 2x
+JP 別にかまわないが…。
+EN I don't mind, but...
+
+@ 209.278
+# other, used 2x
+JP そ、よかった。
+EN Good.
+
+@ 209.285
+# President, used 2x
+JP （そう言って、うれしそうに微笑む。）
+EN (She smiled happily as she said it.)
+
+@ 209.291
+# other, used 2x
+JP 泊まってるホテルに
+JP いいレストランあるのよ。
+EN The hotel we're staying at
+EN has a nice restaurant.
+
+@ 209.305
+# other, used 2x
+JP 仲良しな人と行くのに
+JP すごく向いてるの。
+EN It's perfect for going
+EN with someone you're close to.
+
+@ 209.312
+# President, used 2x
+JP 俺におごらせる気か？
+EN You want me to pay, don't you?
+
+@ 209.324
+# other, used 2x
+JP あたしと社長の仲じゃない。
+EN Come on, we're friends, aren't we?
+
+@ 209.331
+# President, used 2x
+JP （こいつリングを下りても
+JP 手強いなぁ…。）
+EN (She's tough to handle
+EN even outside the ring...)

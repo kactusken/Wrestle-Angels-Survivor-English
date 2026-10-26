@@ -1,0 +1,2194 @@
+# Event script entry 276 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 276.3
+# President
+JP どうして呼んだかわかるか？
+EN Do you know why I called you here?
+
+@ 276.14
+# wrestler (voiced), case 0, used 2x
+JP もしかして…あの話ですよね？
+EN Could it be... about that?
+
+@ 276.21
+# wrestler (voiced), case 1, used 2x
+JP えっと…。
+JP なんのご用でしょう？
+EN Um...
+EN What can I do for you?
+
+@ 276.29
+# wrestler (voiced), case 0, used 2x
+JP …うーん。
+JP あ、あのことかな？
+EN ...Hmm.
+EN Oh, is it about that?
+
+@ 276.36
+# wrestler (voiced), case 1, used 2x
+JP うーん…。
+JP なんの用？
+EN Hmm...
+EN What do you want?
+
+@ 276.44
+# wrestler (voiced), case 0, used 2x
+JP ええ…。
+JP まぁ…。
+EN Yeah...
+EN Sort of...
+
+@ 276.51
+# wrestler (voiced), case 1, used 2x
+JP …さぁ。
+EN ...No idea.
+
+@ 276.59
+# wrestler (voiced), case 0, used 2x
+JP なんとなく
+JP 心あたりはありますが…。
+EN I have a vague idea,
+EN but...
+
+@ 276.66
+# wrestler (voiced), case 1, used 2x
+JP いえ。
+JP 何かありましたか？
+EN No.
+EN Did something happen?
+
+@ 276.74
+# wrestler (voiced), case 0, used 2x
+JP あの話でしょ？
+JP 誰から聞いたの？
+EN It's about that, right?
+EN Who told you?
+
+@ 276.81
+# wrestler (voiced), case 1, used 2x
+JP …ん？
+JP なんだろう？
+EN ...Hm?
+EN What could it be?
+
+@ 276.89
+# wrestler (voiced), case 0, used 2x
+JP …まぁ、なんとなくは…。
+EN ...Well, sort of...
+
+@ 276.96
+# wrestler (voiced), case 1, used 2x
+JP いえ。
+JP まったくわかりませんが…。
+EN No.
+EN I have no idea at all...
+
+@ 276.104
+# wrestler (voiced), case 0, used 2x
+JP も、もしかしてあの事！？
+EN C-could it be about that?!
+
+@ 276.111
+# wrestler (voiced), case 1, used 2x
+JP …ん？
+JP 全然心当たりないなぁ？
+EN ...Hm?
+EN I can't think of anything...
+
+@ 276.119
+# wrestler (voiced), case 0, used 2x
+JP ギクッ！
+JP な、なんだろう～？
+EN Eep!
+EN Wh-what could it be?
+
+@ 276.126
+# wrestler (voiced), case 1, used 2x
+JP …ん？
+JP 全然わかんないけど…。
+EN ...Hm?
+EN I have no clue, but...
+
+@ 276.134
+# wrestler (voiced), case 0, used 2x
+JP もしかしたらあの話かな…。
+EN Maybe it's about that...
+
+@ 276.141
+# wrestler (voiced), case 1, used 2x
+JP う～ん…。
+JP なんだろ？
+EN Hmm...
+EN What is it?
+
+@ 276.149
+# wrestler (voiced), case 0, used 2x
+JP まぁ、なんとなくは…。
+EN Well, sort of...
+
+@ 276.156
+# wrestler (voiced), case 1, used 2x
+JP いえ。
+JP 想像もつきませんが…。
+EN No.
+EN I can't imagine, but...
+
+@ 276.164
+# wrestler (voiced), case 0, used 2x
+JP はっきり言ってくれ。
+JP 遠まわしなのは嫌いなんだ。
+EN Just say it.
+EN I hate beating around the bush.
+
+@ 276.171
+# wrestler (voiced), case 1, used 2x
+JP 想像もつかないね。
+EN Can't imagine.
+
+@ 276.179
+# wrestler (voiced), case 0, used 2x
+JP ううっ…。
+JP 呼び出されちゃった…。
+EN Ugh...
+EN I got called in...
+
+@ 276.186
+# wrestler (voiced), case 1, used 2x
+JP …へっ？
+JP まったくわからないけど…。
+EN ...Huh?
+EN I have no idea, but...
+
+@ 276.194
+# wrestler (voiced), case 0, used 2x
+JP …うん。
+JP まあ…。
+EN ...Yeah.
+EN Sort of...
+
+@ 276.201
+# wrestler (voiced), case 1, used 2x
+JP …はぁ？
+JP なんのこと～？
+EN ...Huh?
+EN What are you talking about?
+
+@ 276.209
+# wrestler (voiced), case 0, used 2x
+JP ええ…。
+JP なんとなくは…。
+EN Yes...
+EN Sort of...
+
+@ 276.216
+# wrestler (voiced), case 1, used 2x
+JP …え？
+JP あの…私、何かしました？
+EN ...Huh?
+EN Um... did I do something?
+
+@ 276.231
+# wrestler (voiced), case 1, used 2x
+JP …なんのことですの？
+EN ...Whatever do you mean?
+
+@ 276.239
+# wrestler (voiced), case 0, used 2x
+JP …なんとなく…。
+EN ...Sort of...
+
+@ 276.246
+# wrestler (voiced), case 1, used 2x
+JP え～？
+JP なんのこと？
+EN Huh?
+EN What's this about?
+
+@ 276.254
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP まあ…。
+JP なんとなくは…。
+EN ...Yes.
+EN Well...
+EN Sort of...
+
+@ 276.261
+# wrestler (voiced), case 1, used 2x
+JP …いえ。
+JP 特に思い当たる節は…。
+EN ...No.
+EN Nothing comes to mind...
+
+@ 276.269
+# wrestler (voiced), case 0, used 2x
+JP …まあな。
+EN ...Kinda.
+
+@ 276.276
+# wrestler (voiced), case 1, used 2x
+JP さっぱりわからねぇな。
+EN Haven't got a clue.
+
+@ 276.284
+# wrestler (voiced), case 0, used 4x
+JP …うん。
+JP なんとなく…。
+EN ...Yeah.
+EN Sort of...
+
+@ 276.291
+# wrestler (voiced), case 1, used 2x
+JP …え？
+JP ご飯につれてってくれるとか？
+EN ...Huh?
+EN You're taking me out to eat?
+
+@ 276.299
+# wrestler (voiced), case 0, used 4x
+JP まあ、なんとなく…。
+EN Well, sort of...
+
+@ 276.306
+# wrestler (voiced), case 1, used 2x
+JP …は？
+JP 私、何かした？
+EN ...Huh?
+EN Did I do something?
+
+@ 276.314
+# wrestler (voiced), case 0, used 4x
+JP …ええ。
+JP なんとなくは…。
+EN ...Yes.
+EN Sort of...
+
+@ 276.321
+# wrestler (voiced), case 1, used 2x
+JP ちょっとわからないですね…。
+EN I'm not really sure...
+
+@ 276.329
+# wrestler (voiced), case 0, used 2x
+JP …まあ。
+EN ...Kind of.
+
+@ 276.336
+# wrestler (voiced), case 1, used 2x
+JP …なんのこと？
+EN ...What's this about?
+
+@ 276.344
+# wrestler (voiced), case 0, used 2x
+JP え～…。
+JP まあね…。
+EN Aww...
+EN Kinda...
+
+@ 276.351
+# wrestler (voiced), case 1, used 2x
+JP …は？
+JP デートのお誘いとか？
+EN ...Huh?
+EN Are you asking me out on a date?
+
+@ 276.359
+# wrestler (voiced), case 0, used 2x
+JP な、なんとなく予想はしてます…。
+EN I-I have some idea...
+
+@ 276.366
+# wrestler (voiced), case 1, used 2x
+JP まったくわからないです…。
+JP なんでしょうか？
+EN I have no idea...
+EN What is it?
+
+@ 276.374
+# wrestler (voiced), case 0, used 2x
+JP ああ…。
+JP あのことだろ？
+JP とっとと話せよ。
+EN Yeah...
+EN It's about that, right?
+EN Just spit it out.
+
+@ 276.381
+# wrestler (voiced), case 1, used 2x
+JP …ん？
+JP さっぱりわかんねーな。
+EN ...Hm?
+EN Haven't got a clue.
+
+@ 276.389
+# wrestler (voiced), case 0, used 2x
+JP もも、もしかして
+JP 社長、怒ってる？
+EN B-B-Boss, could it be
+EN you're mad?
+
+@ 276.396
+# wrestler (voiced), case 1, used 2x
+JP 全然わかんなーい。
+EN No idea at aaall.
+
+@ 276.404
+# wrestler (voiced), case 0, used 2x
+JP あまりいい予感はしませんわ…。
+EN I don't have a good feeling about
+EN this...
+
+@ 276.411
+# wrestler (voiced), case 1, used 2x
+JP …いいえ。
+JP 心当たりはありませんわ。
+EN ...No.
+EN Nothing comes to mind.
+
+@ 276.419
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP なんとなく…。
+EN ...Yes.
+EN Sort of...
+
+@ 276.426
+# wrestler (voiced), case 1, used 2x
+JP …なんのことですか？
+EN ...What's this about?
+
+@ 276.441
+# wrestler (voiced), case 1, used 2x
+JP …あの…。
+JP なんの事ですか？
+EN ...Um...
+EN What's this about?
+
+@ 276.449
+# wrestler (voiced), case 0, used 2x
+JP …まあ。
+JP なんとなく…。
+EN ...Well.
+EN Sort of...
+
+@ 276.456
+# wrestler (voiced), case 1, used 2x
+JP …はッ？
+JP なんのこと～？
+EN ...Huh?
+EN What are you talking about?
+
+@ 276.464
+# wrestler (voiced), case 0, used 2x
+JP …はい。
+JP まぁ…。
+EN ...Yes.
+EN Sort of...
+
+@ 276.471
+# wrestler (voiced), case 1, used 2x
+JP …え？
+JP なんの事ですか？
+EN ...Huh?
+EN What's this about?
+
+@ 276.479
+# wrestler (voiced), case 0, used 2x
+JP …なんとなく
+JP 思うところはあります…。
+EN ...I have some thoughts
+EN on the matter...
+
+@ 276.486
+# wrestler (voiced), case 1, used 2x
+JP いえ。
+JP 想像もつきません…。
+EN No.
+EN I can't imagine...
+
+@ 276.494
+# wrestler (voiced), case 0, used 2x
+JP ……あ～……。
+EN ......Ahh......
+
+@ 276.509
+# wrestler (voiced), case 0, used 5x
+JP …はい。
+EN ...Yes.
+
+@ 276.516
+# wrestler (voiced), case 1, used 2x
+JP わかりかねます。
+EN I couldn't say.
+
+@ 276.524
+# wrestler (voiced), case 0, used 2x
+JP …ええ。
+JP 大抵の察しはついています。
+EN ...Yes.
+EN I have a fair idea.
+
+@ 276.531
+# wrestler (voiced), case 1, used 2x
+JP いえ。
+JP まったく想像もつきませんが？
+EN No.
+EN I can't even imagine. Why?
+
+@ 276.539
+# wrestler (voiced), case 0, used 2x
+JP ……いえ……。
+JP ……わ…わかりません……。
+EN ......No......
+EN ......I...I don't know......
+
+@ 276.546
+# wrestler (voiced), case 1, used 2x
+JP ……ど…どうして……？
+EN ......W...why......?
+
+@ 276.554
+# wrestler (voiced), case 0, used 2x
+JP …はい。
+JP だいたいわかってます。
+EN ...Yes.
+EN I have a pretty good idea.
+
+@ 276.561
+# wrestler (voiced), case 1, used 2x
+JP 全然！
+JP 何かありましたっけ？
+EN Not at all!
+EN Did something happen?
+
+@ 276.569
+# wrestler (voiced), case 0, used 2x
+JP なんとなく…わかるぞ…。
+EN I think...I know...
+
+@ 276.576
+# wrestler (voiced), case 1, used 4x
+JP なんのことだ？
+EN What are you talking about?
+
+@ 276.584
+# wrestler (voiced), case 0, used 2x
+JP ええ。
+JP まあ…。
+EN Yes.
+EN Sort of...
+
+@ 276.591
+# wrestler (voiced), case 1, used 2x
+JP …はい？
+JP なんのことでしょう？
+EN ...Yes?
+EN What might this be about?
+
+@ 276.606
+# wrestler (voiced), case 1, used 2x
+JP …へ？
+JP 社長、何言うてるん？
+EN ...Huh?
+EN Boss, whatcha talkin' about?
+
+@ 276.621
+# wrestler (voiced), case 1, used 2x
+JP …む～。
+JP わからないです…。
+EN ...Mmm.
+EN I don't know...
+
+@ 276.629
+# wrestler (voiced), case 0, used 2x
+JP …はい。
+JP まあ…。
+EN ...Yes.
+EN Sort of...
+
+@ 276.636
+# wrestler (voiced), case 1, used 2x
+JP えーと…。
+JP なんのことでしょう？
+EN Um...
+EN What's this about?
+
+@ 276.644
+# wrestler (voiced), case 0, used 2x
+JP はい。
+JP もちろんです。
+EN Yes.
+EN Of course.
+
+@ 276.651
+# wrestler (voiced), case 1, used 2x
+JP …はぁ。
+JP なんのことでしょう？
+EN ...Uh.
+EN What might this be about?
+
+@ 276.666
+# wrestler (voiced), case 1, used 2x
+JP …なんの事ですか？
+EN ...What's this about?
+
+@ 276.674
+# wrestler (voiced), case 0, used 2x
+JP …はあ。
+JP 心当たりはありますが…。
+EN ...Well.
+EN I have an idea, but...
+
+@ 276.681
+# wrestler (voiced), case 1, used 2x
+JP ……？
+JP なんのことでしょうか～？
+EN ......?
+EN What might this be about?
+
+@ 276.689
+# wrestler (voiced), case 0, used 2x
+JP …え～？
+JP うん…。
+EN ...Aww?
+EN Yeah...
+
+@ 276.696
+# wrestler (voiced), case 1, used 2x
+JP …ほえ？
+JP さっぱり…。
+JP デートのお誘いとか？
+EN ...Huh?
+EN No clue...
+EN Are you asking me out on a date?
+
+@ 276.704
+# wrestler (voiced), case 0, used 4x
+JP 何をムダな質問してんだ？
+EN Why ask such a pointless question?
+
+@ 276.711
+# wrestler (voiced), case 1, used 2x
+JP 飯でもおごってくれるのか？
+EN You buying me dinner?
+
+@ 276.726
+# wrestler (voiced), case 1, used 2x
+JP 給料上げてくれるのか？
+EN You giving me a raise?
+
+@ 276.734
+# wrestler (voiced), case 0, used 2x
+JP …あん？
+JP …ああ…。
+EN ...Huh?
+EN ...Yeah...
+
+@ 276.741
+# wrestler (voiced), case 1, used 2x
+JP さっぱりわからないねえ。
+EN No clue what you're on about.
+
+@ 276.764
+# wrestler (voiced), case 0, used 2x
+JP ああ！
+JP わかってるよ！
+EN Yeah!
+EN I know!
+
+@ 276.771
+# wrestler (voiced), case 1, used 2x
+JP …はあ？
+JP なんのことだよ？
+EN ...Huh?
+EN What are you talking about?
+
+@ 276.795
+# wrestler (voiced), case 0
+JP ……………。
+EN ...............
+
+@ 276.802
+# wrestler (voiced), case 1
+JP …いや。
+EN ...No.
+
+@ 276.810
+# wrestler (voiced), case 0
+JP あは…はい…。
+EN Aha... yes...
+
+@ 276.817
+# wrestler (voiced), case 1
+JP …え！？
+JP えーと…。
+EN ...Huh?!
+EN Um...
+
+@ 276.832
+# wrestler (voiced), case 1
+JP なんのことよ？
+EN What are you talking about?
+
+@ 276.840
+# wrestler (voiced), case 0
+JP …まぁ…。
+EN ...Sort of...
+
+@ 276.847
+# wrestler (voiced), case 1
+JP …いえ？
+EN ...No?
+
+@ 276.855
+# wrestler (voiced), case 0
+JP 社長には隠し事はできませんね。
+EN I can't hide anything from you,
+EN Boss.
+
+@ 276.862
+# wrestler (voiced), case 1
+JP いえ。
+JP わかりません。
+EN No.
+EN I don't know.
+
+@ 276.870
+# wrestler (voiced), case 0
+JP うん……。
+EN Yeah......
+
+@ 276.877
+# wrestler (voiced), case 1
+JP わからない……。
+EN I don't know......
+
+@ 276.885
+# wrestler (voiced), case 0
+JP …え～と。
+JP はい…。
+EN ...Um.
+EN Yes...
+
+@ 276.892
+# wrestler (voiced), case 1
+JP …あの？
+JP わからないです。
+EN ...Um?
+EN I don't know.
+
+@ 276.900
+# wrestler (voiced), case 0
+JP わかるような…。
+JP わからないような…。
+EN I sort of know...
+EN and I sort of don't...
+
+@ 276.907
+# wrestler (voiced), case 1
+JP あはは。
+JP なんだろ？
+EN Ahaha.
+EN What could it be?
+
+@ 276.915
+# wrestler (voiced), case 0
+JP あのことかしら…？
+EN Could it be about that...?
+
+@ 276.922
+# wrestler (voiced), case 1
+JP 思いつきませんわねえ。
+EN Nothing comes to mind.
+
+@ 276.930
+# wrestler (voiced), case 0, used 2x
+JP わかりませ～ん。
+EN I don't knooow.
+
+@ 276.945
+# wrestler (voiced), case 0
+JP まあ、なんとなくだけど…。
+EN Well, sort of...
+
+@ 276.952
+# wrestler (voiced), case 1
+JP …さあ？
+JP ちょっとわからないなぁ。
+EN ...Who knows?
+EN I'm not really sure.
+
+@ 276.960
+# wrestler (voiced), case 0
+JP まあ、たぶん…。
+JP あれかなー。
+EN Well, probably...
+EN It's that, right?
+
+@ 276.967
+# wrestler (voiced), case 1
+JP …あれ？
+JP 社長に金借りてたっけ？
+EN ...Huh?
+EN Did I borrow money from you?
+
+@ 276.975
+# wrestler (voiced), case 0
+JP …はい。
+JP 社長…。
+EN ...Yes.
+EN Boss...
+
+@ 276.982
+# wrestler (voiced), case 1
+JP …いえ？
+JP 私何かしましたか？
+EN ...No?
+EN Did I do something?
+
+@ 276.990
+# wrestler (voiced), case 0
+JP なんとなく…。
+EN Sort of...
+
+@ 276.1005
+# wrestler (voiced), case 0
+JP えへ！
+JP ばれてる？
+EN Ehe!
+EN You found out?
+
+@ 276.1012
+# wrestler (voiced), case 1
+JP …ううん。
+JP 全然…。
+EN ...Nope.
+EN No idea...
+
+@ 276.1027
+# wrestler (voiced), case 1
+JP 見当もつきません。
+EN I haven't the faintest idea.
+
+@ 276.1815
+# President, case 1
+JP {name:1}と
+JP 仲直りするわけにはいかないのか？
+EN Isn't there some way you can
+EN make up with {name:1}?
+
+@ 276.1826
+# wrestler (voiced), case 0, used 2x
+JP そんなぁ彼女とは仲いいですよ～。
+EN What? She and I get along great!
+
+@ 276.1835
+# wrestler (voiced), case 1, used 2x
+JP そうですね…。
+JP 私から謝ります～。
+EN You're right...
+EN I'll apologize first.
+
+@ 276.1844
+# wrestler (voiced), case 2, used 2x
+JP 私、何もしてないですけど…。
+EN But I didn't do anything...
+
+@ 276.1852
+# wrestler (voiced), case 0, used 2x
+JP …えっ？
+JP ケンカなんてしてませんよ。
+EN ...Huh?
+EN We're not fighting.
+
+@ 276.1861
+# wrestler (voiced), case 1, used 2x
+JP あたしは全然気にして
+JP ないんだけどな。
+JP ま、ちょっと話してみます。
+EN It doesn't bother me
+EN at all, though.
+EN Well, I'll try talking to her.
+
+@ 276.1870
+# wrestler (voiced), case 2, used 2x
+JP なんにもしてないんだけどな…。
+EN But I didn't do anything...
+
+@ 276.1878
+# wrestler (voiced), case 0, used 2x
+JP 誰とも揉めてなんかいませんよ。
+EN I'm not fighting with anyone.
+
+@ 276.1887
+# wrestler (voiced), case 1, used 2x
+JP …わかりました。
+JP 社長の命令なら…。
+EN ...Understood.
+EN If that's your order, Boss...
+
+@ 276.1896
+# wrestler (voiced), case 2, used 2x
+JP そう言われても…。
+JP それに私はそういうキャラ
+JP ですから…。
+EN Even if you say that...
+EN Besides, that's just
+EN the kind of character I am...
+
+@ 276.1904
+# wrestler (voiced), case 0, used 2x
+JP そんな揉め事なんて…。
+JP 社長は何か誤解して
+JP いらっしゃいます。
+EN There's no such quarrel...
+EN I think you've
+EN misunderstood something, Boss.
+
+@ 276.1913
+# wrestler (voiced), case 1, used 2x
+JP チームの和を乱して
+JP すいません！
+JP 今から話し合って来ます。
+EN I'm sorry for upsetting
+EN the team's harmony!
+EN I'll go talk it out now.
+
+@ 276.1922
+# wrestler (voiced), case 2, used 2x
+JP 私は普段通りですよ。
+JP 心あたりは何もありませんが…。
+EN I'm acting the same as always.
+EN I can't think of anything...
+
+@ 276.1930
+# wrestler (voiced), case 0, used 2x
+JP 社長、何か勘違いしてない？
+JP あんなのケンカのうちに
+JP 入らないって～。
+EN Boss, aren't you mistaken?
+EN That doesn't even
+EN count as a fight!
+
+@ 276.1939
+# wrestler (voiced), case 1, used 2x
+JP …そうだね。
+JP 仲良くやらなきゃね！
+EN ...You're right.
+EN We have to get along!
+
+@ 276.1948
+# wrestler (voiced), case 2, used 2x
+JP …そんなこと言われても…。
+JP 私は知らないよー。
+EN ...Even if you say that...
+EN I don't know anything about it.
+
+@ 276.1956
+# wrestler (voiced), case 0, used 2x
+JP ケンカなんて
+JP そんな子供じみたこと…。
+JP 私は興味ありません…。
+EN Fighting? Something so
+EN childish...
+EN I have no interest in that...
+
+@ 276.1965
+# wrestler (voiced), case 1, used 2x
+JP 話し合いが必要ですね…。
+EN I suppose we need to talk...
+
+@ 276.1974
+# wrestler (voiced), case 2, used 2x
+JP 私は何もしていませんが…。
+EN I haven't done anything...
+
+@ 276.1982
+# wrestler (voiced), case 0, used 2x
+JP 社長の考えすぎだって！
+JP うちの団体はみんな平和だよ～。
+EN You're overthinking it, Boss!
+EN Everyone here gets along fine!
+
+@ 276.1991
+# wrestler (voiced), case 1, used 2x
+JP そうだよね！
+JP チームメイトとは
+JP 仲良くしなきゃね。
+EN You're right!
+EN I've gotta get along
+EN with my teammates.
+
+@ 276.2000
+# wrestler (voiced), case 2, used 2x
+JP 向こうから謝ってくるなら
+JP いいんだけどね…。
+EN If she comes and apologizes
+EN first, then fine...
+
+@ 276.2008
+# wrestler (voiced), case 0, used 2x
+JP …へ？
+JP 何の話？
+JP 全然仲いいよー。
+EN ...Huh?
+EN What are you talking about?
+EN We get along great!
+
+@ 276.2017
+# wrestler (voiced), case 1, used 2x
+JP …わかった。
+JP 今から謝ってくる！
+EN ...Okay.
+EN I'll go apologize now!
+
+@ 276.2026
+# wrestler (voiced), case 2, used 2x
+JP あっちが悪いんだもん！
+JP 絶対謝らないもん！
+EN It's her fault!
+EN I'm never apologizing!
+
+@ 276.2034
+# wrestler (voiced), case 0, used 2x
+JP なんか社長誤解してます？
+JP 誰ともケンカなんてしてないですよ。
+EN Boss, are you misunderstanding?
+EN I'm not fighting with anyone.
+
+@ 276.2043
+# wrestler (voiced), case 1, used 2x
+JP 社長がそう言うなら…。
+JP 今から謝ってきます。
+EN If you say so, Boss...
+EN I'll go apologize now.
+
+@ 276.2052
+# wrestler (voiced), case 2, used 2x
+JP そんなこと言われても…。
+JP 私悪くないですよ。
+EN Even if you say that...
+EN It's not my fault.
+
+@ 276.2060
+# wrestler (voiced), case 0, used 2x
+JP …ケンカ？
+JP 子供じゃないんですから。
+EN ...A fight?
+EN We're not children.
+
+@ 276.2069
+# wrestler (voiced), case 1, used 2x
+JP …話し合いの場を持ってみます。
+EN ...I'll try to arrange a talk.
+
+@ 276.2078
+# wrestler (voiced), case 2, used 2x
+JP …納得がいきませんね。
+EN ...I don't accept that.
+
+@ 276.2086
+# wrestler (voiced), case 0, used 2x
+JP あいつとはなんにもないよ。
+EN Nothing's going on with her.
+
+@ 276.2095
+# wrestler (voiced), case 1, used 2x
+JP …あいつも素直じゃないから。
+JP ちょっと行ってくるよ。
+EN ...She's not exactly honest either.
+EN I'll go talk to her.
+
+@ 276.2104
+# wrestler (voiced), case 2, used 2x
+JP …話はそれだけ？
+EN ...Is that all?
+
+@ 276.2112
+# wrestler (voiced), case 0, used 2x
+JP 社長、なんか誤解してる？
+JP なんにもしてないのにー！
+EN Boss, are you misunderstanding?
+EN I didn't do anything!
+
+@ 276.2121
+# wrestler (voiced), case 1, used 2x
+JP 了解！
+JP チームメイトとは
+JP 仲良くしないとね！
+EN Roger!
+EN I've gotta get along
+EN with my teammates!
+
+@ 276.2130
+# wrestler (voiced), case 2, used 2x
+JP 本当になんにもしてないのにー！
+EN I really didn't do anything!
+
+@ 276.2138
+# wrestler (voiced), case 0, used 2x
+JP ちょっと社長、大丈夫？
+JP 私、ケンカなんてしてないし～。
+EN Hey Boss, are you okay?
+EN I'm not fighting with anyone.
+
+@ 276.2147
+# wrestler (voiced), case 1, used 2x
+JP …まあね。
+JP 私も悪かったと思うし…。
+JP しょうがない、仲直りするか！
+EN ...Well.
+EN I guess I was wrong too...
+EN Oh well, let's make up!
+
+@ 276.2156
+# wrestler (voiced), case 2, used 2x
+JP だって、私悪くないし…。
+EN But it's not my fault...
+
+@ 276.2164
+# wrestler (voiced), case 0, used 2x
+JP 心当たりがないんですけど…。
+JP なんのことですか？
+EN I can't think of anything...
+EN What's this about?
+
+@ 276.2173
+# wrestler (voiced), case 1, used 2x
+JP 社長にそう言われたら
+JP 仲直りするしかないですね。
+EN If you put it that way, Boss,
+EN I've got no choice but to make up.
+
+@ 276.2182
+# wrestler (voiced), case 2, used 2x
+JP 社長だけはわかってくれると
+JP 思っていたのですが…。
+EN I thought at least you
+EN would understand, Boss...
+
+@ 276.2190
+# wrestler (voiced), case 0, used 2x
+JP まあ、心外ですわ！
+JP この私がそんなレベルの低い争いを
+JP しているとおっしゃるの？
+EN Why, how insulting!
+EN Are you saying I'd stoop to
+EN such a petty quarrel?
+
+@ 276.2199
+# wrestler (voiced), case 1, used 2x
+JP 社長がそうおっしゃるなら
+JP 和解しますわ…。
+EN If you insist, Boss,
+EN I shall reconcile...
+
+@ 276.2208
+# wrestler (voiced), case 2, used 2x
+JP 私の方から和解を申し出るなんて
+JP プライドが許しませんわ！
+EN My pride won't allow me to be
+EN the one to offer reconciliation!
+
+@ 276.2216
+# wrestler (voiced), case 0, used 2x
+JP 社長、大丈夫？
+JP 私、ケンカなんてしてないわよ～。
+EN Boss, are you okay?
+EN I'm not fighting with anyone.
+
+@ 276.2225
+# wrestler (voiced), case 1, used 2x
+JP うん。
+JP わかった。
+JP そう言うなら仲直りする。
+EN Yeah.
+EN Okay.
+EN If you say so, I'll make up.
+
+@ 276.2234
+# wrestler (voiced), case 2, used 2x
+JP でも～、私悪くないし…。
+EN But it's not my fault...
+
+@ 276.2242
+# wrestler (voiced), case 0, used 2x
+JP 誰ともケンカなんて
+JP してないですよ？
+EN I'm not fighting
+EN with anyone, though?
+
+@ 276.2251
+# wrestler (voiced), case 1, used 4x
+JP …わかりました。
+JP 社長がそう言うなら…。
+EN ...Understood.
+EN If you say so, Boss...
+
+@ 276.2268
+# wrestler (voiced), case 0, used 2x
+JP 社長、何言ってんだ？
+EN Boss, what are you talking about?
+
+@ 276.2277
+# wrestler (voiced), case 1, used 2x
+JP …しょうがねえ。
+JP 社長がそう言うなら
+JP 仲直りするよ。
+EN ...Fine.
+EN If you say so, Boss,
+EN I'll make up with her.
+
+@ 276.2286
+# wrestler (voiced), case 2, used 2x
+JP …ほっとけよ！
+EN ...Leave me alone!
+
+@ 276.2294
+# wrestler (voiced), case 0, used 2x
+JP えー？
+JP ケンカなんてしてないよ。
+EN Huh?
+EN I'm not fighting with anyone.
+
+@ 276.2303
+# wrestler (voiced), case 1, used 2x
+JP しょうがないなぁ…。
+JP 仲直りする。
+EN Oh, fine...
+EN I'll make up.
+
+@ 276.2312
+# wrestler (voiced), case 2, used 2x
+JP なんで私に言うの？
+EN Why are you telling me?
+
+@ 276.2320
+# wrestler (voiced), case 0, used 2x
+JP 社長、誰かと間違えてない？
+JP ケンカなんてしてないわ。
+EN Boss, are you mixing me up with
+EN someone?
+EN I'm not fighting with anyone.
+
+@ 276.2329
+# wrestler (voiced), case 1, used 2x
+JP 社長にそう言われちゃあね…。
+JP わかったわ。
+EN If you put it like that, Boss...
+EN Fine.
+
+@ 276.2338
+# wrestler (voiced), case 2, used 2x
+JP …それは相手次第ね。
+EN ...That depends on her.
+
+@ 276.2346
+# wrestler (voiced), case 0, used 2x
+JP …あの？
+JP なんのことですか？
+EN ...Um?
+EN What are you talking about?
+
+@ 276.2355
+# wrestler (voiced), case 1, used 2x
+JP …わかりました。
+JP 心配かけてすみません！
+EN ...Understood.
+EN Sorry to worry you!
+
+@ 276.2364
+# wrestler (voiced), case 2, used 2x
+JP いくら社長の頼みと言っても
+JP それは無理な相談です。
+EN Even if you ask, Boss,
+EN that's not possible.
+
+@ 276.2372
+# wrestler (voiced), case 0, used 2x
+JP …ふぅ。
+JP それ、あたしじゃないわよ。
+JP …もう帰っていい？
+EN ...Sigh.
+EN That wasn't me.
+EN ...Can I go now?
+
+@ 276.2381
+# wrestler (voiced), case 1, used 2x
+JP …社長がそう言うなら。
+JP 仕方ないわね…。
+EN ...If you say so, Boss.
+EN I suppose I have no choice...
+
+@ 276.2390
+# wrestler (voiced), case 2, used 2x
+JP …あたしは悪くないわよ。
+EN ...It's not my fault.
+
+@ 276.2398
+# wrestler (voiced), case 0, used 2x
+JP なーにそれ～！？
+JP そんなの知らないわよ～！
+EN Whaaat?!
+EN I don't know anything about that!
+
+@ 276.2407
+# wrestler (voiced), case 1, used 2x
+JP わかりましたッ！
+JP 仲直りするわよ！
+EN Fine!
+EN I'll make up with her!
+
+@ 276.2416
+# wrestler (voiced), case 2, used 2x
+JP 女同士の問題に口挟まないで！
+EN Stay out of this, it's between us
+EN girls!
+
+@ 276.2424
+# wrestler (voiced), case 0, used 2x
+JP ボク何もしていません！
+JP 社長、信じてくれますよね？
+EN I didn't do anything!
+EN You believe me, right, Boss?
+
+@ 276.2433
+# wrestler (voiced), case 1, used 2x
+JP チームワークを
+JP 乱してしまいました…。
+JP 今すぐ謝ってきます！
+EN I've disrupted
+EN our teamwork...
+EN I'll go apologize right now!
+
+@ 276.2442
+# wrestler (voiced), case 2, used 2x
+JP ボクは悪くないです…。
+EN It's not my fault...
+
+@ 276.2450
+# wrestler (voiced), case 0, used 2x
+JP …ケンカぁ？
+JP ハハッ、ガキじゃあるまいし
+JP そんなことするかよ！
+EN ...A fight?
+EN Ha! We ain't kids,
+EN why would I do that?
+
+@ 276.2459
+# wrestler (voiced), case 1, used 2x
+JP …仕方ねーな。
+JP こっちから折れてやるか。
+EN ...Fine, whatever.
+EN Guess I'll be the one to back down.
+
+@ 276.2468
+# wrestler (voiced), case 2, used 2x
+JP だから何にもしてないっつーの！
+EN I told you, I didn't do anything!
+
+@ 276.2476
+# wrestler (voiced), case 0, used 2x
+JP …なんにもしてないのにぃ…。
+EN ...But I didn't do anything...
+
+@ 276.2485
+# wrestler (voiced), case 1, used 2x
+JP みんなと仲良くしないとダメだよね。
+JP すぐ謝ってくるね！
+EN I gotta get along with everyone,
+EN huh.
+EN I'll go apologize right away!
+
+@ 276.2494
+# wrestler (voiced), case 2, used 2x
+JP 向こうが勝手に怒ってるだけだよ！
+JP あたし悪くないもん！
+EN She's just mad all on her own!
+EN It's not my fault!
+
+@ 276.2502
+# wrestler (voiced), case 0, used 2x
+JP 本当に何もありませんのよ。
+EN There truly is nothing going on.
+
+@ 276.2511
+# wrestler (voiced), case 1, used 2x
+JP こちらが大人になって
+JP 折れるべきですわね。
+EN I suppose I should be the
+EN adult here and give way.
+
+@ 276.2520
+# wrestler (voiced), case 2, used 2x
+JP …ああ。
+JP あの子が一人で勝手に
+JP すねてるだけですわ。
+EN ...Oh, that.
+EN That girl is merely
+EN sulking all by herself.
+
+@ 276.2528
+# wrestler (voiced), case 0, used 2x
+JP …はあ。
+JP 言っている意味がよく…。
+EN ...Uh.
+EN I don't quite follow...
+
+@ 276.2537
+# wrestler (voiced), case 1, used 2x
+JP …わかりました。
+JP 仕方ないですね。
+EN ...Understood.
+EN I suppose it can't be helped.
+
+@ 276.2546
+# wrestler (voiced), case 2, used 2x
+JP …それは難しいですね。
+EN ...That would be difficult.
+
+@ 276.2554
+# wrestler (voiced), case 0, used 2x
+JP おっしゃっている意味が…。
+EN I don't follow what you mean...
+
+@ 276.2563
+# wrestler (voiced), case 1, used 2x
+JP …わかりました。
+JP 私も少し大人げなかったですね。
+EN ...Understood.
+EN I was a bit childish too.
+
+@ 276.2572
+# wrestler (voiced), case 2, used 2x
+JP そう言われましても…。
+EN Even if you say that...
+
+@ 276.2580
+# wrestler (voiced), case 0, used 2x
+JP …社長、大丈夫？
+JP 誰かと間違えてない？
+EN ...Boss, are you okay?
+EN Aren't you mixing me up with
+EN someone?
+
+@ 276.2589
+# wrestler (voiced), case 1, used 2x
+JP …わかったよー！
+JP 仲直りすればいいんでしょ！
+EN ...Fine!
+EN I just have to make up, right?!
+
+@ 276.2598
+# wrestler (voiced), case 2, used 2x
+JP イヤなものはイヤなの！
+EN No means no!
+
+@ 276.2606
+# wrestler (voiced), case 0, used 2x
+JP あの…。
+JP あたし冗談に付き合ってる
+JP 暇ないので失礼します。
+EN Um...
+EN I don't have time for jokes,
+EN so if you'll excuse me.
+
+@ 276.2615
+# wrestler (voiced), case 1, used 2x
+JP …わかりました。
+JP ケンカしてる暇があったら
+JP 練習しろってことですよね！
+EN ...Understood.
+EN You mean if I have time to fight,
+EN I have time to train, right?
+
+@ 276.2624
+# wrestler (voiced), case 2, used 2x
+JP こればかりは
+JP いくら社長でも譲れません！
+EN Not even for you, Boss,
+EN can I give in on this!
+
+@ 276.2632
+# wrestler (voiced), case 0, used 2x
+JP ケンカなんてする訳ないですよ！
+JP チームワークが大切ですから！
+EN I'd never fight with anyone!
+EN Teamwork is what matters!
+
+@ 276.2641
+# wrestler (voiced), case 1, used 2x
+JP はい。
+JP 謝ってきます。
+JP 自分、根に持たない方ですから！
+EN Yes.
+EN I'll go apologize.
+EN I'm not one to hold a grudge!
+
+@ 276.2650
+# wrestler (voiced), case 2, used 2x
+JP 謝るにも理由がありませんから…。
+EN I have no reason to apologize...
+
+@ 276.2658
+# wrestler (voiced), case 0, used 2x
+JP ……仲直り……？
+JP ……仲悪くないのに……？
+EN ......Make up......?
+EN ......But we're not on bad
+EN terms......?
+
+@ 276.2667
+# wrestler (voiced), case 1, used 2x
+JP ……じゃ…仲直りする……。
+EN ......Then...I'll make up......
+
+@ 276.2676
+# wrestler (voiced), case 2, used 2x
+JP ……でも……。
+EN ......But......
+
+@ 276.2684
+# wrestler (voiced), case 0, used 2x
+JP 社長、何を見ていたんですか？
+JP ケンカなどしていませんよ？
+EN Boss, what were you looking at?
+EN I'm not fighting with anyone.
+
+@ 276.2693
+# wrestler (voiced), case 1, used 2x
+JP わかりました。
+JP ムダなエネルギーを消費していると
+JP 思っていたところです。
+EN Understood.
+EN I was just thinking it was
+EN a waste of energy.
+
+@ 276.2702
+# wrestler (voiced), case 2, used 2x
+JP 話の筋が違いますね。
+JP 向こうの謝罪が先なのでは？
+EN That's backwards.
+EN Shouldn't she apologize first?
+
+@ 276.2710
+# wrestler (voiced), case 0, used 2x
+JP 社長もおわかりかと思いますが
+JP 私ほどの博愛主義者はいませんよ？
+EN As I'm sure you know, Boss,
+EN there's no greater lover of
+EN humanity than me.
+
+@ 276.2719
+# wrestler (voiced), case 1, used 2x
+JP …そうか。
+JP ここはひとつ私が大人になろう。
+EN ...I see.
+EN I shall be the bigger person here.
+
+@ 276.2728
+# wrestler (voiced), case 2, used 2x
+JP …私は何もしていませんよ？
+EN ...I haven't done anything, you
+EN know?
+
+@ 276.2736
+# wrestler (voiced), case 0, used 4x
+JP ……よ、よくわからない……。
+EN ......I-I don't really
+EN understand......
+
+@ 276.2745
+# wrestler (voiced), case 1, used 2x
+JP ……仲直り…できるような……。
+JP ……できないような……。
+EN ......I feel like we can make
+EN up......
+EN ......and also like we can't......
+
+@ 276.2762
+# wrestler (voiced), case 0, used 2x
+JP やだなぁ、社長！
+JP ボクたち何もないですよ～！
+EN Oh, come on, Boss!
+EN Nothing's going on between us!
+
+@ 276.2771
+# wrestler (voiced), case 1, used 2x
+JP …わかりました。
+JP ちょっと行ってきます。
+EN ...Understood.
+EN I'll go see her.
+
+@ 276.2780
+# wrestler (voiced), case 2, used 2x
+JP そんなこと言われても
+JP ボク悪くないもん！
+EN Even if you say that,
+EN it's not my fault!
+
+@ 276.2788
+# wrestler (voiced), case 0, used 2x
+JP 何を言っている。
+JP 真帆はケンカなんかしてないぞ！
+EN What are you saying?
+EN Maho isn't fighting with anyone!
+
+@ 276.2797
+# wrestler (voiced), case 1, used 2x
+JP …わかった！
+JP 謝ってくるぞ！
+EN ...Got it!
+EN Maho will go apologize!
+
+@ 276.2806
+# wrestler (voiced), case 2, used 2x
+JP いやだ！
+JP 真帆は謝らないぞ！
+EN No way!
+EN Maho won't apologize!
+
+@ 276.2814
+# wrestler (voiced), case 0, used 2x
+JP 何か勘違いをされてませんか？
+EN Aren't you mistaken about something?
+
+@ 276.2823
+# wrestler (voiced), case 1, used 2x
+JP 社長がそう言うなら…。
+JP わかりました…。
+EN If you say so, Boss...
+EN Understood...
+
+@ 276.2832
+# wrestler (voiced), case 2, used 2x
+JP こればっかりは譲れませんので…。
+EN I can't give in on this one...
+
+@ 276.2840
+# wrestler (voiced), case 0, used 2x
+JP いややわ～。
+JP ウチ誰ともケンカなんか
+JP してへんし！
+EN Oh, come on!
+EN I ain't fightin'
+EN with nobody!
+
+@ 276.2849
+# wrestler (voiced), case 1, used 2x
+JP …まーな。
+JP ウチが大人にならんとな。
+JP わかったわ、謝っとくわ。
+EN ...Well, yeah.
+EN Guess I gotta be the grown-up.
+EN All right, I'll apologize.
+
+@ 276.2858
+# wrestler (voiced), case 2, used 2x
+JP 社長には関係ないやん。
+EN That ain't none of your business,
+EN Boss.
+
+@ 276.2866
+# wrestler (voiced), case 0, used 2x
+JP あたし誰ともケンカなんて
+JP してない…ですよ！
+EN I'm not fighting with
+EN anyone... honest!
+
+@ 276.2875
+# wrestler (voiced), case 1, used 2x
+JP …わかりました。
+JP 社長が言うなら
+JP しょうがないですから…。
+EN ...Understood.
+EN If you say so, Boss,
+EN I guess I have to...
+
+@ 276.2884
+# wrestler (voiced), case 2, used 2x
+JP …む～！
+JP ヤなものはイヤです～ッ！
+EN ...Hmph!
+EN No means no!
+
+@ 276.2892
+# wrestler (voiced), case 0, used 2x
+JP え～！？
+JP そんなこと言われても
+JP 心当たりないですから…。
+EN Whaaat?!
+EN Even if you say that,
+EN I can't think of anything...
+
+@ 276.2910
+# wrestler (voiced), case 2, used 2x
+JP そんなこと
+JP あっちに言ってください！
+EN Tell her that,
+EN not me!
+
+@ 276.2918
+# wrestler (voiced), case 0, used 2x
+JP 社長、私は誰とも
+JP ケンカしていません！
+EN Boss, I'm not fighting
+EN with anyone!
+
+@ 276.2927
+# wrestler (voiced), case 1, used 2x
+JP …そうですね。
+JP 友情は何より大事な人生の財産…。
+JP 今すぐ仲直りしてきます！
+EN ...You're right. Friendship is
+EN life's greatest treasure... I'll go
+EN make up right now!
+
+@ 276.2936
+# wrestler (voiced), case 2, used 2x
+JP 社長、私は悪いことをしたと
+JP 思っていません！
+EN Boss, I don't think I did
+EN anything wrong!
+
+@ 276.2944
+# wrestler (voiced), case 0, used 2x
+JP 社長、誰かと勘違いしてませんか？
+EN Boss, are you mixing me up with
+EN someone?
+
+@ 276.2953
+# wrestler (voiced), case 1, used 2x
+JP …確かに団体内でのいざこざは
+JP 自分にとってもマイナスですからね。
+EN ...True, trouble within the
+EN promotion
+EN is a minus for me too.
+
+@ 276.2962
+# wrestler (voiced), case 2, used 2x
+JP そもそも
+JP 自分に非はありませんから。
+EN In the first place,
+EN I'm not at fault.
+
+@ 276.2970
+# wrestler (voiced), case 0, used 2x
+JP あの…。
+JP おっしゃっている意味が
+JP よくわかりませんが…。
+EN Um...
+EN I don't quite understand
+EN what you mean...
+
+@ 276.2979
+# wrestler (voiced), case 1, used 2x
+JP …そうですね。
+JP 私も少し大人げなかったかも
+JP しれませんね～。
+EN ...You're right.
+EN Maybe I was a bit
+EN childish too.
+
+@ 276.2988
+# wrestler (voiced), case 2, used 2x
+JP そう言われましても…。
+JP あちらがなんと言うか次第です～。
+EN Even if you say that...
+EN It depends on what she says.
+
+@ 276.2996
+# wrestler (voiced), case 0, used 2x
+JP も～！
+JP 社長、何言ってるの？
+JP あたしケンカなんてしないよ。
+EN Geez!
+EN Boss, what are you saying?
+EN I don't fight with people.
+
+@ 276.3005
+# wrestler (voiced), case 1, used 2x
+JP …む～。
+JP 社長がそう言うなら。
+EN ...Mmm.
+EN If you say so, Boss.
+
+@ 276.3014
+# wrestler (voiced), case 2, used 2x
+JP だって、だって
+JP あたし悪くないも～ん。
+EN But, but...
+EN It's not my fault!
+
+@ 276.3022
+# wrestler (voiced), case 0, used 2x
+JP 誰ともケンカしてねーって！
+EN I told you, I ain't fightin' with
+EN anyone!
+
+@ 276.3031
+# wrestler (voiced), case 1, used 2x
+JP 向こうに付き合って
+JP やっただけだしな。
+JP もうやめとくか。
+EN I was just playing along
+EN with her anyway.
+EN Guess I'll drop it.
+
+@ 276.3040
+# wrestler (voiced), case 2, used 2x
+JP 説教するなら向こうだろうが！
+EN If you're gonna lecture someone,
+EN lecture her!
+
+@ 276.3048
+# wrestler (voiced), case 0, used 2x
+JP あー、ムダな時間を過ごした。
+JP 誰ともケンカしてねーって！
+EN Ugh, what a waste of time.
+EN I told you, I ain't fightin' with
+EN anyone!
+
+@ 276.3057
+# wrestler (voiced), case 1, used 2x
+JP ま、あっちに付き合って
+JP やっただけだし。
+JP もうやめるわ。
+EN Well, I was just playing
+EN along with her anyway.
+EN I'll drop it.
+
+@ 276.3066
+# wrestler (voiced), case 2, used 2x
+JP …は？
+JP 説教するなら
+JP コッチじゃなくて向こうだろ？
+EN ...Huh?
+EN If you're gonna lecture someone,
+EN lecture her, not me!
+
+@ 276.3074
+# wrestler (voiced), case 0, used 2x
+JP 社長、誰かと勘違いしてないかい？
+EN Boss, you got me mixed up with
+EN someone?
+
+@ 276.3083
+# wrestler (voiced), case 1, used 2x
+JP まあ、社長にそう言われちゃあね。
+JP わかったよ。
+EN Well, if you put it like that,
+EN Boss...
+EN All right.
+
+@ 276.3092
+# wrestler (voiced), case 2, used 2x
+JP 気に入らねぇものは
+JP 気に入らねぇんだよ！
+EN If I don't like something,
+EN I don't like it!
+
+@ 276.3100
+# wrestler (voiced), case 0, used 2x
+JP 言っている意味がわからん。
+JP 話はそれだけか？
+EN I don't follow.
+EN Is that all?
+
+@ 276.3109
+# wrestler (voiced), case 1, used 2x
+JP …そうか。
+JP わかった。
+EN ...I see.
+EN Understood.
+
+@ 276.3126
+# wrestler (voiced), case 0, used 2x
+JP …てめ～！
+JP 知らねえって言ってんだろ！
+EN ...Why you!
+EN I said I don't know!
+
+@ 276.3135
+# wrestler (voiced), case 1, used 2x
+JP …チッ。
+JP わかったよ…。
+EN ...Tch.
+EN Fine...
+
+@ 276.3144
+# wrestler (voiced), case 2, used 2x
+JP 気に入らねえもんは
+JP しょうがねえだろ！
+EN Can't help it if I don't like
+EN somebody!
+
+@ 276.3170
+# other, case 2, used 8x
+JP …………フン……。
+EN ............Hmph......
+
+@ 276.3180
+# wrestler (voiced), case 0
+JP なんの事だ？
+EN What are you talking about?
+
+@ 276.3189
+# wrestler (voiced), case 1
+JP いいだろう。
+JP そこまで言うのなら…。
+EN Very well.
+EN If you insist...
+
+@ 276.3198
+# wrestler (voiced), case 2
+JP 仲裁したいと言うのなら
+JP ムダなことだ。
+EN If you mean to mediate,
+EN it's pointless.
+
+@ 276.3206
+# wrestler (voiced), case 0
+JP え、え？
+JP 仲直りですか？
+JP ケンカなんてしてませんよー。
+EN Huh, what?
+EN Make up?
+EN We're not fighting!
+
+@ 276.3215
+# wrestler (voiced), case 1
+JP 自分でもこのままじゃ
+JP いけないかなって…。
+JP わかりました！
+EN I was thinking this can't
+EN go on either...
+EN Understood!
+
+@ 276.3224
+# wrestler (voiced), case 2
+JP あは…そう言われても…。
+JP ごめんなさい…。
+EN Aha... even if you say that...
+EN I'm sorry...
+
+@ 276.3232
+# wrestler (voiced), case 0
+JP だからなんのことよ！？
+EN I said, what are you talking about?!
+
+@ 276.3241
+# wrestler (voiced), case 1
+JP …わかったわ。
+JP 社長が言うなら…。
+EN ...Fine.
+EN If you say so, Boss...
+
+@ 276.3250
+# wrestler (voiced), case 2
+JP 私は悪くないんだからイヤよ！
+EN It's not my fault, so no way!
+
+@ 276.3258
+# wrestler (voiced), case 0
+JP あの～…。
+JP なんの事だかさっぱりです。
+EN Ummm...
+EN I have no idea what you mean.
+
+@ 276.3267
+# wrestler (voiced), case 1
+JP …そうだよね。
+JP ケンカはよくないよね！
+JP 私、仲直りしてくる！
+EN ...You're right.
+EN Fighting is bad!
+EN I'll go make up with her!
+
+@ 276.3276
+# wrestler (voiced), case 2
+JP 社長、ごめん！
+JP こればっかりは
+JP 正義の心が許さないの！
+EN Sorry, Boss!
+EN My sense of justice just
+EN won't allow it this time!
+
+@ 276.3284
+# wrestler (voiced), case 0
+JP 社長、何か誤解されていませんか？
+EN Boss, haven't you misunderstood
+EN something?
+
+@ 276.3293
+# wrestler (voiced), case 1
+JP 了解しました。
+JP 社長のお言葉であれば。
+EN Understood.
+EN If those are your words, Boss.
+
+@ 276.3302
+# wrestler (voiced), case 2
+JP 社長のお言葉でも
+JP こればかりは譲歩しかねます。
+EN Even at your word, Boss, I
+EN cannot compromise on this.
+
+@ 276.3310
+# wrestler (voiced), case 0
+JP 全然わからない……。
+EN I don't understand at all......
+
+@ 276.3319
+# wrestler (voiced), case 1
+JP そうする……。
+EN I'll do that......
+
+@ 276.3328
+# wrestler (voiced), case 2, used 4x
+JP ムリ……。
+EN Can't......
+
+@ 276.3336
+# wrestler (voiced), case 0
+JP …えと…。
+JP 誰かと間違えてませんか？
+EN ...Um...
+EN Aren't you mixing me up with
+EN someone?
+
+@ 276.3345
+# wrestler (voiced), case 1
+JP う～…。
+JP はい…。
+JP わかりました。
+EN Uuu...
+EN Yes...
+EN Understood.
+
+@ 276.3354
+# wrestler (voiced), case 2
+JP あの、でも…。
+JP わたし、悪くないです。
+EN Um, but...
+EN It's not my fault.
+
+@ 276.3362
+# wrestler (voiced), case 0
+JP え～と…。
+JP ジョークかな？
+JP でも、あんまり笑えないなぁ。
+EN Ummm...
+EN Is this a joke?
+EN It's not very funny, though.
+
+@ 276.3371
+# wrestler (voiced), case 1
+JP アハハッ、いいですよ。
+JP もともとケンカするつもりなんて
+JP なかったですから。
+EN Ahaha, sure.
+EN I never meant to fight
+EN in the first place.
+
+@ 276.3380
+# wrestler (voiced), case 2
+JP イヤです！
+JP ぜーーったいッ！
+EN No way!
+EN Absolutely not!
+
+@ 276.3388
+# wrestler (voiced), case 0
+JP そんなにわたくしの気を
+JP ひきたいんですの？
+EN Are you that desperate
+EN for my attention?
+
+@ 276.3397
+# wrestler (voiced), case 1
+JP あの女が地べたに頭を
+JP こすりつけて謝るなら
+JP 許さなくもないですわ。
+EN If that woman grovels with her
+EN head to the floor, I might
+EN perhaps forgive her.
+
+@ 276.3406
+# wrestler (voiced), case 2
+JP お断りです。
+JP あの女がここから出ていけば
+JP いいんですわ！
+EN I refuse.
+EN That woman should simply
+EN leave this place!
+
+@ 276.3414
+# wrestler (voiced), case 0
+JP そうなんですか～。
+JP よくわからないけど
+JP 仲良くします～。
+EN Is that sooo?
+EN I don't really get it,
+EN but I'll get along with her.
+
+@ 276.3423
+# wrestler (voiced), case 1
+JP わかりました～。
+EN Okaaay.
+
+@ 276.3432
+# wrestler (voiced), case 2
+JP なんのことだか
+JP わかりませ～ん。
+EN I don't know what
+EN you're talking about.
+
+@ 276.3440
+# wrestler (voiced), case 0
+JP ハハッ！
+JP 何言ってんの？
+EN Haha!
+EN What are you talking about?
+
+@ 276.3449
+# wrestler (voiced), case 1
+JP 仕方ないなぁ…。
+JP 社長がそう言うのなら
+JP 仲直りするよ。
+EN Oh, fine...
+EN If you say so, Boss,
+EN I'll make up.
+
+@ 276.3458
+# wrestler (voiced), case 2
+JP ボクらのことはほっといてよ！
+EN Just leave us alone!
+
+@ 276.3466
+# wrestler (voiced), case 0
+JP おーい、社長？
+JP アタシ手は早いけど
+JP ケンカなんかしてねーよ。
+EN Hey, Boss?
+EN I may be quick with my fists,
+EN but I ain't fightin' with nobody.
+
+@ 276.3475
+# wrestler (voiced), case 1
+JP 社長に言われちゃ仕方ねーな。
+JP いっちょ折れてやるか！
+EN If you say so, Boss, can't be
+EN helped.
+EN Guess I'll back down!
+
+@ 276.3484
+# wrestler (voiced), case 2
+JP 社長、こればっかりは
+JP 口を挟んで欲しくねーな。
+EN Boss, this is one thing
+EN I'd rather you stay out of.
+
+@ 276.3492
+# wrestler (voiced), case 0
+JP 社長、何か勘違いされているのでは？
+EN Boss, haven't you misunderstood
+EN something?
+
+@ 276.3501
+# wrestler (voiced), case 1
+JP わかりました。
+JP その方が効率的ですね。
+EN Understood.
+EN That would be more efficient.
+
+@ 276.3510
+# wrestler (voiced), case 2
+JP 人間関係はそう簡単には…。
+EN Relationships aren't that simple...
+
+@ 276.3518
+# wrestler (voiced), case 0
+JP …全然。
+JP 社長、大丈夫ですか？
+EN ...Not at all.
+EN Boss, are you okay?
+
+@ 276.3527
+# wrestler (voiced), case 1
+JP わかりました！
+JP 社長がそうおっしゃるなら！
+EN Understood!
+EN If that's what you say, Boss!
+
+@ 276.3536
+# wrestler (voiced), case 2
+JP 自分ではどうしようもないんです！
+EN There's nothing I can do about it!
+
+@ 276.3544
+# wrestler (voiced), case 0
+JP …社長？
+JP 私ケンカなんかしていませんよ。
+EN ...Boss?
+EN I'm not fighting with anyone.
+
+@ 276.3553
+# wrestler (voiced), case 1
+JP わかりました。
+JP 私、謝ってきます。
+EN Understood.
+EN I'll go apologize.
+
+@ 276.3562
+# wrestler (voiced), case 2
+JP だって、あの人の後ろに
+JP 見えちゃうんだもん…。
+EN But I can see something
+EN behind her...
+
+@ 276.3570
+# wrestler (voiced), case 0
+JP 意味がよくわからないのですが…。
+EN I don't quite understand...
+
+@ 276.3579
+# wrestler (voiced), case 1
+JP 向こうが良いと言うなら…。
+EN If she's okay with it...
+
+@ 276.3588
+# wrestler (voiced), case 2
+JP 無理ですね…。
+JP 今は…。
+EN Impossible...
+EN For now...
+
+@ 276.4959
+# Secretary, case 0
+JP {name:1}選手との間に
+JP 別に遺恨はなさそうですね。
+EN There doesn't seem to be any real
+EN bad blood with {name:1}.
+
+@ 276.4968
+# Secretary, case 1
+JP {name:1}選手との遺恨を
+JP 解消できたようですね。
+EN It seems the bad blood
+EN with {name:1} has been settled.
+
+@ 276.4977
+# Secretary, case 2
+JP {name:1}選手との遺恨は
+JP 根が深そうですね…。
+EN The bad blood with {name:1}
+EN seems to run deep...

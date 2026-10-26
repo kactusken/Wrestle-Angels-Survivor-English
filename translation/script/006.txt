@@ -1,0 +1,484 @@
+# Event script entry 006 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 006.46
+# Secretary, used 2x
+JP {name:0}選手が
+JP 負傷し入院しました。
+EN {name:0} was injured and has been
+EN hospitalized.
+
+@ 006.48
+# Secretary
+JP 幸い回復が早そうなので
+JP １ヶ月ほどで退院できる見込みです。
+EN Luckily, she seems to be recovering
+EN quickly. She should be out in a
+EN month.
+
+@ 006.59
+# wrestler (voiced), used 4x
+JP しばらく静養してきます…。
+EN I'll go rest up for a while...
+
+@ 006.66
+# wrestler (voiced), used 4x
+JP 速攻で治してくるよ！
+JP ちょっと待ってて！
+EN I'll heal up in no time!
+EN Just wait for me!
+
+@ 006.73
+# wrestler (voiced), used 4x
+JP ……くッ。
+JP この私が入院…。
+EN ...Tch.
+EN Me, in the hospital...
+
+@ 006.80
+# wrestler (voiced), used 4x
+JP 申し訳ありません…。
+JP 社長…。
+EN I'm so sorry...
+EN Boss...
+
+@ 006.87
+# wrestler (voiced), used 4x
+JP ゆっくり休んできまーす…。
+EN I'm gonna go take it easy...
+
+@ 006.94
+# wrestler (voiced), used 4x
+JP しばらくゆっくりしてきます…。
+EN I'll go relax for a while...
+
+@ 006.101
+# wrestler (voiced), used 4x
+JP 入院かぁ…。
+JP 退屈そうだなぁ…。
+EN The hospital, huh...
+EN Sounds boring...
+
+@ 006.108
+# wrestler (voiced), used 4x
+JP さびしいから
+JP お見舞いに来てね？
+EN I'll be lonely, so come
+EN visit me, okay?
+
+@ 006.115
+# wrestler (voiced), used 4x
+JP やっちゃいました…。
+JP ハァ～…。
+EN I messed up...
+EN Haah...
+
+@ 006.122
+# wrestler (voiced), used 4x
+JP なるべく早く戻ってきます。
+EN I'll be back as soon as I can.
+
+@ 006.129
+# wrestler (voiced), used 4x
+JP すぐ出てくるよ…。
+EN I'll be out soon...
+
+@ 006.136
+# wrestler (voiced), used 4x
+JP 社長、お見舞いに来てね！
+EN Boss, come visit me!
+
+@ 006.143
+# wrestler (voiced), used 4x
+JP すぐに治して帰ってくるから！
+JP さって…ナース服しっかり観察して
+JP こよっと。
+EN I'll heal up and be right back!
+EN Now then... time to get a good
+EN look at those nurse uniforms.
+
+@ 006.150
+# wrestler (voiced), used 4x
+JP すみません、社長…。
+JP なるべく早く完治させて
+JP きますので…。
+EN I'm sorry, Boss...
+EN I'll get fully healed as
+EN fast as I can...
+
+@ 006.157
+# wrestler (voiced), used 4x
+JP しばらく休ませていただきますわ。
+JP 私のいない間は大変でしょうけれど。
+EN I shall take some time off.
+EN I'm sure it will be hard without me.
+
+@ 006.164
+# wrestler (voiced), used 4x
+JP しばらく休まなくちゃ
+JP いけないみたい…。
+JP ごめんね…。
+EN Looks like I have to
+EN rest for a while...
+EN Sorry...
+
+@ 006.171
+# wrestler (voiced), used 4x
+JP すいません…。
+JP しっかり治してきますので。
+EN I'm sorry...
+EN I'll make sure to heal properly.
+
+@ 006.178
+# wrestler (voiced), used 4x
+JP ちくしょう…。
+JP 早く治して帰ってくるぜ！
+EN Damn it...
+EN I'll heal fast and come right back!
+
+@ 006.185
+# wrestler (voiced), used 4x
+JP あ～あ…。
+JP 病院ってご飯少ないから
+JP やだな～…。
+EN Aww...
+EN Hospitals barely feed you,
+EN I hate that...
+
+@ 006.192
+# wrestler (voiced), used 4x
+JP 仕方ないわね…。
+JP しっかり治してくるわ。
+EN Oh well...
+EN I'll heal up properly.
+
+@ 006.199
+# wrestler (voiced), used 4x
+JP しばらく、ゆっくり休ませて
+JP もらいますね。
+EN I'll take a nice long rest
+EN for a while.
+
+@ 006.206
+# wrestler (voiced), used 4x
+JP 入院か…。
+JP ハァ～…。
+EN The hospital, huh...
+EN Haah...
+
+@ 006.213
+# wrestler (voiced), used 4x
+JP あちゃ～。
+JP まあ、いい機会だし
+JP ゆっくりしてくるね！
+EN Oops.
+EN Well, it's a good chance
+EN to kick back for a bit!
+
+@ 006.220
+# wrestler (voiced), used 4x
+JP す、すいません。
+JP こんな大事なときに…。
+EN I-I'm sorry.
+EN At such an important time...
+
+@ 006.227
+# wrestler (voiced), used 4x
+JP 入院なんて勘弁してくれよ～！
+EN Hospital? Gimme a break!
+
+@ 006.234
+# wrestler (voiced), used 4x
+JP 入院なんて…。
+JP ひとりじゃさびしいよ～。
+EN The hospital...
+EN It's lonely all by myself!
+
+@ 006.241
+# wrestler (voiced), used 4x
+JP しばらく、ゆっくりしてきますわ。
+EN I shall relax for a while.
+
+@ 006.248
+# wrestler (voiced), used 4x
+JP 入院か…。
+EN The hospital, huh...
+
+@ 006.255
+# wrestler (voiced), used 4x
+JP 少しの間休息してきます。
+EN I'll go rest for a little while.
+
+@ 006.262
+# wrestler (voiced), used 4x
+JP うっ…ついてない…。
+JP すぐに戻ってくるからね！
+EN Ugh... What bad luck...
+EN I'll be back soon, okay!
+
+@ 006.269
+# wrestler (voiced), used 4x
+JP 悔しいけど仕方ないわね…。
+EN It's frustrating, but it can't be
+EN helped...
+
+@ 006.276
+# wrestler (voiced), used 4x
+JP 入院だなんて…。
+JP 自分は…自分は情けなく思います！
+EN In the hospital...
+EN I... I'm ashamed of myself!
+
+@ 006.283
+# wrestler (voiced), used 4x
+JP ……どこに行くんですか……？
+EN ......Where are we going......?
+
+@ 006.290
+# wrestler (voiced), used 4x
+JP これは温泉療養が
+JP 良いかもしれません。
+EN Perhaps a hot spring cure
+EN would be good for this.
+
+@ 006.297
+# wrestler (voiced), used 4x
+JP うあぁ、すまない！
+JP 私の復帰を一日千秋の思いで待つ
+JP 人々よ！
+EN Aah, forgive me! All you people
+EN who await my return with
+EN bated breath!
+
+@ 006.304
+# wrestler (voiced), used 4x
+JP ……にゅ、入院……？
+EN ......H-hospital......?
+
+@ 006.311
+# wrestler (voiced), used 4x
+JP え～、入院！？
+JP 大げさだなぁ～…。
+EN What, the hospital!?
+EN That's overdoing it...
+
+@ 006.318
+# wrestler (voiced), used 4x
+JP ニューイン…？
+JP そいつが次の相手か…？
+EN Hospital...?
+EN Is that who I'm fighting next...?
+
+@ 006.325
+# wrestler (voiced), used 4x
+JP ご迷惑をおかけしますが
+JP しっかり休んできます。
+EN Sorry for the trouble, but
+EN I'll get some proper rest.
+
+@ 006.332
+# wrestler (voiced), used 4x
+JP ま、たまにはゆっくりするのも
+JP ありかな～ってことで！
+EN Well, I guess taking it easy
+EN once in a while isn't so bad!
+
+@ 006.339
+# wrestler (voiced), used 4x
+JP ごめんなさい！
+JP しっかり治して
+JP もっとがんばりますッ！
+EN I'm sorry!
+EN I'll heal up properly
+EN and work even harder!
+
+@ 006.346
+# wrestler (voiced), used 4x
+JP 入院だなんて…。
+JP ここで休んだら仕送りが…。
+EN The hospital...
+EN If I take time off, the money
+EN I send home...
+
+@ 006.353
+# wrestler (voiced), used 4x
+JP こんな怪我で入院する訳には…。
+JP いたたたたッ…。
+JP 情けない…。
+EN I can't go to the hospital over
+EN an injury like this... Ow-ow-ow...
+EN How pathetic...
+
+@ 006.360
+# wrestler (voiced), used 4x
+JP 私の心に隙があったために
+JP こういった事態に…。
+JP 病院で反省してきます。
+EN This happened because there was
+EN a gap in my focus... I'll reflect
+EN on it in the hospital.
+
+@ 006.367
+# wrestler (voiced), used 4x
+JP はぁ～…。
+JP どうやら入院しなくては
+JP いけないようですね～。
+EN Haah...
+EN It seems I'll have to
+EN go to the hospital~.
+
+@ 006.374
+# wrestler (voiced), used 4x
+JP 入院なんてついてないなぁ…。
+JP 社長、お見舞い来てー！
+EN What bad luck, the hospital...
+EN Boss, come visit me!
+
+@ 006.381
+# wrestler (voiced), used 4x
+JP これで堂々と練習がさぼれるぜ！
+EN Now I can skip training
+EN and nobody can complain!
+
+@ 006.388
+# wrestler (voiced), used 4x
+JP 練習をさぼる
+JP いい口実ができたよ。
+EN This is a nice excuse
+EN to skip training.
+
+@ 006.395
+# wrestler (voiced), used 4x
+JP あたしゃ入院ってものに
+JP 縁がなかったからねぇ。
+EN Never had much to do with
+EN hospitals, me.
+
+@ 006.402
+# wrestler (voiced), used 4x
+JP 私の精神力が未熟だったと
+JP いうことだな…。
+EN It means my mental strength
+EN was still lacking...
+
+@ 006.409
+# wrestler (voiced), used 4x
+JP 今度はあたしが
+JP 病院送りにしてやるよ！
+EN Next time, I'll be the one
+EN sending someone to the hospital!
+
+@ 006.416
+# wrestler (voiced), used 4x
+JP …………すまん……。
+EN ............Sorry......
+
+@ 006.423
+# wrestler (voiced), used 2x
+JP ……すまない。
+EN ......I'm sorry.
+
+@ 006.430
+# wrestler (voiced), used 2x
+JP あは…やっちゃった～…。
+JP ごめんなさい…。
+EN Aha... I messed up...
+EN I'm sorry...
+
+@ 006.437
+# wrestler (voiced), used 2x
+JP もう、こんなときに入院なんて…。
+EN Jeez, the hospital at a time like
+EN this...
+
+@ 006.444
+# wrestler (voiced), used 2x
+JP ごめん…。
+JP しばらくお休みさせて。
+EN Sorry...
+EN Let me take a break for a while.
+
+@ 006.451
+# wrestler (voiced), used 2x
+JP すみません。
+JP 私の不注意です。
+EN I'm sorry.
+EN It was my carelessness.
+
+@ 006.458
+# wrestler (voiced), used 2x
+JP 病院キライ……！
+EN I hate hospitals......!
+
+@ 006.465
+# wrestler (voiced), used 2x
+JP ごめんなさい…。
+JP こんなときに入院なんて…。
+EN I'm sorry...
+EN Going to the hospital at a time like
+EN this...
+
+@ 006.472
+# wrestler (voiced), used 2x
+JP ……グスッ。
+EN ......*sniff*.
+
+@ 006.479
+# wrestler (voiced), used 2x
+JP わたくしとしたことが
+JP こんな大切なときに…。
+EN How unlike me...
+EN At such an important time...
+
+@ 006.486
+# wrestler (voiced), used 2x
+JP あれれ…？
+JP 入院しないといけないみたいです～。
+EN Huh...?
+EN Looks like I have to go to the
+EN hospital~.
+
+@ 006.493
+# wrestler (voiced), used 2x
+JP …うあッ！
+JP 入院だって大げさすぎない？
+EN ...Ugh!
+EN Isn't the hospital a bit much?
+
+@ 006.500
+# wrestler (voiced), used 2x
+JP 病院きらいなんだよ…。
+EN I hate hospitals...
+
+@ 006.507
+# wrestler (voiced), used 2x
+JP すいません…。
+JP 迷惑ばかりかけて…。
+EN I'm sorry...
+EN I'm always causing you trouble...
+
+@ 006.514
+# wrestler (voiced), used 2x
+JP しばらく、ゆっくりしてきます。
+EN I'll go relax for a while.
+
+@ 006.521
+# wrestler (voiced), used 2x
+JP 病院イヤですーッ！
+JP 絶対出ますよ、アレがッ！
+JP 社長ついてきてください～！
+EN I don't wanna go to the hospital!
+EN There's totally gonna be ghosts!
+EN Boss, come with me!
+
+@ 006.528
+# wrestler (voiced), used 2x
+JP 完治させてきます…。
+EN I'll get fully healed...

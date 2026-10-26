@@ -1,0 +1,201 @@
+{
+ "english": "Options",
+ "boxes": [
+  [
+   38,
+   21,
+   230,
+   46
+  ]
+ ],
+ "draw": "system.draw",
+ "font": "BarlowCondensed-ExtraBoldItalic.ttf",
+ "cap": 31,
+ "margin": 2,
+ "align": "left",
+ "ground": "keep",
+ "fill": {
+  "grad": [
+   [
+    0,
+    [
+     2,
+     24,
+     125
+    ]
+   ],
+   [
+    0.3,
+    [
+     3,
+     39,
+     207
+    ]
+   ],
+   [
+    0.6,
+    [
+     4,
+     58,
+     235
+    ]
+   ],
+   [
+    1.0,
+    [
+     3,
+     44,
+     215
+    ]
+   ]
+  ]
+ },
+ "rings": [
+  {
+   "w": 3,
+   "rgb": [
+    20,
+    20,
+    70
+   ],
+   "a": 120
+  },
+  {
+   "w": 2.5,
+   "rgb": [
+    231,
+    226,
+    215
+   ]
+  }
+ ],
+ "inpaint": [
+  {
+   "rect": [
+    34,
+    20,
+    236,
+    47
+   ],
+   "mode": "rowlerp",
+   "seed": [
+    [
+     2,
+     24,
+     125
+    ],
+    [
+     2,
+     32,
+     153
+    ],
+    [
+     3,
+     32,
+     181
+    ],
+    [
+     3,
+     39,
+     207
+    ],
+    [
+     4,
+     58,
+     235
+    ],
+    [
+     4,
+     48,
+     223
+    ],
+    [
+     2,
+     18,
+     104
+    ],
+    [
+     226,
+     222,
+     211
+    ],
+    [
+     231,
+     226,
+     215
+    ],
+    [
+     246,
+     238,
+     224
+    ],
+    [
+     199,
+     212,
+     220
+    ],
+    [
+     167,
+     180,
+     209
+    ],
+    [
+     177,
+     168,
+     188
+    ],
+    [
+     183,
+     185,
+     209
+    ],
+    [
+     191,
+     198,
+     208
+    ],
+    [
+     173,
+     161,
+     187
+    ],
+    [
+     161,
+     151,
+     177
+    ],
+    [
+     127,
+     127,
+     157
+    ],
+    [
+     90,
+     97,
+     142
+    ],
+    [
+     78,
+     102,
+     163
+    ],
+    [
+     81,
+     93,
+     141
+    ]
+   ],
+   "tol": 14,
+   "near": 1
+  }
+ ],
+ "notes": "options screen title (オプション): heavy italic, blue gradient fill, cream outline, on the cyan-to-navy band rebuilt by row interpolation (tools/letter_ext/system.py); the menu items are already English",
+ "catalogue": {
+  "source": "/A000/A009.",
+  "width": 640,
+  "height": 448,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "オプション (title; SOUND / VOICE / BGM / MESSAGE / VIBRATION already English)"
+ }
+}

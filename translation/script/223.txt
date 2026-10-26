@@ -1,0 +1,251 @@
+# Event script entry 223 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 223.100
+# President, used 2x
+JP どうした？
+JP もう戻ってきたのか？
+EN What's up?
+EN Back already?
+
+@ 223.115
+# other, used 2x
+JP ……あ、うん……。
+EN ...Ah, yeah...
+
+@ 223.122
+# President, used 2x
+JP トレーニングウェアなんか着て
+JP 泳がないのか？
+EN You're in your training clothes.
+EN Aren't you going to swim?
+
+@ 223.134
+# wrestler (voiced), used 2x
+JP ……ジロジロ…見られるから……。
+EN ...People... stare...
+
+@ 223.141
+# President, used 2x
+JP 見られるのなんか慣れてるだろ？
+EN Aren't you used to being looked at?
+
+@ 223.147
+# other, used 2x
+JP ……えっ…と……。
+EN ...Um...
+
+@ 223.157
+# other, used 2x
+JP ……試合は…別……。
+JP 水着姿だけをじっと見られるのは
+JP ……恥ずかしい……。
+EN ...Matches... are different...
+EN Being stared at in just a swimsuit
+EN ...is embarrassing...
+
+@ 223.164
+# President, used 8x
+JP ……そうか。
+EN ...I see.
+
+@ 223.189
+# other, used 2x
+JP ……うん……。
+JP ……今日は…もう…やめる……。
+EN ...Yeah...
+EN ...I'm done... for today...
+
+@ 223.212
+# President, used 2x
+JP （元気ないな。）
+EN (She seems down.)
+
+@ 223.214
+# President, used 2x
+JP （このまま帰すってのも
+JP かわいそうだな。）
+EN (It'd be a shame to just
+EN send her back like this.)
+
+@ 223.216
+# President, used 2x
+JP それなら、あそこのビーチバーに
+JP 付き合わないか？
+EN In that case, want to keep me
+EN company at that beach bar?
+
+@ 223.225
+# other, used 2x
+JP ……ビーチ…バー……？
+EN ...Beach... bar...?
+
+@ 223.232
+# President, used 2x
+JP ああ、ちょっと喉渇いたから。
+EN Yeah, I'm a little thirsty.
+
+@ 223.248
+# President, used 2x
+JP いやなら別にいいが…。
+EN If you'd rather not, that's fine...
+
+@ 223.257
+# other, used 2x
+JP ……行く……。
+JP ……素敵…そう……。
+EN ...I'll go...
+EN ...Sounds... nice...
+
+@ 223.283
+# other, used 2x
+JP ……こういうところ…初めて……。
+EN ...First time... in a place like
+EN this...
+
+@ 223.290
+# President, used 2x
+JP ……そうか。
+JP 水着に戻っていいのか？
+EN ...I see.
+EN You changed back into your swimsuit?
+
+@ 223.303
+# other, used 2x
+JP ……ここに…あわないから……。
+EN ...The other clothes... don't fit
+EN here...
+
+@ 223.310
+# President, used 2x
+JP あわない？
+EN Don't fit?
+
+@ 223.316
+# other, used 2x
+JP ……トレーニングウェアだと
+JP あわない……。
+JP ……雰囲気は…大事……。
+EN ...Training clothes
+EN don't fit here...
+EN ...The mood... matters...
+
+@ 223.323
+# President, used 2x
+JP 見られても平気なのか？
+EN You don't mind being looked at?
+
+@ 223.329
+# other, used 2x
+JP ……社長なら…いい……。
+EN ...If it's you... it's okay...
+
+@ 223.349
+# President, used 2x
+JP （素直に頷かれると照れるな。）
+EN (It's embarrassing when she
+EN nods so frankly.)
+
+@ 223.351
+# President, used 2x
+JP それで何を頼む？
+EN So what'll you have?
+
+@ 223.357
+# other, used 2x
+JP ……え…っと……。
+EN ...Um...
+
+@ 223.364
+# President, used 2x
+JP （遙は周囲を見回すとカップルの
+JP テーブルの飲み物を指さした。）
+EN (Haruka looked around and pointed at
+EN the drinks on a couple's table.)
+
+@ 223.370
+# other, used 2x
+JP ……あれ……。
+JP ……あれがいい……。
+EN ...That...
+EN ...I want that...
+
+@ 223.377
+# President, used 2x
+JP ……あれか。
+EN ...That one, huh.
+
+@ 223.379
+# President, used 2x
+JP （同じものを注文すると
+JP すぐにドリンクがやってきた。）
+EN (I ordered the same thing,
+EN and the drink came right away.)
+
+@ 223.392
+# President, used 2x
+JP 結構でかいな。
+EN That's pretty big.
+
+@ 223.398
+# other, used 2x
+JP ……うん……。
+JP ……カップル用…だから……。
+EN ...Yeah...
+EN ...It's for... couples...
+
+@ 223.405
+# President, used 2x
+JP そうなのか。
+EN Is that so.
+
+@ 223.418
+# other, used 2x
+JP ……ああいう飲み方…したい……。
+EN ...I want to drink it... like
+EN them...
+
+@ 223.425
+# President, used 2x
+JP ……ああいう飲み方って？
+EN ...Like them?
+
+@ 223.427
+# President, used 2x
+JP （さっきのカップルが２人で仲良く
+JP ドリンクを飲んでいる。）
+EN (The couple from before were
+EN sharing their drink together.)
+
+@ 223.429
+# President, used 2x
+JP 俺は別にかまわないが
+JP お前はいいのか？
+EN I don't mind,
+EN but are you sure?
+
+@ 223.435
+# other, used 2x
+JP ……うん…社長なら……。
+JP ……こういうシチュエーション
+JP …憧れてたし……。
+EN ...Yeah... if it's you...
+EN ...I've always dreamed
+EN ...of something like this...
+
+@ 223.444
+# President, used 2x
+JP （確かに俺はかまわないが…。）
+EN (I don't mind, really, but...)
+
+@ 223.446
+# President, used 2x
+JP （少し照れるな……。） 
+EN (It's a little embarrassing...)

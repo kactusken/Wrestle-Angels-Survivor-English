@@ -1,0 +1,491 @@
+# Event script entry 048 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 048.46
+# Secretary
+JP {name:0}選手が
+JP 失恋したようです。
+EN It seems {name:0} has had
+EN her heart broken.
+
+@ 048.58
+# wrestler (voiced), used 2x
+JP あは、ははは…。
+JP 振られちゃいました～。
+EN Aha, haha... I got dumped~
+
+@ 048.66
+# wrestler (voiced), used 2x
+JP さ、練習、練習！
+JP 失恋の傷はリングで癒す！
+EN Okay, training, training! The ring
+EN heals a broken heart!
+
+@ 048.70
+# wrestler (voiced), used 2x
+JP これ基本だよね！
+EN That's the basics, right!
+
+@ 048.78
+# wrestler (voiced)
+JP 男なんて、星の数ほどいますから…。
+EN There are plenty more fish
+EN in the sea...
+
+@ 048.86
+# wrestler (voiced), used 2x
+JP 恋愛って司法試験より
+JP 難しいかもしれませんね…。
+EN Love might be harder than
+EN the bar exam...
+
+@ 048.94
+# wrestler (voiced), used 2x
+JP うえ～ん、振られちゃったぁ～！
+JP ふっ…ふぇ～ん！
+JP 社長、慰めて～！
+EN Waaah, I got dumped! Wh-waaah!
+EN Boss, comfort me!
+
+@ 048.102
+# wrestler (voiced), used 4x
+JP もう終わったことですから…。
+EN It's over and done with...
+
+@ 048.110
+# wrestler (voiced), used 2x
+JP クヨクヨしたって仕方ない！
+JP 次いこ、次ッ！
+EN No use moping about it!
+EN On to the next one!
+
+@ 048.118
+# wrestler (voiced), used 2x
+JP ふっ…ふぇ～ん！
+JP バカバカバカーーッ！
+EN Wh-waaah!
+EN Stupid, stupid, stupiiid!
+
+@ 048.126
+# wrestler (voiced), used 2x
+JP ひ、ひっく…。
+JP 社長～…。
+JP 私のどこがいけなかったんですか？
+EN *Hic*... Boss...
+EN What was wrong with me?
+
+@ 048.142
+# wrestler (voiced), used 2x
+JP そんな事どうでもいい…。
+EN It doesn't matter...
+
+@ 048.150
+# wrestler (voiced), used 2x
+JP あんな奴どうでもいいもん！
+EN I don't care about that jerk!
+
+@ 048.158
+# wrestler (voiced), used 2x
+JP グスッ…。
+JP イベントで新しい男探すんだからー！
+EN *Sniff*... I'll just find a new guy
+EN at the next convention!
+
+@ 048.166
+# wrestler (voiced), used 2x
+JP これでよかったんです…。
+JP これで…。
+EN It's better this way...
+EN This way...
+
+@ 048.174
+# wrestler (voiced), used 2x
+JP 私の魅力に気づかないなんて
+JP バカな男ですわ…。
+EN A man who can't see my charms
+EN is simply a fool...
+
+@ 048.182
+# wrestler (voiced), used 2x
+JP なんだかスッキリしちゃった！
+EN I kinda feel refreshed!
+
+@ 048.190
+# wrestler (voiced), used 2x
+JP あんな男こっちから願い下げです！
+EN I'm the one who doesn't want
+EN a guy like that!
+
+@ 048.198
+# wrestler (voiced), used 2x
+JP けッ、男なんていらねーよ！
+JP さ、練習、練習！
+EN Tch, who needs men!
+EN Okay, training, training!
+
+@ 048.206
+# wrestler (voiced), used 2x
+JP もう彼氏なんていらな～い…。
+EN I don't want a boyfriend
+EN anymore...
+
+@ 048.214
+# wrestler (voiced), used 2x
+JP 終わってしまったものは
+JP 仕方ないわよね…。
+EN What's over is over,
+EN I suppose...
+
+@ 048.222
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP あたしのどこが
+JP いけなかったのかなぁ…。
+EN Uuh... What was wrong
+EN with me...?
+
+@ 048.230
+# wrestler (voiced), used 2x
+JP ふん…。
+JP 別にどうって事ないわ。
+EN Hmph... It's no big deal.
+
+@ 048.238
+# wrestler (voiced), used 2x
+JP あたしを振るなんてぇ～！
+JP 許さないんだからッ！
+EN How dare he dump me!
+EN I'll never forgive him!
+
+@ 048.246
+# wrestler (voiced), used 2x
+JP ボ、ボクの恋人は
+JP プロレスですから…。
+JP ふぇ～ん…。
+EN M-my true love is
+EN pro wrestling... Waaah...
+
+@ 048.254
+# wrestler (voiced), used 2x
+JP うるせーな…。
+JP 放っといてくれよ…。
+EN Shut up...
+EN Leave me alone...
+
+@ 048.262
+# wrestler (voiced), used 2x
+JP もう知らないもんッ！
+EN I don't care anymore!
+
+@ 048.270
+# wrestler (voiced), used 2x
+JP 私はみなさんの恋人ですから…。
+JP ひとりの物にはなりませんの…。
+EN I'm everyone's sweetheart...
+EN I can't belong to just one man...
+
+@ 048.278
+# wrestler (voiced), used 2x
+JP …………アッ……。
+EN ............Ah......
+
+@ 048.286
+# wrestler (voiced), used 2x
+JP まだ心が痛みますけれど…。
+JP 大丈夫です…。
+EN My heart still hurts...
+EN but I'm okay...
+
+@ 048.294
+# wrestler (voiced), used 2x
+JP しょーがないじゃん！
+JP あんな男もう知らないッ！
+EN Can't be helped!
+EN I'm done with that guy!
+
+@ 048.302
+# wrestler (voiced), used 2x
+JP あの人とは縁がなかったんですよ…。
+EN It just wasn't meant to be...
+
+@ 048.310
+# wrestler (voiced), used 2x
+JP こんな結果になるなら…。
+JP 初めから何もなければ…。
+EN If it was going to end like this...
+EN I wish nothing had ever happened...
+
+@ 048.318
+# wrestler (voiced), used 2x
+JP ……あれ……？
+JP ……なんか…わたし……
+JP ……涙…出てる……。
+EN ......Huh......?
+EN ......Somehow... I'm......
+EN ......crying......
+
+@ 048.326
+# wrestler (voiced), used 2x
+JP 今回がダメでも
+JP 次を探せば問題ありません…。
+JP 次を…。
+EN If this one didn't work, I just find
+EN the next one, no problem...
+EN The next one...
+
+@ 048.334
+# wrestler (voiced), used 2x
+JP うっ…うぅぅ…。
+JP これもさだめ…。
+EN Uh... uuuh...
+EN This too is fate...
+
+@ 048.342
+# wrestler (voiced), used 2x
+JP ……フゥ……。
+EN ......Phew......
+
+@ 048.350
+# wrestler (voiced), used 2x
+JP いいんだ…。
+JP どうせボクなんか
+JP お子ちゃまなんだ…。
+EN Fine...
+EN I'm just a little kid anyway...
+
+@ 048.358
+# wrestler (voiced), used 2x
+JP しばらく一人にしてくれ……。
+EN Leave me alone for a while......
+
+@ 048.366
+# wrestler (voiced), used 2x
+JP これでプロレスに集中できます…。
+EN Now I can focus on wrestling...
+
+@ 048.374
+# wrestler (voiced), used 2x
+JP ほんまはもっと綺麗な女の人が
+JP タイプやったんやて！
+JP ドタマかち割ったろか～！
+EN Turns out his real type was some
+EN prettier lady! I oughta crack
+EN his skull open!
+
+@ 048.382
+# wrestler (voiced), used 2x
+JP うぅ…あたしといると
+JP 親子に見られるからって…。
+JP ひどいよ～～！
+EN Uuh... He said with me, people
+EN think we're parent and kid...
+EN That's so mean!
+
+@ 048.390
+# wrestler (voiced), used 2x
+JP あたしには恋人をかまってる
+JP 暇なんてないんだからッ！
+EN I don't have time to be
+EN babysitting a boyfriend!
+
+@ 048.394
+# wrestler (voiced), used 10x
+JP ……ハァ～……。
+EN ......Haaah......
+
+@ 048.402
+# wrestler (voiced), used 2x
+JP 友情・努力・根性…。
+JP 私にはこれだけあれば…。
+EN Friendship, effort, guts...
+EN That's all I need...
+
+@ 048.410
+# wrestler (voiced), used 2x
+JP 私は失恋したからといって
+JP 泣くようなキャラではありません…。
+EN I'm not the kind of woman
+EN who cries over a broken heart...
+
+@ 048.418
+# wrestler (voiced), used 2x
+JP 「君は僕より鉄道を選ぶんだね」と
+JP 言われてしまいました～。
+JP それじゃダメなんでしょうか～？
+EN He said, "You'd pick trains over
+EN me, wouldn't you?"
+EN Is that so bad?
+
+@ 048.426
+# wrestler (voiced), used 2x
+JP ふぁ～～ッ！
+JP あたしの何がいけなかったの～？
+JP こんなに魅力的なのに～。
+EN Waaah! What was wrong with me?
+EN I'm so charming, too!
+
+@ 048.434
+# wrestler (voiced), used 2x
+JP いや～、最低な男だったぜ！
+EN Man, what a lowlife he was!
+
+@ 048.442
+# wrestler (voiced), used 2x
+JP いや～、くだらない男だったよ！
+EN Man, what a loser he was!
+
+@ 048.450
+# wrestler (voiced), used 2x
+JP あんなくだらない男
+JP こっちから願い下げだよッ！
+EN I'm the one who doesn't want
+EN a loser like that!
+
+@ 048.458
+# wrestler (voiced), used 2x
+JP これもまた運命だったのだ…。
+EN This, too, was fate...
+
+@ 048.466
+# wrestler (voiced), used 2x
+JP あたしに恥をかかせたからね！
+JP ボッコボコにしてやったよ！
+EN He embarrassed me, so
+EN I beat him to a pulp!
+
+@ 048.473
+# other, used 2x
+JP …………ウッ……！
+EN ............Ugh......!
+
+@ 048.483
+# wrestler (voiced)
+JP 失恋…？
+JP そう見えるか…？
+EN Heartbroken...?
+EN Do I look it...?
+
+@ 048.491
+# wrestler (voiced)
+JP 私には
+JP ニャンコちゃんがいますから…。
+JP ウゥ…。
+EN I have my kitties...
+EN Uuh...
+
+@ 048.499
+# wrestler (voiced)
+JP 私からフッたのよ！
+JP だから失恋じゃないの！
+JP なによ、あんな奴…グスッ…。
+EN I dumped HIM! So it's not
+EN heartbreak! Who needs that jerk...
+EN *sniff*...
+
+@ 048.507
+# wrestler (voiced)
+JP 正直ちょっと堪えてるかな…。
+EN Honestly, it's getting to me
+EN a little...
+
+@ 048.515
+# wrestler (voiced)
+JP 心配無用です！
+JP 私のことは私でケリをつけます。
+EN No need to worry!
+EN I'll settle my own affairs.
+
+@ 048.523
+# wrestler (voiced)
+JP なんか急に別れようって……。
+EN He just suddenly said
+EN let's break up......
+
+@ 048.531
+# wrestler (voiced)
+JP どうしてなんでしょうね…？
+EN I wonder why...?
+
+@ 048.539
+# wrestler (voiced)
+JP あっはは…。
+JP 光、恋に不完全燃焼…。
+EN Ahaha...
+EN Hikaru's love didn't catch fire...
+
+@ 048.547
+# wrestler (voiced)
+JP うっぐ、ぐす…。
+JP あんな男こちらから願い下げ
+JP ですわ…。
+EN *Sob*, *sniff*... I'm the one
+EN who doesn't want a man like that...
+
+@ 048.555
+# wrestler (voiced)
+JP はあ～……。
+EN Haaah......
+
+@ 048.563
+# wrestler (voiced)
+JP うわーーッ！
+JP ちくしょー！
+JP 男なんてッ！
+EN Waaah! Dammit!
+EN Men!
+
+@ 048.571
+# wrestler (voiced)
+JP うっせーなッ！
+JP カンケーねぇだろ！
+JP ちくしょう…。
+EN Shut up!
+EN It's none of your business!
+EN Dammit...
+
+@ 048.579
+# wrestler (voiced)
+JP 人の心は計算通りには
+JP いかないものですね…。
+EN People's hearts don't go
+EN according to calculations...
+
+@ 048.587
+# wrestler (voiced)
+JP 全然大丈夫だから気にしないでッ！
+JP でも少し時間欲しいかも…。
+EN I'm totally fine, so don't worry!
+EN But I might need a little time...
+
+@ 048.595
+# wrestler (voiced)
+JP だってオバケ屋敷行こうって
+JP 言うんですよ！
+JP 私ああいうのダメなのに～！
+EN He wanted to go to a haunted house!
+EN I can't handle those!
+
+@ 048.603
+# wrestler (voiced)
+JP うっ…ううっ……。
+EN Uh... uuuh......
+
+@ 048.631
+# wrestler (voiced)
+JP 男なんて星の数ほどいますから…。
+EN There are plenty more fish
+EN in the sea...
+
+@ 048.1044
+# Secretary
+JP 今月の練習には
+JP 身が入らないかもしれません。
+EN Her training may suffer
+EN this month.

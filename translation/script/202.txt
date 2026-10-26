@@ -1,0 +1,115 @@
+# Event script entry 202 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 202.69
+# President, used 2x
+JP （みんな楽しんでるなぁ。）
+EN (Everyone's having fun.)
+
+@ 202.71
+# President, used 2x
+JP （……ん？
+JP なんだ、あの砂の山は？）
+EN (......Hm?
+EN What's that pile of sand?)
+
+@ 202.90
+# other, used 2x
+JP あら、社長？
+JP ご機嫌はいかがかしら？
+EN Oh, Boss?
+EN How are you feeling today?
+
+@ 202.97
+# President, used 2x
+JP ご機嫌はいいがって
+JP お前、何やってるんだ？
+EN I'm feeling fine, but
+EN what are you doing?
+
+@ 202.109
+# other, used 2x
+JP オーホッホッホッホ！
+JP 見てわかりませんの？
+JP 砂に埋まっているのよ。
+EN Oh-ho-ho-ho!
+EN Can't you tell?
+EN I'm being buried in the sand.
+
+@ 202.123
+# other, used 2x
+JP 庶民はこういう遊びをする
+JP らしいですわね。
+JP 私は今日初めて知りましたわ。
+EN Apparently this is how commoners
+EN amuse themselves.
+EN I only just learned of it today.
+
+@ 202.130
+# President, used 2x
+JP そ、そうか。
+JP 確かによくある光景だが
+JP お前がこういう事をするとはな…。
+EN I-I see.
+EN It's a common sight, sure, but
+EN I never figured you'd do this...
+
+@ 202.136
+# other, used 2x
+JP これも人徳かしら？
+JP 他の子たちが是非私を
+JP 埋めてみたいと…。
+EN I suppose it's my virtue.
+EN The other girls simply had to
+EN try burying me...
+
+@ 202.143
+# other, used 2x
+JP 埋めさせてくださいと頼むのよ。
+EN They begged me to let them do it.
+
+@ 202.150
+# President, used 2x
+JP ほー…。
+EN Huh...
+
+@ 202.156
+# other, used 2x
+JP 慕われるというのも
+JP 辛いものですわねぇ。
+EN Being so adored can be
+EN such a burden.
+
+@ 202.165
+# President, used 2x
+JP （砂にはバーカとかいばりんぼとか
+JP オニババとか書かれているが…。）
+EN (The sand has "IDIOT", "BOSSY" and
+EN "OLD HAG" written all over it...)
+
+@ 202.167
+# President, used 2x
+JP （言わない方がみんな幸せだろう。）
+EN (Everyone's better off if I keep
+EN quiet about that.)
+
+@ 202.169
+# President, used 2x
+JP そうか…。
+JP よかったな。
+EN I see...
+EN Good for you.
+
+@ 202.181
+# other, used 2x
+JP ホント困ったものですわ。
+JP オーホッホッホ！！
+EN It really is quite troublesome.
+EN Oh-ho-ho-ho!!

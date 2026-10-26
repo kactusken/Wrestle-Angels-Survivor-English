@@ -1,0 +1,132 @@
+# Event script entry 089 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 089.88
+# wrestler (voiced), case 0, used 2x
+JP きたぞ、社長。
+JP なんの用だ？
+EN I'm here, Boss. What do you want?
+
+@ 089.102
+# wrestler (voiced), case 0, used 2x
+JP シャ…シンシュ～…？
+EN Fo...toe boo...k...?
+
+@ 089.108
+# President, case 0, used 2x
+JP アイドルがよく出してるやつだが
+JP わかるか？
+EN The kind idols always put out.
+EN Do you know what that is?
+
+@ 089.116
+# wrestler (voiced), case 0, used 2x
+JP うん…。
+JP わからないぞ！
+EN Yeah... I don't know!
+
+@ 089.122
+# President, case 0, used 2x
+JP そんな気がしてた…。
+EN I had a feeling...
+
+@ 089.130
+# wrestler (voiced), case 0, used 2x
+JP で、そのシャ…シンシューと
+JP 戦えばいいのか？
+EN So do I fight this Fo...toe Book?
+
+@ 089.136
+# President, case 0, used 2x
+JP いやいや、写真集は人間じゃない。
+EN No, no, a photo book isn't a person.
+
+@ 089.138
+# President, case 0, used 2x
+JP 写真集の内容は知らなくても
+JP せめて写真集という言葉は
+JP 知っておけ。
+EN Even if you don't know what's in
+EN one, at least learn the words
+EN "photo book."
+
+@ 089.152
+# President, case 0, used 2x
+JP 写真集はカメラで撮った写真を
+JP 集めた本だよ。
+EN A photo book is a book full of
+EN pictures taken with a camera.
+
+@ 089.160
+# wrestler (voiced), case 0, used 2x
+JP おお、写真！
+JP 知ってるぞ！
+JP それなら真帆も知ってる！
+EN Ooh, pictures! I know those!
+EN Even Maho knows those!
+
+@ 089.166
+# President, case 0, used 2x
+JP そうか。
+JP よかった。
+EN I see. Good.
+
+@ 089.174
+# wrestler (voiced), case 0, used 2x
+JP で、写真がどうかしたのか？
+EN So what about the pictures?
+
+@ 089.180
+# President, case 0, used 2x
+JP （このオファー引き受けて
+JP 良かったのだろうか…？）
+EN (Was it a mistake to accept
+EN this offer...?)
+
+@ 089.273
+# President, case 0, used 2x
+JP 「案ずるより産むがやすし」とは
+JP よく言ったものだ…。
+EN "Easier done than worried about,"
+EN as they say...
+
+@ 089.282
+# wrestler (voiced), case 0, used 2x
+JP なぁ、社長、もういいのか？
+EN Hey, Boss, are we done?
+
+@ 089.291
+# wrestler (voiced), case 0, used 2x
+JP 写真集とは社長と旅行して
+JP 水着で泳いだり遊んだりするだけの
+JP ことなのか？
+EN So a photo book is just going on a
+EN trip with you and swimming and
+EN playing in a swimsuit?
+
+@ 089.297
+# President, case 0, used 2x
+JP ああ、オーケー。
+JP バッチリだ。
+EN Yep, okay. It was perfect.
+
+@ 089.305
+# wrestler (voiced), case 0, used 2x
+JP そうか…。
+JP こんな楽しいことなら
+JP またやりたいぞ！
+EN Really... If it's this much fun,
+EN I wanna do it again!
+
+@ 089.311
+# President, case 0, used 2x
+JP ああ。
+JP そのときはまた頼むよ。
+EN Sure. I'll be counting on you then.

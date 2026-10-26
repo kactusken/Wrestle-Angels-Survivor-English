@@ -1,0 +1,24 @@
+# Event script entry 014 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 014.48
+# Secretary
+JP {name:0}選手が
+JP 退団を考えているようです。
+EN {name:0} seems to be thinking about
+EN leaving the promotion.
+
+@ 014.50
+# Secretary
+JP 信頼を回復するためにも
+JP 一度会話をされた方が良いのでは
+JP ないでしょうか？
+EN Shouldn't you have a talk with her
+EN to win back her trust?

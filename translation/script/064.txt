@@ -1,0 +1,119 @@
+# Event script entry 064 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 064.88
+# wrestler (voiced), case 0, used 2x
+JP 入りまーすッ！
+JP なんですか、社長？
+EN Coming in! What is it, Boss?
+
+@ 064.94
+# President, case 0, used 2x
+JP ああ、待ってたぞ。
+JP 実はお前に写真集の依頼が
+JP 来ているんだが…。
+EN Yeah, I was waiting for you.
+EN Actually, there's a request
+EN for a photo book of you...
+
+@ 064.102
+# wrestler (voiced), case 0, used 2x
+JP …えッ！？
+JP …写真集？
+JP いいわよ。
+EN ...Huh!? ...A photo book?
+EN Sure, okay.
+
+@ 064.108
+# President, case 0, used 2x
+JP あっさりしてるな。
+EN That was easy.
+
+@ 064.116
+# wrestler (voiced), case 0, used 2x
+JP まあ、撮られ慣れてるから。
+EN Well, I'm used to having my
+EN picture taken.
+
+@ 064.122
+# President, case 0, used 2x
+JP リングでか？
+EN In the ring?
+
+@ 064.130
+# wrestler (voiced), case 0, used 2x
+JP それ以外でも♪
+EN And outside it too♪
+
+@ 064.136
+# President, case 0, used 2x
+JP …それ以外でも？
+EN ...Outside it too?
+
+@ 064.229
+# President, case 0, used 2x
+JP 本当に慣れた感じだったな。
+EN You really looked like a pro at
+EN that.
+
+@ 064.238
+# wrestler (voiced), case 0, used 2x
+JP まあねー。
+JP これでもイベントのたびに
+JP 撮られてるし。
+EN Well, yeah. I do get photographed
+EN at every event, you know.
+
+@ 064.244
+# President, case 0, used 2x
+JP イベントってなんのことだ？
+EN What events are you talking about?
+
+@ 064.252
+# wrestler (voiced), case 0, used 2x
+JP ひ・み・つ♪
+EN It's a se-cret♪
+
+@ 064.258
+# President, case 0, used 2x
+JP まあ、プライベートのことは
+JP どうこう言わないが…。
+EN Well, I won't pry into your
+EN private life, but...
+
+@ 064.266
+# wrestler (voiced), case 0, used 2x
+JP うーん、それにしても…。
+JP ただの水着だとちょっと地味かなぁ。
+EN Hmm, but still... Just a plain
+EN swimsuit is kind of boring.
+
+@ 064.272
+# President, case 0, used 2x
+JP そうか？
+EN You think so?
+
+@ 064.280
+# wrestler (voiced), case 0, used 2x
+JP うん、こりゃ２冊目を出すときは
+JP 水着のデザインから自分で
+JP やらなくちゃ…。
+EN Yeah, for the second book, I'll have
+EN to design the swimsuits myself...
+
+@ 064.286
+# President, case 0, used 2x
+JP お前いつも何やってるんだ？
+EN What do you DO all the time?
+
+@ 064.294
+# wrestler (voiced), case 0, used 2x
+JP だから、ひ・み・つ♪
+EN Like I said, it's a se-cret♪

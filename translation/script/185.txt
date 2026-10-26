@@ -1,0 +1,366 @@
+# Event script entry 185 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 185.48
+# wrestler (voiced), used 2x
+JP いってきます。
+JP がんばってきます～！
+EN I'm off.
+EN I'll do my best!
+
+@ 185.56
+# wrestler (voiced), used 2x
+JP いってきまーす！
+JP おみやげ何がいい？
+EN I'm off!
+EN What do you want for a souvenir?
+
+@ 185.64
+# wrestler (voiced), used 2x
+JP 世界の強豪と対戦できるのが
+JP 楽しみです。
+EN I'm looking forward to facing
+EN the world's top wrestlers.
+
+@ 185.72
+# wrestler (voiced), used 2x
+JP しっかり鍛えてまいります。
+EN I'll train hard over there.
+
+@ 185.80
+# wrestler (voiced), used 2x
+JP はーい！
+JP いってきまーすッ！
+EN Okay!
+EN I'm off!
+
+@ 185.87
+# other, used 4x
+JP それでは、いってまいります。
+EN Well then, I'm off.
+
+@ 185.96
+# wrestler (voiced), used 2x
+JP それじゃ、いってきまーす！
+EN Well, I'm off!
+
+@ 185.104
+# wrestler (voiced), used 2x
+JP それじゃ、いってきま～すッ！
+JP 海外、海外♪
+EN Well, I'm offff!
+EN Overseas, overseas♪
+
+@ 185.112
+# wrestler (voiced), used 2x
+JP いってきまーすッ！
+EN I'm off!
+
+@ 185.120
+# wrestler (voiced), used 2x
+JP 何倍も実力をつけて帰ってきます。
+EN I'll come back many times stronger.
+
+@ 185.128
+# wrestler (voiced), used 2x
+JP じゃ、いってくるよ。
+JP 腕がなるね。
+EN Well, I'm off.
+EN I'm itching to get started.
+
+@ 185.136
+# wrestler (voiced), used 2x
+JP いってきま～す！
+EN I'm off~!
+
+@ 185.144
+# wrestler (voiced), used 2x
+JP いってきま～す！
+JP 向こうで新しいコスチューム
+JP 探してこよっと！
+EN I'm off~!
+EN I'm gonna look for a new
+EN costume over there!
+
+@ 185.160
+# wrestler (voiced), used 2x
+JP では、いってまいりますわ。
+EN Well then, I shall be off.
+
+@ 185.176
+# wrestler (voiced), used 2x
+JP いってきます。
+JP いい知らせを期待していてください。
+EN I'm off.
+EN Expect good news.
+
+@ 185.184
+# wrestler (voiced), used 2x
+JP サクッと行って
+JP とっとと帰ってくるよ。
+EN I'll go, get it done,
+EN and be back in no time.
+
+@ 185.192
+# wrestler (voiced), used 2x
+JP それじゃ、いってきますッ！
+EN Well, I'm off!
+
+@ 185.200
+# wrestler (voiced), used 2x
+JP …じゃ、いってきます。
+EN ...Well, I'm off.
+
+@ 185.208
+# wrestler (voiced), used 2x
+JP それでは、いってきますね。
+EN Well then, I'll be going.
+
+@ 185.216
+# wrestler (voiced), used 2x
+JP じゃ、いってきます。
+EN Well, I'm off.
+
+@ 185.224
+# wrestler (voiced), used 2x
+JP じゃ、張り切っていってきま～す！
+EN Well, I'm off, and raring to go~!
+
+@ 185.232
+# wrestler (voiced), used 2x
+JP いってきますッ！
+EN I'm off!
+
+@ 185.240
+# wrestler (voiced), used 2x
+JP んじゃ、いってくるわ！
+EN Well, I'm off!
+
+@ 185.248
+# wrestler (voiced), used 2x
+JP わ～いッ！
+JP 海外、海外♪
+JP いってきま～す！
+EN Yaaay!
+EN Overseas, overseas♪
+EN I'm off~!
+
+@ 185.256
+# wrestler (voiced), used 2x
+JP では、しばらく
+JP 出かけてまいります。
+EN Well then, I'll be away
+EN for a while.
+
+@ 185.264
+# wrestler (voiced), used 7x
+JP では、いってきます。
+EN Well, I'm off.
+
+@ 185.272
+# wrestler (voiced), used 2x
+JP いって参ります。
+EN I shall be off.
+
+@ 185.280
+# wrestler (voiced), used 2x
+JP いってくるねッ！
+EN I'm off!
+
+@ 185.288
+# wrestler (voiced), used 2x
+JP じゃ、いってきますッ！
+EN Well, I'm off!
+
+@ 185.296
+# wrestler (voiced), used 2x
+JP では、いってきますッ！
+EN Well then, I'm off!
+
+@ 185.304
+# wrestler (voiced), used 2x
+JP ……国のお外へ～……。
+EN ......To outside the country~......
+
+@ 185.312
+# wrestler (voiced), used 2x
+JP 海外ですか。
+JP さらなる技術を吸収してきます。
+EN Overseas, is it?
+EN I'll soak up even more technique.
+
+@ 185.320
+# wrestler (voiced), used 2x
+JP さあ、世界が私を待っている！
+JP いま私の翼は遙か彼方へと優雅に
+JP 羽ばたかん！
+EN Now, the world awaits me!
+EN My wings shall now spread gracefully
+EN and soar to distant lands!
+
+@ 185.328
+# wrestler (voiced), used 2x
+JP ……海外…怖くないよね……？
+EN ......Overseas... It's not scary,
+EN right......?
+
+@ 185.336
+# wrestler (voiced), used 2x
+JP いってきまーす！
+JP おみやげ期待しててね！
+EN I'm off!
+EN Look forward to your souvenir!
+
+@ 185.344
+# wrestler (voiced), used 2x
+JP では、いってくるぞ！
+EN Well, I'm off!
+
+@ 185.360
+# wrestler (voiced), used 2x
+JP おみやげ買うてくるからね！
+EN I'll bring ya back a souvenir!
+
+@ 185.368
+# wrestler (voiced), used 2x
+JP では、いってきま～すッ！
+EN Well then, I'm offff!
+
+@ 185.376
+# wrestler (voiced), used 2x
+JP よーし、いってきますッ！
+EN All right, I'm off!
+
+@ 185.384
+# wrestler (voiced), used 3x
+JP では、いってまいります！
+EN Well then, I'm off!
+
+@ 185.400
+# wrestler (voiced), used 2x
+JP それでは、いってまいります～。
+EN Well then, I'll be off~
+
+@ 185.408
+# wrestler (voiced), used 2x
+JP じゃ、いってくるねぇ！
+EN Well, I'm off!
+
+@ 185.416
+# wrestler (voiced), used 2x
+JP 飛行機はファーストクラス
+JP なんだろうなぁ？
+EN I bet the flight's first class,
+EN right?
+
+@ 185.424
+# wrestler (voiced), used 2x
+JP ホテルは一流どころ
+JP なんだろうなぁ？
+EN I bet the hotel's top-notch,
+EN right?
+
+@ 185.432
+# wrestler (voiced), used 2x
+JP ボッコボコにしてきてやるよ！
+EN I'm gonna beat 'em all to a pulp!
+
+@ 185.440
+# wrestler (voiced), used 2x
+JP いってくる…。
+EN I'm off...
+
+@ 185.448
+# wrestler (voiced), used 2x
+JP くっはっはっは。
+JP いってくるぜぇ。
+EN Kuhahaha.
+EN I'm off.
+
+@ 185.464
+# wrestler (voiced)
+JP すべては結果で示そう。
+EN I shall let the results speak.
+
+@ 185.472
+# wrestler (voiced), used 3x
+JP いってきまーす！
+EN I'm off!
+
+@ 185.480
+# wrestler (voiced)
+JP いってくるわ。
+JP 社長、さびしいんじゃない？
+EN I'm off.
+EN Gonna miss me, Boss?
+
+@ 185.504
+# wrestler (voiced)
+JP いってきます……。
+EN I'm off......
+
+@ 185.512
+# wrestler (voiced)
+JP 精一杯がんばってきます。
+EN I'll give it everything I've got.
+
+@ 185.520
+# wrestler (voiced)
+JP 光、修行の旅に出ます！
+EN Hikaru is off on a training journey!
+
+@ 185.528
+# wrestler (voiced)
+JP お父様～！
+JP ついででですから社長も…。
+JP いってまいります。
+EN Father~!
+EN And you too, President, I suppose...
+EN I'm off.
+
+@ 185.536
+# wrestler (voiced)
+JP どこだかわからないけど
+JP いってきますね～。
+EN I don't really know where it is,
+EN but I'm off~
+
+@ 185.544
+# wrestler (voiced)
+JP 中江里奈！
+JP いってまいりますッ！
+EN Rina Nakae!
+EN Heading out!
+
+@ 185.552
+# wrestler (voiced)
+JP いってくるぜー！
+EN I'm off!
+
+@ 185.576
+# wrestler (voiced)
+JP …みんな出発前に
+JP 怖い話ばっかりするんです！
+JP 外国に幽霊なんていませんよ！
+EN ...Everyone kept telling me scary
+EN stories before I left!
+EN There aren't ghosts abroad, right!?
+
+@ 185.584
+# wrestler (voiced)
+JP いってきます。
+EN I'm off.
+
+@ 185.1015
+# Secretary
+JP {name:0}選手が
+JP {name:1}へ出発しました。
+EN {name:0} has left for
+EN {name:1}.

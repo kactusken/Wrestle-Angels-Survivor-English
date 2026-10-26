@@ -1,0 +1,156 @@
+# Event script entry 214 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 214.72
+# President, used 2x
+JP （鏡の後を２人の若い男が
+JP まとわりついてる？）
+EN (Are those two young guys
+EN following Kagami around?)
+
+@ 214.74
+# President, used 2x
+JP （ナンパか…。
+JP あいつは見た目は美人だからな。）
+EN (Trying to pick her up...
+EN She is a looker, after all.)
+
+@ 214.76
+# President, used 2x
+JP （しかし、しつこいナンパだな。
+JP 相手にされてないのに。）
+EN (They're persistent, though.
+EN She's not even giving them the time
+EN of day.)
+
+@ 214.78
+# President, used 2x
+JP （あ、手を掴みやがった。
+JP あいつら調子に乗って…。）
+EN (Ah, he grabbed her hand.
+EN Those guys are getting cocky...)
+
+@ 214.80
+# President, used 2x
+JP （その瞬間のことだった。）
+EN (It happened in that instant.)
+
+@ 214.82
+# President, used 2x
+JP （堪忍袋の緒が切れたのだろう。）
+EN (She must have run out of patience.)
+
+@ 214.84
+# President, used 2x
+JP （鏡が壮絶な微笑みを浮かべて
+JP 男を見た。）
+EN (Kagami turned a ghastly smile
+EN on the man.)
+
+@ 214.86
+# President, used 2x
+JP （俺は走った。）
+EN (I ran.)
+
+@ 214.88
+# President, used 2x
+JP （ナンパ男どもを助け出すために！）
+EN (To rescue those poor guys!)
+
+@ 214.90
+# President, used 2x
+JP （しかし、俺の助けが入る前に
+JP ナンパ男の体は砂浜に埋まった…。）
+EN (But before I could get there,
+EN they were buried in the sand...)
+
+@ 214.102
+# other, used 2x
+JP さて、どうしてあげようかしら？
+EN Now then, what shall I do with you?
+
+@ 214.109
+# President, used 2x
+JP 待て、待てッ！
+JP それ以上どうしようってんだ？
+EN Wait, wait!
+EN What more could you possibly do?
+
+@ 214.126
+# other, used 2x
+JP あら、社長。
+JP 楽しんでます？
+EN Oh, Boss.
+EN Are you enjoying yourself?
+
+@ 214.134
+# President, used 2x
+JP いや、この状況でそんな爽やかな
+JP 挨拶をされても…。
+EN Don't give me such a breezy
+EN greeting in a situation like this...
+
+@ 214.147
+# President, used 2x
+JP 何やってるんだ、お前は？
+EN What are you doing?
+
+@ 214.153
+# other, used 2x
+JP 何と言われましても…。
+EN What am I doing, you ask...
+
+@ 214.166
+# other, used 2x
+JP ……拷問？
+EN ...Torture?
+
+@ 214.174
+# President, used 2x
+JP 気軽に怖いことを言うな…。
+JP しかも疑問形で。
+EN Don't say scary things so
+EN casually...
+EN And as a question, no less.
+
+@ 214.192
+# President, used 2x
+JP しつこいナンパだったが…。
+JP とりあえず、これくらいで
+JP 許してやれよ。
+EN I know they wouldn't take no
+EN for an answer, but...
+EN Let them off with this much.
+
+@ 214.198
+# other, used 2x
+JP 社長…。
+EN Boss...
+
+@ 214.216
+# other, used 2x
+JP こんなヤツらに
+JP 情けをかけられるなんて…。
+JP お優しい…。
+EN To show mercy
+EN to the likes of them...
+EN How kind you are...
+
+@ 214.225
+# President, used 2x
+JP （本心から言っているのだろうか
+JP からかわれているのだろうか？）
+EN (Does she mean it,
+EN or is she making fun of me?)
+
+@ 214.231
+# other, used 2x
+JP 本当、尊敬しますわ。
+EN Truly, I admire you.

@@ -1,0 +1,80 @@
+{
+ "english": "CPU Thinking...",
+ "boxes": [
+  [
+   16,
+   15,
+   336,
+   30
+  ]
+ ],
+ "draw": "office.styled",
+ "region": [
+  0,
+  0,
+  368,
+  64
+ ],
+ "ground": "transparent",
+ "fill": "not (r < 0x60 and g < 0x60) and a == 255",
+ "reach": 8,
+ "learn_over": "transparent",
+ "font": "BarlowSemiCondensed-Bold.ttf",
+ "flood": {
+  "seed": "a < 255",
+  "pass": "a < 255 or (abs(r - g) < 0x1b and not (r < 0x60 and g < 0x60))"
+ },
+ "fill_mode": "rows+bevel",
+ "bevel": 2,
+ "min_blob": 40,
+ "fill_area": [
+  0,
+  0,
+  120,
+  64
+ ],
+ "bevel_sectors": [
+  1,
+  2,
+  3
+ ],
+ "rows_fill": "r - max(g, b) >= 0x1b",
+ "shear": 0.22,
+ "tracking": 2,
+ "step": 1,
+ "notes": "CPU-turn banner COM団体思考中 (letters batch 1): red letters with a sheen, dark-red bevel, silver rim, shadow and pale-blue glow learnt from the original (tools/letter_ext/office.py styled); fill gradient sampled from the C's stroke (fill_stops), as WAS2's SYS_CMTRN_0 'CPU Thinking...'",
+ "catalogue": {
+  "source": "/A000/A00A. (pieces, part 2)",
+  "width": 368,
+  "height": 64,
+  "bpp": 8,
+  "category": "banner",
+  "japanese": "COM団体思考中"
+ },
+ "fill_stops": [
+  [
+   0,
+   "e80001"
+  ],
+  [
+   0.25,
+   "f20000"
+  ],
+  [
+   0.5,
+   "d00000"
+  ],
+  [
+   0.75,
+   "be0000"
+  ],
+  [
+   0.92,
+   "b20000"
+  ],
+  [
+   1.0,
+   "a51010"
+  ]
+ ]
+}

@@ -1,0 +1,224 @@
+# Event script entry 205 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 205.91
+# President, used 2x
+JP （みんな泳いでいるなぁ。）
+EN (Everyone's swimming.)
+
+@ 205.93
+# President, used 2x
+JP （……ん？
+JP あんな大荷物持って
+JP 来島は何やってるんだ？）
+EN (......Hm?
+EN What's Kishima doing with
+EN all that luggage?)
+
+@ 205.109
+# other, used 2x
+JP ふー…ふー……。
+JP さすがに重ッ…。
+EN Huff... huff......
+EN Man, this is heavy...
+
+@ 205.117
+# President, used 2x
+JP 来島、何やってるんだ？
+EN Kishima, what are you doing?
+
+@ 205.126
+# other, used 2x
+JP …あ、社長！
+JP 何って…。
+JP 決まってるじゃないすか。
+EN ...Oh, Boss!
+EN What am I doing?
+EN Isn't it obvious?
+
+@ 205.133
+# President, used 2x
+JP 決まってるって？
+EN Obvious?
+
+@ 205.142
+# other, used 2x
+JP かぁー、コレだから。
+JP それでも社長は男ですか！？
+EN Jeez, come on.
+EN Are you even a man, Boss!?
+
+@ 205.149
+# other, used 2x
+JP 海と言ったらスイカ割り！
+JP 男のロマンじゃないすか！
+EN The beach means watermelon smashing!
+EN It's a man's romance!
+
+@ 205.156
+# President, used 2x
+JP （…お前の性別はどっちだ？）
+EN (...Which gender are you, again?)
+
+@ 205.158
+# President, used 2x
+JP それでこの荷物か？
+EN So that's what all this is?
+
+@ 205.167
+# other, used 2x
+JP ええッ！
+EN Yeah!
+
+@ 205.174
+# President, used 2x
+JP （いくつスイカ持ってきてるんだ？）
+EN (How many watermelons did
+EN she bring?)
+
+@ 205.183
+# other, used 2x
+JP おーい、みんなー！
+JP 今からスイカ割り始めるぞー！
+EN Hey, everyone!
+EN Watermelon smashing starts now!
+
+@ 205.198
+# other, used 2x
+JP うおりゃッ！
+EN Hyaaah!
+
+@ 205.224
+# President, used 2x
+JP うわああぁっ！
+EN Whoaaaa!
+
+@ 205.226
+# President, used 2x
+JP あ…あぶねぇ…。
+EN Th... that was close...
+
+@ 205.232
+# other, used 2x
+JP あれ、社長？
+EN Huh, Boss?
+
+@ 205.239
+# President, used 2x
+JP あれ、じゃない！
+JP お前のフルスイングが当たったら
+JP ケガじゃ済まないんだぞ！
+EN Don't "huh" me!
+EN If your full swing had hit me,
+EN I'd be way worse than hurt!
+
+@ 205.245
+# other, used 2x
+JP おかしいなぁ…。
+JP たしかこっちからスイカの気配が
+JP したのに…。
+EN That's weird...
+EN I was sure I sensed a watermelon
+EN over this way...
+
+@ 205.252
+# President, used 2x
+JP スイカは気配を発する物なのか？
+EN Since when do watermelons give
+EN off a presence?
+
+@ 205.258
+# other, used 2x
+JP まぁまぁ、社長。
+JP ドンマイ、ドンマイ！
+EN Now, now, Boss.
+EN Don't mind, don't mind!
+
+@ 205.265
+# President, used 2x
+JP いや、当事者がドンマイとか言うな。
+EN The one who did it doesn't get
+EN to say "don't mind."
+
+@ 205.267
+# President, used 2x
+JP それにスイカの汁が血に見えて
+JP ちょっと怖いぞ、お前。
+EN And the watermelon juice looks like
+EN blood. You're kinda scary.
+
+@ 205.273
+# other, used 2x
+JP 大丈夫！
+JP 今度こそ仕留めてみせますから。
+EN Don't worry!
+EN This time I'll finish it off for
+EN sure.
+
+@ 205.280
+# President, used 2x
+JP 仕留めるのはスイカなんだろうな？
+EN You ARE finishing off the
+EN watermelon,
+EN right?
+
+@ 205.286
+# other, used 2x
+JP …さ、ぐるぐると回って…。
+JP いくぞ～ッ！
+EN ...OK, spin around...
+EN Here I gooo!
+
+@ 205.293
+# President, used 2x
+JP だからなんで俺の方に
+JP 一直線に向かってくるんだ？
+EN So why are you coming straight
+EN at me again?
+
+@ 205.299
+# other, used 2x
+JP あれ…！？
+JP スイカの気配が逃げていく。
+JP 変だなぁ…。
+EN Huh...!?
+EN The watermelon's presence is
+EN getting away. That's weird...
+
+@ 205.306
+# President, used 2x
+JP 変じゃねぇ！
+JP それにその気配はスイカじゃねぇ！
+EN It's not weird!
+EN And that presence isn't a
+EN watermelon!
+
+@ 205.312
+# other, used 2x
+JP 待てーーッ！
+EN Get back heeere!
+
+@ 205.319
+# President, used 2x
+JP お前はスイカに待てとか言うのか？
+JP さてはお前わざとやってるな？
+EN You tell watermelons to wait?
+EN You're doing this on purpose,
+EN aren't you?
+
+@ 205.325
+# other, used 2x
+JP うるさいスイカだなぁ！
+EN What a noisy watermelon!
+
+@ 205.332
+# President, used 2x
+JP スイカが喋るか！
+EN Watermelons don't talk!

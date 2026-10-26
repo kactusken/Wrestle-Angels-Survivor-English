@@ -1,0 +1,25 @@
+{
+ "english": "Graceful Human Bridge",
+ "boxes": [
+  [
+   0,
+   0,
+   24,
+   288
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 15,
+ "draw": "nicknames.draw",
+ "mode": "vertical",
+ "notes": "wrestler nickname, vertical; English as exe.csv (華麗なる人間橋); turned 90° clockwise, reads top to bottom",
+ "catalogue": {
+  "source": "/A040/A04A. part 44",
+  "width": 24,
+  "height": 288,
+  "bpp": 4,
+  "category": "nickname",
+  "japanese": "華麗なる人間橋"
+ }
+}

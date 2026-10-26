@@ -1,0 +1,851 @@
+# Event script entry 313 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 313.438
+# other
+JP それでは、今年度の
+JP プロレス大賞の発表です
+EN And now, the announcement of
+EN this year's Wrestling Awards.
+
+@ 313.442
+# other, case 0
+JP 今年度、最優秀選手は
+JP 該当者無しとなりました…。
+EN This year, no MVP award
+EN was given...
+
+@ 313.446
+# other, case 1
+JP 今年度、最優秀選手は
+JP {name:0}選手です。
+JP おめでとうございます。
+EN This year's MVP is
+EN {name:0}.
+EN Congratulations!
+
+@ 313.457
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからもがんばります～。
+EN Thank you very much.
+EN I'll keep doing my best~.
+
+@ 313.460
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます！
+JP これからも一生懸命がんばります！
+EN Thank you!
+EN I'll keep working my hardest!
+
+@ 313.463
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP 日頃の鍛錬のたまものですね。
+EN Thank you very much.
+EN It's the fruit of my daily training.
+
+@ 313.466
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます！
+JP 応援してくれた皆さんのおかげです！
+EN Thank you!
+EN It's all thanks to everyone's
+EN support!
+
+@ 313.469
+# wrestler (voiced), case 1, used 10x
+JP みんな、ありがとうー！
+JP これからも応援してね！
+EN Thanks, everybody!
+EN Keep cheering for me!
+
+@ 313.472
+# wrestler (voiced), case 1, used 10x
+JP こんな賞をもらえるなんて…。
+JP あ、ありがとうございます。
+EN I can't believe I got an award...
+EN Th-thank you very much.
+
+@ 313.475
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからも応援よろしく
+JP お願いします！
+EN Thank you very much.
+EN Please keep supporting me!
+
+@ 313.478
+# wrestler (voiced), case 1, used 10x
+JP やったーッ！
+JP 一生の宝物にするね。
+EN Yaaay!
+EN I'll treasure it forever.
+
+@ 313.481
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからもプロレスとバイト
+JP 両方ともがんばります！
+EN Thank you very much.
+EN I'll keep working hard at both
+EN wrestling and my part-time job!
+
+@ 313.484
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからも修行あるのみです。
+EN Thank you very much.
+EN All I can do is keep training.
+
+@ 313.487
+# wrestler (voiced), case 1, used 10x
+JP ありがとう。
+JP 必ずもっと強くなってみせる！
+EN Thank you.
+EN I'll get even stronger, I swear!
+
+@ 313.490
+# wrestler (voiced), case 1, used 10x
+JP みんな～！
+JP ありがとにゃん！
+EN Everyone~!
+EN Thank you, nya!
+
+@ 313.493
+# wrestler (voiced), case 1, used 10x
+JP あははー！
+JP 私なんかがもらっていいのかな？
+EN Ahaha!
+EN Is it really okay for me to get
+EN this?
+
+@ 313.496
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからも一生懸命
+JP がんばっていきます！
+EN Thank you very much.
+EN I'll keep giving it my all!
+
+@ 313.499
+# wrestler (voiced), case 1, used 10x
+JP オーッホッホッホ！
+JP まぁ当然の結果ですわね！
+EN Oh-ho-ho-ho!
+EN Well, it was only natural!
+
+@ 313.502
+# wrestler (voiced), case 1, used 10x
+JP 今までの人生でサイコーに幸せです。
+JP みんな、ありがとう！
+EN This is the happiest I've ever been.
+EN Thanks, everyone!
+
+@ 313.505
+# wrestler (voiced), case 1, used 10x
+JP 感無量です。
+JP これからも応援よろしく
+JP お願いします。
+EN I'm overwhelmed.
+EN Please keep supporting me.
+
+@ 313.508
+# wrestler (voiced), case 1, used 10x
+JP こんな賞もらっていいのか？
+JP まあ、いいや。
+JP みんなやったぜ！
+EN I really get an award like this?
+EN Eh, whatever.
+EN We did it, everybody!
+
+@ 313.511
+# wrestler (voiced), case 1, used 10x
+JP みんなやったよ！
+JP 副賞でおいしいもの食べに行こう！
+EN We did it, everyone!
+EN Let's use the prize to go eat
+EN something tasty!
+
+@ 313.514
+# wrestler (voiced), case 1, used 10x
+JP あ、ありがとうございます。
+JP これからも技に磨きをかけて
+JP いきます。
+EN Th-thank you very much.
+EN I'll keep polishing my moves.
+
+@ 313.517
+# wrestler (voiced), case 1, used 10x
+JP 一生懸命がんばってきた
+JP かいがありました。
+JP ありがとうございました。
+EN All my hard work
+EN has paid off.
+EN Thank you very much.
+
+@ 313.520
+# wrestler (voiced), case 1, used 10x
+JP あ、ありがとうございます。
+JP これからもがんばります。
+EN Th-thank you very much.
+EN I'll keep doing my best.
+
+@ 313.523
+# wrestler (voiced), case 1, used 10x
+JP やったね！
+JP またもらえるように
+JP がんばりまーす！
+EN Yay!
+EN I'll work hard so I can
+EN win another one!
+
+@ 313.526
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP ボクこれからも一生懸命
+JP がんばります！
+EN Thank you very much.
+EN I'll keep working my
+EN hardest!
+
+@ 313.529
+# wrestler (voiced), case 1, used 10x
+JP 軽～くいただいちまったよ！
+JP ハッハハッ！
+EN Got it without breakin' a sweat!
+EN Hahaha!
+
+@ 313.532
+# wrestler (voiced), case 1, used 10x
+JP やったー！
+JP みんな、ありがとーッ！
+EN Yaaay!
+EN Thanks, everybody!
+
+@ 313.535
+# wrestler (voiced), case 1, used 10x
+JP この賞に似合うのは
+JP 私しかいませんわね。
+EN No one but me is worthy
+EN of this award.
+
+@ 313.538
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP スタッフの皆さんに感謝します。
+EN Thank you very much.
+EN My thanks to all the staff.
+
+@ 313.541
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからも修行に励みます。
+EN Thank you very much.
+EN I'll keep devoting myself to
+EN training.
+
+@ 313.544
+# wrestler (voiced), case 1, used 10x
+JP みんなのおかげで
+JP こんな賞もらえたよ！
+JP ありがとー！
+EN I got this award
+EN thanks to all of you!
+EN Thanks!
+
+@ 313.547
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからも打撃に磨きをかけて
+JP いきます！
+EN Thank you very much.
+EN I'll keep honing my strikes!
+
+@ 313.550
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからもみなさんの叱咤激励に
+JP こたえていきますッ！
+EN Thank you very much.
+EN I'll keep living up to all
+EN your cheers and criticism!
+
+@ 313.553
+# wrestler (voiced), case 1, used 10x
+JP ……もらっていいの……？
+JP ……ありがとう……。
+EN ......I can have this......?
+EN ......Thank you......
+
+@ 313.556
+# wrestler (voiced), case 1, used 10x
+JP あ、ありがとうございます。
+JP この受賞は正直計算外のことでした。
+EN Th-thank you very much.
+EN Frankly, this award was
+EN not in my calculations.
+
+@ 313.559
+# wrestler (voiced), case 1, used 10x
+JP スポットライトの当たる
+JP ポジションに立ってしまう…。
+JP それが私のさだめ…。
+EN I always end up standing
+EN in the spotlight...
+EN That is my destiny...
+
+@ 313.562
+# wrestler (voiced), case 1, used 10x
+JP ……えーと…あの…その……。
+JP ……ありがとうございます……。
+EN ......Um...well...er......
+EN ......Thank you very much......
+
+@ 313.565
+# wrestler (voiced), case 1, used 10x
+JP ボクなんかがもらっていいのかなぁ？
+JP でも、もらっちゃお！
+JP ありがとう！
+EN Is it okay for me to get this?
+EN Well, I'll take it anyway!
+EN Thank you!
+
+@ 313.568
+# wrestler (voiced), case 1, used 10x
+JP 真帆がもらってもいいのか？
+EN Maho gets to have this?
+
+@ 313.571
+# wrestler (voiced), case 1, used 10x
+JP これも皆さんのおかげです。
+JP ありがとうございます。
+EN This is all thanks to you.
+EN Thank you very much.
+
+@ 313.574
+# wrestler (voiced), case 1, used 10x
+JP ま、うちしかいてへんのちゃうの？
+EN Well, who else could it be but me?
+
+@ 313.577
+# wrestler (voiced), case 1, used 10x
+JP み、みんなのおかげです！
+JP ありがとう…ございましたッ！
+EN I-it's all thanks to everyone!
+EN Thank you...so much!
+
+@ 313.580
+# wrestler (voiced), case 1, used 10x
+JP あたしなんかがもらって
+JP 良かったんでしょうか？
+JP …ちなみに賞金とかありますか？
+EN Was it okay for someone like me
+EN to get this?
+EN ...By the way, is there prize money?
+
+@ 313.583
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP 最強のヒロインを目指して
+JP がんばります！
+EN Thank you very much.
+EN I'll keep striving to be
+EN the strongest heroine!
+
+@ 313.586
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP 自分の理想に近づけるよう
+JP 努力していきます。
+EN Thank you very much.
+EN I'll keep working to get
+EN closer to my ideal.
+
+@ 313.589
+# wrestler (voiced), case 1, used 10x
+JP 感無量です。
+JP 皆さんの応援があったからこそです。
+JP ありがとうございました～。
+EN I'm overwhelmed.
+EN It's all because of your support.
+EN Thank you so much~.
+
+@ 313.592
+# wrestler (voiced), case 1, used 10x
+JP みんなー、ありがとう！
+JP 愛してるよーッ！
+EN Thanks, everybody!
+EN Love you!
+
+@ 313.595
+# wrestler (voiced), case 1, used 10x
+JP とりあえずもらっといてやるよ。
+JP ありがたく思いな。
+EN Guess I'll take it for now.
+EN Be grateful.
+
+@ 313.598
+# wrestler (voiced), case 1, used 10x
+JP まぁこんなもんでも
+JP もらっといて損はないか。
+EN Well, can't hurt to take
+EN even something like this.
+
+@ 313.601
+# wrestler (voiced), case 1, used 10x
+JP あたしがもらっていいのかい？
+JP まぁありがたくもらっておくよ。
+EN Me? I get this?
+EN Well, I'll gladly take it.
+
+@ 313.604
+# wrestler (voiced), case 1, used 10x
+JP 日々の鍛錬の成果が出たようだ。
+JP ありがたく頂戴しよう。
+EN My daily training has paid off.
+EN I accept this gratefully.
+
+@ 313.607
+# wrestler (voiced), case 1, used 10x
+JP まだまだ暴れてやるぜーーッ！
+EN I'm gonna keep on raisin' hell!
+
+@ 313.613
+# wrestler (voiced), case 1, used 5x
+JP 私がもらっていいのか？
+JP あ、ありがとう…。
+EN I get this?
+EN Th-thanks...
+
+@ 313.616
+# wrestler (voiced), case 1, used 5x
+JP ありがとうございます！
+JP 皆さんのエールのおかげです！
+EN Thank you!
+EN It's all thanks to your cheers!
+
+@ 313.619
+# wrestler (voiced), case 1, used 5x
+JP うれしい！
+JP みんなアリガトー！
+JP コホン…あ、ありがとうございます。
+EN I'm so happy!
+EN Thanks, everyone!
+EN Ahem... Th-thank you very much.
+
+@ 313.622
+# wrestler (voiced), case 1, used 5x
+JP 正直うれしいです！
+JP 日々の練習の賜物だと思います！
+EN Honestly, I'm thrilled!
+EN I think it's the fruit
+EN of my daily practice!
+
+@ 313.625
+# wrestler (voiced), case 1, used 5x
+JP ありがとうございます。
+JP これからも鍛錬を怠らず
+JP がんばっていきます。
+EN Thank you very much.
+EN I'll never slack on my training
+EN and keep doing my best.
+
+@ 313.631
+# wrestler (voiced), case 1, used 5x
+JP え～と…あの…。
+JP ありがとうございます。
+JP これからもがんばります。
+EN Umm...well...
+EN Thank you very much.
+EN I'll keep doing my best.
+
+@ 313.634
+# wrestler (voiced), case 1, used 5x
+JP あ、ありがとうございます。
+JP こんなのもらっちゃってどうしよう。
+EN Th-thank you very much.
+EN What do I do with something like
+EN this?
+
+@ 313.637
+# wrestler (voiced), case 1, used 5x
+JP 当然の結果ですわね。
+JP ありがたくいただきますわ。
+EN A natural result.
+EN I shall graciously accept it.
+
+@ 313.640
+# wrestler (voiced), case 1, used 5x
+JP ありがとうございます～。
+JP 家宝にします～。
+EN Thank you very much~.
+EN I'll make it a family heirloom~.
+
+@ 313.643
+# wrestler (voiced), case 1, used 5x
+JP ありがとう。
+JP ボクもっとがんばるよ！
+EN Thank you.
+EN I'll work even harder!
+
+@ 313.646
+# wrestler (voiced), case 1, used 5x
+JP ホントにアタシが
+JP もらっていいのかよ？
+JP まぁ、ありがとよ。
+EN You really want ME
+EN to have this?
+EN Well, thanks.
+
+@ 313.649
+# wrestler (voiced), case 1, used 5x
+JP ありがとうございます。
+JP これを励みにこれからも
+JP がんばっていきます。
+EN Thank you very much.
+EN This will inspire me
+EN to keep working hard.
+
+@ 313.652
+# wrestler (voiced), case 1, used 5x
+JP あ、ありがとうございます。
+JP これからもがんばります！
+EN Th-thank you very much.
+EN I'll keep doing my best!
+
+@ 313.655
+# wrestler (voiced), case 1, used 5x
+JP こんな賞をもらえたのも
+JP みんなのおかげです！
+JP ありがとうございます！
+EN I got this award
+EN thanks to everyone!
+EN Thank you very much!
+
+@ 313.658
+# wrestler (voiced), case 1, used 5x
+JP ありがとうございます…。
+EN Thank you very much...
+
+@ 313.817
+# wrestler (voiced), case 1, used 10x
+JP ありがとう！
+JP 感謝のダンスでもしようかしら？
+EN Thank you!
+EN Maybe I'll do a little thank-you
+EN dance?
+
+@ 313.820
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます。
+JP これからもよろしくね！
+EN Thank you very much.
+EN Keep cheering for me!
+
+@ 313.823
+# wrestler (voiced), case 1, used 10x
+JP サンキュー！
+JP みなさーん！
+JP カメラはどこかしら？
+EN Thank you, everyone!
+EN Now, where's the camera?
+
+@ 313.826
+# wrestler (voiced), case 1, used 10x
+JP 誰しもが心に飼っている獣。
+JP その心と私の姿が共鳴しての
+JP 受賞に違いない！
+EN Every heart keeps a beast inside.
+EN It answered to the beast in me -
+EN that's why this award is mine!
+
+@ 313.829
+# wrestler (voiced), case 1, used 10x
+JP この受賞一人のものではない！
+JP 我々フェンリルのものだ！
+EN This award isn't mine alone!
+EN It belongs to us - to Fenrir!
+
+@ 313.832
+# wrestler (voiced), case 1, used 10x
+JP 外交辞令は苦手だわ！
+JP でもワタシが受賞することは
+JP 至極当然！
+EN I'm no good at diplomatic talk!
+EN But me winning this
+EN is only natural!
+
+@ 313.835
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます！
+JP 実に至高の感銘を受けています！
+EN Thank you very much!
+EN I am most supremely moved!
+
+@ 313.838
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます！
+JP 究極に感慨深くあります！
+EN Thank you very much!
+EN I am moved to the ultimate degree!
+
+@ 313.841
+# wrestler (voiced), case 1, used 10x
+JP 応援してくださったファンの皆様に
+JP 心からお礼申し上げます！
+EN To all the fans who supported me,
+EN thank you from the bottom of my
+EN heart!
+
+@ 313.844
+# wrestler (voiced), case 1, used 10x
+JP ワオッ！
+JP 感激です！
+JP これからも応援よろしくね！
+EN Wow!
+EN I'm so moved!
+EN Keep cheering for me!
+
+@ 313.847
+# wrestler (voiced), case 1, used 10x
+JP ワタクシという存在に引かれて
+JP 当然のごとく賞がこの手に
+JP まいりましたわ！
+EN Drawn to my very existence,
+EN the award naturally came
+EN into my hands!
+
+@ 313.850
+# wrestler (voiced), case 1, used 10x
+JP やったーッ！
+JP ホントありがとうございます！
+EN Yaaay!
+EN Thank you so much!
+
+@ 313.853
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます！
+JP 感謝、感謝です！
+EN Thank you very much!
+EN Thanks, thanks, thanks!
+
+@ 313.856
+# wrestler (voiced), case 1, used 10x
+JP くれるっていうんだったら
+JP 仕方ない…。
+JP もらってやるよ。
+EN If you're gonna give it to me,
+EN fine...
+EN I'll take it.
+
+@ 313.859
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます！
+JP さらなるステージを目指すわ！
+EN Thank you very much!
+EN I'll aim for an even bigger stage!
+
+@ 313.862
+# wrestler (voiced), case 1, used 10x
+JP せっかくですから
+JP いただいておきましょう…。
+EN Since you've gone to the trouble,
+EN I'll accept it...
+
+@ 313.865
+# wrestler (voiced), case 1, used 10x
+JP イェイ！
+JP 受賞を記念してマスクを
+JP プレゼントしようかな！
+EN Yay!
+EN To celebrate the award, maybe
+EN I'll give away a mask!
+
+@ 313.868
+# wrestler (voiced), case 1, used 10x
+JP こんなもん欲しくねえが
+JP くれるって言うならもらってやるぜ！
+EN I don't want this junk, but
+EN if you're givin' it, I'll take it!
+
+@ 313.871
+# wrestler (voiced), case 1, used 10x
+JP やったよ！
+JP みんなありがとー！
+EN I did it!
+EN Thanks, everybody!
+
+@ 313.877
+# wrestler (voiced), case 1, used 10x
+JP みんな見る目あるわね！
+JP ありがとう！
+EN You all have a good eye!
+EN Thank you!
+
+@ 313.880
+# wrestler (voiced), case 1, used 10x
+JP とても光栄です。
+JP ありがとうございます。
+EN I'm truly honored.
+EN Thank you very much.
+
+@ 313.883
+# wrestler (voiced), case 1, used 10x
+JP まぁ、ありがたくいただいとくよ。
+EN Well, I'll gladly take it.
+
+@ 313.886
+# wrestler (voiced), case 1, used 10x
+JP まぁ私の受賞なら
+JP みんな納得するんじゃない？
+EN Well, if I'm the winner,
+EN everyone's gotta agree, right?
+
+@ 313.889
+# wrestler (voiced), case 1, used 10x
+JP 非常に光栄です！
+JP 今後も躍進していきたいと思います！
+EN I'm greatly honored!
+EN I intend to keep making strides!
+
+@ 313.892
+# wrestler (voiced), case 1, used 10x
+JP マスク＆ルチャ！
+JP これこそが最高の組み合わせよ！
+EN Masks and lucha!
+EN That's the ultimate combination!
+
+@ 313.895
+# wrestler (voiced), case 1, used 10x
+JP パワーを制するものが
+JP リングを制すだな。
+EN Whoever rules power
+EN rules the ring.
+
+@ 313.898
+# wrestler (voiced), case 1, used 10x
+JP おおきにな！
+JP これからもファンの期待に
+JP こたえられるようがんばるわ！
+EN Thanks a bunch!
+EN I'll keep workin' hard to live up
+EN to what the fans expect!
+
+@ 313.901
+# wrestler (voiced), case 1, used 10x
+JP やったー！
+JP 感激！
+EN Yaaay!
+EN I'm so moved!
+
+@ 313.904
+# wrestler (voiced), case 1, used 10x
+JP こういう賞はいくつもらっても
+JP 悪い気はしないわね。
+EN No matter how many of these I get,
+EN it never gets old.
+
+@ 313.907
+# wrestler (voiced), case 1, used 10x
+JP みなさんに感謝します。
+EN My thanks to all of you.
+
+@ 313.910
+# wrestler (voiced), case 1, used 10x
+JP この私がこんな大それた賞を…。
+JP す、すみません…。
+EN Me, getting such a grand award...
+EN I-I'm so sorry...
+
+@ 313.913
+# wrestler (voiced), case 1, used 10x
+JP こんな賞をもらえるなんて
+JP サイコーです！
+EN Getting an award like this
+EN is the best!
+
+@ 313.916
+# wrestler (voiced), case 1, used 10x
+JP 計算外の受賞だが
+JP その、なんだ…。
+JP ありがとうと言うべきか。
+EN This award was beyond my
+EN calculations, but, er...
+EN I suppose I should say thank you.
+
+@ 313.919
+# wrestler (voiced), case 1, used 10x
+JP …フン。
+JP くれるものはもらっておくわ。
+EN ...Hmph.
+EN If you're giving it, I'll take it.
+
+@ 313.922
+# wrestler (voiced), case 1, used 10x
+JP ありがとうございます！
+JP とってもうれしいで～す！
+EN Thank you very much!
+EN I'm sooo happy~!
+
+@ 313.925
+# wrestler (voiced), case 1, used 10x
+JP わーい！
+JP うれしいなッ！
+JP またがんばるねッ！
+EN Yaaay!
+EN I'm so happy!
+EN I'll keep at it!
+
+@ 313.931
+# wrestler (voiced), case 1, used 10x
+JP …ありがとう。
+EN ...Thank you.
+
+@ 313.934
+# wrestler (voiced), case 1, used 10x
+JP ありがとう…。
+JP うれしいわ。
+EN Thank you...
+EN I'm happy.
+
+@ 313.937
+# wrestler (voiced), case 1, used 10x
+JP 真の価値は結果ではなく
+JP 過程にあるのだよ？
+JP でも…やっぱりうれしいね。
+EN True value lies not in results,
+EN but in the process, you see?
+EN But... I'm happy all the same.
+
+@ 313.940
+# wrestler (voiced), case 1, used 10x
+JP ありがとう！
+JP これからもガンバるぜッ！
+EN Thanks!
+EN I'll keep at it!
+
+@ 313.943
+# wrestler (voiced), case 1, used 10x
+JP …わあ！
+JP ありがとう！
+JP これからもがんばるよ！
+EN ...Wow!
+EN Thank you!
+EN I'll keep doing my best!
+
+@ 313.1082
+# Secretary, case 1
+JP 所属団体には
+JP 賞金300ＡＰが贈られます。
+JP 団体評価もグッとアップですね
+EN Her promotion receives a 300 AP
+EN prize.
+EN Its reputation will shoot right up!

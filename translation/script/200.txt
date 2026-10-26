@@ -1,0 +1,297 @@
+# Event script entry 200 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 200.103
+# President, used 2x
+JP （…ん？
+JP あれは…？）
+EN (...Hm?
+EN Who's that...?)
+
+@ 200.105
+# President, used 6x
+JP おーい？
+EN Hey?
+
+@ 200.127
+# President, used 2x
+JP どうした？
+JP 元気がないが何かあったのか？
+EN What's wrong?
+EN You look down. Something happen?
+
+@ 200.133
+# other, used 2x
+JP 今ごろ…日本では即売会で
+JP 目当ての本が売られているのね…。
+EN Right now in Japan, the book I
+EN wanted is on sale at the con...
+
+@ 200.140
+# President, used 2x
+JP …何が？
+EN ...The what?
+
+@ 200.149
+# other, used 2x
+JP なんでもない。
+JP ひとり言…。
+EN Nothing.
+EN Just talking to myself...
+
+@ 200.156
+# President, used 6x
+JP そうか。
+EN I see.
+
+@ 200.158
+# President, used 2x
+JP まぁ、過ぎたことを悩むより
+JP これから楽しむことを考えた方が
+JP いいんじゃないか？
+EN Well, rather than dwell on the past,
+EN why not think about having fun
+EN from here on?
+
+@ 200.167
+# other, used 2x
+JP これから…かぁ…。
+EN From here on... huh...
+
+@ 200.174
+# President, used 2x
+JP ああ、せっかくのバカンスだしな。
+JP 日本にいたらできないようなことを
+JP やってみるとかな。
+EN Yeah, this is a vacation after all.
+EN Try something you couldn't
+EN do back in Japan.
+
+@ 200.180
+# other, used 2x
+JP 日本にいたらできないようなこと…。
+JP …そうよね！
+EN Something I couldn't do in Japan...
+EN ...You're right!
+
+@ 200.189
+# President, used 2x
+JP 何か思いついたのか？
+EN Thought of something?
+
+@ 200.195
+# other, used 2x
+JP 私、ちょっと水着を取ってきます！
+EN I'm going to go get my swimsuit!
+
+@ 200.209
+# President, used 4x
+JP あ、ああ…。
+EN O-oh, OK...
+
+@ 200.246
+# President, used 2x
+JP ずいぶん変わった水着だな？
+EN That's a pretty unusual swimsuit.
+
+@ 200.252
+# other, used 2x
+JP でしょー！
+JP 今期はコレがブレイクするって
+JP 思って作っておいたのよ。
+EN Right!?
+EN I figured this would be the big
+EN hit this season, so I made it.
+
+@ 200.259
+# other, used 2x
+JP 放送開始は来月からなのッ！
+EN It starts airing next month!
+
+@ 200.266
+# President, used 2x
+JP ほ…ほう…？
+EN Oh... really...?
+
+@ 200.268
+# President, used 2x
+JP （なにが…？）
+EN (What does...?)
+
+@ 200.274
+# other, used 2x
+JP イベントで着ようと思ったけど
+JP 外国なら外で着ても
+JP 恥ずかしくないわよね！　
+EN I was gonna wear it to an event, but
+EN abroad it's not embarrassing to wear
+EN it outside, right!?
+
+@ 200.281
+# President, used 2x
+JP そう…なのか…？
+EN Is... that so...?
+
+@ 200.287
+# other, used 2x
+JP 会場の特定ブースで撮られるなんて
+JP 没個性！
+EN Getting shot at some booth at the
+EN venue is so generic!
+
+@ 200.294
+# other, used 2x
+JP 青空の下で自然にとけ込む撮影が
+JP これからのムーヴよ！
+EN Shoots that blend into nature under
+EN a blue sky are the next big thing!
+
+@ 200.301
+# President, used 2x
+JP そ、そうか…。
+JP よかったな。
+EN I-I see...
+EN Good for you.
+
+@ 200.303
+# President, used 2x
+JP （何を言っているのか、
+JP ほとんどわからんが…。）
+EN (I barely understand a word
+EN she's saying...)
+
+@ 200.309
+# other, used 2x
+JP というわけで…。
+JP 社長、カメラよろしくッ！
+EN So...
+EN Boss, you're on camera!
+
+@ 200.316
+# other, used 2x
+JP 綺麗にとってね。
+JP あとでサイトにアップするから！
+EN Make me look pretty.
+EN I'm putting these on my site later!
+
+@ 200.325
+# President, used 2x
+JP （カメラマンか…。）
+EN (So I'm the cameraman...)
+
+@ 200.327
+# President, used 2x
+JP （それにしても…。）
+EN (Still...)
+
+@ 200.329
+# President, used 2x
+JP （やたら生き生きしてるな。）
+EN (She's awfully lively.)
+
+@ 200.335
+# other, used 2x
+JP じゃ、次は海ね。
+EN OK, the sea next.
+
+@ 200.357
+# other, used 2x
+JP こう、波とたわむれるシーンが
+JP ヒロインの決めポーズなのよね。
+EN Frolicking in the waves like this
+EN is the heroine's signature pose.
+
+@ 200.370
+# other, used 2x
+JP まずは正面から撮って。
+EN Shoot me from the front first.
+
+@ 200.377
+# President, used 2x
+JP おい！
+EN Hey!
+
+@ 200.383
+# other, used 2x
+JP ……ん？
+JP なーにー？
+EN ......Hm?
+EN Whaaat?
+
+@ 200.390
+# President, used 2x
+JP ひとつ聞くが、その水着手作りか？
+EN One question. Did you make
+EN that swimsuit yourself?
+
+@ 200.396
+# other, used 2x
+JP …そうだけど？
+EN ...Yeah, why?
+
+@ 200.403
+# President, used 2x
+JP それ、水着として作ったのか？
+EN Did you make it to be a swimsuit?
+
+@ 200.409
+# other, used 2x
+JP …え？
+JP ううん…。
+JP なんで？
+EN ...Huh?
+EN Nope...
+EN Why?
+
+@ 200.416
+# President, used 2x
+JP いや、その…。
+EN Well, um...
+
+@ 200.418
+# President, used 2x
+JP その服、水に濡れると
+JP スケスケだ。
+EN When that outfit gets wet,
+EN it goes see-through.
+
+@ 200.430
+# other, used 4x
+JP ……えッ！？
+EN ......What!?
+
+@ 200.433
+# wrestler (voiced), used 2x
+JP やだ…。
+JP 社長のスケベ――ッ！
+EN No way...
+EN Boss, you perveeert!
+
+@ 200.440
+# President, used 2x
+JP いや、ちょっと落ち着け。
+EN Hey, calm down a sec.
+
+@ 200.446
+# other, used 2x
+JP エッチッ！
+JP カメラ小僧ーッ！
+EN Pervert!
+EN Camera creep!
+
+@ 200.453
+# President, used 2x
+JP （俺のせいか？）
+EN (That's my fault?)
+
+@ 200.455
+# President, used 2x
+JP （それにカメラ持たせたの誰だよ。）
+EN (And who gave me the camera anyway?)

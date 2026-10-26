@@ -1,0 +1,125 @@
+# Event script entry 191 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 191.81
+# President, used 2x
+JP （パラソルの下にいるのは…。）
+EN (Under the parasol is...)
+
+@ 191.83
+# President, used 2x
+JP （小川か…？）
+EN (Ogawa...?)
+
+@ 191.94
+# President, used 4x
+JP 泳がないのか？
+EN Aren't you going to swim?
+
+@ 191.111
+# other, used 2x
+JP あまり日に焼けすぎるのも
+JP 体に悪いですから。
+EN Too much sun isn't good
+EN for your body.
+
+@ 191.118
+# President, used 2x
+JP ふぅん…。
+JP 友達いないとかじゃないよな？
+EN Hmm...
+EN It's not that you don't have
+EN any friends, right?
+
+@ 191.124
+# other, used 2x
+JP ちッ、違います。
+EN Th-that's not it.
+
+@ 191.127
+# wrestler (voiced), used 2x
+JP 違うと思います…。
+JP 違うといいな…と…。
+EN I don't think that's it...
+EN I hope that's not it...
+
+@ 191.134
+# President, used 2x
+JP 冗談だよ。
+JP お前はみんなと一緒に
+JP 騒ぐタイプじゃないしな。
+EN Just kidding.
+EN You're not the type to horse
+EN around with everyone.
+
+@ 191.136
+# President, used 2x
+JP 日陰と言っても暑いだろう。
+JP どうだ、一杯？
+EN Even in the shade, it's hot.
+EN How about a drink?
+
+@ 191.151
+# wrestler (voiced), used 2x
+JP みんな楽しそうですね。
+EN Everyone looks like they're
+EN having fun.
+
+@ 191.158
+# President, used 2x
+JP みんなと泳がなくていいのか？
+JP さっきのは冗談だぞ？
+EN You sure you don't want to swim
+EN with them? I was only joking before.
+
+@ 191.164
+# other, used 2x
+JP …ええ。
+JP １人でこうしているの
+JP 結構好きですし。
+EN ...Yes.
+EN I actually rather like
+EN being on my own like this.
+
+@ 191.171
+# President, used 46x
+JP （………………。）
+EN (.........)
+
+@ 191.173
+# President, used 2x
+JP もしかして、俺ジャマか？
+EN Am I in the way, then?
+
+@ 191.179
+# other, used 2x
+JP …ん～。
+EN ...Mmm.
+
+@ 191.193
+# other, used 2x
+JP …いえ。
+JP うれしい…です。
+EN ...No.
+EN I'm... happy.
+
+@ 191.200
+# President, used 2x
+JP …そうか。
+JP それじゃ、ここで少し休ませて
+JP もらうかな。
+EN ...I see.
+EN Then I think I'll rest here
+EN for a bit.
+
+@ 191.206
+# other, used 2x
+JP はい。
+EN Sure.

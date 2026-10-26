@@ -1,0 +1,94 @@
+# Event script entry 072 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 072.88
+# wrestler (voiced), case 0, used 2x
+JP お呼びですか、社長。
+EN You called, Boss?
+
+@ 072.102
+# wrestler (voiced), case 0, used 2x
+JP 写真集ですか？
+JP あたしの？
+EN A photo book? Of me?
+
+@ 072.116
+# wrestler (voiced), case 0, used 2x
+JP ん～…。
+JP ヌードとかだったらダメですよ。
+EN Hmm... If it's nude or something,
+EN that's a no.
+
+@ 072.122
+# President, case 0, used 2x
+JP 水着だったらＯＫ？
+EN How about swimsuits?
+
+@ 072.130
+# wrestler (voiced), case 0, used 2x
+JP そうですねぇ…。
+JP うん…。
+JP まあ…いいかな。
+EN Let me see... Yeah... I guess
+EN that's okay.
+
+@ 072.136
+# President, case 0, used 2x
+JP それじゃ、ＯＫということで。
+EN Then it's an okay.
+
+@ 072.144
+# wrestler (voiced), case 0, used 2x
+JP はい。
+JP そっか～…。
+JP あたしの写真集かぁ…。
+EN Yes. Wow... A photo book
+EN of me, huh...
+
+@ 072.237
+# President, case 0, used 2x
+JP …うーん。
+JP すごいな…。
+EN ...Hmm. Amazing...
+
+@ 072.246
+# wrestler (voiced), case 0, used 2x
+JP ああ、気楽にＯＫしちゃったけれど
+JP こうやって写真になると
+JP やっぱり恥ずかしいな…。
+EN Oh, I said yes so casually, but
+EN seeing myself in photos like this
+EN is really embarrassing...
+
+@ 072.252
+# President, case 0, used 2x
+JP 恥ずかしがるなって。
+JP ほら綺麗に撮れてるよ。
+EN Don't be embarrassed. Look,
+EN they came out beautifully.
+
+@ 072.260
+# wrestler (voiced), case 0, used 2x
+JP もうッ！
+JP あんまりあたしの前で
+JP 見ないでください！
+EN Geez! Please don't look at them
+EN so much in front of me!
+
+@ 072.266
+# President, case 0, used 2x
+JP 前でなかったらいいのか？
+EN So it's fine if you're not around?
+
+@ 072.274
+# wrestler (voiced), case 0, used 2x
+JP えっと…。
+JP それならいいです…。
+EN Um... Then it's fine...

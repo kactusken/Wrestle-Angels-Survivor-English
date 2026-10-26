@@ -1,0 +1,96 @@
+{
+ "english": "DEC",
+ "boxes": [
+  [
+   0,
+   0,
+   251,
+   64
+  ]
+ ],
+ "draw": "system.draw",
+ "ground": "transparent",
+ "clear": [
+  [
+   0,
+   0,
+   256,
+   64
+  ]
+ ],
+ "font": "BarlowCondensed-Black.ttf",
+ "cap": 50,
+ "margin": 4,
+ "align": "right",
+ "fill": {
+  "grad": [
+   [
+    0,
+    [
+     2,
+     22,
+     95
+    ]
+   ],
+   [
+    0.1,
+    [
+     5,
+     62,
+     241
+    ]
+   ],
+   [
+    0.55,
+    [
+     5,
+     56,
+     246
+    ]
+   ],
+   [
+    1,
+    [
+     4,
+     34,
+     228
+    ]
+   ]
+  ]
+ },
+ "rings": [
+  {
+   "w": 3,
+   "rgb": {
+    "grad": [
+     [
+      0,
+      [
+       236,
+       233,
+       230
+      ]
+     ],
+     [
+      1,
+      [
+       202,
+       202,
+       204
+      ]
+     ]
+    ]
+   },
+   "span": "text"
+  }
+ ],
+ "notes": "month banner 12月: the month's abbreviation in the original blue chrome (gradient fill, light rim), right-aligned like the numeral and 月",
+ "catalogue": {
+  "source": "/A000/A006.",
+  "width": 256,
+  "height": 64,
+  "bpp": 8,
+  "category": "banner",
+  "japanese": "12月"
+ }
+}

@@ -1,0 +1,1074 @@
+# Event script entry 179 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 179.77
+# wrestler (voiced), case 8, used 2x
+JP …あッ、この前の社長さん…ですね？
+EN ...Oh, you're the president
+EN from the other day... right?
+
+@ 179.84
+# wrestler (voiced), case 8
+JP …あれ？
+JP この前の社長さんだ。
+JP またスカウトの話ですか？
+EN ...Huh?
+EN It's the president from before.
+EN Another scouting pitch?
+
+@ 179.91
+# wrestler (voiced), case 8
+JP …ああ、この前の。
+JP また例の話ですか？
+EN ...Ah, you again.
+EN Is this about that offer again?
+
+@ 179.98
+# wrestler (voiced), case 8
+JP …はい？
+JP あッ、この前の…。
+JP また、入団のお話でしょうか？
+EN ...Yes?
+EN Oh, you're from the other day...
+EN Is this about joining again?
+
+@ 179.105
+# wrestler (voiced), case 8, used 2x
+JP あれ、社長さん、こんにちは～。
+JP もしかして、この前の話の続き？
+EN Oh, Mr. President, hellooo.
+EN Is this about what we talked about?
+
+@ 179.111
+# other, case 8, used 2x
+JP この前はどうも。
+JP またスカウトの話ですか？
+EN Good to see you again.
+EN Another scouting pitch?
+
+@ 179.119
+# wrestler (voiced), case 8, used 2x
+JP あれ～、もしかして
+JP この前の社長さん？
+JP またスカウトの話？
+EN Huh, are you
+EN the president from before?
+EN Another scouting pitch?
+
+@ 179.126
+# wrestler (voiced), case 8, used 2x
+JP あれ、この前の社長さんだ。
+JP また、この前の話～？
+EN Oh, it's the president from before.
+EN Same talk as last time?
+
+@ 179.133
+# wrestler (voiced), case 8, used 2x
+JP …あッ、社長さんだ…。
+JP この前の話の続きですか？
+EN ...Oh, it's the president...
+EN Is this about last time?
+
+@ 179.140
+# wrestler (voiced), case 8
+JP …ああ、この前の。
+EN ...Ah, you again.
+
+@ 179.147
+# wrestler (voiced), case 8, used 2x
+JP …あッ、この前の。
+JP 意外と粘り強いね。
+JP この前と同じ話？
+EN ...Oh, you again.
+EN You're more stubborn than you look.
+EN Same talk as last time?
+
+@ 179.154
+# wrestler (voiced), case 8, used 2x
+JP …あッ、社長さん！
+JP またまたスカウトの話？
+EN ...Oh, Mr. President!
+EN Another scouting pitch, huh?
+
+@ 179.161
+# wrestler (voiced), case 8, used 2x
+JP …げっ、社長さん！
+JP また来たんですか？
+EN ...Ugh, Mr. President!
+EN You're back?
+
+@ 179.168
+# wrestler (voiced), case 8, used 2x
+JP …ああ、社長さん。
+JP また来られたんですか？
+EN ...Ah, Mr. President.
+EN You've come back?
+
+@ 179.175
+# wrestler (voiced), case 8, used 2x
+JP …あら、社長さん。
+JP またいらしたの？
+EN ...Oh my, Mr. President.
+EN Back again?
+
+@ 179.182
+# wrestler (voiced), case 8, used 2x
+JP …あッ、社長さん。
+JP また誘いに来たの？
+EN ...Oh, Mr. President.
+EN Here to recruit me again?
+
+@ 179.189
+# wrestler (voiced), case 8, used 4x
+JP …またですか？
+EN ...Again?
+
+@ 179.196
+# wrestler (voiced), case 8, used 2x
+JP …また、あんたか…。
+JP しつこいヤツだな。
+EN ...You again...
+EN You don't give up, do you?
+
+@ 179.203
+# wrestler (voiced), case 8, used 2x
+JP …あ～、この前の社長さん！
+JP またスカウトの話ぃ？
+EN ...Ah, the president from before!
+EN Another scouting pitch?
+
+@ 179.210
+# wrestler (voiced), case 8, used 4x
+JP …ああ、この前の。
+JP また来たの？
+EN ...Ah, you again.
+EN You're back?
+
+@ 179.217
+# wrestler (voiced), case 8, used 2x
+JP …あッ、社長さんじゃないですか。
+JP ご無沙汰しています。
+JP また先日のお話ですか？
+EN ...Oh, if it isn't the president.
+EN It's been a while.
+EN Is this about the other day?
+
+@ 179.231
+# wrestler (voiced), case 8, used 2x
+JP …あー、この前の！
+JP なーに、また来たのー？
+EN ...Ah, you again!
+EN Whaaat, you're back?
+
+@ 179.238
+# wrestler (voiced), case 8, used 2x
+JP …あッ、この前の社長さんですよね？
+JP またスカウトですか？
+EN ...Oh, you're the president
+EN from before, right?
+EN Another scouting pitch?
+
+@ 179.245
+# wrestler (voiced), case 8
+JP …あれ？
+JP この前の…。
+EN ...Huh?
+EN You're the one from before...
+
+@ 179.252
+# wrestler (voiced), case 8, used 2x
+JP …あッ、社長さんだ！
+JP またこの前のはなし～？
+EN ...Oh, it's the president!
+EN Is this about last time?
+
+@ 179.259
+# wrestler (voiced), case 8, used 2x
+JP …あら、社長さん？
+JP またスカウトにいらしたの？
+EN ...Oh my, Mr. President?
+EN Have you come to scout me again?
+
+@ 179.266
+# wrestler (voiced), case 8, used 2x
+JP …また来たんですか？
+EN ...You're back again?
+
+@ 179.273
+# wrestler (voiced), case 8, used 2x
+JP …あッ、先日の社長さん？
+JP またあの話ですか？
+EN ...Oh, the president from before?
+EN Is this about that again?
+
+@ 179.280
+# wrestler (voiced), case 8, used 2x
+JP …あ～、社長さん！
+JP もしかして、またスカウト？
+EN ...Ah, Mr. President!
+EN Are you here to scout me again?
+
+@ 179.287
+# wrestler (voiced), case 8, used 2x
+JP …ああ、社長さんじゃないですか！
+JP また来たんですね。
+EN ...Oh, if it isn't the president!
+EN You came back.
+
+@ 179.294
+# wrestler (voiced), case 8, used 2x
+JP この前の社長さんですよね？
+JP もしかしてまたスカウトですか？
+EN You're the president from before,
+EN right?
+EN Are you here to scout me again?
+
+@ 179.301
+# wrestler (voiced), case 8, used 2x
+JP ……誰……？
+JP ……えッ……？
+JP ……わたしの知っている人……？
+EN ......Who......?
+EN ......Huh......?
+EN ......Do I know you......?
+
+@ 179.308
+# wrestler (voiced), case 8, used 2x
+JP 以前もお会いしましたね。
+JP またスカウトのお話でしょうか？
+EN We've met before.
+EN Is this another scouting offer?
+
+@ 179.315
+# wrestler (voiced), case 8, used 4x
+JP あなたは確かプロレス団体の…。
+EN You're from that wrestling
+EN promotion...
+
+@ 179.322
+# wrestler (voiced), case 8, used 2x
+JP ……あッ……。
+JP ……ああ…あのときの……。
+EN ......Oh......
+EN ......Ah...you're the one from
+EN before......
+
+@ 179.329
+# wrestler (voiced), case 8, used 2x
+JP …あー、社長さん！？
+JP またこの前の話？
+EN ...Oh, Mr. President?!
+EN Is this about last time?
+
+@ 179.336
+# wrestler (voiced), case 8, used 2x
+JP …ン？
+JP もしかしてあのときの社長か？
+EN ...Hm?
+EN Are you that president from before?
+
+@ 179.343
+# wrestler (voiced), case 8, used 2x
+JP あなたはこの前の…。
+JP またスカウトですか？
+EN You're the one from before...
+EN Another scouting pitch?
+
+@ 179.350
+# wrestler (voiced), case 8, used 2x
+JP …ああ、この前の！
+JP またスカウト～？
+EN ...Oh, you again!
+EN Scouting me again?
+
+@ 179.357
+# wrestler (voiced), case 8, used 2x
+JP …あッ、この間の社長さんだ！
+JP またスカウトの話ですか？
+EN ...Oh, it's the president from
+EN before!
+EN Another scouting pitch?
+
+@ 179.364
+# wrestler (voiced), case 8, used 2x
+JP …ああ、社長さんじゃないですか？
+JP またスカウトですか？
+EN ...Oh, if it isn't the president.
+EN Another scouting offer?
+
+@ 179.371
+# wrestler (voiced), case 8, used 2x
+JP …あッ、社長さんじゃないですか！
+JP 今日はスカウトの話ですか？
+EN ...Oh, if it isn't the president!
+EN Is this about scouting today?
+
+@ 179.378
+# wrestler (voiced), case 8, used 2x
+JP …はい？
+JP またスカウトですか？
+EN ...Yes?
+EN Another scouting offer?
+
+@ 179.385
+# wrestler (voiced), case 8, used 2x
+JP …まあ、社長さん、お久しぶりです。
+JP またプロレスのお話ですか～？
+EN ...Oh my, Mr. President, it's been
+EN ages.
+EN Is this about pro wrestling again?
+
+@ 179.392
+# wrestler (voiced), case 8, used 2x
+JP …あッ、社長さんだぁ！
+JP な～に、またスカウトの話？
+EN ...Oh, it's the president!
+EN Whaaat, another scouting pitch?
+
+@ 179.399
+# wrestler (voiced), case 8, used 4x
+JP …おッ、この前の社長か？
+JP またあの話か？
+EN ...Oh, the president from before?
+EN Same talk again?
+
+@ 179.413
+# wrestler (voiced), case 8, used 2x
+JP …おお、この前の社長さん。
+JP またプロレスの話かい？
+EN ...Oh, the president from before.
+EN More wrestling talk?
+
+@ 179.420
+# wrestler (voiced), case 8, used 4x
+JP …またか。
+EN ...Again.
+
+@ 179.427
+# wrestler (voiced), case 8, used 2x
+JP なんだよ、おっさん！
+JP また来たのかよ？
+EN What the hell, old man!
+EN You're back again?
+
+@ 179.433
+# other, case 8, used 6x
+JP …………また……？
+EN ............Again......?
+
+@ 179.442
+# wrestler (voiced), case 8
+JP また、あなたか…。
+EN You again...
+
+@ 179.449
+# wrestler (voiced), case 8
+JP …はい？
+JP あッ、この前の！
+EN ...Yes?
+EN Oh, you're from before!
+
+@ 179.456
+# wrestler (voiced), case 8
+JP …あッ、もしかして
+JP またスカウトに来たの？
+EN ...Oh, don't tell me
+EN you're here to scout me again?
+
+@ 179.463
+# wrestler (voiced), case 8
+JP …あッ、社長さん。
+JP またスカウトの話？
+EN ...Oh, Mr. President.
+EN Another scouting pitch?
+
+@ 179.470
+# wrestler (voiced), case 8
+JP また会いましたね。
+JP スカウトの話ですか？
+EN We meet again.
+EN Is this about scouting?
+
+@ 179.477
+# wrestler (voiced), case 8
+JP また、スカウト……？
+EN Scouting, again......?
+
+@ 179.484
+# wrestler (voiced), case 8
+JP …あッ、この前の…。
+JP も、もしかして
+JP またスカウトですか？
+EN ...Oh, you're from before...
+EN D-don't tell me
+EN you're scouting me again?
+
+@ 179.491
+# wrestler (voiced), case 8
+JP …あれ？
+JP あなたまた来たの？
+EN ...Huh?
+EN You came back again?
+
+@ 179.498
+# wrestler (voiced), case 8, used 2x
+JP …あら、またあなたですの？
+EN ...Oh my, you again?
+
+@ 179.505
+# wrestler (voiced), case 8
+JP …あッ、どうも～。
+JP スカウトの話ですか～？
+EN ...Oh, hello there.
+EN Is this about scouting?
+
+@ 179.512
+# wrestler (voiced), case 8
+JP …あッ、またスカウトの話？
+EN ...Oh, another scouting pitch?
+
+@ 179.519
+# wrestler (voiced), case 8
+JP …あー、え～と……。
+JP へへッ、覚えてるって！
+JP またあの話？
+EN ...Ah, ummm......
+EN Heh, I remember, I remember!
+EN Same talk again?
+
+@ 179.526
+# wrestler (voiced), case 8
+JP また、お会いしましたね。
+JP スカウトの件ですか？
+EN We meet again.
+EN Is this about scouting?
+
+@ 179.533
+# wrestler (voiced), case 8
+JP …あッ、この前の社長さん！
+JP えーと、またスカウトですか？
+EN ...Oh, the president from before!
+EN Um, another scouting offer?
+
+@ 179.540
+# wrestler (voiced), case 8
+JP うわー、ビックリしたーッ！
+JP なんだ、社長さんじゃないですか？
+EN Whoa, you scared me!
+EN Oh, it's just you, Mr. President.
+
+@ 179.547
+# wrestler (voiced), case 8
+JP またあなたですか…？
+EN You again...?
+
+@ 179.561
+# wrestler (voiced), case 8
+JP ……あれ？
+JP この前の社長さんだ。
+JP またスカウトの話ですか？
+EN ......Huh?
+EN It's the president from before.
+EN Another scouting pitch?
+
+@ 179.568
+# wrestler (voiced), case 8
+JP ……ああ、この前の。
+JP また例の話ですか？
+EN ......Ah, you again.
+EN Is this about that offer again?
+
+@ 179.575
+# wrestler (voiced), case 8
+JP ……はい？
+JP あッ、この前の…。
+JP また、入団のお話でしょうか？
+EN ......Yes?
+EN Oh, you're from the other day...
+EN Is this about joining again?
+
+@ 179.617
+# wrestler (voiced), case 8
+JP ……ああ、この前の。
+EN ......Ah, you again.
+
+@ 179.722
+# wrestler (voiced), case 8
+JP ……あれ？
+JP この前の…。
+EN ......Huh?
+EN You're the one from before...
+
+@ 179.919
+# President, case 8
+JP ええ、そうです。
+JP どうしてもうちの団体に
+JP 入って欲しくて…。
+EN Yes, that's right.
+EN I really want you
+EN to join my promotion...
+
+@ 179.929
+# wrestler (voiced), case 8, used 2x
+JP 本当に私ですか…？
+JP うーん…。
+JP 困っちゃうなぁ…。
+EN You really mean me...?
+EN Hmm...
+EN This is a tough one...
+
+@ 179.936
+# wrestler (voiced), case 8, used 2x
+JP プロレスかぁ…。
+JP 興味はあるけど…。
+EN Pro wrestling, huh...
+EN I'm interested, but...
+
+@ 179.950
+# wrestler (voiced), case 8, used 2x
+JP 本当に悩んでしまいます…。
+JP 資格の勉強も大事ですし…。
+EN I really can't decide...
+EN My certification studies
+EN matter too...
+
+@ 179.957
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP どうしようかな～…。
+JP 私優柔不断なの～…。
+EN Hmmm...
+EN What should I do...
+EN I'm so indecisive...
+
+@ 179.963
+# other, case 8, used 2x
+JP 即答は難しいのですが…。
+EN It's hard to answer right away...
+
+@ 179.971
+# wrestler (voiced), case 8, used 2x
+JP 興味はあるんだけど…。
+JP プロレス、あたしにできるかなぁ…。
+EN I'm interested, but...
+EN Could I really do pro wrestling...?
+
+@ 179.978
+# wrestler (voiced), case 8, used 2x
+JP えっと、うんと…。
+JP どうしよう…。
+EN Um, uhh...
+EN What should I do...
+
+@ 179.985
+# wrestler (voiced), case 8, used 2x
+JP 困ったなぁ…。
+JP 私、実家のお店で
+JP バイトしてるんですよ。
+EN This is a tough one...
+EN I work part-time at
+EN my family's restaurant, you see.
+
+@ 179.992
+# wrestler (voiced), case 8, used 2x
+JP 修行中だと言ったはずですが…。
+EN I believe I told you
+EN I am still in training...
+
+@ 179.999
+# wrestler (voiced), case 8, used 2x
+JP どうしようか…。
+EN What to do...
+
+@ 179.1006
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP 悩んじゃうにゃあ…。
+EN Hmmm...
+EN This is a tough one, nya...
+
+@ 179.1013
+# wrestler (voiced), case 8, used 2x
+JP うーん…。
+JP そう言われてもなぁ…。
+EN Hmm...
+EN Even if you say that...
+
+@ 179.1034
+# wrestler (voiced), case 8, used 2x
+JP うーん…。
+JP そう言われても…。
+EN Hmm...
+EN Even if you say that...
+
+@ 179.1041
+# wrestler (voiced), case 8, used 6x
+JP うーん…。
+JP そうですねぇ…。
+EN Hmm...
+EN Let me think...
+
+@ 179.1076
+# wrestler (voiced), case 8, used 6x
+JP ふーん…。
+EN Hmm...
+
+@ 179.1083
+# wrestler (voiced), case 8, used 2x
+JP うーん…。
+JP そうねぇ…。
+EN Hmm...
+EN Let's see...
+
+@ 179.1090
+# wrestler (voiced), case 8, used 2x
+JP うーん…。
+JP 悩んじゃいますぅ…。
+EN Hmm...
+EN I just can't decide...
+
+@ 179.1104
+# wrestler (voiced), case 8, used 2x
+JP お母さんに聞かないと
+JP ワカンナイよぅ。
+EN I dunno, I gotta
+EN ask my mom first.
+
+@ 179.1111
+# wrestler (voiced), case 8, used 2x
+JP すぐにお返事しないとダメかしら？
+EN Do I have to answer right away?
+
+@ 179.1132
+# wrestler (voiced), case 8, used 2x
+JP えー…。
+JP そうだなぁ…。
+EN Uhh...
+EN Let's see...
+
+@ 179.1139
+# wrestler (voiced), case 8, used 2x
+JP なるほど…。
+JP そうですか…。
+EN I see...
+EN Is that so...
+
+@ 179.1146
+# wrestler (voiced), case 8, used 2x
+JP な、悩みますね…。
+EN Th-this is a tough one...
+
+@ 179.1153
+# wrestler (voiced), case 8, used 2x
+JP ……団体……？
+EN ......Promotion......?
+
+@ 179.1160
+# wrestler (voiced), case 8, used 4x
+JP さて、今回私がなんと答えるか
+JP わかりますか？
+EN Now, can you predict
+EN what my answer will be this time?
+
+@ 179.1167
+# wrestler (voiced), case 8, used 14x
+JP なるほど…。
+EN I see...
+
+@ 179.1174
+# wrestler (voiced), case 8, used 2x
+JP ……う、うーん……。
+EN ......W-well......
+
+@ 179.1181
+# wrestler (voiced), case 8, used 2x
+JP どうしよう…。
+JP 困っちゃったな…。
+EN What should I do...
+EN This is a tough one...
+
+@ 179.1188
+# wrestler (voiced), case 8, used 4x
+JP 深く考えるのは苦手なんだ…。
+EN I'm no good at thinking hard...
+
+@ 179.1195
+# wrestler (voiced), case 8, used 2x
+JP そうですねえ…。
+JP うーん…。
+EN Let me see...
+EN Hmm...
+
+@ 179.1202
+# wrestler (voiced), case 8, used 4x
+JP ん～…。
+JP そやな～…。
+EN Hmmm...
+EN Let's see now...
+
+@ 179.1209
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP そうだなぁ…。
+EN Hmmm...
+EN Let's see...
+
+@ 179.1216
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP 実家が…仕送りが……。
+EN Hmmm...
+EN My family... the money I send
+EN home......
+
+@ 179.1223
+# wrestler (voiced), case 8, used 2x
+JP うーん…。
+JP どうしたものか…。
+EN Hmm...
+EN What to do...
+
+@ 179.1230
+# wrestler (voiced), case 8, used 5x
+JP そう言われても…。
+EN Even if you say that...
+
+@ 179.1237
+# wrestler (voiced), case 8, used 2x
+JP う～ん…。
+JP そう言われましても～…。
+EN Hmmm...
+EN Even if you put it that way...
+
+@ 179.1244
+# wrestler (voiced), case 8, used 2x
+JP 社長さんもしつこいなぁ。
+JP う～ん…。
+EN You're persistent, Mr. President.
+EN Hmmm...
+
+@ 179.1251
+# wrestler (voiced), case 8, used 4x
+JP さーて、どうするかな…。
+EN Now, what to do...
+
+@ 179.1265
+# wrestler (voiced), case 8, used 2x
+JP 社長もしつっこいねぇ…。
+EN You sure are persistent, Mr.
+EN President...
+
+@ 179.1279
+# wrestler (voiced), case 8, used 2x
+JP はぁーあ～…。
+EN Haaah...
+
+@ 179.1300
+# wrestler (voiced), case 8
+JP そうですか…。
+JP うーん…。
+EN I see...
+EN Hmm...
+
+@ 179.1307
+# wrestler (voiced), case 8
+JP しつこいと嫌われるわよ。
+JP クールにいかないとクールに！
+EN Be pushy and people will hate you.
+EN Keep it cool, you know, cool!
+
+@ 179.1314
+# wrestler (voiced), case 8
+JP 社長さんって大変なんですねぇ。
+EN Being a president sure is hard work.
+
+@ 179.1321
+# wrestler (voiced), case 8
+JP ふ～。
+JP 熱意には応えたいんですが…。
+EN Phew.
+EN I want to answer your passion,
+EN but...
+
+@ 179.1328
+# wrestler (voiced), case 8
+JP 決めないと……。
+EN I have to decide......
+
+@ 179.1335
+# wrestler (voiced), case 8
+JP う～…。
+JP そんなこと言われても～…。
+EN Uuh...
+EN Even if you say that...
+
+@ 179.1342
+# wrestler (voiced), case 8
+JP うーん…。
+JP どうしよっかな…。
+EN Hmm...
+EN What should I do...
+
+@ 179.1349
+# wrestler (voiced), case 8
+JP プロレスというものを
+JP 調べてはみたのですが…。
+EN I did try looking up
+EN this "pro wrestling" thing...
+
+@ 179.1356
+# wrestler (voiced), case 8
+JP う～ん…。
+JP どうしようかな～…。
+EN Hmmm...
+EN What should I do...
+
+@ 179.1363
+# wrestler (voiced), case 8
+JP どうするかなぁ…。
+EN What to do...
+
+@ 179.1370
+# wrestler (voiced), case 8
+JP そーだなぁ…。
+EN Let's seee...
+
+@ 179.1377
+# wrestler (voiced), case 8, used 2x
+JP そうですね…。
+JP 考えてはいるのですが…。
+EN Let me see...
+EN I am thinking about it...
+
+@ 179.1384
+# wrestler (voiced), case 8
+JP そうですねぇ…。
+JP うーん…。
+EN Let me think...
+EN Hmm...
+
+@ 179.1391
+# wrestler (voiced), case 8
+JP え～。
+JP どうしようかなぁ…？
+EN Huuuh.
+EN What should I do...?
+
+@ 179.1398
+# wrestler (voiced), case 8
+JP プロレスですか…。
+EN Pro wrestling...
+
+@ 179.1801
+# wrestler (voiced), case 0, used 2x
+JP よしッ！
+JP やってみよーかな！
+JP よろしくねッ！
+EN Okay!
+EN Guess I'll give it a shot!
+EN Nice to meet ya!
+
+@ 179.1810
+# wrestler (voiced), case 1, used 2x
+JP でも、やっぱプロのレスラーは
+JP 無理だよ…。
+JP ほかあたって！
+EN But being a pro wrestler
+EN is just not for me...
+EN Try someone else!
+
+@ 179.1858
+# wrestler (voiced), case 0, used 2x
+JP いいよ。
+JP 社長さん！
+JP よろしくね！
+EN Sure.
+EN Mr. President!
+EN Nice to meet ya!
+
+@ 179.1943
+# wrestler (voiced), case 1, used 2x
+JP あッ、バイトの時間だ！
+JP やっぱり、ごめんなさい！
+EN Oh, it's time for my part-time job!
+EN Sorry, I can't after all!
+
+@ 179.2048
+# wrestler (voiced), case 0, used 2x
+JP オーッホッホッホ！
+JP よろしくてよ！
+JP 貴方の団体に入って差しあげますわ！
+EN Oh-ho-ho-ho!
+EN Very well!
+EN I shall grace your promotion!
+
+@ 179.2067
+# wrestler (voiced), case 0, used 2x
+JP やってみるか！
+JP かわいい衣装つくってね！
+EN Guess I'll do it!
+EN Make me a cute outfit, okay?
+
+@ 179.2114
+# wrestler (voiced), case 1, used 2x
+JP いま他の事で手一杯なんだ。
+JP わるいな！
+EN I've got my hands full right now.
+EN Sorry!
+
+@ 179.2124
+# wrestler (voiced), case 0, used 2x
+JP いいよ！
+JP 社長さんを男にしてあげるッ！
+JP と、その前に…ご飯食べさせて？
+EN Sure! I'll make a big shot of you,
+EN Mr. President! But first...
+EN feed me?
+
+@ 179.2171
+# wrestler (voiced), case 1, used 2x
+JP んー…。
+JP 申し訳ないけどお断りします…。
+JP ごめんなさい…。
+EN Hmm...
+EN Sorry, but I'll have to decline...
+EN I'm sorry...
+
+@ 179.2200
+# wrestler (voiced), case 0, used 2x
+JP いいわよ、楽しそう！
+JP リングの上っていうのも
+JP 悪くないしね！！
+EN Sure, sounds fun!
+EN The ring doesn't sound
+EN half bad either!!
+
+@ 179.2228
+# wrestler (voiced), case 1, used 2x
+JP ボクには無理です！
+JP ごめんなさいッ！
+EN I can't do it!
+EN I'm sorry!
+
+@ 179.2247
+# wrestler (voiced), case 1, used 2x
+JP わりーな。
+JP また出直してよ。
+EN Sorry 'bout that.
+EN Come back another time.
+
+@ 179.2257
+# wrestler (voiced), case 0
+JP やっぱり、やる！
+JP あたし、かわいいコスチューム
+JP 着たいな！
+EN I'll do it after all!
+EN I wanna wear
+EN cute costumes!
+
+@ 179.2352
+# wrestler (voiced), case 0, used 2x
+JP そうですね。
+JP やってみます！
+EN All right.
+EN I'll give it a try!
+
+@ 179.2409
+# wrestler (voiced), case 0, used 4x
+JP 「是非お願いします」…。
+JP すばらしい分析力、正解です。
+EN I'd be glad to...
+EN Splendid analysis. Correct.
+
+@ 179.2551
+# wrestler (voiced), case 1, used 2x
+JP 今は大人っぽいセクシーメイクの
+JP 勉強で忙しいんです！
+JP ごめんなさい！
+EN I'm busy learning grown-up,
+EN sexy makeup right now!
+EN Sorry!
+
+@ 179.2694
+# wrestler (voiced), case 0, used 2x
+JP まあ、プロレスも悪くないかもね。
+JP わかった、行ってやるよ！
+EN Well, pro wrestling might not be
+EN bad.
+EN All right, I'll come!
+
+@ 179.2732
+# wrestler (voiced), case 0, used 2x
+JP くっくっく…。
+JP 堂々と人が殴れるんだろ？
+JP いいぜ、楽しみだ！！
+EN Heh heh heh...
+EN I get to hit people, legally?
+EN Sure, sounds like fun!!
+
+@ 179.2781
+# wrestler (voiced), case 1
+JP すまないが興味がない…。
+EN Sorry, but I'm not interested...
+
+@ 179.2800
+# wrestler (voiced), case 1
+JP あは…まだ時期じゃないかなって…。
+JP あ、ウサちゃんだ、待ってー！！
+EN Aha... I don't think it's time
+EN yet...
+EN Oh, a bunny! Wait up!!
+
+@ 179.2810
+# wrestler (voiced), case 0
+JP いいわ、オッケーしてあげる。
+JP 小さいからってなめないでね。
+EN Fine, I'll give you an okay.
+EN Don't underestimate me 'cause I'm
+EN small.
+
+@ 179.2895
+# wrestler (voiced), case 1
+JP ええと、今は…その
+JP あんまり興味がないっていうか…。
+JP ごめんなさい！
+EN Um, well... right now I'm
+EN not all that interested...
+EN Sorry!
+
+@ 179.2962
+# wrestler (voiced), case 0
+JP まあ、いいか。
+JP うん、入ってあげるよ！
+EN Well, why not.
+EN Yeah, I'll join!
+
+@ 179.2981
+# wrestler (voiced), case 0
+JP なんか面白そうだな。
+JP いいぜ、行ってやる！
+EN Sounds kinda fun.
+EN Sure, I'll come!
+
+@ 179.3047
+# wrestler (voiced), case 1
+JP …なんかイヤ……。
+JP またね！
+EN ...I just don't want to......
+EN See ya!
+
+@ 179.3551
+# wrestler (voiced), case 0
+JP やっぱりやる！
+JP あたし、かわいいコスチューム
+JP 着たいな！
+EN I'll do it after all!
+EN I wanna wear
+EN cute costumes!

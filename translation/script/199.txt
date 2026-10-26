@@ -1,0 +1,215 @@
+# Event script entry 199 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 199.71
+# President, used 2x
+JP （…ん、誰か足りない…？）
+EN (...Hm, someone's missing...?)
+
+@ 199.75
+# President, used 2x
+JP （…堀がいない？）
+EN (...Hori's not here?)
+
+@ 199.77
+# President, used 2x
+JP （しょうがないな…。
+JP アイツの事だから平気で迷子に
+JP なっていそうだ。）
+EN (Jeez...
+EN Knowing her, she could easily
+EN have gotten lost.)
+
+@ 199.79
+# President, used 4x
+JP 堀ーッ！
+EN Horiii!
+
+@ 199.81
+# President, used 2x
+JP 堀ーッ！
+JP いないのかー？
+EN Horiii!
+EN Where are you?
+
+@ 199.95
+# President, used 2x
+JP （どこに行ったんだ？
+JP まさか犯罪とかに…。）
+EN (Where'd she go?
+EN Don't tell me she ran into
+EN trouble...)
+
+@ 199.108
+# other, used 2x
+JP …あ、社長～！
+EN ...Oh, Boss~!
+
+@ 199.115
+# President, used 2x
+JP （…堀の声？）
+EN (...Hori's voice?)
+
+@ 199.117
+# President, used 2x
+JP （その声はなぜか上から
+JP 聞こえてきた。）
+EN (For some reason, her voice
+EN came from above.)
+
+@ 199.119
+# President, used 2x
+JP （そこに立っているヤシの木を
+JP 見上げると…。）
+EN (When I looked up at the
+EN palm tree standing there...)
+
+@ 199.127
+# other, used 2x
+JP ふにゃ～～～～ッ！
+EN Funyaaaaah!
+
+@ 199.141
+# President, used 2x
+JP （悲鳴とともに堀が落ちてきた。）
+EN (With a scream, Hori came
+EN falling down.)
+
+@ 199.143
+# President, used 2x
+JP 堀ッ！？
+EN Hori!?
+
+@ 199.145
+# President, used 2x
+JP あ、危ねえ…。
+EN Th-that was close...
+
+@ 199.160
+# other, used 2x
+JP あ…ありがと～…。
+EN Th... thanks~...
+
+@ 199.167
+# President, used 2x
+JP なんで上から落ちてきたんだ？
+EN Why'd you fall from up there?
+
+@ 199.173
+# other, used 2x
+JP …あのね。
+JP これ取ってたの。
+EN ...Well, you see.
+EN I was getting this.
+
+@ 199.180
+# President, used 2x
+JP ヤシの実？
+EN A coconut?
+
+@ 199.186
+# other, used 2x
+JP うんッ！
+JP おいしそうだったから。
+EN Yeah!
+EN It looked yummy.
+
+@ 199.193
+# President, used 2x
+JP おいしそうだったからって…。
+JP 無茶をするなよ。
+JP 心臓に悪い。
+EN "It looked yummy"...
+EN Don't do crazy stuff.
+EN You'll give me a heart attack.
+
+@ 199.199
+# other, used 2x
+JP ごめんなさい…。
+JP でもほら取れたし。
+JP ２人で食べよ、ね？
+EN Sorry...
+EN But look, I got it.
+EN Let's eat it together, OK?
+
+@ 199.206
+# President, used 2x
+JP （そう言って俺の上に乗ったまま
+JP ヤシの実をむこうとした。）
+EN (Still sitting on top of me, she
+EN tried to peel the coconut.)
+
+@ 199.208
+# President, used 2x
+JP （しかし、ヤシの実が
+JP 素手でむけるわけがない…。）
+EN (But there's no way to peel a
+EN coconut with bare hands...)
+
+@ 199.212
+# President, used 2x
+JP なあ、そろそろ諦めないか？
+EN Hey, how about giving up already?
+
+@ 199.224
+# other, used 2x
+JP なんでーッ！
+JP なんで食べられないの！？
+EN Whyyy!?
+EN Why can't I eat it!?
+
+@ 199.231
+# President, used 2x
+JP 道具がないと無理だって。
+JP ホテルに戻ってからでいいだろ？
+EN You can't without tools.
+EN It can wait till we're at the hotel.
+
+@ 199.237
+# other, used 2x
+JP やだーッ！
+JP 浜辺でこれ飲むのが夢だったのにー。
+EN Noooo!
+EN Drinking this on the beach
+EN was my dream!
+
+@ 199.244
+# President, used 2x
+JP ホテルでもいいだろ？
+EN The hotel's fine too, right?
+
+@ 199.250
+# other, used 2x
+JP やだ！
+JP いま飲みたい！
+EN No!
+EN I wanna drink it now!
+
+@ 199.257
+# President, used 2x
+JP そう言ってもなあ…。
+EN Even if you say that...
+
+@ 199.268
+# President, used 2x
+JP （それより）
+EN (More importantly...)
+
+@ 199.270
+# President, used 2x
+JP （そろそろ俺の上から
+JP どいてくれないだろうか。）
+EN (I wish she'd get off me
+EN sometime soon.)
+
+@ 199.276
+# other, used 2x
+JP うにゃ～～～～ッ！
+EN Unyaaaaah!

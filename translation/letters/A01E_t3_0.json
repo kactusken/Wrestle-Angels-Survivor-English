@@ -1,0 +1,96 @@
+{
+ "english": "OK",
+ "boxes": [
+  [
+   540,
+   9,
+   55,
+   22
+  ]
+ ],
+ "draw": "system.draw",
+ "font": "BarlowCondensed-SemiBold.ttf",
+ "ground": "interpolate",
+ "fill": [
+  248,
+  247,
+  185
+ ],
+ "groups": [
+  {
+   "ground": "keep",
+   "inpaint": [
+    {
+     "rect": [
+      539,
+      9,
+      57,
+      22
+     ],
+     "seed": [
+      [
+       130,
+       129,
+       116
+      ],
+      [
+       107,
+       106,
+       132
+      ],
+      [
+       85,
+       83,
+       147
+      ],
+      [
+       66,
+       64,
+       163
+      ],
+      [
+       44,
+       40,
+       181
+      ],
+      [
+       40,
+       43,
+       166
+      ]
+     ],
+     "tol": 24,
+     "near": 1
+    }
+   ],
+   "fill": [
+    130,
+    129,
+    116
+   ],
+   "outline": {
+    "w": 1.5,
+    "rgb": [
+     44,
+     40,
+     181
+    ]
+   },
+   "cap": 14,
+   "font": "BarlowCondensed-Bold.ttf",
+   "margin": 2,
+   "labels": [
+    0
+   ]
+  }
+ ],
+ "notes": "name entry buttons: 決定 OK (as WAS2); the dark button face rebuilt under the letters (quadric inpaint)",
+ "catalogue": {
+  "source": "/A000/A01E. table 3",
+  "width": 640,
+  "height": 304,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "決定"
+ }
+}

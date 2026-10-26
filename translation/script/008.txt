@@ -1,0 +1,416 @@
+# Event script entry 008 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 008.46
+# Secretary
+JP {name:0}選手が
+JP 退院しました。
+EN {name:0} has been discharged
+EN from the hospital.
+
+@ 008.57
+# wrestler (voiced), used 2x
+JP 心配かけてごめんなさい。
+JP また明日からがんばりまーす～。
+EN Sorry for making you worry.
+EN I'll do my best again starting
+EN tomorrow~.
+
+@ 008.64
+# wrestler (voiced), used 2x
+JP やっほー！
+JP 帰ってきたよーッ！
+EN Yoo-hoo!
+EN I'm baaack!
+
+@ 008.71
+# wrestler (voiced), used 4x
+JP 遅れはすぐに取り戻します！
+EN I'll make up for lost time right
+EN away!
+
+@ 008.78
+# wrestler (voiced), used 2x
+JP ご迷惑おかけしました。
+JP もう大丈夫です。
+EN Sorry for the trouble.
+EN I'm all right now.
+
+@ 008.85
+# wrestler (voiced), used 2x
+JP やっほー！
+JP すっかり元気になったよー。
+EN Yoo-hoo!
+EN I'm totally back to normal!
+
+@ 008.92
+# wrestler (voiced), used 4x
+JP ご心配をおかけしました。
+JP もう大丈夫です。
+EN Sorry to have worried you.
+EN I'm all right now.
+
+@ 008.99
+# wrestler (voiced), used 2x
+JP 菊池、復活しましたーッ！
+EN Kikuchi is back in action!
+
+@ 008.106
+# wrestler (voiced), used 2x
+JP ふっか～つ！
+JP 帰ってきたよッ！
+EN I'm baaack!
+EN I've returned!
+
+@ 008.113
+# wrestler (voiced), used 2x
+JP 今日からガンガン戦えますよ！
+EN I can fight full-on starting today!
+
+@ 008.127
+# wrestler (voiced), used 2x
+JP さっそく練習だ。
+EN Time to train.
+
+@ 008.134
+# wrestler (voiced), used 2x
+JP もう治っちゃった！
+EN I'm already all better!
+
+@ 008.141
+# wrestler (voiced), used 2x
+JP たっだいまー！
+JP 帰ってきたわよ！
+EN I'm hooome!
+EN I'm back!
+
+@ 008.155
+# wrestler (voiced), used 2x
+JP オーッホッホッホ！！
+JP ご心配をおかけしましたわね。
+JP もう大丈夫でしてよ！
+EN Oh-ho-ho-ho!!
+EN Sorry to have worried you.
+EN I am perfectly fine now!
+
+@ 008.162
+# wrestler (voiced), used 2x
+JP 心配かけてごめんね。
+JP もう大丈夫よ♪
+EN Sorry for making you worry.
+EN I'm fine now♪
+
+@ 008.169
+# wrestler (voiced), used 2x
+JP 心配かけてすいませんでした。
+EN I'm sorry for making you worry.
+
+@ 008.176
+# wrestler (voiced), used 2x
+JP 退屈で退屈でしょうがなかったぜ！
+EN I was bored out of my freakin' mind!
+
+@ 008.183
+# wrestler (voiced), used 2x
+JP たっだいまー！
+JP お腹すいた～！
+EN I'm hooome!
+EN I'm starving!
+
+@ 008.190
+# wrestler (voiced), used 2x
+JP 完治させてきたわ。
+EN I'm fully healed.
+
+@ 008.197
+# wrestler (voiced), used 2x
+JP ご心配おかけしました。
+JP もう大丈夫です。
+EN Sorry to have worried you.
+EN I'm all right now.
+
+@ 008.204
+# wrestler (voiced), used 2x
+JP 戻りました。
+EN I'm back.
+
+@ 008.211
+# wrestler (voiced), used 2x
+JP たっだいまーッ！
+EN I'm hooome!
+
+@ 008.218
+# wrestler (voiced), used 2x
+JP ただいま戻ってきましたッ！
+EN Reporting back for duty!
+
+@ 008.225
+# wrestler (voiced), used 2x
+JP ふう～、やっと解放されたぜ！
+EN Phew, finally free!
+
+@ 008.232
+# wrestler (voiced), used 2x
+JP エヘッ！
+JP 元気になったよ♪
+EN Hehe!
+EN I'm all better♪
+
+@ 008.239
+# wrestler (voiced), used 2x
+JP ただ今戻ってまいりましたわ。
+EN I have just returned.
+
+@ 008.246
+# wrestler (voiced), used 4x
+JP 戻りました…。
+EN I'm back...
+
+@ 008.253
+# wrestler (voiced), used 2x
+JP ゆっくりさせていただきました。
+EN I had a nice, long rest.
+
+@ 008.260
+# wrestler (voiced), used 2x
+JP やっと戻ってこれた～！
+EN I finally made it back!
+
+@ 008.267
+# wrestler (voiced), used 2x
+JP また、イチから鍛え直します！
+EN I'll rebuild myself from scratch!
+
+@ 008.274
+# wrestler (voiced), used 2x
+JP 休んでいた分取り返すつもりで
+JP がんばりますッ！
+EN I'll work hard to make up
+EN for the time I was out!
+
+@ 008.281
+# wrestler (voiced), used 2x
+JP ……えっと…ただいま……。
+EN ......Um... I'm back......
+
+@ 008.288
+# wrestler (voiced), used 2x
+JP 効果的なリハビリにより
+JP 能力のダウンは回避しています。
+EN Thanks to effective rehab,
+EN I avoided any drop in my abilities.
+
+@ 008.295
+# wrestler (voiced), used 2x
+JP 会いたかったよ！
+JP バンビーノ達！
+EN I missed you,
+EN my bambini!
+
+@ 008.302
+# wrestler (voiced), used 2x
+JP ……やっと退院…できました……。
+EN ......I finally... got out......
+
+@ 008.309
+# wrestler (voiced), used 2x
+JP これでやっと好きなもの
+JP 食べられる！
+EN Now I can finally eat
+EN whatever I want!
+
+@ 008.316
+# wrestler (voiced), used 2x
+JP ……社長！
+JP チューシャはもういやだぞ！
+EN ...Boss!
+EN No more shots, okay!
+
+@ 008.323
+# wrestler (voiced), used 2x
+JP 心配をおかけました。
+JP 今戻りました。
+EN Sorry to have worried you.
+EN I'm back now.
+
+@ 008.330
+# wrestler (voiced), used 2x
+JP ただいまー。
+JP ヒマでしゃあなかったわ～。
+EN I'm back.
+EN I was bored outta my skull~.
+
+@ 008.337
+# wrestler (voiced), used 2x
+JP ただいま～！
+JP …あ、いや、ただ今帰りました！
+EN I'm back~!
+EN ...Er, I mean, reporting back, sir!
+
+@ 008.344
+# wrestler (voiced), used 2x
+JP 復帰しました！
+JP がんばって休んでた分を
+JP 取り返します！
+EN I'm back!
+EN I'll work hard to make up
+EN for the time I was out!
+
+@ 008.351
+# wrestler (voiced), used 2x
+JP ただ今復帰しましたッ！
+JP ご心配おかけしました！
+EN Back in action, as of now!
+EN Sorry to have worried you!
+
+@ 008.358
+# wrestler (voiced), used 2x
+JP ご心配をおかけしましたが
+JP 今日から復帰します。
+EN Sorry to have worried you,
+EN but I'm back as of today.
+
+@ 008.365
+# wrestler (voiced), used 2x
+JP ご心配をおかけしました～。
+JP ゆっくり休ませていただきました～。
+EN Sorry to have worried you~.
+EN I got a nice, long rest~.
+
+@ 008.372
+# wrestler (voiced), used 2x
+JP たっだいまー！
+JP 帰ってきたよー、社長！
+JP さびしかった～？
+EN I'm hooome!
+EN I'm back, Boss!
+EN Did you miss me?
+
+@ 008.379
+# wrestler (voiced), used 2x
+JP あ～あ、また楽してーなぁ…。
+EN Aww, I wanna slack off again...
+
+@ 008.386
+# wrestler (voiced), used 2x
+JP もっと入院してたかったよ。
+EN I wish I could've stayed in longer.
+
+@ 008.393
+# wrestler (voiced), used 2x
+JP 社長、帰ったよ！
+JP 悪かったね。
+JP 心配かけて…。
+EN Boss, I'm back!
+EN Sorry about that.
+EN For making you worry...
+
+@ 008.400
+# wrestler (voiced), used 2x
+JP いま帰った…。
+EN I have returned...
+
+@ 008.407
+# wrestler (voiced), used 2x
+JP さあ…逆襲といこうじゃないか！
+EN Now... time for some payback!
+
+@ 008.414
+# wrestler (voiced), used 2x
+JP …………戻った……。
+EN ............Back......
+
+@ 008.421
+# wrestler (voiced), used 2x
+JP いま戻った…。
+EN I'm back...
+
+@ 008.428
+# wrestler (voiced)
+JP ヨ～シ、体も万全！
+JP 元気、ゲンキ！
+EN All riiight, my body's in top shape!
+EN Feeling fine, feeling great!
+
+@ 008.435
+# wrestler (voiced)
+JP 今日からまたよろしくね。
+EN I'm back as of today.
+EN Let's work together again!
+
+@ 008.442
+# wrestler (voiced)
+JP 今日から復帰だよ！
+EN I'm back as of today!
+
+@ 008.449
+# wrestler (voiced)
+JP ただ今復帰しました。
+JP ご迷惑おかけしました。
+EN I'm back in action.
+EN Sorry for the trouble.
+
+@ 008.456
+# wrestler (voiced)
+JP また練習できる……。
+EN I can train again......
+
+@ 008.463
+# wrestler (voiced), used 2x
+JP いま戻りました。
+EN I'm back now.
+
+@ 008.470
+# wrestler (voiced)
+JP 光、完全復活です。
+EN Hikaru is fully back.
+
+@ 008.477
+# wrestler (voiced)
+JP ほーほっほっほ！
+JP 前より元気になりましたわ！
+EN Oh-ho-ho-ho!
+EN I'm even livelier than before!
+
+@ 008.484
+# wrestler (voiced)
+JP 元気になりましたよ～。
+EN I'm all better~.
+
+@ 008.491
+# wrestler (voiced)
+JP 帰ってきたよー！
+EN I'm baaack!
+
+@ 008.498
+# wrestler (voiced)
+JP 戻ったよ。
+JP あ～、やっぱ病院って苦手だ！
+EN I'm back.
+EN Ugh, I just can't stand hospitals!
+
+@ 008.512
+# wrestler (voiced)
+JP 復帰しました！
+JP ご迷惑おかけしました！
+EN I'm back!
+EN Sorry for the trouble!
+
+@ 008.519
+# wrestler (voiced)
+JP ただいま～…。
+JP 全然眠れませんでした…。
+EN I'm back~...
+EN I couldn't sleep at all...
+
+@ 008.526
+# wrestler (voiced)
+JP またがんばります。
+EN I'll do my best again.

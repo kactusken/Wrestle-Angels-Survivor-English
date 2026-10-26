@@ -1,0 +1,97 @@
+{
+ "english": "WRESTLING / AWARDS",
+ "boxes": [
+  [
+   418,
+   130,
+   300,
+   92
+  ]
+ ],
+ "draw": "photos.draw",
+ "font": "BarlowCondensed-Black.ttf",
+ "cap": 40,
+ "lines": true,
+ "leading": 1.22,
+ "angle": -90,
+ "colour": "screen",
+ "screen": {
+  "poly": [
+   [
+    512,
+    20
+   ],
+   [
+    620,
+    20
+   ],
+   [
+    620,
+    335
+   ],
+   [
+    512,
+    335
+   ]
+  ],
+  "ink": "r >= 248 and g >= 175",
+  "lattice": [
+   [
+    8,
+    0
+   ],
+   [
+    4,
+    4
+   ]
+  ]
+ },
+ "erase": [
+  {
+   "poly": [
+    [
+     512,
+     20
+    ],
+    [
+     620,
+     20
+    ],
+    [
+     620,
+     335
+    ],
+    [
+     512,
+     335
+    ]
+   ],
+   "ink": "r >= 248 and g >= 175",
+   "close": 3,
+   "grow": 1,
+   "fill": "lattice",
+   "lattice": [
+    [
+     8,
+     0
+    ],
+    [
+     4,
+     4
+    ]
+   ],
+   "screen_x": 546
+  }
+ ],
+ "notes": "year-end awards backdrop: the vertical title プロレス大賞 down the right edge; the column's letters taken out (the halftone stripe rebuilt from its own dot lattice), English in two lines turned to read downwards, white with the original's halftone dots (tools/letter_ext/photos.py). Script: \"this year's Wrestling Awards\"; WAS2 PAR_SUBTIT14 has PRO WRESTLING AWARDS",
+ "catalogue": {
+  "source": "/A000/A009. (pieces, part 12)",
+  "width": 640,
+  "height": 448,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "プロレス大賞"
+ },
+ "align": "right",
+ "tracking": 3
+}

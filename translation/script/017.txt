@@ -1,0 +1,454 @@
+# Event script entry 017 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 017.46
+# Secretary
+JP {name:0}選手が
+JP 革命軍に加入したようです。
+EN {name:0} seems to have joined
+EN the Revolution Army.
+
+@ 017.58
+# wrestler (voiced), used 2x
+JP 頼まれたら
+JP 断りにくいじゃないですか～。
+EN When someone asks you, it's
+EN hard to say no, isn't it~.
+
+@ 017.66
+# wrestler (voiced), used 2x
+JP エヘヘッ！
+JP あたしってやっぱり
+JP 革命軍向きのキャラじゃない？
+EN Ehehe!
+EN Don't you think I'm just the
+EN type for a Revolution Army?
+
+@ 017.74
+# wrestler (voiced), used 2x
+JP 意義のある闘争ができそうですから。
+EN It looks like a fight worth
+EN fighting.
+
+@ 017.82
+# wrestler (voiced), used 2x
+JP 私としては参謀として
+JP 協力したいですね。
+EN I'd like to help out as
+EN their strategist.
+
+@ 017.90
+# wrestler (voiced), used 2x
+JP 私の力が必要なんだって！
+JP エヘヘッ。
+EN They said they need my strength!
+EN Ehehe.
+
+@ 017.98
+# wrestler (voiced), used 2x
+JP この拳が役に立つのなら…。
+EN If these fists can be of use...
+
+@ 017.106
+# wrestler (voiced), used 2x
+JP あたし自分の力を
+JP 試してみたいんです！
+EN I want to test
+EN what I can do!
+
+@ 017.114
+# wrestler (voiced), used 2x
+JP エヘヘッ。
+JP あたしスカウトされちゃったー！
+EN Ehehe.
+EN I got scouted!
+
+@ 017.122
+# wrestler (voiced), used 2x
+JP 私、革命軍さん
+JP 手伝っちゃいますね！
+EN I'm going to help out
+EN the Revolution Army!
+
+@ 017.130
+# wrestler (voiced), used 2x
+JP 私に向いているような
+JP 気がしましたので…。
+EN I felt like it suited
+EN me, so...
+
+@ 017.138
+# wrestler (voiced), used 2x
+JP あたしの性に合ってるかもね。
+EN Might be right up my alley.
+
+@ 017.146
+# wrestler (voiced), used 2x
+JP 革命軍お手伝いしちゃうよー！
+EN I'm gonna help the Revolution Army!
+
+@ 017.154
+# wrestler (voiced), used 2x
+JP やっぱり私がいなきゃ
+JP ダメでしょ～。
+EN They just can't do it
+EN without me~.
+
+@ 017.162
+# wrestler (voiced), used 2x
+JP ウフッ…。
+JP 新しい環境で自分の力を
+JP 試してみたくなったの。
+EN Ufufu...
+EN I wanted to test myself in
+EN a new environment.
+
+@ 017.170
+# wrestler (voiced), used 2x
+JP 土下座までされたら
+JP 断れませんわ。
+EN When they get down on their knees
+EN and beg, how could I possibly
+EN refuse?
+
+@ 017.178
+# wrestler (voiced), used 2x
+JP 「アイドル革命軍に参戦！」
+JP 見出しはこれで決まりね！
+EN "Idol Joins the Revolution Army!"
+EN That's the headline for sure!
+
+@ 017.186
+# wrestler (voiced), used 2x
+JP 私で役に立てるなら…。
+EN If I can be of use...
+
+@ 017.194
+# wrestler (voiced), used 2x
+JP 俺のパワーで押し切ってやるぜッ！
+EN I'll push right through with my
+EN power!
+
+@ 017.202
+# wrestler (voiced), used 2x
+JP 仕方ないからサポートしてやるか！
+EN Guess I've got no choice but to back
+EN 'em up!
+
+@ 017.210
+# wrestler (voiced), used 2x
+JP フフ…。
+JP 私の力を貸して欲しいそうよ。
+EN Heh...
+EN They want to borrow my strength.
+
+@ 017.218
+# wrestler (voiced), used 2x
+JP あたし自分の力を試してみますね。
+EN I'm going to test what I can do.
+
+@ 017.226
+# wrestler (voiced), used 2x
+JP あたしなんかでも
+JP 必要にされてるみたいだから…。
+EN It seems even someone like
+EN me is needed, so...
+
+@ 017.234
+# wrestler (voiced), used 2x
+JP はーいッ！
+JP あたし革命軍参加しちゃいまーす！
+EN Okaaay!
+EN I'm joining the Revolution Army!
+
+@ 017.242
+# wrestler (voiced), used 2x
+JP ボク革命がんばりますッ！
+EN I'll do my best at the revolution!
+
+@ 017.250
+# wrestler (voiced), used 2x
+JP ハッハハ…。
+JP まさに鬼に金棒ってやつだね。
+EN Hahaha...
+EN Like handing an ogre an iron club,
+EN huh?
+
+@ 017.258
+# wrestler (voiced), used 2x
+JP だって、お菓子がもらえるって。
+EN 'Cause they said I'd get candy.
+
+@ 017.266
+# wrestler (voiced), used 2x
+JP 私が加わってこそ
+JP 本当の革命が実現できますわ。
+EN Only with me can a true
+EN revolution be achieved.
+
+@ 017.274
+# wrestler (voiced), used 2x
+JP 私にはこちらの方が
+JP あっているようです…。
+EN This side seems to suit
+EN me better...
+
+@ 017.282
+# wrestler (voiced), used 2x
+JP 及ばずながら
+JP 力をお貸しすることにしました…。
+EN I've decided to lend what
+EN little strength I have...
+
+@ 017.290
+# wrestler (voiced), used 2x
+JP だって、こっちの方が
+JP 楽しそうじゃん。
+EN 'Cause this side looks
+EN like more fun.
+
+@ 017.298
+# wrestler (voiced), used 2x
+JP こっちの方がいい戦いが
+JP できそうなんです。
+EN I think I can have better
+EN fights over here.
+
+@ 017.306
+# wrestler (voiced), used 2x
+JP 革命あるところに真田ありッ！
+EN Wherever there's revolution,
+EN there's Sanada!
+
+@ 017.314
+# wrestler (voiced), used 2x
+JP ……革命軍…入った……。
+EN ......I joined... the Revolution
+EN Army......
+
+@ 017.322
+# wrestler (voiced), used 2x
+JP 私の加入で革命の成功率は
+JP 30％上昇します。
+EN With me on board, the revolution's
+EN success rate rises by 30%.
+
+@ 017.330
+# wrestler (voiced), used 2x
+JP たとえ革命という業火に
+JP この身を焼かれても…。
+EN Even if the hellfire of revolution
+EN should burn me...
+
+@ 017.338
+# wrestler (voiced), used 2x
+JP ……だって…誘われたから……。
+EN ......'Cause... they invited
+EN me......
+
+@ 017.346
+# wrestler (voiced), used 2x
+JP ボク革命軍で戦うって
+JP 決めたんだ！
+EN I've decided to fight with the
+EN Revolution Army!
+
+@ 017.354
+# wrestler (voiced), used 2x
+JP カクメイグンは
+JP 楽しいって聞いたぞ！
+EN I heard the Revolution Army
+EN is fun!
+
+@ 017.362
+# wrestler (voiced), used 2x
+JP これも仕事ですね…。
+EN This is part of the job too...
+
+@ 017.370
+# wrestler (voiced), used 2x
+JP そんな気分のときもあるやん。
+EN Sometimes you're just in that mood.
+
+@ 017.378
+# wrestler (voiced), used 2x
+JP だって革命軍の方が
+JP 大人っぽい感じがするし。
+EN 'Cause the Revolution Army
+EN feels more grown-up.
+
+@ 017.386
+# wrestler (voiced), used 2x
+JP ちーちゃん…。
+JP あたしに力を貸して！
+EN Chii...
+EN Lend me your strength!
+
+@ 017.394
+# wrestler (voiced), used 2x
+JP ヒロインは常に戦い続けねばッ！
+EN A heroine must always keep fighting!
+
+@ 017.402
+# wrestler (voiced), used 2x
+JP 革命のための礎となりましょう！
+EN I'll be a cornerstone of the
+EN revolution!
+
+@ 017.410
+# wrestler (voiced), used 2x
+JP あらあら…。
+JP 革命軍入っちゃいました～。
+EN Oh dear...
+EN I've joined the Revolution Army~.
+
+@ 017.418
+# wrestler (voiced), used 2x
+JP ムフフ～！
+JP こっちの方が面白そう～。
+EN Mufufu~!
+EN This side looks more fun~.
+
+@ 017.426
+# wrestler (voiced), used 2x
+JP 暴れられるなら
+JP いくらでも力貸してやるよ！
+EN If I get to raise hell, I'll lend
+EN you all the muscle you want!
+
+@ 017.434
+# wrestler (voiced), used 2x
+JP あたしの力が必要だってさ。
+JP よくわかってるじゃないか。
+EN They say they need my strength.
+EN They know what's good for 'em.
+
+@ 017.442
+# wrestler (voiced), used 2x
+JP やっぱりあたしの力が必要だってさ。
+EN Turns out they need my strength
+EN after all.
+
+@ 017.450
+# wrestler (voiced), used 2x
+JP 助太刀を頼まれては断れまい…。
+EN When asked to lend my sword,
+EN I cannot refuse...
+
+@ 017.458
+# wrestler (voiced), used 2x
+JP ヘッヘヘへ！
+JP リングを血の海にできれば
+JP いいんだよ！
+EN Heh heh heh heh!
+EN As long as I can turn the ring
+EN into a sea of blood, I'm happy!
+
+@ 017.474
+# wrestler (voiced)
+JP 自分の力を試せるなら…。
+EN If I can test my strength...
+
+@ 017.482
+# wrestler (voiced)
+JP 私、革命軍に
+JP 入ってみようかなーって…。
+EN I thought maybe I'd try
+EN joining the Revolution Army...
+
+@ 017.490
+# wrestler (voiced)
+JP 要するに
+JP 私の力が必要ってことでしょ。
+EN In other words, they
+EN need my strength.
+
+@ 017.498
+# wrestler (voiced)
+JP 私、革命の協力するよ！
+EN I'll help with the revolution!
+
+@ 017.506
+# wrestler (voiced)
+JP 私の統率力を
+JP 存分に発揮できそうです。
+EN I can make full use of my
+EN leadership here.
+
+@ 017.514
+# wrestler (voiced)
+JP 革命軍に入った……。
+JP これも運命……。
+EN I joined the Revolution Army......
+EN This is fate too......
+
+@ 017.522
+# wrestler (voiced)
+JP わたし革命軍の一員になります。
+EN I'm becoming a member of the
+EN Revolution Army.
+
+@ 017.530
+# wrestler (voiced)
+JP 光、革命軍で燃え尽きる覚悟です！
+EN Hikaru is ready to burn out
+EN with the Revolution Army!
+
+@ 017.538
+# wrestler (voiced)
+JP まったく…。
+JP わたくしなしでは
+JP なんにもできないんですのね。
+EN Honestly...
+EN You can't do a thing
+EN without me, can you.
+
+@ 017.546
+# wrestler (voiced)
+JP あらら～。
+JP 革命軍に入っちゃいました～。
+EN Oh my~.
+EN I've joined the Revolution Army~.
+
+@ 017.554
+# wrestler (voiced)
+JP ボクのパワーは革命軍でこそ
+JP 活かせると思うんだ！
+EN I think my power will really
+EN shine in the Revolution Army!
+
+@ 017.562
+# wrestler (voiced)
+JP こっちの方がアタシの力が
+JP 発揮できそうだしな！
+EN I'll get to show what I can
+EN really do over here!
+
+@ 017.570
+# wrestler (voiced)
+JP たとえその道が険しくても
+JP 革命の道を進むのみです！
+EN Even if the path is steep,
+EN I'll follow the road of revolution!
+
+@ 017.578
+# wrestler (voiced)
+JP 私だって力になれるはずです！
+EN I know I can help too!
+
+@ 017.586
+# wrestler (voiced)
+JP だってスカウトされたんだもんッ！
+EN 'Cause I got scouted!
+
+@ 017.594
+# wrestler (voiced)
+JP 私のパワーが役立つなら…。
+EN If my power can be of use...

@@ -1,0 +1,25 @@
+{
+ "english": "Flora Ogawa",
+ "boxes": [
+  [
+   0,
+   0,
+   176,
+   22
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 15,
+ "draw": "names.draw",
+ "mode": "strip",
+ "notes": "name strip under the wrestler in a match (tools/namegfx.py)",
+ "catalogue": {
+  "source": "/A040/A041. part 71",
+  "width": 256,
+  "height": 32,
+  "bpp": 4,
+  "category": "name",
+  "japanese": "フローラ小川"
+ }
+}

@@ -1,0 +1,133 @@
+# Event script entry 055 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 055.88
+# wrestler (voiced), case 0, used 6x
+JP お呼びですか、社長？
+EN You called for me, Boss?
+
+@ 055.94
+# President, case 0, used 2x
+JP …ああ。
+JP いきなりだがお前に
+JP 写真集のオファーが来ている。
+EN ...Yeah. Out of the blue, but you've
+EN gotten an offer for a photo book.
+
+@ 055.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集？
+JP 内容は？
+EN ...A photo book?
+EN What kind?
+
+@ 055.108
+# President, case 0, used 2x
+JP 水着の写真集だ。
+JP 受けたいと思っているが
+JP やってくれるか？
+EN A swimsuit photo book. I'd like to
+EN accept. Will you do it?
+
+@ 055.116
+# wrestler (voiced), case 0, used 2x
+JP そのような依頼なら
+JP 他に適任の選手がいるのでは？
+EN For an offer like that, isn't there
+EN another wrestler better suited?
+
+@ 055.122
+# President, case 0, used 2x
+JP 先方はお前を指名してきたんだ。
+EN They asked for you by name.
+
+@ 055.138
+# wrestler (voiced), case 0, used 2x
+JP 私を…指名…？
+EN They asked... for me...?
+
+@ 055.144
+# President, case 0, used 38x
+JP ああ、そうだ。
+EN Yeah, that's right.
+
+@ 055.152
+# wrestler (voiced), case 0, used 2x
+JP …わかりました。
+JP 先方がそう見込んでくださったのなら
+JP 全力を尽くします。
+EN ...Understood. If they have that
+EN much faith in me, I'll give it
+EN everything I've got.
+
+@ 055.171
+# President, case 0, used 2x
+JP （カメラマン）
+JP いいねぇ、その笑顔。
+JP 本当に楽しそうだねぇ。
+EN (Photographer)
+EN Love that smile.
+EN You look like you're having fun.
+
+@ 055.184
+# President, case 0, used 24x
+JP （カメラマン）
+JP いいね～、その雰囲気。
+JP 神秘的だよ～。
+EN (Photographer)
+EN Love that atmosphere.
+EN So mysterious!
+
+@ 055.197
+# President, case 0, used 18x
+JP （カメラマン）
+JP その柔らかい微笑み
+JP たまらないねぇ～。
+EN (Photographer)
+EN That soft little smile...
+EN It's irresistible!
+
+@ 055.245
+# President, case 0, used 2x
+JP …すごいな。
+JP ここまでお前の魅力が
+JP 引き出されるとは…。
+EN ...Amazing. I never thought they
+EN could bring out your charm
+EN this much...
+
+@ 055.254
+# wrestler (voiced), case 0, used 5x
+JP ありがとうございます！
+EN Thank you very much!
+
+@ 055.262
+# wrestler (voiced), case 0, used 2x
+JP エヘッ…でも自信なかったんですよ。
+JP オファーもらった日にあわてて書店で
+JP 写真集を買って研究したんです。
+EN Ehe... I wasn't confident at all.
+EN I rushed out and bought photo
+EN books to study that very day.
+
+@ 055.268
+# President, case 0, used 2x
+JP そうか。
+JP でもホントにすごいよ。
+JP アイドルにも全然負けてない。
+EN I see. But it's really amazing.
+EN You're every bit as good as an idol.
+
+@ 055.276
+# wrestler (voiced), case 0, used 2x
+JP 社長にそう言ってもらえると
+JP うれしいですね…。
+EN It makes me happy to hear
+EN you say that, Boss...

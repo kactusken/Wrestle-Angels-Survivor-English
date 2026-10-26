@@ -1,0 +1,154 @@
+# Event script entry 087 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 087.88
+# wrestler (voiced), case 0, used 2x
+JP ……よ…呼んだ……？
+EN ......Y-you...called......?
+
+@ 087.94
+# President, case 0, used 2x
+JP ああ、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ていてな。
+EN Ah, you're here. Actually, there's
+EN an offer for a photo book of you.
+
+@ 087.102
+# wrestler (voiced), case 0, used 2x
+JP ……しゃ、写真集……？
+EN ......A ph-photo book......?
+
+@ 087.130
+# wrestler (voiced), case 0, used 2x
+JP ……あの……。
+EN ......Um......
+
+@ 087.144
+# wrestler (voiced), case 0, used 2x
+JP ……ヌ…ヌード……？
+EN ......N-nude......?
+
+@ 087.150
+# President, case 0, used 2x
+JP いや、水着だよ。
+JP アイドルの写真集みたいなヤツだ。
+EN No, swimsuits. Like an idol's
+EN photo book.
+
+@ 087.158
+# wrestler (voiced), case 0, used 2x
+JP ……アイドル……。
+EN ......An idol......
+
+@ 087.186
+# wrestler (voiced), case 0, used 2x
+JP ……私は…アイドルみたいに
+JP ……かわいくない……。
+EN ......I'm not...cute like
+EN ......an idol......
+
+@ 087.192
+# President, case 0, used 4x
+JP そんなことないぞ。
+EN That's not true.
+
+@ 087.199
+# other, case 0, used 2x
+JP ……うそ……。
+EN ......Liar......
+
+@ 087.207
+# President, case 0, used 2x
+JP 本当だって。
+JP アイドルとは別かもしれないが
+JP お前は十分魅力的だ。
+EN It's the truth. Maybe it's not the
+EN same as an idol, but you're plenty
+EN attractive.
+
+@ 087.221
+# President, case 0, used 2x
+JP イヤか？
+JP それなら無理強いはしないが…。
+EN Don't want to? Then I won't
+EN force you...
+
+@ 087.229
+# wrestler (voiced), case 0, used 2x
+JP ……しゃ、社長は……？
+EN ......B-Boss......?
+
+@ 087.235
+# President, case 0, used 4x
+JP …なんだ？
+EN ...What is it?
+
+@ 087.243
+# wrestler (voiced), case 0, used 2x
+JP ……社長は…写真集…出したい……？
+EN ......Do you...want me...to do
+EN ...the photo book......?
+
+@ 087.249
+# President, case 0, used 2x
+JP ああ、そうだな…。
+EN Yeah, well...
+
+@ 087.271
+# wrestler (voiced), case 0, used 2x
+JP ……なら、やる……。
+EN ......Then...I'll do it......
+
+@ 087.368
+# wrestler (voiced), case 0, used 2x
+JP ……どうだったかな……？
+EN ......How was it......?
+
+@ 087.374
+# President, case 0, used 2x
+JP バッチリだ。
+JP とても綺麗だったよ。
+EN Perfect. You looked beautiful.
+
+@ 087.383
+# wrestler (voiced), case 0, used 2x
+JP ……ホント……？
+EN ......Really......?
+
+@ 087.389
+# President, case 0, used 2x
+JP ああ、本当だ。
+EN Yeah, really.
+
+@ 087.397
+# wrestler (voiced), case 0, used 2x
+JP ……お世辞じゃ…ない……？
+EN ......You're not...just flattering
+EN me......?
+
+@ 087.403
+# President, case 0, used 2x
+JP お世辞じゃない。
+JP 疑うなら自分で見てみろ。
+EN I'm not. If you doubt me, look
+EN for yourself.
+
+@ 087.417
+# President, case 0, used 2x
+JP …な？
+EN ...See?
+
+@ 087.438
+# wrestler (voiced), case 0, used 2x
+JP ……社長の言うとおりにして
+JP ……良かった……。
+EN ......I'm glad...I did what
+EN ......you said, Boss......

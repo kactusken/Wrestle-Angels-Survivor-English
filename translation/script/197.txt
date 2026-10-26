@@ -1,0 +1,267 @@
+# Event script entry 197 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 197.94
+# President, used 2x
+JP （あれは斉藤…？
+JP トレーニングウェアのまま？）
+EN (Is that Saito...?
+EN Still in her training clothes?)
+
+@ 197.109
+# other, used 2x
+JP はぁッ！
+JP たぁーーッ！
+EN Haah!
+EN Taaah!
+
+@ 197.116
+# President, used 2x
+JP （こんな所でも特訓か？）
+EN (Special training even here?)
+
+@ 197.118
+# President, used 2x
+JP おーい、斉藤。
+JP 今はバカンスに来てるんだぞ？
+EN Hey, Saito.
+EN We're on vacation, you know?
+
+@ 197.124
+# other, used 2x
+JP そうですが…。
+JP 自分に…遊んでいる…
+JP 暇はありませんからー！
+EN I know, but...
+EN I don't have... time...
+EN to play around!
+
+@ 197.131
+# President, used 2x
+JP こんな炎天下で練習しすぎると
+JP 倒れるぞ…。
+EN Train too hard under this
+EN blazing sun and you'll collapse...
+
+@ 197.133
+# President, used 2x
+JP （こういう場所は
+JP 慣れてないだろうし…。）
+EN (She's probably not used to
+EN a place like this...)
+
+@ 197.139
+# other, used 2x
+JP はッ！
+JP やぁッ！
+EN Hah!
+EN Yah!
+
+@ 197.142
+# wrestler (voiced), used 2x
+JP や…う……。
+EN Ya... uh......
+
+@ 197.159
+# President, used 2x
+JP おい、斉藤！
+JP 大丈夫か？
+JP ほら、水だ。
+EN Hey, Saito!
+EN Are you OK?
+EN Here, have some water.
+
+@ 197.173
+# other, used 2x
+JP す…すみません…。
+EN S... sorry...
+
+@ 197.180
+# President, used 2x
+JP お前なあ…。
+JP くつろぐことも大事なんだぞ。
+EN Look...
+EN Relaxing is important too.
+
+@ 197.186
+# other, used 2x
+JP …申し訳ありません……。
+EN ...My apologies......
+
+@ 197.193
+# President, used 2x
+JP 今日はもうホテルに帰って休め。
+JP それで明日は海で泳げ。
+EN Go back to the hotel and rest today.
+EN Then tomorrow, go swim in the sea.
+
+@ 197.202
+# other, used 2x
+JP …しかし……。
+EN ...But......
+
+@ 197.209
+# President, used 2x
+JP またこうなったら大変だろう。
+JP これは社長命令だ。
+EN It'd be bad if this happened again.
+EN That's an order from the president.
+
+@ 197.218
+# other, used 2x
+JP はあ…。
+JP しかし…。
+EN Well...
+EN But...
+
+@ 197.225
+# President, used 2x
+JP しかし、なんだ？
+EN But what?
+
+@ 197.234
+# other, used 2x
+JP 私は水着姿に自信が…。
+EN I'm not confident in a swimsuit...
+
+@ 197.257
+# President, used 2x
+JP （翌日、斉藤は言われた通り
+JP 水着で浜辺にやって来た。）
+EN (The next day, as told, Saito
+EN came to the beach in a swimsuit.)
+
+@ 197.270
+# other, used 2x
+JP あの…社長…。
+JP 私の格好おかしくないでしょうか？
+EN Um... Boss...
+EN Do I look strange?
+
+@ 197.277
+# President, used 2x
+JP いや、よく似合ってるよ。
+EN No, it really suits you.
+
+@ 197.283
+# other, used 2x
+JP そう言われたら、そう言われたで
+JP 困るものですね…。
+EN Being told that is...
+EN awkward in its own way...
+
+@ 197.290
+# President, used 2x
+JP 困ることはないさ。
+JP でも、お前がそういう水着を
+JP 持っていたとは意外だな。
+EN Nothing awkward about it.
+EN But I'm surprised you own
+EN a swimsuit like that.
+
+@ 197.296
+# other, used 2x
+JP あ…いえ…これは……。
+EN Ah... no... this is......
+
+@ 197.299
+# wrestler (voiced), used 2x
+JP 以前に他の選手と買い物に行って
+JP 自分では選べないので
+JP 見つくろってもらったというか…。
+EN I went shopping with the others,
+EN and since I couldn't choose,
+EN they picked it out for me...
+
+@ 197.306
+# President, used 2x
+JP なるほどな。
+EN I see.
+
+@ 197.312
+# other, used 2x
+JP あの…やっぱり
+JP 変じゃないでしょうか？
+EN Um... I really
+EN don't look strange?
+
+@ 197.319
+# President, used 2x
+JP 変じゃないって。
+JP 綺麗だよ。
+EN You don't look strange.
+EN You look beautiful.
+
+@ 197.332
+# President, used 2x
+JP （こんな弱気なのも珍しいな。
+JP 普段の気の強さは
+JP 空手着に詰まってるのか。）
+EN (It's rare to see her so timid.
+EN Guess all her usual toughness
+EN lives in her karate gi.)
+
+@ 197.338
+# other, used 2x
+JP で、でも、やはり心許ないというか。
+JP その…正直恥ずかしいというか…。
+EN B-but I still feel exposed.
+EN To be honest... it's embarrassing...
+
+@ 197.345
+# President, used 2x
+JP そんなに気になるなら海に入るか？
+JP そうすれば気にならなくなる。
+EN If it bothers you that much, how
+EN about getting in the water? Then
+EN you won't notice it.
+
+@ 197.354
+# wrestler (voiced), used 2x
+JP ほ、本当に変じゃないですか？
+EN I-I really don't look strange?
+
+@ 197.361
+# President, used 2x
+JP 本当に綺麗だって。
+EN You really look beautiful.
+
+@ 197.367
+# other, used 2x
+JP いや…。
+JP でも…そんな……。
+EN No...
+EN But... that's......
+
+@ 197.374
+# President, used 2x
+JP 俺が信じられないのか？
+EN You don't believe me?
+
+@ 197.380
+# other, used 2x
+JP い、いえ！
+JP そういうわけでは…。
+EN N-no!
+EN It's not that...
+
+@ 197.387
+# President, used 2x
+JP 試合の時の半分でもいいから
+JP 自信をもてって…。
+JP さ、いくぞ。
+EN Have even half the confidence
+EN you have in a match...
+EN Come on, let's go.
+
+@ 197.393
+# other, used 2x
+JP は、はい…。
+EN Y-yes...

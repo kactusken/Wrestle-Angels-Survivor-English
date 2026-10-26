@@ -1,0 +1,486 @@
+# Event script entry 262 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 262.69
+# Secretary, case 8
+JP サイン会を開催します。
+JP 多くのファンの方が来てくださると
+JP いいですね！
+EN We're holding an autograph session.
+EN I hope lots of fans come out!
+
+@ 262.92
+# wrestler (voiced), case 8, used 2x
+JP いつも応援してくれて
+JP ありがとうございます～。
+EN Thank you for always
+EN supporting me~
+
+@ 262.101
+# wrestler (voiced), case 8, used 2x
+JP みんなありがとー！
+JP これからも応援ヨロシクッ！
+EN Thanks, everyone!
+EN Keep on cheering for me!
+
+@ 262.110
+# wrestler (voiced), case 8, used 2x
+JP ……あ…ありがとう…。
+EN ...Th...thank you...
+
+@ 262.119
+# wrestler (voiced), case 8, used 2x
+JP いつも応援
+JP ありがとうございます！
+EN Thank you for
+EN always supporting me!
+
+@ 262.128
+# wrestler (voiced), case 8, used 6x
+JP みんな、ありがとー！
+EN Thanks, everyone!
+
+@ 262.136
+# other, case 8, used 2x
+JP …はい…。
+JP どうも……。
+EN ...Yes...
+EN Thanks...
+
+@ 262.146
+# wrestler (voiced), case 8, used 2x
+JP みんな、ありがとう！
+JP 愛してるよー！
+EN Thanks, everyone!
+EN I love you!
+
+@ 262.155
+# wrestler (voiced), case 8, used 2x
+JP みんな、ありがと～！
+JP エヘヘッ。
+EN Thanks, everyone!
+EN Ehehe.
+
+@ 262.164
+# wrestler (voiced), case 8, used 2x
+JP 人がいっぱい…。
+JP やっぱり照れますねぇ。
+JP あ、ありがとうございます！
+EN So many people...
+EN It's kind of embarrassing.
+EN Oh, th-thank you!
+
+@ 262.173
+# wrestler (voiced), case 8, used 2x
+JP …ど、どうも…。
+JP …あ、ありがとうございます…。
+EN ...Th-thanks...
+EN ...Th-thank you very much...
+
+@ 262.182
+# wrestler (voiced), case 8, used 2x
+JP ありがとう。
+JP これからもよろしく…。
+EN Thank you.
+EN Keep supporting me...
+
+@ 262.191
+# wrestler (voiced), case 8, used 2x
+JP わぁ～い！
+JP みんな、ありがとにゃん！
+EN Yaaay!
+EN Thanks, everyone, nya!
+
+@ 262.200
+# wrestler (voiced), case 8, used 2x
+JP わーい！
+JP ありがとう！
+JP これからもよろしくッ！
+EN Yay!
+EN Thank you!
+EN Keep supporting me!
+
+@ 262.209
+# wrestler (voiced), case 8, used 2x
+JP ありがとうございます。
+JP がんばりますね！
+EN Thank you very much.
+EN I'll do my best!
+
+@ 262.218
+# wrestler (voiced), case 8, used 2x
+JP サインしてあげてもよろしくってよ！
+JP 光栄に思いなさい。
+EN I suppose I could give you an
+EN autograph!
+EN Consider yourself honored.
+
+@ 262.227
+# wrestler (voiced), case 8, used 2x
+JP ありがとう！
+JP これからも応援よろしくね！
+EN Thank you!
+EN Keep on cheering for me!
+
+@ 262.236
+# wrestler (voiced), case 8, used 2x
+JP ありがとう。
+JP これからも応援よろしくね！
+EN Thank you.
+EN Keep on cheering for me!
+
+@ 262.245
+# wrestler (voiced), case 8, used 2x
+JP ありがと！
+JP 応援よろしくな！
+EN Thanks!
+EN Keep cheering for me!
+
+@ 262.254
+# wrestler (voiced), case 8, used 2x
+JP エヘヘッ！
+JP いつもありがとう！
+EN Ehehe!
+EN Thanks for everything!
+
+@ 262.263
+# wrestler (voiced), case 8, used 2x
+JP …ありがとう…。
+JP ありがとう…。
+EN ...Thank you...
+EN Thank you...
+
+@ 262.272
+# wrestler (voiced), case 8, used 2x
+JP ありがとう。
+JP これからも応援よろしくね。
+EN Thank you.
+EN Please keep supporting me.
+
+@ 262.281
+# wrestler (voiced), case 8, used 2x
+JP どうもありがとう。
+EN Thank you very much.
+
+@ 262.290
+# wrestler (voiced), case 8, used 2x
+JP どうも、どうも！
+JP ありがとうねッ！
+EN Thanks, thanks!
+EN Thank you so much!
+
+@ 262.299
+# wrestler (voiced), case 8, used 2x
+JP はいッ、はいッ！
+JP ありがとうございますッ！
+EN Yes, yes!
+EN Thank you very much!
+
+@ 262.308
+# wrestler (voiced), case 8, used 2x
+JP おめーらも気合入れろよ！
+JP わかったか？
+EN You guys better fire yourselves up
+EN too!
+EN Got it?
+
+@ 262.326
+# wrestler (voiced), case 8, used 2x
+JP 光栄ですわ。
+JP 一人一人キスして
+JP 差し上げたいくらい。
+EN I'm honored.
+EN I'd like to give each and every one
+EN of you a kiss.
+
+@ 262.335
+# wrestler (voiced), case 8, used 2x
+JP …どうも…ありがとう…。
+EN ...Thank you... very much...
+
+@ 262.344
+# wrestler (voiced), case 8, used 2x
+JP どうもありがとうございます。
+EN Thank you very much.
+
+@ 262.353
+# wrestler (voiced), case 8, used 2x
+JP みんな、どうもありがとう！
+EN Thank you all so much!
+
+@ 262.362
+# wrestler (voiced), case 8, used 2x
+JP どうもありがとうございますッ！
+EN Thank you so very much!
+
+@ 262.371
+# wrestler (voiced), case 8, used 2x
+JP ありがとうございます！
+JP 自分、感激ッス！
+EN Thank you very much!
+EN I'm so moved!
+
+@ 262.380
+# wrestler (voiced), case 8, used 2x
+JP ……カキカキ…と……。
+JP ……はい次…カキカキ……。
+EN ...Scribble scribble... there...
+EN ...Next, please... scribble...
+
+@ 262.389
+# wrestler (voiced), case 8, used 2x
+JP あまり無駄な時間は
+JP 消費したくはないのですが…。
+JP …あ、そこ順番にお願いします。
+EN I'd rather not waste
+EN too much time...
+EN ...Ah, please line up in order.
+
+@ 262.398
+# wrestler (voiced), case 8, used 2x
+JP さあ、受け取るがいい！
+JP この筆に込めた真の愛を！
+EN Now, receive it!
+EN The true love I've put into this
+EN pen!
+
+@ 262.407
+# wrestler (voiced), case 8, used 2x
+JP ……あ…ど…どうも……。
+EN ...Ah... th... thanks...
+
+@ 262.425
+# wrestler (voiced), case 8, used 2x
+JP それで真帆は
+JP 何を書けばいいんだ？
+EN So what's Maho
+EN supposed to write?
+
+@ 262.443
+# wrestler (voiced), case 8, used 2x
+JP ありがと～！
+JP がんばるよー！
+EN Thanks!
+EN I'll do my best!
+
+@ 262.452
+# wrestler (voiced), case 8, used 2x
+JP はい、はいッ！
+JP ありがとうッ…ございます！
+EN Yes, yes!
+EN Thank... you very much!
+
+@ 262.461
+# wrestler (voiced), case 8, used 2x
+JP は、はいッ！
+JP あの、ありがとうございます！
+JP 応援よろしくお願いします！
+EN Y-yes!
+EN Um, thank you very much!
+EN Please keep supporting me!
+
+@ 262.470
+# wrestler (voiced), case 8, used 2x
+JP はいッ、はいッ！
+JP こちらこそ感激です！
+JP がんばります！
+EN Yes, yes!
+EN I'm the one who's moved!
+EN I'll do my best!
+
+@ 262.479
+# wrestler (voiced), case 8, used 2x
+JP ありがとう。
+JP …あ、ちょっと今のサイン
+JP フォルムが崩れたので書き直します。
+EN Thank you.
+EN ...Oh, the form of that signature
+EN was off. Let me redo it.
+
+@ 262.488
+# wrestler (voiced), case 8, used 2x
+JP がんばります～。
+JP ありがとうございます～。
+EN I'll do my best~
+EN Thank you very much~
+
+@ 262.497
+# wrestler (voiced), case 8, used 2x
+JP ありがとう。
+JP 応援してね！
+EN Thank you.
+EN Keep cheering for me!
+
+@ 262.506
+# wrestler (voiced), case 8, used 2x
+JP めんどくせーなぁ！
+JP コピー機用意しろよ！
+EN What a pain!
+EN Somebody get me a copy machine!
+
+@ 262.515
+# wrestler (voiced), case 8, used 2x
+JP …サイン？
+JP めんどくせーなぁ…。
+JP コピー機使っていいか？
+EN ...Autographs?
+EN What a pain...
+EN Can I use a copy machine?
+
+@ 262.524
+# wrestler (voiced), case 8, used 2x
+JP ありがたいねぇ。
+JP 応援、夜露死苦ッ！
+EN Much obliged.
+EN Keep backin' me, y'hear!
+
+@ 262.533
+# wrestler (voiced), case 8, used 2x
+JP ありがとう…。
+JP ありがとう。
+EN Thank you...
+EN Thank you.
+
+@ 262.542
+# wrestler (voiced), case 8, used 2x
+JP お前らの血で
+JP サインを書いてやろうか？
+EN Want me to sign it
+EN in your blood?
+
+@ 262.560
+# wrestler (voiced), case 8
+JP ありがとう…。
+JP よろしく…。
+EN Thank you...
+EN Nice to meet you...
+
+@ 262.569
+# wrestler (voiced), case 8
+JP ファンの皆さんに感謝、カンシャ！
+EN Thanks, thanks to all my fans!
+
+@ 262.578
+# wrestler (voiced), case 8
+JP ありがとう。
+JP これからも応援してね。
+EN Thank you.
+EN Keep supporting me.
+
+@ 262.587
+# wrestler (voiced), case 8
+JP はーい！
+JP みんなありがとー！
+JP これからもよろしくねー！
+EN Okaaay!
+EN Thanks, everyone!
+EN Keep cheering for me!
+
+@ 262.596
+# wrestler (voiced), case 8
+JP ありがとうございます。
+JP これからも応援よろしくお願いします。
+EN Thank you very much.
+EN I hope you'll keep supporting me.
+
+@ 262.605
+# wrestler (voiced), case 8
+JP ありがとう……。
+JP ありがとう……。
+EN Thank you...
+EN Thank you...
+
+@ 262.614
+# wrestler (voiced), case 8
+JP ありがとうございますー！
+JP がんばりますねッ！
+EN Thank you so much!
+EN I'll do my best!
+
+@ 262.623
+# wrestler (voiced), case 8
+JP みんなー燃えてるかーッ！
+EN Is everyone fired uuup!?
+
+@ 262.632
+# wrestler (voiced), case 8
+JP さあ、美しいわたくしのために
+JP 跪きなさい。
+EN Now, kneel before
+EN the beautiful me.
+
+@ 262.641
+# wrestler (voiced), case 8
+JP 拇印でもいいですか～？
+JP …ダメですか～…。
+EN Can I just use my thumbprint~?
+EN ...No~?
+
+@ 262.650
+# wrestler (voiced), case 8
+JP これからも応援よろしく！
+EN Keep cheering for me!
+
+@ 262.659
+# wrestler (voiced), case 8
+JP アタシの人気の
+JP バラメータってやつ？
+JP エッヘへッ！
+EN It's like a... parameter
+EN of my popularity, right?
+EN Ehehe!
+
+@ 262.663
+# wrestler (voiced), case 8
+JP ……は？
+JP バロメータ…？
+EN ...Huh?
+EN Barometer...?
+
+@ 262.672
+# wrestler (voiced), case 8
+JP 応援ありがとうございます。
+JP これからもよろしくお願いします。
+EN Thank you for your support.
+EN I hope you'll stay with me.
+
+@ 262.681
+# wrestler (voiced), case 8
+JP ありがとうございます！
+JP これからも応援よろしく
+JP お願いします！
+EN Thank you very much!
+EN Please keep on
+EN supporting me!
+
+@ 262.690
+# wrestler (voiced), case 8
+JP ハイッ！
+JP ありがとう！
+JP これからもがんばります！
+EN Yes!
+EN Thank you!
+EN I'll keep doing my best!
+
+@ 262.699
+# wrestler (voiced), case 8
+JP おら～ッ！
+JP ちゃんと並べぇーッ！
+EN Oraaa!
+EN Line up right, ya hear!?
+
+@ 262.1190
+# Secretary, case 8
+JP サイン会を行った選手と、
+JP {name:1}での我が団体の人気度が
+JP アップしました。
+EN The autograph session raised the
+EN popularity of her and our
+EN promotion in {name:1}.

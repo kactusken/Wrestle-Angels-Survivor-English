@@ -1,0 +1,76 @@
+{
+ "english": "IN THE RED",
+ "boxes": [
+  [
+   344,
+   37,
+   88,
+   24
+  ]
+ ],
+ "draw": "photos.draw",
+ "font": "BarlowCondensed-Black.ttf",
+ "cap": 14,
+ "tracking": 0.5,
+ "angle": 31,
+ "colour": [
+  241,
+  88,
+  36
+ ],
+ "erase": [
+  {
+   "poly": [
+    [
+     338,
+     58
+    ],
+    [
+     415,
+     15
+    ],
+    [
+     432,
+     44
+    ],
+    [
+     355,
+     87
+    ]
+   ],
+   "ink": "r > 200 and g < 246 and (g < 150 or b >= g - 12)",
+   "grow": 1
+  },
+  {
+   "poly": [
+    [
+     335,
+     56
+    ],
+    [
+     415,
+     11
+    ],
+    [
+     435,
+     46
+    ],
+    [
+     355,
+     91
+    ]
+   ],
+   "ink": "r > 200 and g < 246 and b >= g - 12",
+   "grow": 1
+  }
+ ],
+ "notes": "monthly-deficit event banner: the red stamp 赤字 (in the red); kanji painted out of the stamp, English in the stamp's red along its slant (tools/letter_ext/photos.py)",
+ "catalogue": {
+  "source": "/A000/A00E. (pieces, part 3)",
+  "width": 512,
+  "height": 128,
+  "bpp": 8,
+  "category": "banner",
+  "japanese": "赤字"
+ }
+}

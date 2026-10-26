@@ -1,0 +1,10 @@
+{
+ "english": "Yr | Mo | =",
+ "boxes": [[70, 106, 43, 22], [154, 106, 23, 22], [168, 123, 9, 5]],
+ "font": "BarlowSemiCondensed-Bold.ttf",
+ "cap": 14,
+ "align": "left",
+ "groups": [{"labels": [0, 1], "draw": "audit.draw", "fill": [255, 241, 247, 252], "grad": false, "ground": "rows", "ground_cols": [120, 150], "ground_skip": [255, 241, 247, 252, 176, 214, 192, 162, 231, 201, 222, 189, 119, 76, 146, 51, 52, 81, 143, 181, 186, 209, 159, 178, 185, 193, 205], "reach": 2, "ring": [176, 176]}, {"labels": [2], "draw": "system.draw", "ground": "keep", "fill": [255, 255, 255], "repaint": [{"rect": [169, 123, 8, 5], "index": 229}, {"rect": [168, 123, 1, 5], "index": 205}]}],
+ "notes": "HUD clock: <n> Yr <n> Mo (the game draws the numbers in front). The third box only repaints the bright end of the bar that 月 covered",
+ "catalogue": {"source": "/A000/A002.", "width": 512, "height": 256, "bpp": 8, "category": "hud", "japanese": "年目 | 月"}
+}

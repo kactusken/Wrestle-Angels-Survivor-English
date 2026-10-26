@@ -1,0 +1,132 @@
+# Event script entry 088 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 088.88
+# wrestler (voiced), case 0, used 2x
+JP 来たよ～。
+JP 何か用事なのかな？
+EN I'm he-ere. Did you need something?
+
+@ 088.94
+# President, case 0, used 2x
+JP ああ、用事だ。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN Yeah, I do. Actually, there's an
+EN offer for a photo book of you...
+
+@ 088.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集！？
+JP ボクの？
+EN ...A photo book!? Of me?
+
+@ 088.116
+# wrestler (voiced), case 0, used 2x
+JP へ～、ボクにもそんな依頼が
+JP 来るようになったんだ…。
+JP へへッ、なんか照れるなぁ。
+EN Wow, so I'm getting requests like
+EN that now... Hehe, that's kind of
+EN embarrassing.
+
+@ 088.122
+# President, case 0, used 2x
+JP 会社としては受けたいと
+JP 思っているがどうする？
+EN The company would like to accept.
+EN What do you say?
+
+@ 088.130
+# wrestler (voiced), case 0, used 2x
+JP えっと…。
+JP ホントにボクでいいのかなぁ？
+EN Um... Are you sure they really
+EN want me?
+
+@ 088.136
+# President, case 0, used 2x
+JP 向こうがいいって言ってるから
+JP いいんだよ。
+EN They say they do, so it's fine.
+
+@ 088.144
+# wrestler (voiced), case 0, used 2x
+JP そ、そう…かな…。
+EN I-I guess... so...
+
+@ 088.237
+# President, case 0, used 4x
+JP お疲れさん。
+JP かわいく撮れてるぞ。
+EN Good work. You came out cute.
+
+@ 088.246
+# wrestler (voiced), case 0, used 2x
+JP ん～…。
+JP これがボク…？
+EN Hmm... Is this me...?
+
+@ 088.252
+# wrestler (voiced), case 0, used 2x
+JP ダメだ…。
+JP やっぱりちっとも色っぽくない…。
+EN It's no good... I'm not sexy
+EN at all, just like I thought...
+
+@ 088.258
+# wrestler (voiced), case 0, used 2x
+JP もっと、ほらもっと
+JP ボン・キュ・ボンの人に任せれば
+JP 良かったんだよ…。
+EN They should've, you know, gone with
+EN someone with a bombshell figure...
+
+@ 088.272
+# wrestler (voiced), case 0, used 2x
+JP だって…。
+EN I mean...
+
+@ 088.278
+# President, case 0, used 2x
+JP お前の魅力は色気とは別の所に
+JP あるんだから。
+JP これなんか魅力的じゃないか。
+EN Your charm lies somewhere other than
+EN sex appeal. Isn't this one charming?
+
+@ 088.286
+# wrestler (voiced), case 0, used 2x
+JP そうかな～…。
+EN I wonder...
+
+@ 088.292
+# President, case 0, used 2x
+JP そうだって。
+EN It is.
+
+@ 088.300
+# wrestler (voiced), case 0, used 2x
+JP …ホントに？
+EN ...Really?
+
+@ 088.306
+# President, case 0, used 2x
+JP ホント。
+JP 惚れそうだね。
+EN Really. I could fall for you.
+
+@ 088.314
+# wrestler (voiced), case 0, used 2x
+JP そ、そう…。
+JP ふーん…。
+JP ならいいかな。
+EN R-really... Hmm... Then I guess
+EN it's okay.

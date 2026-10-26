@@ -1,0 +1,25 @@
+{
+ "english": "Killer",
+ "boxes": [
+  [
+   0,
+   0,
+   24,
+   288
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 15,
+ "draw": "nicknames.draw",
+ "mode": "vertical",
+ "notes": "wrestler nickname, vertical; English as exe.csv (キラー); turned 90° clockwise, reads top to bottom",
+ "catalogue": {
+  "source": "/A040/A04A. part 59",
+  "width": 24,
+  "height": 288,
+  "bpp": 4,
+  "category": "nickname",
+  "japanese": "キラー"
+ }
+}

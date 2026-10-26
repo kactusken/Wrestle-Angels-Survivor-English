@@ -1,0 +1,16 @@
+{
+ "english": "Pts",
+ "boxes": [[162, 25, 28, 14]],
+ "ground": "rows",
+ "reach": 1,
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 10,
+ "notes": "league table (8 entrants): header cell of the points column",
+ "catalogue": {"source": "/A020/A024.", "width": 240, "height": 232, "bpp": 8, "category": "table", "japanese": "点"},
+ "fill": [242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255],
+ "draw": "audit.draw",
+ "ground_skip": [217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 201, 169, 120, 130, 119, 199],
+ "ground_default": 216,
+ "ring": [220],
+ "grad": true
+}

@@ -1,0 +1,173 @@
+# Event script entry 193 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 193.76
+# President, used 2x
+JP （みんなはしゃいでいるな…。）
+EN (Everyone's having a blast...)
+
+@ 193.78
+# President, used 2x
+JP （……ん？
+JP あれは…神田か…？）
+EN (......Hm?
+EN Is that... Kanda...?)
+
+@ 193.80
+# President, used 2x
+JP （神田がもくもくと砂浜を
+JP 走っている。）
+EN (Kanda is running along the beach
+EN in silence.)
+
+@ 193.82
+# President, used 2x
+JP （追いかけてみるか…。）
+EN (Maybe I'll go after her...)
+
+@ 193.93
+# President, used 2x
+JP おい、神田？
+EN Hey, Kanda?
+
+@ 193.112
+# other, used 2x
+JP …あぁ。
+JP 社長…。
+EN ...Ah.
+EN Boss...
+
+@ 193.119
+# President, used 2x
+JP こんな所でもトレーニングか？
+EN Training even here?
+
+@ 193.125
+# other, used 2x
+JP はい…。
+JP 砂の上のランニングは効率が
+JP 良いので。
+EN Yes...
+EN Running on sand is very
+EN efficient.
+
+@ 193.132
+# President, used 2x
+JP 水着姿でか？
+EN In a swimsuit?
+
+@ 193.147
+# wrestler (voiced), used 2x
+JP みんなが浜辺に出るなら着ろと…。
+JP ほとんど無理矢理着せられて…。
+EN They said to wear one if we
+EN hit the beach... They pretty
+EN much forced it on me...
+
+@ 193.156
+# President, used 2x
+JP （こいつは周りとうまくやれるか
+JP 心配だったが…。）
+EN (I was worried she wouldn't
+EN get along with the others...)
+
+@ 193.158
+# President, used 2x
+JP （うまくやってるみたいだな。）
+EN (Looks like she's doing fine.)
+
+@ 193.160
+# President, used 2x
+JP ところで泳がないのか？
+EN By the way, aren't you going to
+EN swim?
+
+@ 193.172
+# other, used 2x
+JP そうですね…。
+JP もう少ししたらクールダウンも兼ねて
+JP 泳ごうと思います。
+EN Well...
+EN I'll swim a little later,
+EN as a cooldown.
+
+@ 193.179
+# President, used 2x
+JP 本当に特訓漬けだな。
+JP 仕方ない、付きあうよ。
+EN You really are all about training.
+EN Fine, I'll keep you company.
+
+@ 193.185
+# other, used 2x
+JP はぁ…。
+JP しかし、それでは…。
+EN Huh...
+EN But then you...
+
+@ 193.192
+# President, used 2x
+JP こんな姿を見せられたら
+JP 遊んでるわけにはいかないさ。
+EN After seeing you like this,
+EN I can't just goof off.
+
+@ 193.225
+# President, used 2x
+JP ところで、どこまで走るんだ？
+EN So, how far are we running?
+
+@ 193.237
+# other, used 2x
+JP はい。
+JP あの青い建物の見える
+JP あたりまで…。
+EN Well,
+EN to around that blue building
+EN over there...
+
+@ 193.246
+# President, used 2x
+JP （その青い建物は遙か遠くに
+JP 蜃気楼のように見える…。）
+EN (The blue building looks like a
+EN mirage, far off in the distance...)
+
+@ 193.248
+# President, used 4x
+JP なぁ？
+EN Hey...
+
+@ 193.260
+# other, used 2x
+JP ……はい？
+EN ......Yes?
+
+@ 193.267
+# President, used 2x
+JP あそこまで相当ありそうなんだが…。
+EN That looks like a pretty long way...
+
+@ 193.280
+# President, used 2x
+JP いや、そうですねって…。
+EN No, "it is" isn't the answer I...
+
+@ 193.292
+# other, used 8x
+JP ………………？
+EN .........?
+
+@ 193.299
+# President, used 2x
+JP （そう言えば、こういうヤツ
+JP だったよなぁ…。） 
+EN (Right, she's always been
+EN like this...)

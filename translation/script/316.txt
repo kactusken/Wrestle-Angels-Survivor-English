@@ -1,0 +1,47 @@
+# Event script entry 316 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 316.436
+# Secretary, case 1
+JP それでは、
+JP 今年度ベストバウトの発表です
+EN And now, this year's
+EN Match of the Year awards.
+
+@ 316.440
+# Secretary, case 0
+JP シングルカード部門は
+JP 該当者無しとなりました…。
+EN In the singles category,
+EN no award was given...
+
+@ 316.444
+# Secretary, case 1
+JP 今年度、最も話題を呼んだ
+JP シングルカードは
+EN This year's most talked-about
+EN singles match was
+
+@ 316.446
+# Secretary, case 1
+JP {name:0}選手と
+JP {name:1}選手の
+JP 一戦でした。
+EN {name:0} versus
+EN {name:1}!
+
+@ 316.1084
+# Secretary, case 1, used 2x
+JP 所属団体には
+JP 賞金100ＡＰが贈られます。
+JP 団体評価上昇間違いなしです。
+EN Their promotion receives a 100 AP
+EN prize.
+EN Its reputation is sure to rise.

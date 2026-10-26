@@ -1,0 +1,160 @@
+# Event script entry 052 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 052.62
+# Secretary, used 104x
+JP {name:0}選手に
+JP 写真集の依頼がきています。
+EN {name:0} has been offered
+EN a photo book.
+
+@ 052.64
+# Secretary, used 104x
+JP もし出演すると
+JP 今月の練習と試合に出れませんが
+JP 絶好のアピールになりますね！
+EN She'd miss this month's training
+EN and matches, but it's a perfect
+EN chance to get noticed!
+
+@ 052.66
+# Secretary, used 104x
+JP 写真集を出しますか？
+EN Will you have her do the photo book?
+
+@ 052.88
+# wrestler (voiced), case 0, used 2x
+JP お呼びですか～、社長？
+EN You called for me, Boss?
+
+@ 052.94
+# President, case 0, used 2x
+JP …ああ。
+JP 突然だがお前に
+JP 写真集のオファーが来ている。
+EN ...Yeah. This is sudden, but you've
+EN gotten an offer for a photo book.
+
+@ 052.102
+# wrestler (voiced), case 0, used 2x
+JP …えッ！
+JP 写真集…？
+EN ...What!
+EN A photo book...?
+
+@ 052.108
+# President, case 0, used 2x
+JP 会社としては受けたいと思うが
+JP やってくれるか？
+EN The company would like to accept.
+EN Will you do it?
+
+@ 052.116
+# wrestler (voiced), case 0, used 2x
+JP それはいいですけど…。
+JP 本当に私ですか？
+EN I don't mind, but...
+EN Do they really mean me?
+
+@ 052.122
+# President, case 0, used 2x
+JP お前へのオファーだ。
+EN The offer's for you.
+
+@ 052.130
+# wrestler (voiced), case 0, used 2x
+JP はあ…。
+JP 物好きな方もいたものですねぇ。
+EN Huh... Some people sure
+EN have odd tastes.
+
+@ 052.136
+# President, case 0, used 2x
+JP 自分で言うな、自分で。
+EN Don't say that about yourself.
+
+@ 052.155
+# President, case 0, used 24x
+JP （カメラマン）
+JP はい、こっち視線ください。
+JP いいよ、いいよー。
+EN (Photographer)
+EN Okay, eyes over here.
+EN Good, good!
+
+@ 052.168
+# President, case 0, used 22x
+JP （カメラマン）
+JP いいねぇ、その表情。
+JP サイコーだよ～。
+EN (Photographer)
+EN Nice, love that expression.
+EN It's perfect!
+
+@ 052.181
+# President, case 0, used 22x
+JP （カメラマン）
+JP すごいねぇ、いいね、いいね～。
+JP はい、こっちに視線。
+EN (Photographer)
+EN Amazing, nice, nice!
+EN Okay, eyes over here.
+
+@ 052.229
+# President, case 0, used 2x
+JP こうやって見ると
+JP 物好きってことはないと思うぞ。
+EN Looking at these, I don't think
+EN it's an odd taste at all.
+
+@ 052.232
+# President, case 0, used 2x
+JP ほら、よく撮れてるよ。
+EN See, they came out great.
+
+@ 052.241
+# wrestler (voiced), case 0, used 2x
+JP は…恥ずかしいから
+JP ジロジロ見ないでください～。
+EN I-it's embarrassing, so please
+EN don't stare at them!
+
+@ 052.247
+# President, case 0, used 2x
+JP そうか？
+JP こんなに綺麗なのに。
+EN Really?
+EN You look so beautiful, though.
+
+@ 052.255
+# wrestler (voiced), case 0, used 2x
+JP それはカメラマンさんの腕が
+JP いいんですよ～。
+EN That's just because the
+EN photographer is so skilled!
+
+@ 052.261
+# President, case 0, used 2x
+JP そうか？
+JP そんなことないと思うが…。
+EN Is it?
+EN I don't think so...
+
+@ 052.269
+# wrestler (voiced), case 0, used 2x
+JP あまりからかわないでください～。
+EN Please don't tease me so much!
+
+@ 052.292
+# Secretary, case 1, used 104x
+JP わが社の評価も上がりました！
+JP 100ＡＰの収入がありました。
+EN Our company's reputation went up!
+EN We earned 100 AP.

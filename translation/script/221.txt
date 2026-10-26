@@ -1,0 +1,151 @@
+# Event script entry 221 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 221.64
+# President, used 2x
+JP （……ん、誰かあがってきた。）
+EN (...Hm, someone's coming out of the
+EN water.)
+
+@ 221.66
+# President, used 2x
+JP （あれは…美月か？）
+EN (Is that... Mitsuki?)
+
+@ 221.68
+# President, used 2x
+JP （戻ってきた美月は
+JP 体を拭くと柔軟体操を始めた。）
+EN (Mitsuki dried herself off
+EN and started stretching.)
+
+@ 221.72
+# President, used 2x
+JP おい、美月。
+EN Hey, Mitsuki.
+
+@ 221.78
+# other, used 2x
+JP …あ、社長。
+JP ちょうどいいところに。
+JP 補助お願いします。
+EN ...Oh, Boss.
+EN Good timing.
+EN Could you help me?
+
+@ 221.85
+# President, used 2x
+JP お…おお…。
+EN S... sure...
+
+@ 221.103
+# other, used 2x
+JP ん……くッ……んッ……。
+EN Nn... kh... nn...
+
+@ 221.110
+# President, used 2x
+JP これくらいか？
+EN About like this?
+
+@ 221.116
+# other, used 2x
+JP はい…。
+JP これで、しばらく保持で。
+EN Yes...
+EN Hold it there for a while.
+
+@ 221.123
+# President, used 2x
+JP どうして海からあがった後に
+JP 柔軟なんか…。
+EN Why stretch after
+EN coming out of the sea...?
+
+@ 221.129
+# other, used 2x
+JP ん……ふ……。
+JP 運動した後にこそ
+JP 柔軟やストレッチが必要なんです…よ。
+EN Nn... hff...
+EN After exercise is exactly when
+EN you need to stretch... you know.
+
+@ 221.136
+# President, used 2x
+JP いや、それは知っているが…。
+EN Well, I know that, but...
+
+@ 221.142
+# other, used 2x
+JP ……んッ……。
+EN ...Nn...
+
+@ 221.150
+# President, used 2x
+JP バカンスのときくらいと思ってな。
+EN I just thought, it's a vacation...
+
+@ 221.156
+# other, used 2x
+JP それでは…ダメです…。
+EN That's... no good...
+
+@ 221.159
+# wrestler (voiced), used 2x
+JP 私はパワー不足ですから…。
+JP 他の人たちより…んく…。
+JP 動かせるように…。
+EN I'm short on power...
+EN So more than the others... nnk...
+EN I have to be able to move...
+
+@ 221.162
+# wrestler (voiced), used 2x
+JP 可動範囲も大きくしないと…。
+JP ダメなんです…。
+EN I need a wider range of motion...
+EN I have to...
+
+@ 221.175
+# other, used 2x
+JP …はふ…はい。
+JP あ、頭で…思い描くとおりに…。
+EN ...Hff... yes.
+EN So I can... do exactly what I
+EN picture...
+
+@ 221.178
+# wrestler (voiced), used 2x
+JP 計算した動きを…。
+JP ちゃんとトレースできるように
+JP しないと…。
+EN The moves I've calculated...
+EN I have to be able to
+EN trace them properly...
+
+@ 221.185
+# President, used 2x
+JP わかった。
+JP 付き合うよ。
+EN Got it.
+EN I'll help you out.
+
+@ 221.191
+# other, used 2x
+JP ありが…とう…ございます…。
+JP 逆、お願いします…。
+EN Thank... you... very much...
+EN Other side, please...
+
+@ 221.198
+# President, used 2x
+JP はいよ。
+EN You got it.

@@ -1,0 +1,190 @@
+{
+ "english": "= | Gallery | Page | Page",
+ "boxes": [
+  [
+   34,
+   20,
+   227,
+   46
+  ],
+  [
+   38,
+   20,
+   236,
+   47
+  ],
+  [
+   126,
+   400,
+   48,
+   23
+  ],
+  [
+   358,
+   403,
+   50,
+   20
+  ]
+ ],
+ "draw": "system.draw",
+ "font": "BarlowCondensed-ExtraBold.ttf",
+ "ground": "keep",
+ "fill": [
+  255,
+  255,
+  255
+ ],
+ "groups": [
+  {
+   "labels": [
+    0
+   ],
+   "draw": "battle.draw",
+   "fill": [
+    12,
+    21,
+    40,
+    53,
+    64,
+    74,
+    91
+   ],
+   "ground": "column",
+   "sample_rows": [
+    19,
+    20,
+    21,
+    63,
+    64,
+    65
+   ],
+   "font": "BarlowCondensed-ExtraBold.ttf"
+  },
+  {
+   "labels": [
+    1
+   ],
+   "cap": 31,
+   "margin": 2,
+   "align": "left",
+   "fill": {
+    "grad": [
+     [
+      0,
+      [
+       2,
+       24,
+       125
+      ]
+     ],
+     [
+      0.3,
+      [
+       3,
+       39,
+       207
+      ]
+     ],
+     [
+      0.6,
+      [
+       4,
+       58,
+       235
+      ]
+     ],
+     [
+      1.0,
+      [
+       3,
+       44,
+       215
+      ]
+     ]
+    ]
+   },
+   "rings": [
+    {
+     "w": 3,
+     "rgb": [
+      20,
+      20,
+      70
+     ],
+     "a": 120
+    },
+    {
+     "w": 2.5,
+     "rgb": [
+      231,
+      226,
+      215
+     ]
+    }
+   ]
+  },
+  {
+   "labels": [
+    2
+   ],
+   "font": "BarlowCondensed-Bold.ttf",
+   "cap": 12,
+   "margin": 3,
+   "fill": [
+    248,
+    246,
+    186
+   ],
+   "outline": {
+    "w": 1.5,
+    "rgb": [
+     47,
+     50,
+     145
+    ]
+   },
+   "repaint": [
+    {
+     "rect": [
+      126,
+      401,
+      48,
+      21
+     ],
+     "index": "auto"
+    }
+   ]
+  },
+  {
+   "labels": [
+    3
+   ],
+   "font": "BarlowCondensed-Bold.ttf",
+   "cap": 11,
+   "margin": 2,
+   "ground": "interpolate",
+   "fill": [
+    255,
+    255,
+    255
+   ],
+   "outline": {
+    "w": 1.5,
+    "rgb": [
+     22,
+     9,
+     51
+    ]
+   }
+  }
+ ],
+ "notes": "gallery screen: title (ギャラリー), page button label and page counter label (ページ, as WAS2's SYS_GALETC_2); the title band is rebuilt column by column from its clean rows (battle.py ground 'column', label '='), then the title drawn by tools/letter_ext/system.py",
+ "catalogue": {
+  "source": "/A000/A009.",
+  "width": 640,
+  "height": 448,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "ギャラリー / L1 R1 ページ / n ／ m ページ"
+ }
+}

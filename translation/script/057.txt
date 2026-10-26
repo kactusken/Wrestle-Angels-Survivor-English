@@ -1,0 +1,152 @@
+# Event script entry 057 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 057.88
+# wrestler (voiced), case 0, used 12x
+JP お呼びでしょうか？
+EN You called for me?
+
+@ 057.94
+# President, case 0, used 2x
+JP …ああ。
+JP 実はお前に写真集のオファーが
+JP 来ている。
+EN ...Yeah. Actually, you've gotten
+EN an offer for a photo book.
+
+@ 057.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集？
+JP なんのです？
+EN ...A photo book?
+EN Of what?
+
+@ 057.108
+# President, case 0, used 2x
+JP 水着の写真集だ。
+JP 会社としては受けたいと思っているが
+JP やってくれるか？
+EN A swimsuit photo book. The company
+EN would like to accept. Will you do
+EN it?
+
+@ 057.116
+# wrestler (voiced), case 0, used 10x
+JP お断りします。
+EN I refuse.
+
+@ 057.122
+# President, case 0, used 2x
+JP 即答だな。
+EN That was fast.
+
+@ 057.130
+# wrestler (voiced), case 0, used 2x
+JP 私の写真集なんて
+JP タチの悪い冗談でしょう。
+EN A photo book of me? That must
+EN be some kind of bad joke.
+
+@ 057.136
+# President, case 0, used 2x
+JP ファンの要望が多いから来た
+JP オファーなんだがなぁ…。
+EN The offer came because so many
+EN fans asked for it, though...
+
+@ 057.143
+# other, case 0, used 2x
+JP …ファンの？
+EN ...The fans?
+
+@ 057.151
+# President, case 0, used 2x
+JP そうか…。
+JP ファンの期待に背を向けるか…。
+EN I see...
+EN So you'll turn your back on
+EN what your fans want...
+
+@ 057.159
+# wrestler (voiced), case 0, used 2x
+JP ……あぅ……。
+EN ......Ugh......
+
+@ 057.165
+# President, case 0, used 2x
+JP まあ、仕方ない。
+JP 強制もできないしな。
+JP 先方には断りの電話を…。
+EN Well, can't be helped. I can't
+EN force you. I'll call them and
+EN turn it down...
+
+@ 057.173
+# wrestler (voiced), case 0, used 2x
+JP …まっ、待ってください！
+EN ...W-wait!
+
+@ 057.179
+# President, case 0, used 2x
+JP …ん、どうした？
+EN ...Hm, what is it?
+
+@ 057.187
+# wrestler (voiced), case 0, used 2x
+JP その依頼…お受けします。
+EN I'll... accept that offer.
+
+@ 057.232
+# President, case 0, used 2x
+JP （カメラマン）
+JP うーん、色っぽいね。
+JP いいね、すごいよ。
+EN (Photographer)
+EN Mmm, very sexy.
+EN Nice, amazing.
+
+@ 057.280
+# President, case 0, used 2x
+JP すごいモンだな…。
+EN That's really something...
+
+@ 057.289
+# wrestler (voiced), case 0, used 2x
+JP …あ…あまり見ないでください。
+JP 勢いで受けて少し後悔しているの
+JP ですから…。
+EN ...P-please don't look so much.
+EN I said yes on impulse, and I'm
+EN regretting it a little...
+
+@ 057.295
+# President, case 0, used 2x
+JP いやいや。
+JP これはホントに…。
+EN No, no.
+EN These are really...
+
+@ 057.303
+# wrestler (voiced), case 0, used 2x
+JP 見ないでくださいって！
+EN I said don't look!
+
+@ 057.309
+# President, case 0, used 2x
+JP ああ、すまん、すまん。
+JP だが、これならお前のファンも
+JP きっと満足してくれるな。
+EN Okay, sorry, sorry. But with these,
+EN your fans are sure to be satisfied.
+
+@ 057.317
+# wrestler (voiced), case 0, used 2x
+JP だと、いいのですが…。
+EN I hope so...

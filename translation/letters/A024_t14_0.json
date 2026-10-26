@@ -1,0 +1,79 @@
+{
+ "english": "Pts",
+ "boxes": [
+  [
+   129,
+   30,
+   28,
+   14
+  ]
+ ],
+ "ground": "rows",
+ "reach": 1,
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 10,
+ "notes": "league table (4 entrants): header cell of the points column",
+ "catalogue": {
+  "source": "/A020/A024.",
+  "width": 224,
+  "height": 200,
+  "bpp": 8,
+  "category": "table",
+  "japanese": "点"
+ },
+ "fill": [
+  242,
+  243,
+  244,
+  245,
+  246,
+  247,
+  248,
+  249,
+  250,
+  251,
+  252,
+  253,
+  254,
+  255
+ ],
+ "draw": "audit.draw",
+ "ground_skip": [
+  233,
+  234,
+  235,
+  236,
+  237,
+  238,
+  239,
+  240,
+  241,
+  242,
+  243,
+  244,
+  245,
+  246,
+  247,
+  248,
+  249,
+  250,
+  251,
+  252,
+  253,
+  254,
+  255,
+  16,
+  31,
+  55,
+  68,
+  87,
+  121,
+  159,
+  197
+ ],
+ "ground_default": 1,
+ "ring": [
+  87
+ ],
+ "grad": true
+}

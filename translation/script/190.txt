@@ -1,0 +1,147 @@
+# Event script entry 190 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 190.96
+# President, used 2x
+JP （みんな、楽しんでるみたいだな。）
+EN (Looks like everyone's having fun.)
+
+@ 190.98
+# President, used 4x
+JP （おや…？）
+EN (Hm...?)
+
+@ 190.100
+# President, used 2x
+JP （誰か１人で荷物番してる…？）
+EN (Someone's watching the bags
+EN all alone...?)
+
+@ 190.102
+# President, used 4x
+JP どうした？
+JP 泳がないのか？
+EN What's wrong?
+EN Aren't you going to swim?
+
+@ 190.117
+# other, used 2x
+JP 荷物の番をしているので…。
+EN I'm watching the bags, so...
+
+@ 190.124
+# President, used 2x
+JP ほとんど貸し切り状態なんだから
+JP そんな必要ないだろう？
+EN We've practically got the place
+EN to ourselves. No need for that.
+
+@ 190.130
+# other, used 2x
+JP あ…でも……。
+EN Oh... but......
+
+@ 190.137
+# President, used 2x
+JP （弱気だ…。）
+EN (She's so timid...)
+
+@ 190.139
+# President, used 2x
+JP （こいつがこんなに弱気なのは
+JP 初めて見るな。）
+EN (First time I've seen her
+EN this unsure of herself.)
+
+@ 190.141
+# President, used 2x
+JP もしかして泳げないのか？
+EN Don't tell me you can't swim?
+
+@ 190.150
+# other, used 2x
+JP そんなワケないですッ！
+EN Of course I can!
+
+@ 190.157
+# President, used 2x
+JP じゃ、問題ないな。
+JP 水着着てるんだろ？
+JP そんなモン脱いで行くぞ！
+EN Then no problem.
+EN You've got your swimsuit on, right?
+EN Lose those clothes and let's go!
+
+@ 190.166
+# other, used 2x
+JP あぁ…ッ。
+JP でも…。
+EN Ah...!
+EN But...
+
+@ 190.183
+# other, used 2x
+JP ダメーーーッ！！
+EN Noooooo!!
+
+@ 190.204
+# President, used 2x
+JP やっぱり泳げないのか…。
+EN So you really can't swim...
+
+@ 190.211
+# other, used 2x
+JP がぼがぶ…ぷふッ…。
+JP ごめんなさい、見栄はってましたッ！
+JP 助けて、社長～ッ！！
+EN Glub glub... pfft...
+EN I'm sorry, I was just showing off!
+EN Help me, Boss!!
+
+@ 190.218
+# President, used 2x
+JP （…ここ。）
+EN (...It's just that here...)
+
+@ 190.220
+# President, used 2x
+JP （まだ足がつくんだけれどなぁ。）
+EN (...you can still touch the bottom.)
+
+@ 190.226
+# other, used 2x
+JP わぷ、ダメッ…！
+JP ほんとにダメなの…ぷふっ！
+EN Bwah, no...!
+EN I really can't... pfft!
+
+@ 190.233
+# President, used 2x
+JP 俺が泳ぎを教えてやるから。
+EN I'll teach you how to swim.
+
+@ 190.239
+# other, used 2x
+JP わぷ…おぶ…。
+JP ひ、ひとごろしぃ～。
+EN Bwah... blub...
+EN M-murdererrr...
+
+@ 190.247
+# President, used 2x
+JP （人聞きわるいな、おい。）
+EN (Hey, that sounds terrible.)
+
+@ 190.249
+# President, used 2x
+JP （もうしばらく
+JP 足がつくことは黙っていよう。）
+EN (I'll keep quiet about the
+EN bottom for a while longer.)

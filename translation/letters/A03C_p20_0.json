@@ -1,0 +1,105 @@
+{
+ "english": "EX League",
+ "boxes": [
+  [
+   84,
+   0,
+   520,
+   110
+  ]
+ ],
+ "draw": "system.draw",
+ "ground": "transparent",
+ "font": "BarlowCondensed-BlackItalic.ttf",
+ "cap": 44,
+ "margin": 13,
+ "align": "left",
+ "fill": {
+  "grad": [
+   [
+    238,
+    238,
+    240
+   ],
+   [
+    128,
+    128,
+    132
+   ],
+   [
+    218,
+    218,
+    220
+   ]
+  ]
+ },
+ "rings": [
+  {
+   "w": 8,
+   "rgb": [
+    152,
+    236,
+    255
+   ],
+   "a": 140,
+   "blur": 3
+  },
+  {
+   "w": 5,
+   "rgb": [
+    92,
+    91,
+    92
+   ]
+  },
+  {
+   "w": 4,
+   "rgb": {
+    "grad": [
+     [
+      232,
+      232,
+      232
+     ],
+     [
+      135,
+      135,
+      135
+     ],
+     [
+      215,
+      215,
+      215
+     ]
+    ]
+   },
+   "span": "text"
+  },
+  {
+   "w": 1,
+   "rgb": [
+    70,
+    62,
+    66
+   ]
+  }
+ ],
+ "notes": "league title (EX): silver chrome lettering with a cyan glow, as the sister titles",
+ "catalogue": {
+  "source": "/A020/A03C.",
+  "width": 640,
+  "height": 200,
+  "bpp": 8,
+  "category": "title",
+  "japanese": "EXリーグ"
+ },
+ "dy": -3,
+ "clear": [
+  [
+   0,
+   0,
+   640,
+   200
+  ]
+ ]
+}

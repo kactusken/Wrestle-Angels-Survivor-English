@@ -1,0 +1,438 @@
+# Event script entry 024 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 024.46
+# Secretary
+JP {name:0}選手が
+JP 反乱軍を離脱しました。
+EN {name:0} has left the rebels.
+
+@ 024.58
+# wrestler (voiced), used 2x
+JP いち抜けた
+JP しちゃいました～。
+EN I went and bowed out first~.
+
+@ 024.66
+# wrestler (voiced), used 2x
+JP あたしのキャラと
+JP 合ってないみたいだから…。
+JP エヘヘッ。
+EN It just didn't fit my character...
+EN Ehehe.
+
+@ 024.74
+# wrestler (voiced), used 2x
+JP 反乱と呼ぶには
+JP あまりにも稚拙でしたね…。
+EN It was far too clumsy to call
+EN a rebellion...
+
+@ 024.82
+# wrestler (voiced), used 2x
+JP 私の戦略とは合いませんでした…。
+EN It didn't fit my strategy...
+
+@ 024.90
+# wrestler (voiced)
+JP 私ってやっぱり優柔不断…？
+EN Am I just indecisive after all...?
+
+@ 024.98
+# wrestler (voiced), used 2x
+JP 私の力は必要ないようです…。
+EN They don't seem to need my
+EN strength...
+
+@ 024.106
+# wrestler (voiced), used 2x
+JP 正直あたしには
+JP 向いてないような気がして…。
+EN Honestly, I just don't think
+EN it suits me...
+
+@ 024.114
+# wrestler (voiced), used 2x
+JP ふぇ～ん！
+JP お前は向いてないって…。
+JP うぅぅ～。
+EN Waaah! They said I'm not cut out
+EN for it... Uuuh.
+
+@ 024.122
+# wrestler (voiced), used 2x
+JP 実家の手伝いが
+JP できなくなっちゃって…。
+JP エヘヘッ…。
+EN I couldn't help out at my family's
+EN place anymore... Ehehe...
+
+@ 024.130
+# wrestler (voiced), used 2x
+JP 群れるのは性に合わないですね…。
+EN Running with a pack isn't my
+EN style...
+
+@ 024.138
+# wrestler (voiced), used 2x
+JP バカにつきあってられないよ。
+EN I can't put up with those idiots.
+
+@ 024.146
+# wrestler (voiced), used 2x
+JP 猫が好きな人がいなくて
+JP さびしいんだもん…。
+EN Nobody there likes cats,
+EN so it was lonely...
+
+@ 024.154
+# wrestler (voiced), used 2x
+JP だって即売会行っちゃダメだって
+JP 言うから…。
+EN They said I couldn't go to
+EN the doujin fairs, so...
+
+@ 024.162
+# wrestler (voiced), used 2x
+JP 私がいない方がいいかなって
+JP 思って…。
+EN I thought it'd be better
+EN if I wasn't there...
+
+@ 024.170
+# wrestler (voiced), used 2x
+JP エースでなければ
+JP やってられませんわ！
+EN If I'm not the ace, I simply
+EN can't be bothered!
+
+@ 024.178
+# wrestler (voiced), used 2x
+JP なんかイメージに合わないのよねぇ。
+EN It just doesn't fit my image, you
+EN know.
+
+@ 024.186
+# wrestler (voiced), used 2x
+JP 私はここにいるべきでは
+JP ないですね…。
+EN I don't belong there...
+
+@ 024.194
+# wrestler (voiced), used 2x
+JP 反乱軍の奴らと
+JP 戦ってみたくなったんでな。
+EN I wanted to try fighting
+EN those rebels myself.
+
+@ 024.202
+# wrestler (voiced), used 2x
+JP エヘヘッ…。
+JP なんかノリが違うっていうか…。
+EN Ehehe... The vibe was just
+EN kind of off...
+
+@ 024.210
+# wrestler (voiced), used 2x
+JP しょせん、口だけの人たちの
+JP 集まりだったわ…。
+EN In the end, they were just
+EN a bunch of all talk...
+
+@ 024.218
+# wrestler (voiced), used 2x
+JP う～ん…。
+JP なんとなくやりにくいかなって…。
+EN Hmm... It just felt kind of
+EN awkward, I guess...
+
+@ 024.226
+# wrestler (voiced), used 2x
+JP あたし気を使うの苦手だから…。
+EN I'm not good at tiptoeing
+EN around people...
+
+@ 024.234
+# wrestler (voiced), used 2x
+JP やっぱり楽しくなきゃダメでしょ！
+EN It's gotta be fun, right!?
+
+@ 024.242
+# wrestler (voiced), used 2x
+JP お願いします…。
+JP 戻らせてください。
+EN Please... Let me come back.
+
+@ 024.250
+# wrestler (voiced), used 2x
+JP あんなところ反乱軍じゃねぇ！
+EN That bunch is no rebel army!
+
+@ 024.258
+# wrestler (voiced), used 2x
+JP だって、コスチューム買って
+JP くれないんだもん！
+EN They wouldn't buy me
+EN a costume, so!
+
+@ 024.266
+# wrestler (voiced), used 2x
+JP もう飽きましたわ…。
+EN I've grown tired of it...
+
+@ 024.274
+# wrestler (voiced), used 2x
+JP 考えが違う人たちと
+JP 組むわけにはいきませんから…。
+EN I can't team up with people
+EN who think differently...
+
+@ 024.282
+# wrestler (voiced), used 2x
+JP 過ちを改めるに憚る事なかれと…。
+EN "When you err, do not fear
+EN to correct it," as they say...
+
+@ 024.290
+# wrestler (voiced), used 2x
+JP やっぱあたしは
+JP 正規軍タイプかなぁーって…。
+EN I guess I'm more the
+EN main-roster type after all...
+
+@ 024.298
+# wrestler (voiced), used 2x
+JP いい経験できましたから…。
+EN It was a good experience...
+
+@ 024.306
+# wrestler (voiced), used 2x
+JP 自分とは考え方が違ったッス…。
+EN They thought differently
+EN from me...
+
+@ 024.314
+# wrestler (voiced), used 2x
+JP ……反乱軍…風船くれないの……。
+EN ...The rebels... wouldn't give me
+EN a balloon......
+
+@ 024.322
+# wrestler (voiced), used 2x
+JP 人間関係までは
+JP 計算できなかったです…。
+EN I couldn't calculate
+EN the human relationships...
+
+@ 024.330
+# wrestler (voiced), used 2x
+JP 名誉ある撤退も時には必要…。
+EN Sometimes an honorable retreat
+EN is necessary...
+
+@ 024.338
+# wrestler (voiced), used 2x
+JP ……なんか…疲れた……。
+EN ......I'm... kind of tired......
+
+@ 024.346
+# wrestler (voiced), used 2x
+JP なんか向いてないかなって…。
+EN I just didn't think it suited me...
+
+@ 024.354
+# wrestler (voiced), used 2x
+JP ハンラングンは
+JP うまくなかったぞ…。
+EN The Rebel Army
+EN wasn't tasty...
+
+@ 024.362
+# wrestler (voiced), used 2x
+JP 仕事は果たしました。
+EN I've done my job.
+
+@ 024.370
+# wrestler (voiced), used 2x
+JP ウチには向いとらんかった
+JP ちゅーことで…。
+EN Guess it just weren't
+EN for me, see...
+
+@ 024.378
+# wrestler (voiced), used 2x
+JP あたしには合いませんでした…。
+EN It wasn't right for me...
+
+@ 024.386
+# wrestler (voiced), used 2x
+JP ちーちゃんに頼まれたんで…。
+JP アハ、アハハハハ…。
+EN Chii asked me to, so...
+EN Aha, ahahaha...
+
+@ 024.394
+# wrestler (voiced), used 2x
+JP よく考えたら
+JP 反乱軍ってヒールっぽいですよね…。
+EN When you think about it, rebels
+EN are kinda heel-ish, huh...
+
+@ 024.402
+# wrestler (voiced), used 2x
+JP あそこまで理想と現実の乖離が
+JP 激しいとは…。
+EN I never thought ideals and reality
+EN could be that far apart...
+
+@ 024.410
+# wrestler (voiced), used 2x
+JP あら～…？
+JP 追い出されちゃったみたいです～。
+EN Oh my...? It seems I've been
+EN kicked out~
+
+@ 024.418
+# wrestler (voiced), used 2x
+JP ムフフ～！
+JP 戻ってくれてうれしいんでしょ～？
+EN Mufufu~! You're happy
+EN I'm back, aren't you~?
+
+@ 024.426
+# wrestler (voiced), used 2x
+JP もうやってられねーんだよ！
+EN I can't take it anymore!
+
+@ 024.434
+# wrestler (voiced), used 2x
+JP あーあ…。
+JP バカバカしくて
+JP いち抜けたって感じだよ！
+EN Aah... It was so stupid
+EN I just had to bail!
+
+@ 024.442
+# wrestler (voiced), used 2x
+JP 群れるのに飽きたんだよ！
+EN I got sick of running in a pack!
+
+@ 024.450
+# wrestler (voiced), used 2x
+JP 袂を分かつことになった…。
+EN We've parted ways...
+
+@ 024.458
+# wrestler (voiced), used 2x
+JP もう飽きたんだよ！
+EN I'm sick of it!
+
+@ 024.474
+# wrestler (voiced)
+JP 無駄な時間を過ごした。
+EN I wasted my time.
+
+@ 024.482
+# wrestler (voiced)
+JP だってワンちゃんと遊んじゃ
+JP ダメだって言うんですよ～！
+EN They said I couldn't play
+EN with the doggies!
+
+@ 024.490
+# wrestler (voiced)
+JP 戻りたかったから
+JP 戻っただけよ！
+EN I came back because I wanted to,
+EN that's all!
+
+@ 024.498
+# wrestler (voiced)
+JP 私の判断間違ってたみたい…。
+EN Looks like I judged wrong...
+
+@ 024.506
+# wrestler (voiced)
+JP 指揮系統がガタガタでは
+JP 勝てはしない！
+EN With a chain of command that
+EN shaky, you can't win!
+
+@ 024.514
+# wrestler (voiced)
+JP 運命の糸が切れたの……。
+EN The thread of fate was cut......
+
+@ 024.522
+# wrestler (voiced)
+JP なんか違うかなぁって
+JP 思っちゃって…。
+EN It just didn't feel right,
+EN somehow...
+
+@ 024.530
+# wrestler (voiced)
+JP あはははは…。
+JP 完全燃焼できませんでした…。
+EN Ahahaha...
+EN I couldn't burn all-out...
+
+@ 024.538
+# wrestler (voiced)
+JP べ、別に追い出された訳では
+JP ありませんわ！
+EN I-it's not as if I was
+EN thrown out!
+
+@ 024.546
+# wrestler (voiced)
+JP やっぱり戻ってきちゃいました～。
+EN I came back after all~.
+
+@ 024.554
+# wrestler (voiced)
+JP ボクのやりたいことと
+JP 違ってるんだよ…。
+EN It's different from
+EN what I want to do...
+
+@ 024.562
+# wrestler (voiced)
+JP アタシって飽きっぽいからさ…。
+JP エヘ、エヘヘ…。
+EN I get bored easy, y'know...
+EN Ehe, ehehe...
+
+@ 024.570
+# wrestler (voiced)
+JP ただ秩序を乱しているだけでした…。
+EN All we did was disrupt order...
+
+@ 024.578
+# wrestler (voiced)
+JP 私の力必要ないみたいです…。
+EN They don't seem to need me...
+
+@ 024.586
+# wrestler (voiced)
+JP だって、あの人絶対なんか
+JP 憑いてるんだもん…。
+EN That person's definitely
+EN possessed by something...
+
+@ 024.594
+# wrestler (voiced)
+JP 私には向いてない気が…。
+EN I don't think it suits me...
+
+@ 024.634
+# wrestler (voiced)
+JP 私って、やっぱり優柔不断…？
+EN Am I just indecisive after all...?

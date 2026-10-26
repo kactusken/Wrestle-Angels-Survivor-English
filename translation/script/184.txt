@@ -1,0 +1,507 @@
+# Event script entry 184 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 184.40
+# wrestler (voiced), used 2x
+JP 一生懸命がんばっていた
+JP つもりなんですけど…。
+JP 残念です～。
+EN I thought I was trying my
+EN very best, but...
+EN That's too bad...
+
+@ 184.48
+# wrestler (voiced), used 2x
+JP ええーッ！
+JP そんなー！
+JP ひどいッ、社長ひどいッ！
+EN Whaaat!?
+EN No way!
+EN That's mean, Boss! So mean!
+
+@ 184.56
+# wrestler (voiced), used 2x
+JP …クビ…ですか？
+JP …わかりました。
+EN ...I'm fired...?
+EN ...Understood.
+
+@ 184.64
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP もっともっと努力が必要という
+JP ことですね…。
+EN I see...
+EN So I need to work even
+EN harder, then...
+
+@ 184.72
+# wrestler (voiced), used 2x
+JP …ええッ！
+JP どうしてー！？
+JP ひどいよーッ！
+EN ...What!?
+EN Whyyy!?
+EN That's so mean!
+
+@ 184.79
+# other, used 2x
+JP そうですか。
+JP わかりました。
+JP 別に気にしてませんから…。
+EN I see.
+EN Understood.
+EN It's not like I mind...
+
+@ 184.88
+# wrestler (voiced), used 2x
+JP えーッ！
+JP …そんな……。
+JP 社長、ホンキ…？
+EN Whaaat!?
+EN ...No way......
+EN Boss, are you serious...?
+
+@ 184.96
+# wrestler (voiced), used 2x
+JP ふっ、ふぇ～ん！
+JP ひど～い～…。
+EN Wh-waaah!
+EN That's so meaaan...
+
+@ 184.104
+# wrestler (voiced), used 2x
+JP ええーッ！
+JP そんなぁ！
+EN Whaaat!?
+EN No way!
+
+@ 184.112
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP じゃあ…。
+EN I see...
+EN Well then...
+
+@ 184.120
+# wrestler (voiced), used 2x
+JP 裏切られた気分だね…。
+JP 後悔してもしらないよ。
+EN I feel betrayed...
+EN Don't come crying to me when you
+EN regret it.
+
+@ 184.128
+# wrestler (voiced), used 2x
+JP ええーッ！
+JP 社長、なんでー！？
+EN Whaaat!?
+EN Boss, why!?
+
+@ 184.132
+# wrestler (voiced), used 2x
+JP もしかしてネコ嫌い…？
+EN Don't tell me you hate cats...?
+
+@ 184.140
+# wrestler (voiced), used 2x
+JP ええーーッ！
+JP 社長ひどいッ、オニ！
+JP もう、キライッ！
+EN Whaaaat!?
+EN Boss, you're mean! You monster!
+EN I hate you!
+
+@ 184.148
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP 残念です…。
+JP お世話になりました。
+EN I see...
+EN That's too bad...
+EN Thank you for everything.
+
+@ 184.156
+# wrestler (voiced), used 2x
+JP …クッ！
+JP この私を解雇するなんて
+JP 後で必ず後悔しましてよッ！
+EN ...Hmph!
+EN Firing someone like me...
+EN You will surely regret this!
+
+@ 184.164
+# wrestler (voiced), used 2x
+JP ええーーッ！？
+JP もう、この衣装着られなく
+JP なっちゃうの？
+EN Whaaat!?
+EN So I can't wear this
+EN costume anymore?
+
+@ 184.172
+# wrestler (voiced), used 2x
+JP そう…。
+JP 仕方ないですね。
+JP 今までありがとうございました。
+EN I see...
+EN It can't be helped.
+EN Thank you for everything until now.
+
+@ 184.180
+# wrestler (voiced), used 2x
+JP あっそ！
+JP じゃーな！
+EN Fine, whatever!
+EN See ya!
+
+@ 184.188
+# wrestler (voiced), used 2x
+JP 後悔したって知らないからね！
+EN Don't come crying when you regret
+EN it!
+
+@ 184.196
+# wrestler (voiced), used 2x
+JP ……そう。
+EN ......I see.
+
+@ 184.204
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP これでもがんばってるつもり
+JP だったんですけど…。
+EN I see...
+EN I thought I was doing
+EN my best, though...
+
+@ 184.212
+# wrestler (voiced), used 2x
+JP …ふーん。
+JP じゃあね。
+EN ...Hmph.
+EN Bye, then.
+
+@ 184.220
+# wrestler (voiced), used 2x
+JP ええ～！？
+JP なんであたしが～？
+EN Whaaat!?
+EN Why me?
+
+@ 184.228
+# wrestler (voiced), used 2x
+JP えぇーー！？
+JP ボッ、ボクのどこが…。
+JP うぅ…お、お世話になりました…。
+EN Whaaat!?
+EN Wh-what did I do wrong...
+EN Ugh... Th-thanks for everything...
+
+@ 184.236
+# wrestler (voiced), used 2x
+JP ……チッ。
+JP こっちから辞めてやるよ！
+EN ......Tch.
+EN Fine, I quit!
+
+@ 184.244
+# wrestler (voiced), used 2x
+JP えーッ！
+JP なんで！？
+JP 社長のバカ、バカ！
+EN What!?
+EN Why!?
+EN You idiot, Boss! Idiot!
+
+@ 184.252
+# wrestler (voiced), used 2x
+JP お互いのフィーリングが
+JP 合わなかったようですね…。
+EN It seems our feelings
+EN just weren't in tune...
+
+@ 184.260
+# wrestler (voiced), used 2x
+JP もういいです…。
+EN Fine. Whatever...
+
+@ 184.276
+# wrestler (voiced), used 2x
+JP ふ～んだ！
+JP なによッ！
+EN Hmph!
+EN What's with that!?
+
+@ 184.284
+# wrestler (voiced), used 2x
+JP 悔しい…。
+JP あたしの力が及ばなかった…。
+EN Dammit...
+EN I just wasn't good enough...
+
+@ 184.292
+# wrestler (voiced), used 2x
+JP まだまだ力が足りないって
+JP ことですね…。
+EN So I'm still not strong
+EN enough, then...
+
+@ 184.300
+# wrestler (voiced), used 2x
+JP ……はい……？
+EN ......Huh......?
+
+@ 184.308
+# wrestler (voiced), used 2x
+JP 私の問題点について
+JP 教えていただきたいのですが？
+EN Would you mind telling me
+EN what my problems were?
+
+@ 184.316
+# wrestler (voiced), used 2x
+JP やれやれ、失って初めて
+JP 気がつくのでしょうね…。
+JP 大切な何かに…。
+EN My, my. I suppose people only
+EN notice something precious
+EN once they've lost it...
+
+@ 184.324
+# wrestler (voiced), used 2x
+JP ……あ…う……。
+JP ……はぁ～……。
+EN ......Ah... uh......
+EN ......Sigh......
+
+@ 184.332
+# wrestler (voiced), used 2x
+JP そう…ですか…。
+JP そうですよね…。
+JP ボクなんか…サヨナラ…。
+EN I... see...
+EN Of course...
+EN Someone like me... Goodbye...
+
+@ 184.340
+# wrestler (voiced), used 2x
+JP 世話になった…。
+JP さよならだ…。
+EN Thanks for everything...
+EN Farewell...
+
+@ 184.348
+# wrestler (voiced), used 2x
+JP はあ…。
+JP わかりました。
+JP 残念です…。
+EN Oh...
+EN Understood.
+EN That's too bad...
+
+@ 184.356
+# wrestler (voiced), used 2x
+JP あそ。
+JP ほなサイナラ！
+EN Oh yeah?
+EN Well, so long!
+
+@ 184.364
+# wrestler (voiced), used 2x
+JP む～ッ！
+JP 社長のバカーッ！
+EN Mmmph!
+EN Boss, you idiot!
+
+@ 184.372
+# wrestler (voiced), used 2x
+JP えーーッ！？
+JP そんなぁ…。
+JP 早く新しい仕事見つけなきゃ…。
+EN Whaaat!?
+EN No way...
+EN I need to find a new job, quick...
+
+@ 184.380
+# wrestler (voiced), used 2x
+JP そうですか…。
+JP イチから出直しますッ！
+EN I see...
+EN I'll start over from scratch!
+
+@ 184.388
+# wrestler (voiced), used 2x
+JP では、御縁がなかったという
+JP ことですね…。
+EN Then I suppose it just
+EN wasn't meant to be...
+
+@ 184.396
+# wrestler (voiced), used 2x
+JP まあ…。
+JP 私では力不足だった
+JP ということですか～？
+EN My...
+EN So I wasn't good enough
+EN for you~?
+
+@ 184.404
+# wrestler (voiced), used 2x
+JP ひど～い！
+JP もう社長なんかキライッ！
+EN That's so mean!
+EN I hate you, Boss!
+
+@ 184.412
+# wrestler (voiced), used 2x
+JP そうかい、そうかい！
+JP こっちから先に辞めてやるよ！
+EN Oh, is that so!?
+EN Well, I quit first!
+
+@ 184.420
+# wrestler (voiced), used 2x
+JP クビだー！？
+JP こっちから先に辞めてやるよ！
+EN Fired!?
+EN Well, I quit first!
+
+@ 184.428
+# wrestler (voiced), used 2x
+JP そうかい！
+JP 覚えてなッ！
+EN Fine!
+EN You'll pay for this!
+
+@ 184.436
+# wrestler (voiced), used 2x
+JP ……さらば。
+EN ......Farewell.
+
+@ 184.444
+# wrestler (voiced), used 2x
+JP てめえ…覚えてろよッ！
+EN You... You'll pay for this!
+
+@ 184.460
+# wrestler (voiced)
+JP 私の力不足とは思いたくないが…。
+EN I'd rather not think I fell short...
+
+@ 184.468
+# wrestler (voiced)
+JP あは…わかりました。
+JP 今までありがとうございました！
+EN Aha... Understood.
+EN Thank you for everything!
+
+@ 184.476
+# wrestler (voiced)
+JP ウソでしょ！？
+JP ありえない！
+JP …コホン、仕方ないわね。
+EN You're kidding!?
+EN Unbelievable!
+EN ...Ahem. Well, it can't be helped.
+
+@ 184.484
+# wrestler (voiced)
+JP きっと見返してやるから！
+EN I'll show you! Just you wait!
+
+@ 184.492
+# wrestler (voiced)
+JP そう判断されたなら
+JP 仕方ありません。
+JP 残念です。
+EN If that's your decision,
+EN it can't be helped.
+EN That's too bad.
+
+@ 184.500
+# wrestler (voiced)
+JP 悲しい……。
+EN So sad......
+
+@ 184.508
+# wrestler (voiced)
+JP ええ…ッ！？
+JP そんな…。
+EN Wha...!?
+EN No way...
+
+@ 184.516
+# wrestler (voiced)
+JP えーー！
+JP そんなぁー！
+EN Whaaat!
+EN No waaay!
+
+@ 184.524
+# wrestler (voiced)
+JP いつかこのお礼をさせて
+JP いただきますわ！
+EN I shall repay this kindness
+EN someday, mark my words!
+
+@ 184.532
+# wrestler (voiced)
+JP あれれ～？
+JP クビですか～？
+EN Huh~?
+EN I'm fired~?
+
+@ 184.540
+# wrestler (voiced)
+JP そんなッ！
+JP ひどいよ！
+EN No way!
+EN That's mean!
+
+@ 184.548
+# wrestler (voiced)
+JP マジで…！？
+JP 信じられねー！
+EN Seriously...!?
+EN I can't believe this!
+
+@ 184.556
+# wrestler (voiced)
+JP そうですか…。
+JP 私の力不足という事でしょうね…。
+EN I see...
+EN I suppose I just wasn't good
+EN enough...
+
+@ 184.564
+# wrestler (voiced)
+JP わかりました。
+JP サヨナラです！
+EN Understood.
+EN Goodbye!
+
+@ 184.572
+# wrestler (voiced)
+JP 絶対後悔させてやるんだからッ！
+EN I'll make you regret this, I swear!
+
+@ 184.580
+# wrestler (voiced)
+JP …どうして……。
+EN ...Why......
+
+@ 184.1014
+# Secretary
+JP {name:0}選手を
+JP 解雇しました。
+JP ちょっと寂しいですね…。
+EN We've let {name:0} go.
+EN It feels a little lonely...

@@ -1,0 +1,221 @@
+# Event script entry 196 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 196.71
+# President, used 2x
+JP （ん…？）
+EN (Hm...?)
+
+@ 196.73
+# President, used 2x
+JP （小縞が…いない…？）
+EN (Kojima's... not here...?)
+
+@ 196.75
+# President, used 2x
+JP （迷ったんじゃないだろうな？
+JP 探さないと…。）
+EN (She'd better not be lost.
+EN I'd better look for her...)
+
+@ 196.77
+# President, used 4x
+JP おーい！
+EN Hey!
+
+@ 196.79
+# President, used 2x
+JP おーい、小縞ー！
+JP いないのかー？
+EN Hey, Kojima!
+EN Where are you?
+
+@ 196.94
+# President, used 2x
+JP 小縞ーッ！
+EN Kojimaaa!
+
+@ 196.96
+# President, used 2x
+JP （ドコに行ったんだ？
+JP まさか、犯罪とかに…。）
+EN (Where'd she go?
+EN Don't tell me she ran into
+EN trouble...)
+
+@ 196.102
+# other, used 2x
+JP はいッ！
+JP コークお二つですね。
+JP ただいまッ！
+EN Yes!
+EN Two Cokes, right?
+EN Coming right up!
+
+@ 196.110
+# President, used 18x
+JP （……ん？）
+EN (......Hm?)
+
+@ 196.116
+# other, used 2x
+JP はーい！
+JP ペッパーバーガーにポテト。
+JP 飲み物がオレンジとジンジャー！
+EN Okay! Pepper burger, fries,
+EN an orange juice and
+EN a ginger ale!
+
+@ 196.123
+# President, used 2x
+JP （この声は…？）
+EN (That voice...?)
+
+@ 196.136
+# other, used 2x
+JP あー、すみません。
+JP ビールはヒナノしか
+JP おいてないんですよー。
+EN Oh, I'm sorry.
+EN For beer we only
+EN have Hinano.
+
+@ 196.143
+# other, used 2x
+JP その代わりキンキンに
+JP 冷えてますッ！
+EN But it's ice-cold!
+
+@ 196.150
+# President, used 2x
+JP （日本人向けのビーチカフェ。）
+EN (A beach cafe for Japanese
+EN tourists.)
+
+@ 196.152
+# President, used 2x
+JP （そこに小縞はいた。）
+EN (That's where Kojima was.)
+
+@ 196.154
+# President, used 2x
+JP （いや、客としているなら
+JP 別に不思議でもなかったが…。）
+EN (Well, if she were a customer,
+EN that wouldn't be so strange...)
+
+@ 196.156
+# President, used 2x
+JP （なんでウェイトレス？）
+EN (But why is she a waitress?)
+
+@ 196.158
+# President, used 2x
+JP おい、小縞！
+EN Hey, Kojima!
+
+@ 196.170
+# other, used 2x
+JP …あ、社長。
+JP いらっしゃいませー！
+EN ...Oh, Boss.
+EN Welcome!
+
+@ 196.177
+# President, used 2x
+JP いらっしゃいませじゃなくって…。
+EN Don't "welcome" me...
+
+@ 196.183
+# other, used 2x
+JP 当店は禁煙となっていますが
+JP よろしいでしょうか？
+EN This is a non-smoking
+EN establishment. Is that OK?
+
+@ 196.190
+# President, used 2x
+JP ああ、別にかまわない。
+JP だからそうじゃなくって！
+EN Yeah, that's fine.
+EN No, that's not the point!
+
+@ 196.203
+# President, used 2x
+JP お前ここで何やってるんだ？
+JP 水着姿のままで。
+EN What are you doing here?
+EN Still in your swimsuit.
+
+@ 196.209
+# other, used 2x
+JP いや、あの～…。
+JP 通りかかったらですね。
+JP 忙しそうだったんです…。
+EN Well, um...
+EN I was passing by, you see,
+EN and they looked really busy...
+
+@ 196.216
+# President, used 6x
+JP ああ、それで？
+EN Yeah, and?
+
+@ 196.222
+# other, used 2x
+JP それで、ここのウェイトレスが
+JP 慣れてなかったらしくて
+JP つい口を出してですね…。
+EN And the waitress here didn't
+EN seem used to it, so I kind of
+EN started giving pointers...
+
+@ 196.235
+# other, used 2x
+JP それで手伝ったらオーナーに
+JP ベタぼめされまして。
+EN So I helped out, and the owner
+EN couldn't stop praising me.
+
+@ 196.248
+# other, used 2x
+JP エヘッ！
+JP バイト代もはずむと言われて…。
+JP そのぉ…。
+EN Ehehe!
+EN He said he'd pay me well, so...
+EN Um...
+
+@ 196.261
+# other, used 2x
+JP へへッ！
+JP その～…。
+EN Hehe!
+EN Um...
+
+@ 196.268
+# President, used 2x
+JP …好きにしろ。
+EN ...Do what you want.
+
+@ 196.274
+# other, used 2x
+JP はーい！
+JP ありがとうございまーす！
+JP …あ、オーダー今うかがいまーす！
+EN Okay!
+EN Thank you very much!
+EN ...Oh, I'll take your order now!
+
+@ 196.281
+# President, used 2x
+JP （まったく…これも才能か…。） 
+EN (Honestly... I guess that's
+EN a talent too...)

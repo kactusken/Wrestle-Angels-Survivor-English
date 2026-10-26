@@ -1,0 +1,14 @@
+{
+ "english": "Page | Sort | Flip | Sort | Venue | Auto | Title Match | Change | Sort",
+ "boxes": [[174, 5, 50, 20], [273, 5, 47, 20], [375, 5, 42, 20], [38, 31, 47, 21], [180, 31, 41, 21], [271, 31, 48, 21], [43, 55, 79, 21], [180, 55, 64, 21], [320, 55, 49, 21]],
+ "fill": [253, 251, 248, 244, 241, 237, 233, 226, 209, 190],
+ "ground": "interpolate",
+ "reach": 2.5,
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 13,
+ "align": "left",
+ "notes": "button captions: (L1 R1) Page, (triangle) Sort, (R2) Flip, (L1 R1) Venue, (triangle) Auto, (R2) Title Match, (L2) Change, (SELECT) Sort - WAS2 used Page / Flip / Sort on the same buttons",
+ "catalogue": {"source": "/A020/A024.", "width": 440, "height": 78, "bpp": 8, "category": "button", "japanese": "ページ | ソート | 反転 | ソート | 会場 | オート | タイトルマッチ | チェンジ | ソート"},
+ "groups": [{"clear": [[175, 3, 47, 22], [274, 4, 45, 21], [374, 3, 40, 22]], "labels": [0, 1, 2]}, {"labels": [3, 4, 5], "draw": "battle.draw", "ground": "column", "sample_rows": [30], "grad": "flat"}, {"labels": [6, 7], "draw": "battle.draw", "ground": "column", "sample_rows": [76], "grad": "flat"}, {"clear": [[324, 55, 45, 21]], "labels": [8], "draw": "battle.draw", "ground": "column", "sample_rows": [54], "grad": "flat"}],
+ "same_size": true
+}

@@ -1,0 +1,93 @@
+# Event script entry 216 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 216.71
+# President, used 2x
+JP （なんだ、あれは？
+JP …溺れてる？）
+EN (What's that?
+EN ...Is someone drowning?)
+
+@ 216.73
+# President, used 2x
+JP （いや、違う。
+JP 波の上で揺らいでるのか？）
+EN (No, wait.
+EN Is she just drifting on the waves?)
+
+@ 216.100
+# other, used 2x
+JP ……社長？
+EN ...Boss?
+
+@ 216.127
+# President, used 2x
+JP （本当に自然な感じで
+JP 揺らいでいる。）
+EN (She drifts so naturally.)
+
+@ 216.129
+# President, used 2x
+JP （まるで海の一部だな。）
+EN (It's like she's part of the sea.)
+
+@ 216.131
+# President, used 2x
+JP ……なあ？
+EN ...Hey?
+
+@ 216.144
+# President, used 2x
+JP （声をかけるのも
+JP ためらわれる雰囲気だな。）
+EN (I almost hate to disturb her.)
+
+@ 216.150
+# other, used 2x
+JP こうしていると…。
+EN When I'm like this...
+
+@ 216.164
+# other, used 2x
+JP 海の声が聞こえてくる気が
+JP するんです…。
+EN I feel as if I can hear
+EN the voice of the sea...
+
+@ 216.168
+# wrestler (voiced), used 2x
+JP 海の声…。
+EN The voice of the sea...
+
+@ 216.171
+# wrestler (voiced), used 2x
+JP 海に抱かれているような感じ…。
+JP 故郷の優しさとは、また異なる
+JP 優しさ…。
+EN Like being held by the sea...
+EN A kindness different from
+EN the kindness of my homeland...
+
+@ 216.188
+# other, used 2x
+JP 社長…？
+EN Boss...?
+
+@ 216.201
+# other, used 2x
+JP ここに連れてきてくれて
+JP ありがとう…。
+EN Thank you for
+EN bringing me here...
+
+@ 216.204
+# wrestler (voiced), used 2x
+JP ここはとても…良い場所…。
+EN This is a very... good place...

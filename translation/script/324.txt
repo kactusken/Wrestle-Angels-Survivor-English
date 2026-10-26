@@ -1,0 +1,81 @@
+# Event script entry 324 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 324.8
+# Secretary
+JP 社長、はじめまして。
+JP 井上 霧子と申します。
+EN Nice to meet you, President.
+EN My name is Kiriko Inoue.
+
+@ 324.11
+# Secretary
+JP 今回秘書として
+JP お手伝いをさせていただきます。
+JP よろしくお願いいたします。
+EN I'll be assisting you
+EN as your secretary.
+EN I look forward to working with you.
+
+@ 324.15
+# Secretary
+JP それでは、まずは当団体のことを
+JP ご説明いたします。
+EN First, let me explain
+EN the state of our promotion.
+
+@ 324.18
+# Secretary
+JP 現在当団体には
+JP 所属選手は１人もいません。
+EN At the moment, we don't have
+EN a single wrestler under contract.
+
+@ 324.21
+# Secretary
+JP 当団体が大会を興行するためには
+JP ６人の選手が必要になります。
+EN To put on a show,
+EN we need 6 wrestlers.
+
+@ 324.24
+# Secretary
+JP 選手は新人テストや移籍交渉で
+JP 集めることができます。
+EN You can gather wrestlers through
+EN tryouts and transfer negotiations.
+
+@ 324.27
+# Secretary
+JP ６人の選手を集めることができれば
+JP 大会を興行できるようになります。
+EN Once we have 6 wrestlers,
+EN we'll be able to hold shows.
+
+@ 324.30
+# Secretary
+JP まずは旗揚げ興行を目指して
+JP がんばっていきましょう。
+EN Let's start by aiming
+EN for our debut show.
+
+@ 324.33
+# Secretary
+JP 旗揚げ興行が遅れると
+JP 経営が厳しくなってしまいますので
+JP 注意してくださいね。
+EN If our debut show is delayed,
+EN the finances will get tight,
+EN so please be careful.
+
+@ 324.36
+# Secretary
+JP それでは、よろしくお願いします。
+EN Well then, let's do our best.

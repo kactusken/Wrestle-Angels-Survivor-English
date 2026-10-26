@@ -1,0 +1,185 @@
+# Event script entry 208 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 208.99
+# other, used 4x
+JP 社長。
+EN Boss.
+
+@ 208.120
+# other, used 2x
+JP ちょっとお願いが…。
+EN Could I ask you a favor...?
+
+@ 208.127
+# President, used 2x
+JP ……お願い？
+EN ...A favor?
+
+@ 208.136
+# other, used 2x
+JP ちょっと２人きりに
+JP なりたいんですけれど…。
+JP いいですか？
+EN I'd like the two of us
+EN to be alone for a bit...
+EN Is that okay?
+
+@ 208.145
+# President, used 2x
+JP ……まあ、いいが。
+EN ...Well, all right.
+
+@ 208.154
+# other, used 2x
+JP よかったー。
+EN Yay!
+
+@ 208.182
+# President, used 2x
+JP 船に乗りたかったのか？
+EN So you wanted to go out on a boat?
+
+@ 208.188
+# other, used 2x
+JP ええ、沖に出たくて…。
+JP でも、あたし船舶免許持ってないし。
+EN Yes, I wanted to go offshore...
+EN But I don't have a boating license.
+
+@ 208.191
+# wrestler (voiced), used 2x
+JP たとえ持ってても１人じゃ危なくて
+JP 貸せないって言うから…。
+EN They said even if I had one,
+EN it's too dangerous to rent
+EN to someone alone...
+
+@ 208.198
+# President, used 2x
+JP まあ、わからないこともないな。
+EN Well, I can see their point.
+
+@ 208.200
+# President, used 2x
+JP でもいいのか？
+EN But are you sure about this?
+
+@ 208.202
+# President, used 2x
+JP 店のオヤジが
+JP 「恋人と一緒なら大丈夫だな」って
+JP 言ってたぞ？
+EN The guy at the shop said
+EN "With your boyfriend along,
+EN you'll be fine."
+
+@ 208.208
+# other, used 2x
+JP 社長は…あたしの恋人と
+JP 勘違いされて不快ですか…？
+EN Boss... does it bother you,
+EN being mistaken for my boyfriend...?
+
+@ 208.217
+# President, used 2x
+JP いや、それはないが…。
+EN No, not really, but...
+
+@ 208.223
+# other, used 2x
+JP なら、あたしもかまいません。
+JP むしろ、うれしいというか…。
+EN Then I don't mind either.
+EN Actually, I'm kind of happy...
+
+@ 208.230
+# President, used 2x
+JP …ん？
+JP 何か言ったか？
+EN ...Hm?
+EN Did you say something?
+
+@ 208.236
+# other, used 2x
+JP いえ、別に…。
+JP このあたりで止まりましょ。
+EN No, nothing...
+EN Let's stop around here.
+
+@ 208.244
+# President, used 2x
+JP けっこう離れたな。
+EN We came pretty far out.
+
+@ 208.250
+# other, used 2x
+JP あとで泳ぎましょ、社長。
+EN Let's go for a swim later, Boss.
+
+@ 208.257
+# President, used 2x
+JP こんな沖で危なくないか？
+EN Isn't it dangerous this far out?
+
+@ 208.263
+# other, used 2x
+JP 平気ですよ。
+JP この辺りはサメも出ないって言うし。
+JP 見たところ潮もゆるいし。
+EN It's fine. They say there are
+EN no sharks around here.
+EN And the current looks gentle.
+
+@ 208.270
+# President, used 2x
+JP 海に詳しいんだな？
+EN You know a lot about the sea, huh?
+
+@ 208.276
+# other, used 2x
+JP これでも浜っ子ですから。
+EN I grew up by the sea, you know.
+
+@ 208.283
+# President, used 2x
+JP ……へぇ。
+EN ...Huh.
+
+@ 208.285
+# President, used 2x
+JP （そういえば、神奈川出身か。）
+EN (Right, she's from Kanagawa.)
+
+@ 208.291
+# other, used 2x
+JP うーん！
+JP でも海の綺麗さは段違い。
+JP いいなぁ、ここ。
+EN Mmm!
+EN But the water here is way prettier.
+EN I love this place.
+
+@ 208.298
+# President, used 2x
+JP （そう言いながら目を細めて
+JP 海を見つめる。）
+EN (She gazed at the sea
+EN with narrowed eyes.)
+
+@ 208.304
+# other, used 2x
+JP ずっとこうしていたいくらい…。
+EN I could stay like this forever...
+
+@ 208.311
+# President, used 2x
+JP そうだなぁ。
+EN Yeah, me too.

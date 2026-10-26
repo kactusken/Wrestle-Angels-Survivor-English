@@ -1,0 +1,194 @@
+# Event script entry 213 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 213.69
+# President, used 4x
+JP （みんな楽しそうに泳いでるな。）
+EN (Everyone's having a good swim.)
+
+@ 213.77
+# President, used 2x
+JP ぐおッッ！
+EN Oof!
+
+@ 213.79
+# President, used 2x
+JP （腹の上に急に何かが乗ってきた。）
+EN (Something suddenly landed
+EN on my stomach.)
+
+@ 213.98
+# other, used 2x
+JP しゃーちょー？
+EN Bo-oss?
+
+@ 213.105
+# President, used 2x
+JP なんだ…。
+JP どうしたいきなり？
+EN What is it...?
+EN What's gotten into you?
+
+@ 213.111
+# other, used 2x
+JP 見て見て、社長。
+JP どうかな、この水着？
+EN Look, look, Boss.
+EN What do you think of this swimsuit?
+
+@ 213.118
+# President, used 2x
+JP どうかなって…。
+JP その水着がどうかしたか？
+EN What do I think...?
+EN Is something wrong with it?
+
+@ 213.124
+# other, used 2x
+JP かわいい？
+EN Is it cute?
+
+@ 213.137
+# other, used 2x
+JP ねえ！
+JP かわいい？
+EN Hey!
+EN Is it cute?
+
+@ 213.144
+# President, used 2x
+JP （そんなことを聞くために
+JP わざわざ乗ってきたのか…。）
+EN (She climbed on me
+EN just to ask that...?)
+
+@ 213.156
+# other, used 2x
+JP かわいくない…？
+EN It's not cute...?
+
+@ 213.163
+# President, used 2x
+JP あ、いや。
+JP かわいいよ。
+EN Ah, no.
+EN It's cute.
+
+@ 213.175
+# other, used 2x
+JP わ～～～い♪
+EN Yaaay♪
+
+@ 213.182
+# President, used 2x
+JP かわいいのはわかったから
+JP そろそろどいてくれないか？
+EN Okay, it's cute, I get it.
+EN Now could you get off me?
+
+@ 213.188
+# other, used 2x
+JP ねえねえ、社長。
+JP あそぼ？
+EN Hey, hey, Boss.
+EN Wanna play?
+
+@ 213.195
+# President, used 2x
+JP あそぼって…。
+JP そんな子供みたいに言われても。
+EN "Wanna play"...?
+EN You sound like a little kid.
+
+@ 213.201
+# other, used 2x
+JP あーそーぼ？
+EN Pleeease?
+
+@ 213.208
+# President, used 2x
+JP 他の選手と遊んだらどうなんだ？
+EN Why not play with the other girls?
+
+@ 213.223
+# wrestler (voiced), used 2x
+JP 他の子と一緒にいると
+JP 知らない男の人が来て
+JP 怖いんだもん。
+EN When I'm with the other girls,
+EN strange men come up to us,
+EN and it's scary.
+
+@ 213.230
+# President, used 2x
+JP あー…。
+EN Ah...
+
+@ 213.232
+# President, used 2x
+JP （ナンパか…。）
+EN (Guys trying to pick them up...)
+
+@ 213.244
+# other, used 2x
+JP だから社長と遊ぶの！
+EN So I'm playing with you, Boss!
+
+@ 213.251
+# President, used 2x
+JP （俺はナンパよけか…。）
+EN (So I'm the guy-repellent...)
+
+@ 213.253
+# President, used 2x
+JP ところで、その知らない男は
+JP どうしたんだ？
+EN By the way, what happened
+EN to those strange men?
+
+@ 213.255
+# President, used 2x
+JP ウチの選手に声をかけて
+JP きたんだろ？
+EN They hit on one of
+EN our wrestlers, right?
+
+@ 213.268
+# President, used 2x
+JP 声をかけられたヤツはどうした？
+JP 男に付いていったのか？
+EN What did she do?
+EN Did she go off with them?
+
+@ 213.270
+# President, used 2x
+JP （だとしたら問題だなぁ。）
+EN (That would be a problem.)
+
+@ 213.276
+# other, used 2x
+JP ううん。
+JP 『しつこーい！』って言って技かけて
+JP 動けなくしてから砂に埋めてた。
+EN Nope.
+EN She went "Go away!", pinned him
+EN and buried him in the sand.
+
+@ 213.285
+# President, used 2x
+JP （別の意味で問題だッ！）
+EN (That's a problem of another kind!)
+
+@ 213.287
+# President, used 2x
+JP （警察沙汰だけは
+JP 起こさないでくれよ。）
+EN (Just don't get the police
+EN involved, please.)

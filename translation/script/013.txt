@@ -1,0 +1,449 @@
+# Event script entry 013 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 013.46
+# Secretary
+JP {name:0}選手が
+JP 退団を申し入れてきました。
+EN {name:0} has asked to leave
+EN the promotion.
+
+@ 013.48
+# Secretary
+JP もうこの団体では
+JP やっていけないとのことです。
+EN She says she can't go on
+EN with this promotion anymore.
+
+@ 013.50
+# Secretary
+JP 有望な選手だっただけに残念です。
+EN It's a shame. She had a lot of
+EN promise.
+
+@ 013.61
+# wrestler (voiced), used 2x
+JP 普通の生活に戻ります…。
+JP 今までお世話になりました。
+EN I'm going back to a normal life...
+EN Thank you for everything.
+
+@ 013.68
+# wrestler (voiced), used 2x
+JP あとはみんなに任せるよ！
+JP じゃーねー！
+EN I'll leave the rest to you guys!
+EN Bye-bye!
+
+@ 013.75
+# wrestler (voiced), used 8x
+JP お世話になりました…。
+EN Thank you for everything...
+
+@ 013.82
+# wrestler (voiced), used 2x
+JP …社長。
+JP 今までお世話になりました。
+JP ありがとうございました。
+EN ...Boss.
+EN Thank you for everything
+EN you've done for me.
+
+@ 013.89
+# wrestler (voiced), used 2x
+JP もう実家に帰る！
+EN I'm going back home to my parents!
+
+@ 013.96
+# wrestler (voiced), used 2x
+JP 社長、お世話になりました…。
+EN Boss, thank you for everything...
+
+@ 013.103
+# wrestler (voiced), used 2x
+JP …社長。
+JP 今までお世話になりました…。
+EN ...Boss.
+EN Thank you for everything...
+
+@ 013.107
+# wrestler (voiced), used 2x
+JP 最後くらいはしおらしくね！
+EN Gotta be all proper at the end,
+EN right!
+
+@ 013.114
+# wrestler (voiced), used 2x
+JP みんなともお別れだね…。
+EN So it's goodbye to everyone...
+
+@ 013.135
+# wrestler (voiced), used 2x
+JP ここでの恩は忘れないよ…。
+EN I won't forget what you did for me
+EN here...
+
+@ 013.142
+# wrestler (voiced), used 2x
+JP みんなバイバーイ！
+EN Bye-bye, everyone!
+
+@ 013.149
+# wrestler (voiced), used 2x
+JP もうイヤになっちゃった。
+JP じゃーね！
+EN I'm sick of it.
+EN See ya!
+
+@ 013.156
+# wrestler (voiced), used 2x
+JP 社長、申し訳ないのですが
+JP 辞めさせていただきます。
+EN I'm sorry, Boss, but
+EN I'd like to quit.
+
+@ 013.163
+# wrestler (voiced), used 2x
+JP フンッ！
+JP こんな弱小団体！
+JP 私のレベルには合いませんわッ！
+EN Hmph!
+EN A puny little promotion like this!
+EN It's far beneath my level!
+
+@ 013.170
+# wrestler (voiced), used 2x
+JP もうやってられないわ！
+JP さよなら！
+EN I can't take it anymore!
+EN Goodbye!
+
+@ 013.177
+# wrestler (voiced), used 2x
+JP それではお世話になりました…。
+EN Well then, thank you for
+EN everything...
+
+@ 013.184
+# wrestler (voiced), used 2x
+JP あばよッ！
+EN So long!
+
+@ 013.191
+# wrestler (voiced), used 2x
+JP ごめんね！
+JP わるく思わないで。
+EN Sorry!
+EN Don't hold it against me.
+
+@ 013.198
+# wrestler (voiced), used 4x
+JP さよなら…。
+EN Goodbye...
+
+@ 013.212
+# wrestler (voiced), used 2x
+JP じゃあね…。
+EN See you...
+
+@ 013.219
+# wrestler (voiced), used 2x
+JP やっぱり踊ってる方が
+JP 楽しいみたい！
+JP ごめんねッ！
+EN I guess dancing is more fun
+EN after all!
+EN Sorry!
+
+@ 013.226
+# wrestler (voiced), used 2x
+JP お世話になりました！
+JP ありがとうございましたッ！
+EN Thank you for everything!
+EN Thank you so much!
+
+@ 013.233
+# wrestler (voiced), used 2x
+JP じゃあな！
+EN See ya!
+
+@ 013.240
+# wrestler (voiced), used 2x
+JP もうヤダッ！
+JP おうちに帰る！
+EN I can't take it anymore!
+EN I wanna go home!
+
+@ 013.247
+# wrestler (voiced), used 2x
+JP 花の命は短いもの…。
+EN The life of a flower is short...
+
+@ 013.254
+# wrestler (voiced), used 4x
+JP じゃ…。
+EN Well...
+
+@ 013.261
+# wrestler (voiced), used 2x
+JP では…ごきげんよう…。
+EN Well then... farewell...
+
+@ 013.268
+# wrestler (voiced), used 2x
+JP じゃーねッ！
+EN Seeya!
+
+@ 013.275
+# wrestler (voiced), used 2x
+JP あたしは新しい道をいきます！
+EN I'm going down a new road!
+
+@ 013.282
+# wrestler (voiced), used 2x
+JP 団体と自分の目指す志が
+JP 違っていたようです…。
+EN It seems the promotion's goals
+EN and mine were different...
+
+@ 013.289
+# wrestler (voiced), used 2x
+JP ……呼ばれたから……
+JP ……ちょっと行ってくるね……。
+EN ......I've been called......
+EN ......I'll be going now......
+
+@ 013.296
+# wrestler (voiced), used 2x
+JP もはやこれ以上ここに留まっても
+JP なんのメリットも感じられませんね。
+EN I no longer see any benefit
+EN in staying here.
+
+@ 013.303
+# wrestler (voiced), used 2x
+JP 転身…。
+JP それは一つ処に留まらない風…。
+EN A change of course...
+EN The wind never stays in one place...
+
+@ 013.310
+# wrestler (voiced), used 2x
+JP ……あの…さよなら……。
+EN ......Um... goodbye......
+
+@ 013.317
+# wrestler (voiced), used 2x
+JP さよなら！
+JP いろいろお世話になりました！
+EN Goodbye!
+EN Thanks for everything!
+
+@ 013.324
+# wrestler (voiced), used 2x
+JP またどこかでな！
+EN See you around!
+
+@ 013.331
+# wrestler (voiced), used 2x
+JP 一身上の都合で
+JP 辞めさせてもらいます。
+EN For personal reasons,
+EN I'm quitting.
+
+@ 013.338
+# wrestler (voiced), used 2x
+JP ごめ～ん！
+JP 理由は聞かんといて！
+EN Sorryyy!
+EN Don't ask me why!
+
+@ 013.345
+# wrestler (voiced), used 2x
+JP えっと、あの～…。
+JP 申し訳ないんですけど…。
+JP ごめんなさい。
+EN Um, well...
+EN I'm really sorry, but...
+EN I'm sorry.
+
+@ 013.352
+# wrestler (voiced), used 2x
+JP その…ごめんなさいッ！
+EN Um... I'm sorry!
+
+@ 013.359
+# wrestler (voiced), used 2x
+JP 新しい戦いが私を待っているんです！
+JP 止めないでくださいッ！
+EN A new battle awaits me!
+EN Please don't stop me!
+
+@ 013.366
+# wrestler (voiced), used 2x
+JP もうこの団体に
+JP 興味がなくなりました！
+JP では失礼します。
+EN I've lost interest in
+EN this promotion!
+EN If you'll excuse me.
+
+@ 013.373
+# wrestler (voiced), used 2x
+JP 一身上の都合で
+JP 辞めさせていただきます～。
+JP ごきげんよう～。
+EN For personal reasons,
+EN I'll be leaving~.
+EN Farewell~.
+
+@ 013.380
+# wrestler (voiced), used 2x
+JP もうここでプロレスやって
+JP あげないよ～。
+EN I'm not doing pro wrestling
+EN here for you anymore~.
+
+@ 013.387
+# wrestler (voiced), used 2x
+JP こんな所でやってられるか！
+EN I can't work in a place like this!
+
+@ 013.394
+# wrestler (voiced), used 2x
+JP こんな烏合の衆ばかりの所で
+JP やってられるか！
+EN I can't work in a place full
+EN of riffraff like this!
+
+@ 013.401
+# wrestler (voiced), used 2x
+JP わるいね、社長。
+EN Sorry, Boss.
+
+@ 013.407
+# other, used 2x
+JP さらば…。
+EN Farewell...
+
+@ 013.416
+# wrestler (voiced), used 2x
+JP くっくっく…。
+JP じゃあな！
+EN Heh heh heh...
+EN See ya!
+
+@ 013.422
+# other, used 2x
+JP …………フゥ……。
+EN ............Phew......
+
+@ 013.431
+# wrestler (voiced)
+JP 私の居場所は
+JP ここではないのだ…。
+EN My place
+EN is not here...
+
+@ 013.438
+# wrestler (voiced)
+JP ちょっとここは違うかな～って…。
+EN I just feel like this isn't
+EN quite the place for me...
+
+@ 013.445
+# wrestler (voiced)
+JP ここは私にふさわしくない
+JP 気がするの。
+EN I feel like this place
+EN isn't worthy of me.
+
+@ 013.452
+# wrestler (voiced)
+JP ごめん…。
+JP いろいろお世話になったけど…。
+EN Sorry...
+EN You've done a lot for me, but...
+
+@ 013.459
+# wrestler (voiced)
+JP 私の居場所はここではないと
+JP 判断しました。
+EN I've concluded that my place
+EN is not here.
+
+@ 013.466
+# wrestler (voiced)
+JP ここは私のいる所じゃない……。
+EN This isn't where I belong......
+
+@ 013.473
+# wrestler (voiced)
+JP ごめんなさい…。
+JP ここではもう続けられません…。
+EN I'm sorry...
+EN I can't go on here anymore...
+
+@ 013.480
+# wrestler (voiced)
+JP もうダメです…。
+EN I can't do it anymore...
+
+@ 013.487
+# wrestler (voiced)
+JP ごきげんよう。
+EN Farewell.
+
+@ 013.494
+# wrestler (voiced)
+JP もうここにはいられませ～ん。
+EN I can't stay here anymooore.
+
+@ 013.501
+# wrestler (voiced)
+JP お世話になりました！
+EN Thank you for everything!
+
+@ 013.508
+# wrestler (voiced)
+JP すまねーな！
+JP ま、そういうことで！
+EN Sorry 'bout this!
+EN Well, that's how it is!
+
+@ 013.515
+# wrestler (voiced)
+JP すいません…。
+JP 理由は聞かないでください…。
+EN I'm sorry...
+EN Please don't ask me why...
+
+@ 013.522
+# wrestler (voiced)
+JP すみません…。
+JP でも、ここでは自分の力が
+JP 発揮できないから。
+EN I'm sorry...
+EN But I can't show what I can
+EN really do here.
+
+@ 013.529
+# wrestler (voiced)
+JP ここイヤな感じがするんです…。
+JP 出るんです！
+JP アレがッ！
+EN This place gives me the creeps...
+EN There are... There are ghosts here!
+
+@ 013.536
+# wrestler (voiced)
+JP この団体を卒業させてもらいます…。
+EN I'll be graduating from this
+EN promotion...

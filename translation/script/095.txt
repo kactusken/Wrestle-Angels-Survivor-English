@@ -1,0 +1,159 @@
+# Event script entry 095 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 095.88
+# wrestler (voiced), case 0, used 2x
+JP 何か用があると聞きましたが？
+EN I heard you needed something?
+
+@ 095.94
+# President, case 0, used 2x
+JP ああ、来たか…。
+JP 実はお前に写真集のオファーが
+JP 来てるんだが…。
+EN Ah, you're here... Actually,
+EN there's an offer for a photo book
+EN of you...
+
+@ 095.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集！？
+JP 社長は私に万人に裸をさらせと
+JP 言っているのですか？
+EN ...A photo book!? Are you telling
+EN me to bare myself for the whole
+EN world, Boss?
+
+@ 095.108
+# President, case 0, used 2x
+JP 水着の写真集だから
+JP そこまでは…。
+EN It's a swimsuit photo book, so it's
+EN not that bad...
+
+@ 095.116
+# wrestler (voiced), case 0, used 2x
+JP 同じようなものです。
+EN It's much the same thing.
+
+@ 095.122
+# President, case 0, used 2x
+JP うーん…。
+JP ダメかぁ…。
+EN Hmm... No good, huh...
+
+@ 095.130
+# wrestler (voiced), case 0, used 2x
+JP そもそもなぜ私なんですか？
+JP この団体には他に適役がいる
+JP でしょう。
+EN Why me in the first place? There
+EN must be others in this promotion
+EN better suited to it.
+
+@ 095.136
+# President, case 0, used 2x
+JP なぜと言われてもなぁ…。
+JP ファンからの要望が多かった
+JP らしいが…。
+EN Why, huh... Apparently lots of fans
+EN have asked for it...
+
+@ 095.144
+# wrestler (voiced), case 0, used 2x
+JP …ファンからの…？
+EN ...The fans have...?
+
+@ 095.150
+# President, case 0, used 2x
+JP ファンはお前の写真が
+JP 欲しいそうだ。
+EN They say the fans want your photos.
+
+@ 095.153
+# President, case 0, used 2x
+JP （大半が女性ファンだが…。）
+EN (Most of them are female fans,
+EN though...)
+
+@ 095.169
+# wrestler (voiced), case 0, used 2x
+JP 正直私はそういうキャラでは
+JP ありませんが…。
+JP そのように望まれているなら…。
+EN Honestly, that's not my sort of
+EN role... But if that's what they
+EN want...
+
+@ 095.183
+# wrestler (voiced), case 0, used 2x
+JP ええ、私もプロです！
+JP ただし、やるとなったら
+JP 妥協はしませんよ？
+EN Yes, I'm a professional too! But if
+EN I'm going to do it, I won't
+EN compromise, you know?
+
+@ 095.241
+# President, case 0, used 2x
+JP （カメラマン）
+JP あの…もう一週間ぶっ続けで
+JP 撮っていますが……。
+EN (Cameraman)
+EN Um... We've been shooting nonstop
+EN for a week now......
+
+@ 095.280
+# President, case 0, used 2x
+JP お疲れさん。
+JP カメラマン最後は泣いてたぞ。
+EN Good work. By the end, the
+EN cameraman was crying.
+
+@ 095.289
+# wrestler (voiced), case 0, used 2x
+JP あれくらい当然です。
+JP 妥協はしないと言ったでしょう。
+EN That much is only natural. I told
+EN you I wouldn't compromise.
+
+@ 095.295
+# President, case 0, used 2x
+JP 確かに言ったが…。
+EN You did say that, but...
+
+@ 095.303
+# wrestler (voiced), case 0, used 2x
+JP おかげで完全とは言えませんが
+JP ある程度は納得できるものに
+JP なりそうです。
+EN Thanks to that, while it's not
+EN perfect, it should be something
+EN I can more or less accept.
+
+@ 095.309
+# President, case 0, used 2x
+JP あれだけやって
+JP まだ不満があるのか？
+EN After all that, you're still
+EN not satisfied?
+
+@ 095.317
+# wrestler (voiced), case 0, used 2x
+JP 他ならぬ私自身ですよ…。
+EN With none other than myself...
+
+@ 095.325
+# wrestler (voiced), case 0, used 2x
+JP こればかりは短い撮影期間では
+JP どうにもならないので…。
+JP 口惜しいですね…。
+EN That's something a short shoot
+EN can't fix... How frustrating...

@@ -1,0 +1,134 @@
+# Event script entry 054 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 054.88
+# wrestler (voiced), case 0, used 6x
+JP …呼びました？
+EN ...You called?
+
+@ 054.94
+# President, case 0, used 2x
+JP ああ、練習中すまんな。
+JP いきなりだがお前に
+JP 写真集のオファーが来ている。
+EN Yeah, sorry to interrupt training.
+EN Out of the blue, but you've gotten
+EN an offer for a photo book.
+
+@ 054.102
+# wrestler (voiced), case 0, used 2x
+JP 写真集…ですか…？
+EN A photo book...?
+
+@ 054.116
+# wrestler (voiced), case 0, used 4x
+JP …う～ん。
+EN ...Hmmm.
+
+@ 054.122
+# President, case 0, used 2x
+JP （ダメかな？）
+EN (Is that a no?)
+
+@ 054.136
+# President, case 0, used 2x
+JP おお、それは助かる。
+JP 早速スケジュールを調整して
+JP ロケ地に行こう。
+EN Oh, that's a big help. Let's sort
+EN out the schedule and head
+EN to the location.
+
+@ 054.155
+# President, case 0, used 26x
+JP （カメラマン）
+JP うーん、とっても綺麗ですよ。
+JP はい、撮りまーす。
+EN (Photographer)
+EN Mmm, you look gorgeous.
+EN Okay, shooting!
+
+@ 054.168
+# President, case 0, used 22x
+JP （カメラマン）
+JP いいね、いいね…。
+JP その目、いいね～。
+EN (Photographer)
+EN Nice, nice...
+EN Love those eyes!
+
+@ 054.181
+# President, case 0, used 22x
+JP （カメラマン）
+JP いいね、その表情。
+JP 引き込まれそうだねぇ。
+EN (Photographer)
+EN Nice expression.
+EN I could get lost in it.
+
+@ 054.229
+# President, case 0, used 2x
+JP …うーん。
+JP すごいもんだな。
+EN ...Wow.
+EN That's really something.
+
+@ 054.238
+# wrestler (voiced), case 0, used 2x
+JP ……ん～ッ！
+EN ......Mmmph!
+
+@ 054.244
+# President, case 0, used 2x
+JP どうした？
+JP 怒ってるのか？
+EN What's wrong?
+EN Are you angry?
+
+@ 054.252
+# wrestler (voiced), case 0, used 2x
+JP …み、水着の写真集なんて
+JP 言ってなかったじゃないですか！
+EN ...Y-you never said it was
+EN a swimsuit photo book!
+
+@ 054.258
+# President, case 0, used 2x
+JP なんの写真集だと思ってたんだ？
+EN What kind of photo book
+EN did you think it was?
+
+@ 054.266
+# wrestler (voiced), case 0, used 2x
+JP 試合のかと！
+EN One of my matches!
+
+@ 054.269
+# wrestler (voiced), case 0, used 2x
+JP だって私に水着写真集の
+JP 依頼が来るなんて
+JP 思わないじゃないですかッ！
+EN I mean, who'd think I'd get
+EN an offer for a swimsuit
+EN photo book!?
+
+@ 054.275
+# President, case 0, used 2x
+JP そうか？
+JP こうやって見るとすごく綺麗だぞ？
+EN Really? Looking at these,
+EN you look beautiful, though.
+
+@ 054.283
+# wrestler (voiced), case 0, used 2x
+JP …もッ、もう！
+JP あんまり見ないでください！
+EN ...G-geez!
+EN Stop looking at them so much!

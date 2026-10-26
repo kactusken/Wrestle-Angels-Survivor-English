@@ -1,0 +1,432 @@
+# Event script entry 157 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 157.49
+# wrestler (voiced), used 2x
+JP 私、もう我慢できません…。
+EN I can't take it anymore...
+
+@ 157.57
+# wrestler (voiced), used 2x
+JP あー、ヤメヤメッ！
+JP 今日はここまででおっしまーい！
+EN Ugh, that's it, I'm done!
+EN That's all for today!
+
+@ 157.65
+# wrestler (voiced), used 6x
+JP …フンッ！
+EN ...Hmph!
+
+@ 157.73
+# wrestler (voiced), used 2x
+JP これは…いくら私でも……。
+EN This is... even for me......
+
+@ 157.81
+# wrestler (voiced), used 2x
+JP もう、こんなの無理だよ～！
+EN Geez, there's no way I can do this!
+
+@ 157.88
+# other, used 2x
+JP …帰ります。
+EN ...I'm going home.
+
+@ 157.98
+# wrestler (voiced), used 2x
+JP あー、もう！
+JP 帰る、帰る！
+EN Argh, that's it! I'm going home,
+EN I'm going home!
+
+@ 157.106
+# wrestler (voiced), used 2x
+JP ヤダッ！
+JP もうこんなのやってられないッ！
+EN No way! I can't put up with
+EN this anymore!
+
+@ 157.114
+# wrestler (voiced), used 2x
+JP もうついていけませんッ！
+EN I can't keep up anymore!
+
+@ 157.122
+# wrestler (voiced), used 2x
+JP ……フゥ～…。
+EN ......Phew...
+
+@ 157.130
+# wrestler (voiced), used 2x
+JP 我慢が限界を超えたよ…。
+EN My patience has passed its limit...
+
+@ 157.138
+# wrestler (voiced), used 2x
+JP これ以上ムリ～…。
+EN I can't do any more...
+
+@ 157.146
+# wrestler (voiced), used 2x
+JP あー、もうムリッ！
+JP たえられないって！
+EN Argh, I can't! I can't stand it!
+
+@ 157.154
+# wrestler (voiced), used 2x
+JP 帰ります…。
+EN I'm going home...
+
+@ 157.162
+# wrestler (voiced), used 2x
+JP こんな練習
+JP 私には必要ありませんわ！
+EN I have no need for training
+EN like this!
+
+@ 157.170
+# wrestler (voiced), used 2x
+JP なんだかイヤになっちゃった…。
+EN I'm just sick of it all...
+
+@ 157.178
+# wrestler (voiced), used 2x
+JP もう限界です…。
+EN I'm at my limit...
+
+@ 157.186
+# wrestler (voiced), used 2x
+JP やってられっかッ！
+EN Screw this!
+
+@ 157.194
+# wrestler (voiced), used 2x
+JP もう、つら～い！
+EN Geez, this is so hard!
+
+@ 157.202
+# wrestler (voiced), used 2x
+JP もう、やってられない…。
+EN I can't do this anymore...
+
+@ 157.210
+# wrestler (voiced), used 2x
+JP 正直辛いです…。
+EN Honestly, it's tough...
+
+@ 157.218
+# wrestler (voiced), used 2x
+JP あたしにはこんな練習
+JP 必要ないから…。
+EN I don't need training like this...
+
+@ 157.226
+# wrestler (voiced), used 2x
+JP んもうッ！
+JP ついていけないッ！
+EN Geez! I can't keep up!
+
+@ 157.234
+# wrestler (voiced), used 2x
+JP す、すいません…。
+JP ボクもう限界ですッ！
+EN S-sorry... I'm at my limit!
+
+@ 157.242
+# wrestler (voiced), used 2x
+JP やる気がおきねーんだよ！
+EN I just don't feel like it!
+
+@ 157.250
+# wrestler (voiced), used 2x
+JP 怖いし、痛いし、もうイヤッ！
+EN It's scary, it hurts, I hate it!
+
+@ 157.258
+# wrestler (voiced), used 2x
+JP いい加減休ませていただけません？
+EN Would you kindly let me rest
+EN already?
+
+@ 157.266
+# wrestler (voiced), used 2x
+JP 気分が乗らない…。
+EN I'm not in the mood...
+
+@ 157.274
+# wrestler (voiced), used 2x
+JP イヤになってしまいました…。
+EN I've grown sick of it...
+
+@ 157.282
+# wrestler (voiced), used 2x
+JP もう、やってらんない…。
+EN Geez, I can't be bothered...
+
+@ 157.290
+# wrestler (voiced), used 2x
+JP これ以上たえられません！
+EN I can't take any more of this!
+
+@ 157.298
+# wrestler (voiced), used 2x
+JP いやいや！
+JP これ以上はオーバーワークです！
+JP 本当に！
+EN No, no! Any more is overwork!
+EN Seriously!
+
+@ 157.306
+# wrestler (voiced), used 2x
+JP ……練習は必要ないって気がする…。
+JP ……それよりあっちへ……
+JP ……行かないと……。
+EN ......I feel like I don't need
+EN training... ......I have to go over
+EN there instead......
+
+@ 157.314
+# wrestler (voiced), used 2x
+JP これ以上の練習は
+JP 私の精神に負担が大きすぎます。
+EN Any more training would put too
+EN great a strain on my mind.
+
+@ 157.322
+# wrestler (voiced), used 2x
+JP これ以上のトレーニングは
+JP 肉体美を崩してしまいます。
+EN Any more training would ruin my
+EN beautiful physique.
+
+@ 157.330
+# wrestler (voiced), used 2x
+JP ……お、お腹いたい……。
+EN ......M-my tummy hurts......
+
+@ 157.338
+# wrestler (voiced), used 2x
+JP もう行きたくないよう…。
+EN I don't wanna go anymore...
+
+@ 157.346
+# wrestler (voiced), used 2x
+JP もう練習に出るつもりはない…。
+EN Maho's not going to practice
+EN anymore...
+
+@ 157.354
+# wrestler (voiced), used 2x
+JP 仕事とは言え
+JP 物事には限度があります！
+EN Work or not, there are limits
+EN to everything!
+
+@ 157.362
+# wrestler (voiced), used 2x
+JP キッツ～…。
+JP サーカスやってたときの方が
+JP ずっと楽しかったなぁ…。
+EN Tough... Back when I was in the
+EN circus, it was way more fun...
+
+@ 157.370
+# wrestler (voiced), used 2x
+JP こんなに練習ばっかり…。
+JP あたしはもう嫌なの～ッ！
+EN Nothing but training all the time...
+EN I've had enough!
+
+@ 157.378
+# wrestler (voiced), used 2x
+JP もう無理…。
+JP たえられませんッ！
+EN I can't anymore... I can't take it!
+
+@ 157.386
+# wrestler (voiced), used 2x
+JP 私には…まだまだ根性が
+JP 足りなかったようです…。
+EN It seems I... still don't have
+EN enough guts...
+
+@ 157.394
+# wrestler (voiced), used 2x
+JP 私には私のペースというものが
+JP あるんですよ？
+JP それを崩さないでいただきたい！
+EN I have my own pace, you know?
+EN I'd thank you not to disrupt it!
+
+@ 157.402
+# wrestler (voiced)
+JP 申し訳ありませんが
+JP 私には厳しすぎる練習ばかりです…。
+EN I'm sorry, but the training is
+EN far too hard for me...
+
+@ 157.410
+# wrestler (voiced), used 2x
+JP んもぉーーッ！
+JP こんな練習やってらんないッ！
+EN Grrrr! I can't put up with this
+EN training!
+
+@ 157.418
+# wrestler (voiced), used 2x
+JP 練習練習って
+JP バカじゃねーのか？
+EN Training, training... Are you
+EN stupid or something?
+
+@ 157.426
+# wrestler (voiced), used 2x
+JP 練習練習ってバカくせー！
+EN Training, training... What a joke!
+
+@ 157.434
+# wrestler (voiced), used 2x
+JP あぁん！？
+JP こんな練習やってられるか！
+EN Huh!? Like I'd put up with
+EN training like this!
+
+@ 157.442
+# wrestler (voiced), used 2x
+JP やみくもに鍛えても
+JP いい結果は生まれんぞ…。
+EN Blind training won't produce
+EN good results...
+
+@ 157.450
+# wrestler (voiced), used 2x
+JP もう、やってられないってことさ！
+EN It means I can't be bothered
+EN anymore!
+
+@ 157.457
+# other, used 2x
+JP …………フゥ～……。
+EN ............Phew......
+
+@ 157.466
+# wrestler (voiced)
+JP 怠惰とは思いたくないものだ…。
+EN I'd rather not think of it as
+EN laziness...
+
+@ 157.474
+# wrestler (voiced)
+JP あは…ちょっとウサちゃんと
+JP 遊ぼうかなって…。
+EN Aha... I was just thinking I'd
+EN play with the bunnies for a bit...
+
+@ 157.482
+# wrestler (voiced)
+JP もう、やってられないわ！
+EN Geez, I can't put up with this!
+
+@ 157.490
+# wrestler (voiced)
+JP 正直きついってー…。
+EN Honestly, it's tough...
+
+@ 157.498
+# wrestler (voiced)
+JP 任務とは言え
+JP 現状では遂行不可能です。
+EN Mission or not, under current
+EN conditions it cannot be carried out.
+
+@ 157.506
+# wrestler (voiced)
+JP ムリはダメ……！
+EN Don't overdo it......!
+
+@ 157.514
+# wrestler (voiced)
+JP だって、その…。
+JP もう辛くって…。
+EN Because, um... It's just too hard...
+
+@ 157.522
+# wrestler (voiced)
+JP こんなことしてちゃダメです！
+EN We shouldn't be doing this!
+
+@ 157.530
+# wrestler (voiced)
+JP わたくしに命令しないでくださる？
+EN Would you kindly not order me
+EN around?
+
+@ 157.538
+# wrestler (voiced)
+JP もう、いやです…。
+EN I don't want to anymore...
+
+@ 157.546
+# wrestler (voiced)
+JP いやだ！
+EN No!
+
+@ 157.554
+# wrestler (voiced)
+JP やってらんねーッ！
+EN Screw this!
+
+@ 157.562
+# wrestler (voiced)
+JP 最近の練習メニューは
+JP 効率的でない気がします…。
+EN I feel the recent training menu
+EN isn't very efficient...
+
+@ 157.570
+# wrestler (voiced)
+JP もう限界ですッ！
+EN I'm at my limit!
+
+@ 157.578
+# wrestler (voiced)
+JP イヤです！
+JP だって…ジムで見ちゃったん
+JP ですもん…。
+EN I don't want to! Because...
+EN I saw it at the gym...
+
+@ 157.586
+# wrestler (voiced)
+JP もうイヤです…。
+EN I don't want to anymore...
+
+@ 157.947
+# wrestler (voiced)
+JP …申し訳ありませんが
+JP 私には厳しすぎる練習ばかりです…。
+EN ...I'm sorry, but the training is
+EN far too hard for me...
+
+@ 157.1018
+# Secretary
+JP {name:0}選手が
+JP 練習に姿を見せていません。
+EN {name:0} hasn't been showing up
+EN to training.
+
+@ 157.1020
+# Secretary
+JP 信頼を回復するためにも
+JP 一度会話をされた方が
+JP 良いのではないでしょうか？
+EN Perhaps you should talk with her
+EN once, to win back her trust?

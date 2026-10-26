@@ -1,0 +1,31 @@
+{
+ "english": "Genius Muto | Genius Muto",
+ "boxes": [
+  [
+   432,
+   200,
+   32,
+   265
+  ],
+  [
+   464,
+   200,
+   32,
+   265
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 17,
+ "draw": "names.draw",
+ "mode": "vsband",
+ "notes": "match-up (VS) screen close-ups: the name in the red and the blue band, turned 90 degrees clockwise, ending where the Japanese did (tools/namegfx.py)",
+ "catalogue": {
+  "source": "/A000/A018. part 90",
+  "width": 512,
+  "height": 512,
+  "bpp": 8,
+  "category": "name",
+  "japanese": "ジーニアス武藤"
+ }
+}

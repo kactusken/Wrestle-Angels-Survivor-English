@@ -1,0 +1,112 @@
+# Event script entry 060 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 060.88
+# wrestler (voiced), case 0, used 4x
+JP お呼びですか？
+EN You called?
+
+@ 060.94
+# President, case 0, used 2x
+JP …ああ。
+JP 実はお前に写真集のオファーが
+JP 来てるんだが…。
+EN ...Yeah. Actually, you've gotten
+EN an offer for a photo book...
+
+@ 060.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集の？
+EN ...A photo book?
+
+@ 060.116
+# wrestler (voiced), case 0, used 2x
+JP あー、うれしいけど
+JP 私でいいんでしょうかね…？
+EN Ah, I'm happy, but...
+EN are they sure about me...?
+
+@ 060.122
+# President, case 0, used 2x
+JP いいんだよ。
+JP 向こうからの指名なんだから。
+EN They're sure.
+EN They asked for you by name.
+
+@ 060.130
+# wrestler (voiced), case 0, used 2x
+JP そうですか…。
+JP なら、やっちゃおうかな。
+EN Is that so...
+EN Then maybe I'll go for it.
+
+@ 060.136
+# President, case 0, used 2x
+JP ああ、やっちゃえ。
+EN Yeah, go for it.
+
+@ 060.144
+# wrestler (voiced), case 0, used 2x
+JP はいッ！
+JP やっちゃいましょう！
+EN Okay!
+EN Let's go for it!
+
+@ 060.239
+# wrestler (voiced), case 0, used 2x
+JP アハハ…。
+JP いやー、出来上がりを前にすると
+JP やっぱ照れるなぁ…。
+EN Ahaha... Man, seeing the finished
+EN thing in front of me is
+EN embarrassing after all...
+
+@ 060.245
+# President, case 0, used 2x
+JP そういえば、お前の親父さんが
+JP 店に貼るポスターをくれって
+JP 言ってきたな…。
+EN That reminds me, your dad asked
+EN for posters to put up in
+EN the shop...
+
+@ 060.253
+# wrestler (voiced), case 0, used 2x
+JP 恥ずかしいよぅ。
+JP 中学の同級生とかいるのに…。
+JP 断ってくださいよぅ！
+EN That's so embarrassing! My junior
+EN high classmates are around there...
+EN Please turn him down!
+
+@ 060.259
+# President, case 0, used 2x
+JP いや、もう50枚程送ったが…。
+EN Well, I already sent him
+EN about 50...
+
+@ 060.267
+# wrestler (voiced), case 0, used 4x
+JP うわ――ッ！
+EN Waaaaah!
+
+@ 060.273
+# President, case 0, used 2x
+JP どうした？
+JP 頭を抱えて…？
+EN What's wrong?
+EN Why are you holding your head...?
+
+@ 060.281
+# wrestler (voiced), case 0, used 2x
+JP し、しばらく
+JP 実家に帰るのやめます…。
+EN I-I'm not going home
+EN for a while...

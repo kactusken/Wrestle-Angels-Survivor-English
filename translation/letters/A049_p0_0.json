@@ -1,0 +1,12 @@
+{
+ "english": "60-Min. One Fall | Championship | Tag | Junior | Heavyweight | Asia",
+ "boxes": [[0, 140, 169, 33], [0, 211, 133, 43], [0, 258, 118, 43], [144, 258, 158, 44], [0, 305, 168, 44], [179, 304, 122, 43]],
+ "draw": "system.draw",
+ "fill": [255, 255, 255],
+ "ground": "transparent",
+ "font": "BarlowCondensed-ExtraBold.ttf",
+ "margin": 0,
+ "groups": [{"labels": [0], "cap": 22, "dy": -2}, {"labels": [1, 2, 3, 4, 5], "cap": 28, "dy": -3}],
+ "notes": "title-belt lettering pieces (the game builds belt names like WWWA ... 選手権 from this sheet); each English word fills its Japanese word's rectangle, centred. If the game cuts these per character rather than per word, the English will come out wrong - check in game",
+ "catalogue": {"source": "/A040/A049.", "width": 512, "height": 512, "bpp": 8, "category": "title", "japanese": "60分一本勝負 | 選手権 | タッグ | ジュニア | ヘビー級 | アジア"}
+}

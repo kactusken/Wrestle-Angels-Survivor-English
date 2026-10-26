@@ -1,0 +1,101 @@
+# Event script entry 091 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 091.88
+# wrestler (voiced), case 0, used 2x
+JP 社長、きたったで～。
+JP なんか用？
+EN Boss, I'm here! Ya need somethin'?
+
+@ 091.94
+# President, case 0, used 6x
+JP おお、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN Oh, you're here. Actually, there's
+EN an offer for a photo book of you...
+
+@ 091.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集！？
+JP ウチにか？
+EN ...A photo book!? Of me?
+
+@ 091.116
+# wrestler (voiced), case 0, used 2x
+JP 念のため聞くけど
+JP ヌードとかちゃうやろな？
+EN Just to be sure, it ain't a nude
+EN or somethin', right?
+
+@ 091.122
+# President, case 0, used 2x
+JP 違う、違う。
+EN No, no.
+
+@ 091.130
+# wrestler (voiced), case 0, used 2x
+JP そっか！
+JP なら、オッケーってことで！
+EN Gotcha! Then it's an okay!
+
+@ 091.136
+# President, case 0, used 6x
+JP 受けてくれるか？
+EN So you'll take it?
+
+@ 091.144
+# wrestler (voiced), case 0, used 2x
+JP とうぜーん！
+JP これでウチもグラビアアイドルの
+JP 仲間入りやな！
+EN Course I will! Now I'm joinin' the
+EN ranks of the gravure idols!
+
+@ 091.147
+# wrestler (voiced), case 0, used 2x
+JP うおー！
+JP 燃えてきた～！
+EN Whoa! I'm all fired up!
+
+@ 091.249
+# wrestler (voiced), case 0, used 2x
+JP かわいくか～…。
+JP ウチとしてはかわいい言われるより
+JP 綺麗言われたいとこなんやけどなぁ。
+EN Cute, huh... Me, I'd rather be
+EN called beautiful than cute.
+
+@ 091.255
+# President, case 0, used 2x
+JP それは今後の課題ってことで。
+EN Let's call that a goal for the
+EN future.
+
+@ 091.263
+# wrestler (voiced), case 0, used 2x
+JP アハハハッ！
+JP そっか、なら期待しててな。
+EN Ahahaha! Okay, then look forward
+EN to it!
+
+@ 091.269
+# President, case 0, used 2x
+JP ああ、期待してるよ。
+EN Yeah, I'm looking forward to it.
+
+@ 091.277
+# wrestler (voiced), case 0, used 2x
+JP ま、なんにしても撮影楽しかった～。
+JP 旅行行けて、うまいモン食って
+JP ギャラも入って、最高や～！
+EN Anyway, the shoot was a blast!
+EN I got a trip, ate good food, AND got
+EN paid. It's the best!

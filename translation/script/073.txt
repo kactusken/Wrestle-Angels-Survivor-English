@@ -1,0 +1,115 @@
+# Event script entry 073 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 073.88
+# wrestler (voiced), case 0, used 2x
+JP 武藤来ました。
+JP 何か用事？
+EN Muto, reporting. What do you need?
+
+@ 073.116
+# wrestler (voiced), case 0, used 2x
+JP まあ、別に脱いでもいいけど…。
+EN Well, I don't mind stripping,
+EN if that's what it takes...
+
+@ 073.122
+# President, case 0, used 2x
+JP そこまでしなくていい。
+JP 水着でいいんだ。
+EN No need to go that far.
+EN Swimsuits are fine.
+
+@ 073.130
+# wrestler (voiced), case 0, used 2x
+JP …ふーん。
+JP 水着なんか
+JP いつもリングの上で見せてるのに。
+EN ...Huh. But I show off my swimsuit
+EN in the ring all the time.
+
+@ 073.136
+# President, case 0, used 2x
+JP そういうのとは違うんだよ。
+EN It's not the same thing.
+
+@ 073.144
+# wrestler (voiced), case 0, used 2x
+JP …そう。
+JP ま、どっちにしてもいいわよ。
+JP ギャラは出るんでしょ？
+EN ...I see. Well, either way's fine.
+EN I'm getting paid, right?
+
+@ 073.150
+# President, case 0, used 2x
+JP ああ、それはもちろん。
+EN Yeah, of course.
+
+@ 073.243
+# President, case 0, used 2x
+JP よかったぞ。
+JP ほら、こんなに綺麗に撮れてる。
+EN That was great. Look how
+EN beautiful these came out.
+
+@ 073.252
+# wrestler (voiced), case 0, used 2x
+JP …ふーん。
+JP これがあたし…。
+EN ...Huh. So this is me...
+
+@ 073.258
+# President, case 0, used 2x
+JP ああ、いい感じだろ？
+EN Yeah, looks good, right?
+
+@ 073.266
+# wrestler (voiced), case 0, used 2x
+JP 綺麗…かな…。
+JP なんだかあたしじゃないみたい…。
+EN Beautiful... maybe... It's like
+EN it isn't even me...
+
+@ 073.272
+# President, case 0, used 2x
+JP 間違いなくお前だよ。
+EN It's you, no doubt about it.
+
+@ 073.280
+# wrestler (voiced), case 0, used 2x
+JP ん～…。
+EN Hmm...
+
+@ 073.286
+# President, case 0, used 2x
+JP 綺麗なんだよ。
+JP お前は。
+EN You're beautiful, you know.
+
+@ 073.294
+# wrestler (voiced), case 0, used 2x
+JP やだな…。
+JP あんまり真顔で言わないでよ。
+EN Stop it... Don't say that with
+EN such a straight face.
+
+@ 073.300
+# President, case 0, used 2x
+JP まあ、事実だからな。
+EN Well, it's the truth.
+
+@ 073.308
+# wrestler (voiced), case 0, used 2x
+JP ふーん…。
+JP なら、これから少し
+JP 自惚れちゃおっかな。
+EN Hmm... Then maybe I'll let myself
+EN get a little conceited from now on.

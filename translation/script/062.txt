@@ -1,0 +1,106 @@
+# Event script entry 062 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 062.88
+# wrestler (voiced), case 0, used 2x
+JP 龍子です。
+JP 社長、呼びました？
+EN It's Ryuko.
+EN You called, Boss?
+
+@ 062.94
+# President, case 0, used 6x
+JP ああ、来たか。
+JP 実はお前に写真集のオファーが
+JP 来てるんだが…。
+EN Ah, you're here. Actually, you've
+EN gotten an offer for a photo book...
+
+@ 062.108
+# President, case 0, used 2x
+JP …ああ。
+JP 水着のヤツなんだがどうだ？
+JP 会社としては受けたいんだが…。
+EN ...Yeah. It's a swimsuit one,
+EN what do you say? The company
+EN would like to accept...
+
+@ 062.116
+# wrestler (voiced), case 0, used 2x
+JP …んー…。
+JP まあ、いいよ。
+EN ...Hmm...
+EN Well, okay.
+
+@ 062.122
+# President, case 0, used 2x
+JP そうか。
+JP 助かる。
+EN Great.
+EN That helps.
+
+@ 062.130
+# wrestler (voiced), case 0, used 2x
+JP でも…。
+EN But...
+
+@ 062.138
+# wrestler (voiced), case 0, used 2x
+JP 売れなくても知らないよ。
+EN Don't blame me if it doesn't sell.
+
+@ 062.231
+# President, case 0, used 2x
+JP お見それしたよ。
+JP リング上とは別の意味で貫禄だな。
+EN I underestimated you. You've got
+EN presence, and not the kind
+EN you show in the ring.
+
+@ 062.240
+# wrestler (voiced), case 0, used 2x
+JP いつもリングで見られてるし…。
+JP 今さらカメラの１つや２つ。
+EN People watch me in the ring
+EN all the time... A camera or two
+EN is nothing now.
+
+@ 062.246
+# President, case 0, used 2x
+JP 今までとは違う層のファンも
+JP 増えそうだな。
+EN Looks like you'll win over a new
+EN kind of fan.
+
+@ 062.254
+# wrestler (voiced), case 0, used 2x
+JP そういうファンは
+JP リングのあたしを見て
+JP 引くんじゃないの？
+EN Won't fans like that be put off
+EN when they see me in the ring?
+
+@ 062.260
+# President, case 0, used 2x
+JP はは、そうかもな…。
+JP 美しいお姉様を期待して来たファンが
+JP 試合での暴れっぷりを見たらなぁ…。
+EN Ha ha, maybe... Fans expecting a
+EN gorgeous older lady, seeing you
+EN rampage in a match...
+
+@ 062.268
+# wrestler (voiced), case 0, used 2x
+JP ま、そのなかの一割でも
+JP リング上のあたしを好きになって
+JP くれれば上出来だね。
+EN Well, if even a tenth of them come
+EN to like me in the ring, that's
+EN good enough.

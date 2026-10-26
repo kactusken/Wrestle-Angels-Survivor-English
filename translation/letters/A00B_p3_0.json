@@ -1,0 +1,174 @@
+{
+ "english": "Page | Sort | Details | Throw Def | Hold Def | Power Def | Strike Def | Aerial Def",
+ "boxes": [
+  [
+   266,
+   5,
+   46,
+   18
+  ],
+  [
+   364,
+   5,
+   44,
+   18
+  ],
+  [
+   460,
+   5,
+   42,
+   18
+  ],
+  [
+   312,
+   30,
+   48,
+   20
+  ],
+  [
+   368,
+   30,
+   48,
+   20
+  ],
+  [
+   424,
+   30,
+   48,
+   20
+  ],
+  [
+   480,
+   30,
+   48,
+   20
+  ],
+  [
+   536,
+   30,
+   48,
+   20
+  ]
+ ],
+ "draw": "system.draw",
+ "font": "BarlowCondensed-SemiBold.ttf",
+ "ground": "interpolate",
+ "fill": [
+  248,
+  247,
+  185
+ ],
+ "same_size": false,
+ "groups": [
+  {
+   "cap": 12,
+   "align": "left",
+   "font": "BarlowCondensed-Bold.ttf",
+   "outline": {
+    "w": 1.25,
+    "rgb": [
+     46,
+     47,
+     144
+    ]
+   },
+   "clear": [[265, 3, 47, 22], [364, 4, 45, 21], [459, 3, 40, 22]], "labels": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "ground": "keep",
+   "fill": [
+    248,
+    247,
+    185
+   ],
+   "outline": {
+    "w": 1.5,
+    "rgb": [
+     46,
+     47,
+     144
+    ]
+   },
+   "cap": 12,
+   "font": "BarlowCondensed-Bold.ttf",
+   "margin": 1,
+   "labels": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "draw": "buttons.draw",
+   "buttons": [
+    [
+     309,
+     28,
+     54,
+     24
+    ],
+    [
+     365,
+     28,
+     54,
+     24
+    ],
+    [
+     421,
+     28,
+     54,
+     24
+    ],
+    [
+     477,
+     28,
+     54,
+     24
+    ],
+    [
+     533,
+     28,
+     54,
+     24
+    ]
+   ],
+   "model": [
+    "A00B_p0_0",
+    "A00B_p1_0",
+    "A00B_p2_0",
+    "A00B_p3_0",
+    "A00B_p4_0",
+    "A00B_p9_0",
+    "A00B_p11_0",
+    "A00B_p12_0",
+    "A00B_p13_0",
+    "A00B_p14_0",
+    "A00B_p15_0",
+    "A00D_t0_0"
+   ],
+   "glow": {
+    "w": 1.5,
+    "blur": 1.5,
+    "rgb": [
+     23,
+     117,
+     60
+    ],
+    "a": 230
+   }
+  }
+ ],
+ "notes": "list panel: button hints ページ Page, ソート Sort, 詳細 Details; column heads 投げ防 Throw Def, 極め防 Hold Def, パワー防 Power Def, 打撃防 Strike Def, 飛び防 Aerial Def - WAS2 SYS_BEL_0/SYS_BEL_4 wording; same art as A00D_t0_0, settings reused; column-head buttons: ground rebuilt by letter_ext/buttons.py (vignette model of the 54x24 button art), dark-green glow as the original",
+ "catalogue": {
+  "source": "/A000/A00B. entry 3",
+  "width": 640,
+  "height": 304,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "ページ ソート 詳細 / 投げ防 極め防 パワー防 打撃防 飛び防"
+ }
+}

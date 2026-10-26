@@ -1,0 +1,120 @@
+# Event script entry 084 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 084.88
+# wrestler (voiced), case 0, used 2x
+JP ……呼んだ……？
+EN ......You called......?
+
+@ 084.94
+# President, case 0, used 6x
+JP …ああ。
+JP 実はお前に写真集のオファーが
+JP 来ているんだが…。
+EN ...Yeah. Actually, there's an offer
+EN for a photo book of you...
+
+@ 084.109
+# President, case 0, used 2x
+JP そんな不思議そうな顔しないでくれ。
+EN Don't look at me like that's so
+EN mysterious.
+
+@ 084.124
+# President, case 0, used 2x
+JP 水着の写真集なんだがどうかな？
+EN It's a swimsuit photo book.
+EN What do you say?
+
+@ 084.131
+# other, case 0, used 8x
+JP ……ン～……。
+EN ......Mmm......
+
+@ 084.139
+# President, case 0, used 4x
+JP あ～…。
+EN Ahh...
+
+@ 084.153
+# President, case 0, used 2x
+JP …ダメか？
+EN ...No good?
+
+@ 084.161
+# wrestler (voiced), case 0, used 4x
+JP ……何を……？
+EN ......What......?
+
+@ 084.167
+# President, case 0, used 2x
+JP 写真集。
+EN A photo book.
+
+@ 084.175
+# wrestler (voiced), case 0, used 2x
+JP ……誰が……？
+EN ......Who......?
+
+@ 084.181
+# President, case 0, used 2x
+JP お前が。
+EN You.
+
+@ 084.196
+# President, case 0, used 2x
+JP だから、そんな不思議そうな顔を
+JP しないでくれ…。
+EN Like I said, don't look at me like
+EN that's so mysterious...
+
+@ 084.302
+# wrestler (voiced), case 0, used 2x
+JP ……終わった…の……？
+EN ......Is it...over......?
+
+@ 084.308
+# President, case 0, used 2x
+JP …ああ。
+JP ほらかわいく撮れてるぞ。
+EN ...Yeah. Look, you came out cute.
+
+@ 084.317
+# wrestler (voiced), case 0, used 2x
+JP ……ふーん……。
+EN ......Hmm......
+
+@ 084.323
+# President, case 0, used 2x
+JP これなら結構売れると思うな。
+EN I think this'll sell pretty well.
+
+@ 084.330
+# other, case 0, used 2x
+JP ……売る……？
+EN ......Sell......?
+
+@ 084.352
+# President, case 0, used 2x
+JP いや、だから写真集。
+EN I mean, it's a photo book.
+
+@ 084.360
+# wrestler (voiced), case 0, used 2x
+JP ……ふーん……。
+JP ……良かったね……。
+EN ......Hmm......
+EN ......Good for you......
+
+@ 084.366
+# President, case 0, used 2x
+JP （やっぱり理解してないのか？）
+EN (She still doesn't get it, does
+EN she?)

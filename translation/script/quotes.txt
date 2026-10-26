@@ -1,0 +1,1156 @@
+# Pre-match quotes (/A040/A048.): what a wrestler says before a match.
+# One block per quote; write EN lines (at most 3 lines; `python3 tools/script.py wrap` re-breaks
+# lines wider than 396 pixels - about 36 characters). Characters as in the event scripts.
+
+@ q.0
+JP 今日もいきますよ～！
+EN Here we go again today~!
+
+@ q.1
+JP よしッ！
+JP 気合、気合ッ！
+EN All right!
+EN Fired up, fired up!
+
+@ q.2
+JP 気合十分！
+JP 今日もノリノリで行くわよー！！
+EN Totally pumped!
+EN I'm in the groove today!!
+
+@ q.3
+JP 今日もジャーマンで決めちゃうよッ！
+EN Today I'll win with a German suplex!
+
+@ q.4
+JP 気合入れていくぞッ！
+EN Let's get fired up!
+
+@ q.5
+JP 今こそ練習の成果を見せるとき！
+EN Time to show the fruits of training!
+
+@ q.6
+JP 作戦通りにいけば勝機はある。
+EN Stick to the plan and I can win.
+
+@ q.7
+JP 私のファイト見ていてください！
+EN Please watch me fight!
+
+@ q.8
+JP 今日もトコトンいっちゃうよーッ！
+EN Going all out again today!
+
+@ q.9
+JP 準備オッケーッ！
+JP 気合入りまくり！
+EN Ready to go!
+EN Totally fired up!
+
+@ q.10
+JP さぁ、いくぞ！
+EN Okay, let's go!
+
+@ q.11
+JP 覚悟はできているんだろうな？
+EN I hope you're ready for this.
+
+@ q.12
+JP 今日もガンガンいくよ！
+EN Full throttle again today!
+
+@ q.13
+JP 当たって砕けろッ！
+EN Go for broke!
+
+@ q.14
+JP 今日は泣かないんだからぁ！
+EN I'm not gonna cry today!
+
+@ q.15
+JP みんなのために
+JP がんばっちゃうからねー！
+EN I'll do my best
+EN for everyone!
+
+@ q.16
+JP 特別サービスしちゃいまーすッ！
+EN A special treat, just for you!
+
+@ q.17
+JP テンション上げていきまーす！
+EN Let's crank up the energy!
+
+@ q.18
+JP 立ちはだかる敵は倒すのみ。
+EN Whoever stands in my way falls.
+
+@ q.19
+JP 押忍！！
+JP 気合は充分、今日も勝つ！
+EN Osu!!
+EN Spirit's high. I win again today!
+
+@ q.20
+JP さぁ、今日もリングが
+JP あたしを待っている！
+EN Now then, the ring
+EN awaits me again!
+
+@ q.21
+JP 全力を出しきる…。
+JP 結果は自ずと付いてくる！
+EN I'll give it everything...
+EN The results will follow!
+
+@ q.22
+JP 今日もがんばるにゃん！
+EN I'll do my best today, nya!
+
+@ q.23
+JP みんな今日も注目してねー！
+EN Everyone, eyes on me today!
+
+@ q.24
+JP う～し！
+JP 今日もがんばっちゃうよ～！
+EN Alri~ght!
+EN I'm gonna do my best today~!
+
+@ q.25
+JP さあ、気合入れるわよ！
+JP オーーーッ！
+EN Okay, let's get fired up!
+EN Yeaaaah!
+
+@ q.26
+JP ウフフ…。
+JP 今日もいい試合を見せるわよ！
+EN Ufufu...
+EN I'll put on a good match today!
+
+@ q.27
+JP エースたるもの
+JP 勝ち続けないとね。
+EN An ace has to
+EN keep on winning.
+
+@ q.28
+JP オーッホッホッホッホ！
+JP 今日も完璧な試合で
+JP 観客を魅了しましてよ！
+EN Oh-ho-ho-ho-ho!
+EN Another perfect match today
+EN to enchant the crowd!
+
+@ q.29
+JP ああ、観客の私を求める声が
+JP 聞こえてきますわ。
+EN Ah, I can hear the crowd
+EN calling for me.
+
+@ q.30
+JP さあ！
+JP いよいよみんなのアイドルの
+JP 登場だよー！
+EN Here it is!
+EN Everyone's idol
+EN is coming out!
+
+@ q.31
+JP う～…。
+JP なんだか緊張してきちゃった…。
+EN Uuu...
+EN I'm getting kind of nervous...
+
+@ q.32
+JP …しゃ、いくぞッ！
+EN ...Right, let's go!
+
+@ q.33
+JP さぁ、いこう！
+EN Come on, let's go!
+
+@ q.34
+JP 今日の犠牲者はどこのどいつだ！
+EN So who's today's victim?!
+
+@ q.35
+JP 早くリングに上がりたくて
+JP ウズウズするぜ！
+EN I'm itching to get
+EN into that ring!
+
+@ q.36
+JP さぁ、今日もがんばるわよー！
+EN Okay, let's do our best today!
+
+@ q.37
+JP よーし！
+JP 気合入れていくわよッ！
+EN All right!
+EN Let's get fired up!
+
+@ q.38
+JP 今日も完璧な試合を見せるわ！
+EN I'll show another perfect match!
+
+@ q.39
+JP すぐに終わらせてみせるわ！
+EN I'll finish this in no time!
+
+@ q.40
+JP 今日もがんばっていきましょう！
+EN Let's give it our all today!
+
+@ q.41
+JP よーし！
+JP がんばりますよ！
+EN All right!
+EN I'll do my best!
+
+@ q.42
+JP さて、いきましょうか！
+EN Well then, shall we?
+
+@ q.43
+JP この花道、勝って戻ってみせる！
+EN I'll come back down this aisle
+EN a winner!
+
+@ q.44
+JP 今日も勝つ！
+JP 絶対勝ーつッ！
+EN I'll win today!
+EN I'm gonna wi~n!
+
+@ q.45
+JP さあ、今日もリングで
+JP 踊っちゃうわよ～！
+EN Now, I'll dance in
+EN the ring again today~!
+
+@ q.46
+JP 今日もパワー満タンですッ！
+EN Full power again today!
+
+@ q.47
+JP 気合いと根性で
+JP がんばってきますッ！
+EN With guts and spirit,
+EN I'll give it my all!
+
+@ q.48
+JP 今日もパワー全開だぜーッ！
+EN Full power again today, yeah!
+
+@ q.49
+JP 今日の餌食はどいつだ？
+EN So who's on the menu today?
+
+@ q.50
+JP がんばっちゃうからッ！
+EN I'm gonna do my best!
+
+@ q.51
+JP みんなぁ、見ててねー！
+EN Everyone, watch me!
+
+@ q.52
+JP 今宵リングに女神が降臨しますわ！
+EN Tonight a goddess descends
+EN upon the ring!
+
+@ q.53
+JP 私の戦う姿を
+JP 目に焼き付けていただけるかしら？
+EN Do burn the sight of me fighting
+EN into your memory, won't you?
+
+@ q.54
+JP …さあ、いきましょうかッ！
+EN ...Now, shall we go!
+
+@ q.55
+JP 勝利を勝ち取って帰ってきます…。
+EN I'll bring back a victory...
+
+@ q.56
+JP さあ、参りましょう！
+EN Now, let us go!
+
+@ q.57
+JP 修行の成果を見せないと
+JP いけませんね！
+EN I must show the fruits
+EN of my training!
+
+@ q.58
+JP よーし！
+JP 負けないんだからッ！
+EN All right!
+EN I won't lose!
+
+@ q.59
+JP さあ、気合入れていくよ～！
+EN Okay, let's get fired up~!
+
+@ q.60
+JP 今日も一撃ＫＯ狙っていきますッ！
+EN Going for a one-hit KO again!
+
+@ q.61
+JP では、いってきますッ！
+EN Well, I'm off!
+
+@ q.62
+JP よっしゃーッ！
+JP 気合注入！！
+EN All right!
+EN Fired up!!
+
+@ q.63
+JP 入魂ッ！
+JP 行くぜーッ！
+EN Heart and soul!
+EN Here I go!
+
+@ q.64
+JP ……あ、もう試合が始まる時間……？
+EN ...Oh, is the match
+EN starting already...?
+
+@ q.65
+JP ……これから……どこへ行くの……？
+EN ...Where... are we going...?
+
+@ q.66
+JP 気合や根性だけでは勝てないことを
+JP 教えてあげましょう！
+EN Allow me to teach you that guts
+EN and spirit alone won't win!
+
+@ q.67
+JP あなたの詳細データは
+JP インプット済みです。
+EN Your detailed data
+EN has already been input.
+
+@ q.68
+JP ステージが…。
+JP スポットライトが
+JP 私を待っているッ！
+EN The stage...
+EN The spotlight
+EN awaits me!
+
+@ q.69
+JP ああ、これが勝利への花道！
+EN Ah, this is the path to victory!
+
+@ q.70
+JP ……さぁ、いきましょう……！
+EN ...Now, let's go...!
+
+@ q.71
+JP ……ベストを尽くしてきます……！
+EN ...I'll do my best...!
+
+@ q.72
+JP ボクは負けない！
+EN I'm not gonna lose!
+
+@ q.73
+JP 絶対に勝つんだ！
+EN I'm gonna win, no matter what!
+
+@ q.74
+JP 今日も全力で戦うぞ！
+EN I'll fight with all I've got today!
+
+@ q.75
+JP 真帆は誰にも負けない！
+EN Maho won't lose to anyone!
+
+@ q.76
+JP 勝利…。
+JP それが自分に与えられた仕事。
+EN Victory...
+EN That is the job I was given.
+
+@ q.77
+JP ベストを尽くす。
+JP それだけです！
+EN I'll do my best.
+EN That's all!
+
+@ q.78
+JP さーてと…。
+JP いっちょかましたるかな！
+EN Welp...
+EN Time to show 'em what I got!
+
+@ q.79
+JP ウチにまかせときー！
+EN Just leave it to me, y'hear!
+
+@ q.80
+JP がんばってきまーすッ！
+EN I'm off to do my best!
+
+@ q.81
+JP よーし！
+JP 絶対勝～つ！！
+EN All right!
+EN I'm gonna wi~n!!
+
+@ q.82
+JP 気合入れていきますッ！
+EN Going in fired up!
+
+@ q.83
+JP よしッ！
+JP 絶対に勝つんだから！
+EN All right!
+EN I'm gonna win, no matter what!
+
+@ q.84
+JP 藤原、完全燃焼しますッ！
+EN Fujiwara's gonna burn it all up!
+
+@ q.85
+JP 戦うことは
+JP 正義のヒロインの宿命！
+EN Fighting is the destiny
+EN of a heroine of justice!
+
+@ q.86
+JP 今日も油断することなく
+JP 完璧な試合を！
+EN No letting my guard down.
+EN Another perfect match!
+
+@ q.87
+JP パーフェクトな試合運びで
+JP 勝利をこの手に！
+EN With perfect ring control,
+EN victory will be mine!
+
+@ q.88
+JP よろしくお願いします～。
+EN Let's have a good one~.
+
+@ q.89
+JP お手柔らかにお願いします～。
+EN Please go easy on me~.
+
+@ q.90
+JP よ～し！
+JP がんばっちゃうよー！
+EN All ri~ght!
+EN I'm gonna do my best!
+
+@ q.91
+JP 社長のためにがんばるよ～！
+EN I'll do my best for you, Boss~!
+
+@ q.92
+JP リングを真っ赤に染めてきてやる！
+EN I'll paint the ring red!
+
+@ q.93
+JP 徹底的に痛めつけてきてやるよ！
+EN I'm gonna hurt 'em good!
+
+@ q.94
+JP とっとと片付けてきますかねぇ！
+EN Let's get this over with quick!
+
+@ q.95
+JP ま、死なない程度に
+JP 痛めつけてきてやるよ！
+EN Eh, I'll hurt 'em
+EN just short of killing 'em!
+
+@ q.96
+JP おらぁ！
+JP 気合いれてくよッ！
+EN Oraaa!
+EN Let's get fired up!
+
+@ q.97
+JP よっしゃーッ！
+JP ボッコボコにしてやるよー！
+EN All right!
+EN I'm gonna beat 'em to a pulp!
+
+@ q.98
+JP では、行ってくる。
+EN Well then, I'm off.
+
+@ q.99
+JP 一騎当千の力見せよう！
+EN Behold the strength of a thousand!
+
+@ q.100
+JP やっと全力で殴れるかと思うと
+JP うずうずするぜぇ！
+EN Just thinking about punching
+EN full force gets me itching!
+
+@ q.101
+JP くっくっく…。
+JP あたしの拳が血を見たいって
+JP 騒ぐんだよぉ！
+EN Heh heh heh...
+EN My fists are screaming
+EN to see blood!
+
+@ q.102
+JP …………では……。
+EN ......Then......
+
+@ q.103
+JP …………参る……。
+EN ......Here I come......
+
+@ q.104
+JP 勝利への道は自ら作るもの。
+EN The road to victory is self-made.
+
+@ q.105
+JP カードは運命
+JP 勝負を決めるのは私…。
+EN The cards are fate.
+EN But I decide the match...
+
+@ q.106
+JP 気合充分！
+JP 今日もガンガンいっきまーす！
+EN Pumped up!
+EN Going full throttle today!
+
+@ q.107
+JP 闘志抜群！
+JP 今日も技がキレキレでーす！
+EN Fighting spirit maxed!
+EN My moves are razor-sharp today!
+
+@ q.108
+JP クール＆エレガント。
+JP それが私のスタイルよ！
+EN Cool & Elegant.
+EN That's my style!
+
+@ q.109
+JP クールでエレガントな試合を
+JP 見せてあげるわ！
+EN I'll show you a cool,
+EN elegant match!
+
+@ q.110
+JP 正義はいつも私とともにッ！
+EN Justice is always with me!
+
+@ q.111
+JP 勝利の女神はいつも私と一緒だよ！
+EN The goddess of victory's with me!
+
+@ q.112
+JP 作戦名はグロリアス・リング！
+EN Operation name: Glorious Ring!
+
+@ q.113
+JP 勝利の栄光をつかみ取る！
+EN I'll seize the glory of victory!
+
+@ q.114
+JP 勝たないと……。
+EN I have to win...
+
+@ q.115
+JP 負けちゃダメ……。
+EN I mustn't lose...
+
+@ q.116
+JP さぁ、今日も気合いを入れて
+JP いかなくちゃ！
+EN Okay, I've got to get
+EN fired up today too!
+
+@ q.117
+JP プロとして
+JP いい試合を見せないと。
+EN As a pro, I have to
+EN put on a good match.
+
+@ q.118
+JP よしッ！
+JP 燃えてきたーッ！
+EN All right!
+EN I'm getting fired up!
+
+@ q.119
+JP 今日も完全燃焼してきますッ！
+EN I'll burn it all up again today!
+
+@ q.120
+JP わたくしに似合うのは
+JP 勝利だけですわ！
+EN The only thing that suits me
+EN is victory!
+
+@ q.121
+JP 華麗なショーを
+JP 見せてさしあげますわ！
+EN I shall present you
+EN with a magnificent show!
+
+@ q.122
+JP 今日も気合いを入れていきましょ～！
+EN Let's get fired up today~!
+
+@ q.123
+JP ファンのため
+JP ベストを尽くしましょ～！
+EN For the fans,
+EN let's do our best~!
+
+@ q.124
+JP さあ、気合入れていくぞー！
+EN Okay, let's get fired up!
+
+@ q.125
+JP よっしゃーッ！
+JP 勝ちにいくぞ！
+EN All right!
+EN Let's go win this!
+
+@ q.126
+JP パワーファイトの神髄
+JP 見せてやるぜッ！
+EN I'll show you the essence
+EN of power fighting!
+
+@ q.127
+JP 今日も気合い入れていくぞーッ！
+EN Let's get fired up again today!
+
+@ q.128
+JP 私が求めるものは勝利。
+JP ただひとつ！
+EN What I seek is victory.
+EN That alone!
+
+@ q.129
+JP さぁ、いきましょう。
+JP 戦いのステージへ！
+EN Now, let us go.
+EN To the stage of battle!
+
+@ q.130
+JP 勝利目指して全力でいきます！
+EN Going all out for victory!
+
+@ q.131
+JP 勝利をこの手にッ！
+JP がんばります！
+EN Victory will be mine!
+EN I'll do my best!
+
+@ q.132
+JP はいはいはーい！
+JP みんなぁお待たせ－ッ！
+JP あ、サインはあとあとね！
+EN Yes yes yes!
+EN Sorry to keep you waiting!
+EN Oh, autographs later, okay!
+
+@ q.133
+JP はいはいはーい！
+JP みんなぁお待たせ－ッ！
+JP あ、握手はあとね～！
+EN Yes yes yes!
+EN Sorry to keep you waiting!
+EN Oh, handshakes later~!
+
+@ q.134
+JP ふんッ！ふんッ！
+JP ふんッ！ふんッ！！
+EN Hngh! Hngh!
+EN Hngh! Hngh!!
+
+@ q.135
+JP げひゃひゃひゃひゃひゃ！
+JP 今日も暴れてやるぜ！
+EN Gehyahyahyahya!
+EN Time to run wild again!
+
+@ q.136
+JP 素敵なダンスを見せてあげるわ！
+EN I'll show you a lovely dance!
+
+@ q.137
+JP ハ～イ！
+JP 今日は勝ちにきたよ！
+EN Hi~!
+EN Today I come to win!
+
+@ q.138
+JP ヨシッ！
+JP いこう！
+EN Okay!
+EN We go!
+
+@ q.139
+JP 気合いで勝負だ！
+EN It comes down to guts!
+
+@ q.140
+JP う～ん…！
+JP 燃えてきましたー！
+EN Mmm...!
+EN I am getting fired up!
+
+@ q.141
+JP ミナサ～ン！
+JP 応援よろしくお願いしまーす！
+EN Everybo~dy!
+EN Please cheer for me!
+
+@ q.142
+JP アオーーーン！
+EN Awoooooo!
+
+@ q.143
+JP お前を…クアー…倒す。
+JP 獣の力で！
+EN I will... graah... defeat you.
+EN With the power of the beast!
+
+@ q.144
+JP アオーーーーン！
+EN Awoooooooo!
+
+@ q.145
+JP この血のたぎり。
+JP お前の悲鳴で静めさせてもらうぞ！
+EN This boiling blood...
+EN Your screams will calm it!
+
+@ q.146
+JP 粉骨砕身…。
+JP 勝利に向けてがんばるわ。
+EN Body and soul...
+EN I'll strive for victory.
+
+@ q.147
+JP ここは天下三分の計で…。
+EN Time for a Three Kingdoms
+EN gambit...
+
+@ q.148
+JP この戦いを華麗なるお嬢様に…。
+EN I dedicate this fight
+EN to my splendid lady...
+
+@ q.149
+JP 薔薇の技巧の化身たる
+JP お嬢様の影が今まいります！
+EN Incarnation of the rose's art,
+EN here comes my lady's shadow!
+
+@ q.150
+JP この戦いを華麗なるお嬢様に…。
+EN I dedicate this fight
+EN to my splendid lady...
+
+@ q.151
+JP 力ある薔薇の幻影…。
+JP お嬢様の影が今まいります！
+EN Phantom of the mighty rose...
+EN here comes my lady's shadow!
+
+@ q.152
+JP ウフフフフ…。
+JP 狩りの始まりですわ。
+EN Ufufufufu...
+EN Let the hunt begin.
+
+@ q.153
+JP あなたは私を満足させて
+JP くれるかしら…？
+EN I wonder if you can
+EN satisfy me...?
+
+@ q.154
+JP ハンッ！
+JP なんかテンション上がって
+JP 来ちゃったッ！
+EN Hah!
+EN I'm getting all
+EN pumped up!
+
+@ q.155
+JP ワクワクして
+JP 震えがとまらないよー！
+EN I'm so excited
+EN I can't stop shaking!
+
+@ q.156
+JP さあ、勝利の花を
+JP 咲かせるために参りましたわ…。
+JP このリングに！
+EN Now, I have come
+EN to make victory bloom...
+EN in this ring!
+
+@ q.157
+JP 美しい薔薇…。
+JP ワタクシは美しい薔薇！
+EN A beautiful rose...
+EN I am a beautiful rose!
+
+@ q.158
+JP さ～て、いっくよー！
+EN Okay~, here I go!
+
+@ q.159
+JP よしッ！
+JP がんばるよー！
+EN All right!
+EN I'll do my best!
+
+@ q.160
+JP アハハハ！
+JP いいよ、このビート！
+JP 会場の一体感！
+EN Ahaha!
+EN Love this beat!
+EN The whole crowd as one!
+
+@ q.161
+JP いい雰囲気…。
+JP 故郷を思い出す。
+JP 燃えてきたー！
+EN What a vibe...
+EN Reminds me of home.
+EN I'm getting fired up!
+
+@ q.162
+JP クハハハハ…。
+JP 何もかもぶっ壊してやるッ！
+EN Kuhahahaha...
+EN I'll smash everything to bits!
+
+@ q.163
+JP ククククク…。
+JP なんだー？
+JP 今回の相手はやけに弱そうだな？
+EN Kukukuku...
+EN What's this?
+EN This one looks awfully weak.
+
+@ q.164
+JP 必ず勝つ。
+EN I will win.
+
+@ q.165
+JP フフフ…。
+JP 勝つためのプランは
+JP もう立ててある。
+EN Fufufu...
+EN My plan for victory
+EN is already in place.
+
+@ q.166
+JP 私は敗北と屈辱を
+JP 与えるために来たの。
+EN I came to deliver
+EN defeat and humiliation.
+
+@ q.167
+JP フフフ、残念ね…。
+JP 私の対戦相手になるなんて…。
+EN Fufufu, what a pity...
+EN That you have to face me...
+
+@ q.168
+JP ハーイ、ミナサン！
+JP 応援よろしくねー！
+EN Hi, everybody!
+EN Cheer for me, okay!
+
+@ q.169
+JP ラヴ　アンド　ピースッ！
+EN Love and Peace!
+
+@ q.170
+JP ドカンと一発ぶちかますぜー！
+EN Gonna hit 'em with a big bang!
+
+@ q.171
+JP 誰が相手だろうとぶっ潰す！
+EN I'll crush anyone in my way!
+
+@ q.172
+JP いくよッ！
+JP 今日も勝つッ！
+EN Here I go!
+EN I'm winning again today!
+
+@ q.173
+JP この熱い声援に応えるためにも
+JP 絶対勝つッ！
+EN To answer these hot cheers,
+EN I'll win, no matter what!
+
+@ q.174
+JP フフフフフフ…。
+EN Fufufufufufu...
+
+@ q.175
+JP フフフフ…。
+JP 黒い超新星ここに降臨！
+EN Fufufufu...
+EN The Black Supernova descends!
+
+@ q.176
+JP よーし！
+JP 今日も勝っちゃおうかなー！
+EN All right!
+EN Maybe I'll win again today!
+
+@ q.177
+JP 私の応援ができる幸せなみなさーん！
+JP よろしくね～！
+EN Lucky you, getting to cheer for me!
+EN Thanks, everyone~!
+
+@ q.178
+JP いきましょうか。
+JP 戦いの場に…。
+EN Shall we go?
+EN To the field of battle...
+
+@ q.179
+JP 美しい戦いをお見せするわ！
+EN I'll show you a beautiful fight!
+
+@ q.180
+JP あたしの対戦相手になるとは…。
+JP ハッ、不幸なことだな！
+EN So you're my opponent...
+EN Hah, tough luck!
+
+@ q.181
+JP とっとと終わらせて帰るか…。
+EN Let's wrap this up and go home...
+
+@ q.182
+JP 戦闘準備はいつでもオッケーッ！
+EN Combat-ready, any time!
+
+@ q.183
+JP さあ、いっくわよーッ！
+EN Okay, here I go!
+
+@ q.184
+JP サンボの恐ろしさ…。
+JP 見せてあげるわ。
+EN The terror of sambo...
+EN I'll show it to you.
+
+@ q.185
+JP 関節がきしむ音を
+JP いやというほど聞かせてあげる…。
+EN I'll make you hear your joints
+EN creak till you're sick of it...
+
+@ q.186
+JP 派手な花火を打ち上げましょうよ！
+EN Let's set off some big fireworks!
+
+@ q.187
+JP ルチャの技で魅せてあ・げ・る♪
+EN I'll dazzle you with lu-cha♪
+
+@ q.188
+JP うおおおお！！
+JP いくぞー！
+EN Raaaargh!!
+EN Here I go!
+
+@ q.189
+JP パワーこそすべて！
+JP ねじ伏せーるッ！
+EN Power is everything!
+EN I'll cru-ush you!
+
+@ q.190
+JP ぎょうさん客入っとるやないの！
+JP きばらんとあかんなぁ。
+EN Whoa, what a crowd!
+EN Gotta give it my all, y'know.
+
+@ q.191
+JP アメーリカのパワー見せたるさかい
+JP あんじょう応援したってやー！
+EN I'll show ya American power,
+EN so cheer me on good, y'hear!
+
+@ q.192
+JP ハハハッ！
+JP 勝利はいただくよ！
+EN Hahaha!
+EN Victory's mine!
+
+@ q.193
+JP 小さくても勝てるってこと
+JP 見せてあげるよ！
+EN I'll show you that small
+EN can still win!
+
+@ q.194
+JP さっさと片付けようか！
+EN Let's get this over with!
+
+@ q.195
+JP 熱くなってきた…。
+JP 勝たせてもらうわよ。
+EN Getting heated up...
+EN I'll be taking this win.
+
+@ q.196
+JP すべてはこの日のために！
+EN Everything was for this day!
+
+@ q.197
+JP この一戦にすべてをかける！
+EN Everything rides on this match!
+
+@ q.198
+JP …き、緊張します…。
+EN ...I-I'm nervous...
+
+@ q.199
+JP …て、手に…ひ、人って書いて…。
+JP （ごっくん。）
+EN ...W-write "person" on my
+EN h-hand and swallow it...
+EN (Gulp.)
+
+@ q.200
+JP さあ、勝ちを取りにいくわよ！
+EN Now, let's go take the win!
+
+@ q.201
+JP 翔ぶよ！
+JP 勝利のために！
+EN I'll fly!
+EN For victory!
+
+@ q.202
+JP すでに勝利の方程式は完成している。
+JP あとは確認するのみ！
+EN The formula for victory is complete.
+EN All that's left is to verify it!
+
+@ q.203
+JP フフ…。
+JP 退屈なショーになりそうだ。
+EN Heh...
+EN This looks to be a dull show.
+
+@ q.204
+JP 私が勝つに決まってるでしょ！
+EN Of course I'm going to win!
+
+@ q.205
+JP どうでもいいわ…。
+EN Whatever...
+
+@ q.206
+JP さ～て、いきましょうか！
+EN Well then~, shall we go!
+
+@ q.207
+JP 気合いを入れていきましょう！
+EN Let's get fired up!
+
+@ q.208
+JP 今日もがんばっちゃうよー！
+EN Doing my best again today!
+
+@ q.209
+JP イエーーッ！
+JP いっくぞー！
+EN Yeaaah!
+EN Here I go!
+
+@ q.210
+JP よしッ！
+EN All right!
+
+@ q.211
+JP いくか！
+EN Let's go!
+
+@ q.212
+JP 晴れの舞台だ。
+JP 心していこう…。
+EN A grand stage.
+EN Let us go with resolve...
+
+@ q.213
+JP さあ、いこう。
+JP ワタシのための舞台だ。
+EN Come, let us go.
+EN This stage is mine.
+
+@ q.214
+JP ゆっくり、じっくり
+JP いじめてあげるわ…。
+EN I'll torment you
+EN nice and slow...
+
+@ q.215
+JP 心も体も私への恐怖で
+JP 埋め尽くしてあげる…。
+EN I'll fill your heart and body
+EN with fear of me...
+
+@ q.216
+JP …え？
+JP …ん？
+JP あ、入場！？
+EN ...Huh?
+EN ...Hm?
+EN Oh, my entrance?!
+
+@ q.217
+JP みなさ～ん応援してね～！
+EN Cheer for me, everyone~!
+
+@ q.218
+JP ガツンといくぜ！
+EN I'm gonna hit hard!
+
+@ q.219
+JP 殴って、殴って、殴って
+JP 殴りまくるッ！
+EN Punch, punch, punch,
+EN and punch some more!
+
+@ q.220
+JP アハッ！
+JP ドキドキしてきたぁ。
+EN Aha!
+EN My heart's pounding!
+
+@ q.221
+JP みんなー！
+JP 応援ヨ・ロ・シ・ク♪
+EN Everyone!
+EN Cheer for me, o-kay♪

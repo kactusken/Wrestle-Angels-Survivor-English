@@ -1,0 +1,154 @@
+# Event script entry 204 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 204.73
+# President, used 2x
+JP （……ん？
+JP あれは上原か？）
+EN (......Hm?
+EN Is that Uehara?)
+
+@ 204.87
+# President, used 2x
+JP どうした、上原？
+JP 泳がないのか？
+EN What's up, Uehara?
+EN Not going to swim?
+
+@ 204.100
+# other, used 2x
+JP …ああ、社長…。
+JP いや、昔からね…。
+EN ...Oh, Boss...
+EN Well, ever since I was little...
+
+@ 204.107
+# President, used 2x
+JP ……昔から？
+EN ......Ever since you were little?
+
+@ 204.113
+# other, used 2x
+JP 昔から砂浜でのんびりしている方が
+JP 好きなんですよ。
+EN Ever since I was little, I've liked
+EN lazing around on the beach better.
+
+@ 204.120
+# President, used 2x
+JP そう言えば沖縄出身だったな。
+EN That's right, you're from Okinawa.
+
+@ 204.126
+# other, used 2x
+JP …ええ。
+JP ここはなんとなく故郷に似ていて
+JP リラックスできます。
+EN ...Yeah.
+EN This place feels kind of like home.
+EN I can relax here.
+
+@ 204.133
+# President, used 2x
+JP そうか…。
+JP なら、そういうのもありかもな。
+EN I see...
+EN Then maybe that's not so bad.
+
+@ 204.139
+# other, used 4x
+JP はい…。
+EN Yeah...
+
+@ 204.146
+# President, used 2x
+JP 子供のころもよく泳いでいたのか？
+EN Did you swim a lot as a kid, too?
+
+@ 204.165
+# President, used 8x
+JP ……ん？
+EN ......Hm?
+
+@ 204.178
+# President, used 2x
+JP ……上原？
+EN ......Uehara?
+
+@ 204.184
+# other, used 2x
+JP す～……す～……す～……。
+EN Zzz...... zzz...... zzz......
+
+@ 204.191
+# President, used 2x
+JP （寝てるのか？）
+EN (Is she asleep?)
+
+@ 204.193
+# President, used 2x
+JP （リラックスできてたんだな。）
+EN (She must really be relaxed.)
+
+@ 204.195
+# President, used 2x
+JP （暑くないのか？）
+EN (Isn't she hot?)
+
+@ 204.201
+# other, used 2x
+JP …平気だよ、兄ちゃん……。
+EN ...I'm fine, big bro......
+
+@ 204.208
+# President, used 2x
+JP （子供の時の夢でも見てるのか？）
+EN (Is she dreaming about
+EN when she was a kid?)
+
+@ 204.210
+# President, used 2x
+JP （上原もこうやって見ると
+JP 子供みたいな顔になるんだな。）
+EN (Seeing her like this, Uehara
+EN has a face like a little kid's.)
+
+@ 204.212
+# President, used 2x
+JP （パラソルで日陰を作って
+JP そっとしておいてやるか。）
+EN (I'll set up the parasol for some
+EN shade and let her be.)
+
+@ 204.218
+# other, used 2x
+JP …ダメだよ兄ちゃん。
+JP 父ちゃんに見つかったら
+JP 殺されるよ…。
+EN ...Don't, big bro.
+EN If Dad finds out,
+EN he'll kill us...
+
+@ 204.225
+# President, used 2x
+JP （…どういう夢を見てるんだ？）
+EN (...What is she dreaming about?)
+
+@ 204.227
+# President, used 2x
+JP （すごく興味をそそられるんだが。）
+EN (I'm really curious now.)
+
+@ 204.233
+# other, used 2x
+JP す～……す～……。
+JP す～……す～……。
+EN Zzz...... zzz......
+EN Zzz...... zzz......

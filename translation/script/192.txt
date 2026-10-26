@@ -1,0 +1,236 @@
+# Event script entry 192 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 192.101
+# other, used 2x
+JP ついた――ッ！
+EN We're heeere!
+
+@ 192.108
+# President, used 2x
+JP ああ、ついたな。
+EN Yeah, we're here.
+
+@ 192.122
+# other, used 2x
+JP 海だ――ッ！
+EN It's the seaaa!
+
+@ 192.129
+# President, used 2x
+JP うん、海だな。
+EN Yep, it's the sea.
+
+@ 192.138
+# other, used 2x
+JP すごーい！
+JP 海が青い！
+EN Wow!
+EN The sea's so blue!
+
+@ 192.145
+# President, used 2x
+JP 日本の海とは確かに違うな。
+EN It sure is different from
+EN the sea back in Japan.
+
+@ 192.154
+# other, used 2x
+JP 泳いでいいのかな？
+EN Can we go swimming?
+
+@ 192.161
+# President, used 2x
+JP ああ、そのために来たからな。
+EN Yeah, that's what we came for.
+
+@ 192.170
+# other, used 2x
+JP よーしッ!
+JP じゃあ、さっそく脱いで…。
+JP あれ…？
+EN All right!
+EN Then let's get these clothes off...
+EN Huh...?
+
+@ 192.180
+# other, used 2x
+JP あ、見て、見て！
+JP あんなところに崖があるよ！
+EN Oh, look, look!
+EN There's a cliff over there!
+
+@ 192.187
+# President, used 2x
+JP ああ、崖だな。
+EN Yeah, it's a cliff.
+
+@ 192.196
+# other, used 2x
+JP 人がどんどん飛び降りてるよ！
+EN People keep jumping off it!
+
+@ 192.203
+# President, used 2x
+JP 地元の子供たちみたいだな。
+EN Looks like local kids.
+
+@ 192.209
+# other, used 2x
+JP すっご―い…。
+JP あんな高いところから落ちて
+JP 怖くないのかな？
+EN Amaaazing...
+EN Aren't they scared, jumping
+EN from way up there?
+
+@ 192.216
+# President, used 2x
+JP まあ、地元の子だし。
+JP 慣れてるんだろうな。
+EN Well, they're local kids.
+EN They must be used to it.
+
+@ 192.225
+# other, used 2x
+JP ねッ！
+JP 行ってみよ！
+EN Hey!
+EN Let's go try it!
+
+@ 192.232
+# President, used 2x
+JP …行くのか？
+EN ...We're going?
+
+@ 192.257
+# other, used 2x
+JP うわ～！
+JP たか――い！
+EN Whoa~!
+EN So hiiigh!
+
+@ 192.264
+# President, used 2x
+JP あ…ああ、さすがに高いな。
+EN Y-yeah, it's pretty high all right.
+
+@ 192.266
+# President, used 2x
+JP （怖くて空しか見れないぞ。）
+EN (I'm too scared to look anywhere
+EN but the sky.)
+
+@ 192.272
+# other, used 2x
+JP じゃ、一緒に飛び降りよッ？
+EN OK, let's jump together!
+
+@ 192.279
+# President, used 2x
+JP い、一緒にか！？
+EN T-together!?
+
+@ 192.285
+# other, used 2x
+JP こういう所から飛んだら
+JP 新しい技が浮かぶかもしれないし！
+EN Jumping from a place like this
+EN might give me an idea for a new
+EN move!
+
+@ 192.292
+# President, used 2x
+JP ちょっと待て…。
+JP 待てって！
+EN Hold on a sec...
+EN I said hold on!
+
+@ 192.294
+# President, used 2x
+JP （麗子は俺の話も聞かず
+JP 抱きついてきた。）
+EN (Ignoring me completely,
+EN Reiko threw her arms around me.)
+
+@ 192.296
+# President, used 2x
+JP （抱きついてきたというより
+JP タックルだ。）
+EN (Actually, it was less of a hug
+EN and more of a tackle.)
+
+@ 192.298
+# President, used 2x
+JP （上ばかり見ていた俺は
+JP そのままよろめき…。）
+EN (Still staring at the sky,
+EN I staggered...)
+
+@ 192.300
+# President, used 2x
+JP （ついに足が空を切った。）
+EN (...and my feet met thin air.)
+
+@ 192.315
+# other, used 2x
+JP やっほ――ッ！
+EN Yahooooo!
+
+@ 192.335
+# other, used 2x
+JP アッハ、ハハハハッ！
+JP たーのし――！
+JP ねねっ、社長、もう一回！
+EN Ahaha, hahahaha!
+EN That was so fuuun!
+EN Hey, hey, Boss, one more time!
+
+@ 192.342
+# President, used 2x
+JP ちょ、ちょっと待て…。
+JP ノドに水が…。
+EN H-hold on a sec...
+EN I got water down my throat...
+
+@ 192.354
+# other, used 2x
+JP さ、早く、早く！
+EN C'mon, hurry, hurry!
+
+@ 192.361
+# President, used 2x
+JP 待て…。
+JP 人の話を…。
+EN Wait...
+EN Listen to me...
+
+@ 192.372
+# President, used 2x
+JP （そのまま強引に連れられて…。）
+EN (She dragged me back up anyway...)
+
+@ 192.385
+# other, used 4x
+JP きゃっほ――ッ！
+EN Woohoooo!
+
+@ 192.398
+# President, used 2x
+JP （俺たちは何度も空を飛んだ…。）
+EN (...and we flew through the sky
+EN again and again...)
+
+@ 192.409
+# President, used 2x
+JP （こうして今回のバカンスは
+JP 終わりを迎えた…。） 
+EN (And so this vacation
+EN came to an end...)

@@ -1,0 +1,157 @@
+# Event script entry 093 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 093.88
+# wrestler (voiced), case 0, used 2x
+JP 早瀬です。
+JP 何か用事とか…？
+EN It's Hayase. Did you need
+EN something...?
+
+@ 093.102
+# wrestler (voiced), case 0, used 3x
+JP …えッ？
+EN ...Huh?
+
+@ 093.110
+# wrestler (voiced), case 0, used 2x
+JP ええ――ッ！
+JP あたしにですかぁ！？
+EN Whaaaat!? For me!?
+
+@ 093.116
+# President, case 0, used 2x
+JP ああ。
+JP お前へのオファーだ。
+EN Yeah. The offer's for you.
+
+@ 093.124
+# wrestler (voiced), case 0, used 2x
+JP …えッ？
+JP でも、ほらあたしなんか…。
+EN ...Huh? But, I mean, someone
+EN like me...
+
+@ 093.132
+# wrestler (voiced), case 0, used 2x
+JP その…ほら他にもいっぱい
+JP いるじゃないですか。
+JP そういうのに向いてそうな人…。
+EN Um... You know, there are lots of
+EN other people. People who'd be more
+EN suited to that sort of thing...
+
+@ 093.138
+# President, case 0, used 2x
+JP 先方はお前をご指名だ。
+EN They asked for you by name.
+
+@ 093.152
+# President, case 0, used 2x
+JP 内容は水着の写真集らしい。
+JP もちろん別途ギャラも出る。
+EN It's apparently a swimsuit photo
+EN book. Of course, you'll get paid
+EN separately for it.
+
+@ 093.160
+# wrestler (voiced), case 0, used 2x
+JP …ギャラ！
+EN ...Paid!
+
+@ 093.168
+# wrestler (voiced), case 0, used 2x
+JP そういえば
+JP ちーちゃん来年高校だし…。
+JP それがあれば入学金の足しに…。
+EN Come to think of it, Chii starts
+EN high school next year... That would
+EN help with the enrollment fee...
+
+@ 093.174
+# President, case 0, used 2x
+JP …ちーちゃん？
+EN ...Chii?
+
+@ 093.182
+# wrestler (voiced), case 0, used 2x
+JP ちーちゃんはあたしの妹で。
+JP あ、いえ、なんでもないです！
+EN Chii is my little sister. Ah, no,
+EN it's nothing!
+
+@ 093.196
+# wrestler (voiced), case 0, used 2x
+JP その話喜んでお受けします！
+EN I'll gladly accept!
+
+@ 093.293
+# wrestler (voiced), case 0, used 2x
+JP は～…。
+EN Haah...
+
+@ 093.299
+# President, case 0, used 2x
+JP どうした？
+JP ぼ～っとして。
+EN What's wrong? You're spacing out.
+
+@ 093.308
+# wrestler (voiced), case 0, used 2x
+JP あ、いや…。
+JP なんかこんなの初めてで…。
+JP 終わって気が抜けちゃったというか。
+EN Ah, no... It's just, it was my first
+EN time doing anything like this...
+EN I'm kind of drained now it's over.
+
+@ 093.314
+# President, case 0, used 2x
+JP そうか…。
+JP ほら見本が届いたぞ。
+EN I see... Look, the samples arrived.
+
+@ 093.322
+# wrestler (voiced), case 0, used 2x
+JP あ、うっ、やっぱこうして見ると
+JP 恥ずかしいですね…。
+EN Ah, ugh, seeing them like this is
+EN kind of embarrassing...
+
+@ 093.328
+# President, case 0, used 2x
+JP そうか？
+JP よく撮れてるじゃないか？
+EN Is it? They came out well, didn't
+EN they?
+
+@ 093.336
+# wrestler (voiced), case 0, used 2x
+JP そうですか？
+EN You think so?
+
+@ 093.342
+# President, case 0, used 2x
+JP ああ。
+JP 俺はかわいいと思ってるぞ。
+EN Yeah. I think you're cute.
+
+@ 093.349
+# other, case 0, used 2x
+JP …ヘッ！？
+EN ...Huh!?
+
+@ 093.359
+# wrestler (voiced), case 0, used 2x
+JP や、やだなあ、社長！
+JP も～ホントに…。
+JP あは…あはは…あはははは……。
+EN C-come on, Boss! Geez, really...
+EN Aha... ahaha... ahahahaha......

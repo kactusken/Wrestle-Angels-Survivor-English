@@ -1,0 +1,199 @@
+# Event script entry 224 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 224.78
+# President, used 2x
+JP （……お、あいつあんな沖の方に。）
+EN (...Oh, she's way out there.)
+
+@ 224.80
+# President, used 2x
+JP （元気に手を振ってるな。）
+EN (She's waving cheerfully.)
+
+@ 224.82
+# President, used 2x
+JP （振り返してやるか。）
+EN (Guess I'll wave back.)
+
+@ 224.86
+# President, used 2x
+JP （あれ、潜った？）
+EN (Huh, she went under?)
+
+@ 224.88
+# President, used 2x
+JP （……浮かんだ。）
+EN (...She's up.)
+
+@ 224.90
+# President, used 2x
+JP （すごい勢いで手を振ってる。）
+EN (She's waving like crazy.)
+
+@ 224.92
+# President, used 2x
+JP （……また潜った。）
+EN (...Under again.)
+
+@ 224.94
+# President, used 2x
+JP （……また出てきた。）
+EN (...And up again.)
+
+@ 224.99
+# President, used 2x
+JP もしかして溺れてるのかッ！
+EN Wait, is she drowning!?
+
+@ 224.101
+# President, used 2x
+JP （俺はビーチボールを掴んで
+JP 海へと走った。）
+EN (I grabbed a beach ball
+EN and ran into the sea.)
+
+@ 224.113
+# other, used 2x
+JP げほッ、ごほッ…。
+EN *cough* *cough*...
+
+@ 224.120
+# President, used 2x
+JP 大丈夫か？
+EN Are you okay?
+
+@ 224.137
+# other, used 2x
+JP う…うん……。
+EN Y... yeah...
+
+@ 224.144
+# President, used 2x
+JP 落ち着いたか？
+EN Calmed down?
+
+@ 224.150
+# other, used 2x
+JP うん…。
+JP ありがと…。
+EN Yeah...
+EN Thanks...
+
+@ 224.157
+# President, used 2x
+JP びっくりしたぞ。
+EN You scared me.
+
+@ 224.163
+# other, used 2x
+JP 足つっちゃって…。
+EN I got a cramp in my leg...
+
+@ 224.170
+# President, used 2x
+JP なるほどな。
+JP 最初はふざけてるのかと思ったよ。
+EN I see.
+EN At first I thought you were fooling
+EN around.
+
+@ 224.176
+# other, used 2x
+JP ボクも溺れるとは思わなかった…。
+JP みんな気づいてくれないし…。
+EN I never thought I'd drown either...
+EN And nobody noticed...
+
+@ 224.183
+# President, used 2x
+JP （そう言うと、さらにぎゅっと
+JP しがみついてきた。）
+EN (With that, she clung to me
+EN even tighter.)
+
+@ 224.189
+# other, used 2x
+JP 社長、離さないでね…。
+EN Boss, don't let go, okay...?
+
+@ 224.196
+# President, used 2x
+JP ああ、しっかりつかまってろ。
+JP 浜に戻るぞ。
+EN Sure, hold on tight.
+EN We're heading back to the beach.
+
+@ 224.202
+# other, used 2x
+JP …うん。
+JP あ、あと…。
+EN ...Okay.
+EN Oh, and also...
+
+@ 224.215
+# other, used 2x
+JP その～…。
+EN Um...
+
+@ 224.218
+# wrestler (voiced), used 2x
+JP 助けてくれて…ありがとう…。
+EN Thanks... for saving me...
+
+@ 224.231
+# President, used 2x
+JP …お、おい。
+EN ...H-hey.
+
+@ 224.243
+# other, used 2x
+JP た、助けてもらったら
+JP ちゃんとお礼をしなさいって
+JP 教えられたから…。
+EN I-I was taught that when
+EN someone saves you, you should
+EN thank them properly...
+
+@ 224.250
+# President, used 2x
+JP …そ、そうか。
+EN ...I-I see.
+
+@ 224.256
+# other, used 2x
+JP …うん。
+JP みんなのいるところに戻ったら
+JP 恥ずかしくてもうできないし…。
+EN ...Yeah.
+EN Once we're back with everyone,
+EN I'd be too embarrassed...
+
+@ 224.263
+# President, used 2x
+JP （でも、お礼でキスは
+JP どうなんだ…？）
+EN (But a kiss as a thank-you...
+EN is that really okay...?)
+
+@ 224.278
+# President, used 2x
+JP （なんとも照れるな…。）
+EN (This is pretty embarrassing...)
+
+@ 224.280
+# President, used 2x
+JP それじゃ、戻るか？
+EN Well, shall we head back?
+
+@ 224.286
+# other, used 2x
+JP …うん。 
+EN ...Yeah.

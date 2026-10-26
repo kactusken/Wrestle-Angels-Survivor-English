@@ -1,0 +1,159 @@
+# Event script entry 201 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 201.70
+# President, used 2x
+JP （……ん？
+JP あれは…。）
+EN (......Hm?
+EN That's...)
+
+@ 201.72
+# President, used 2x
+JP （…理沙子か？）
+EN (...Risako?)
+
+@ 201.74
+# President, used 4x
+JP もう泳がないのか？
+EN Done swimming?
+
+@ 201.80
+# other, used 2x
+JP …ええ。
+JP 泳ぐより、今日は焼きたいから。
+EN ...Yes.
+EN Today I'd rather tan than swim.
+
+@ 201.93
+# other, used 2x
+JP 隣いいですか？
+EN Mind if I sit next to you?
+
+@ 201.100
+# President, used 4x
+JP ああ、いいよ。
+EN Sure, go ahead.
+
+@ 201.117
+# other, used 2x
+JP 社長？
+EN Boss?
+
+@ 201.124
+# President, used 2x
+JP …ん、なんだ？
+EN ...Hm, what is it?
+
+@ 201.130
+# other, used 2x
+JP すみませんけれど
+JP サンオイル塗っていただけるかしら？
+EN Sorry to ask, but would you mind
+EN putting some suntan oil on me?
+
+@ 201.143
+# other, used 2x
+JP すみません…。
+JP そこのバックに入っていますから。
+EN Sorry...
+EN It's in that bag there.
+
+@ 201.157
+# President, used 2x
+JP ああ…って、水着とるのか？
+EN Sure... wait, you're taking
+EN your top off?
+
+@ 201.159
+# President, used 2x
+JP （理沙子は、何事もないように
+JP 水着を脱ぐ。）
+EN (Risako takes off her top
+EN as if it's nothing.)
+
+@ 201.165
+# other, used 2x
+JP …あ、外さないと痕に
+JP なっちゃいますから。
+EN ...Well, if I don't, I'll get
+EN tan lines.
+
+@ 201.172
+# President, used 2x
+JP そりゃそうだが…。
+EN That's true, but...
+
+@ 201.174
+# President, used 2x
+JP （うーん、さすがだ。
+JP まったく物怖じしない。）
+EN (Hmm, impressive.
+EN She's not fazed at all.)
+
+@ 201.180
+# other, used 2x
+JP じゃ、お願いします…。
+EN Well, please...
+
+@ 201.189
+# President, used 2x
+JP （俺は理沙子の背中に
+JP オイルを塗ってやった。）
+EN (I rubbed the oil onto
+EN Risako's back.)
+
+@ 201.202
+# President, used 2x
+JP （理沙子は目を閉じて
+JP 気持ちよさそうにしている。）
+EN (Risako has her eyes closed,
+EN looking very comfortable.)
+
+@ 201.206
+# President, used 2x
+JP （しかし、アレだな。）
+EN (But you know...)
+
+@ 201.208
+# President, used 2x
+JP （この程度の格好には
+JP 慣れているはずなんだが。）
+EN (I should be used to seeing
+EN her dressed like this.)
+
+@ 201.210
+# President, used 2x
+JP （場所が変わると
+JP どことなく気恥ずかしいものだな。）
+EN (Somehow, in a different place,
+EN it's a little embarrassing.)
+
+@ 201.222
+# other, used 2x
+JP 何か言いました？
+EN Did you say something?
+
+@ 201.229
+# President, used 2x
+JP い、いや…なんでもない。
+EN N-no... nothing.
+
+@ 201.240
+# President, used 2x
+JP （うーん、まともに理沙子の顔を
+JP 見れないぞ。）
+EN (Hmm, I can't look Risako
+EN in the face.)
+
+@ 201.242
+# President, used 2x
+JP （まいったな…。）
+EN (This is awkward...)

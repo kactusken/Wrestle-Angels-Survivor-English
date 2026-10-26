@@ -1,0 +1,482 @@
+# Event script entry 011 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 011.48
+# Secretary
+JP 体力的な衰えから
+JP 本人も引退を決意したようです。
+EN Her strength has been declining,
+EN so she's decided to retire.
+
+@ 011.50
+# Secretary
+JP 引退式は今月シリーズの
+JP 最終戦となります。
+EN Her retirement ceremony will be at
+EN the final show of this month's
+EN series.
+
+@ 011.61
+# wrestler (voiced), used 2x
+JP あとは若い子に任せます。
+JP 私がいなくても
+JP みんな大丈夫ですよね？
+EN I'll leave the rest to the young
+EN ones. You'll all be fine without
+EN me, won't you?
+
+@ 011.68
+# wrestler (voiced), used 2x
+JP 引退かぁ…。
+JP やっぱちょっぴりセンチに
+JP なっちゃうね…。
+EN Retiring, huh...
+EN I guess I'm getting a teeny
+EN bit sentimental...
+
+@ 011.72
+# wrestler (voiced), used 2x
+JP へへッ！
+JP ありがとうございました。
+EN Hehe!
+EN Thank you for everything.
+
+@ 011.79
+# wrestler (voiced), used 2x
+JP 悔しいけど
+JP 潮時かもしれません…。
+EN It's frustrating, but
+EN maybe it's time...
+
+@ 011.86
+# wrestler (voiced), used 2x
+JP 今までお世話になりました。
+JP これからは様々な資格を取るために
+JP 勉強に励もうと思います。
+EN Thank you for everything.
+EN Now I'll study hard to earn
+EN all kinds of certifications.
+
+@ 011.93
+# wrestler (voiced), used 2x
+JP もう若くないし…グスン…。
+JP とか言ってる年じゃないし…。
+JP グスン…。
+EN I'm not young anymore... *sniff*...
+EN Well, I'm not THAT old either...
+EN *sniff*...
+
+@ 011.100
+# wrestler (voiced), used 2x
+JP そろそろ引き際だと思います…。
+EN I think it's about time I bowed
+EN out...
+
+@ 011.107
+# wrestler (voiced), used 2x
+JP ゴメン、社長！
+JP あたしもう若くないから…。
+JP あはは…。
+EN Sorry, Boss!
+EN I'm not young anymore, so...
+EN Ahaha...
+
+@ 011.114
+# wrestler (voiced), used 2x
+JP クスン…。
+JP もうお別れなの…。
+EN *sniffle*...
+EN Is this goodbye already...
+
+@ 011.121
+# wrestler (voiced), used 2x
+JP そろそろ年なのかなぁって…。
+JP 実家に戻ってお店手伝います。
+EN I figure I'm getting on in years...
+EN I'll go help out at the family shop.
+
+@ 011.128
+# wrestler (voiced), used 2x
+JP あとは後輩たちに譲ります…。
+EN I'll leave the rest to my juniors...
+
+@ 011.135
+# wrestler (voiced), used 2x
+JP みんな、あとは頼んだ…。
+EN Everyone, I'm counting on you...
+
+@ 011.142
+# wrestler (voiced), used 2x
+JP もうクタクタ…。
+EN I'm worn out...
+
+@ 011.149
+# wrestler (voiced), used 2x
+JP う～ん…。
+JP もう若くないしね…。
+EN Hmm...
+EN I'm not young anymore, you know...
+
+@ 011.156
+# wrestler (voiced), used 2x
+JP あとは若い子達に任せます…。
+EN I'll leave the rest to the young
+EN ones...
+
+@ 011.163
+# wrestler (voiced), used 2x
+JP さすがの私も
+JP とうとう限界のようですわ…。
+EN It seems that even I have
+EN finally reached my limit...
+
+@ 011.170
+# wrestler (voiced), used 2x
+JP もうこんな衣装を着てられる
+JP 年じゃないしね…。
+EN I'm too old to be wearing
+EN outfits like this anymore...
+
+@ 011.177
+# wrestler (voiced), used 2x
+JP 悔しいけど
+JP ここが限界みたいです…。
+EN It's frustrating, but
+EN I think this is my limit...
+
+@ 011.184
+# wrestler (voiced), used 2x
+JP 散り際は潔くってな…。
+EN When it's time to go, go with
+EN your head held high...
+
+@ 011.191
+# wrestler (voiced), used 2x
+JP そろそろ潮時かなって思って…。
+EN I think it's about time...
+
+@ 011.198
+# wrestler (voiced), used 2x
+JP ここまでのようね…。
+EN It seems this is as far as I go...
+
+@ 011.205
+# wrestler (voiced), used 2x
+JP もう潮時かなって思って…。
+EN I just think it's about time...
+
+@ 011.212
+# wrestler (voiced), used 2x
+JP もう潮時ってことかな…。
+EN I guess it's about time...
+
+@ 011.219
+# wrestler (voiced), used 2x
+JP ごめ～ん！
+JP なんかもう無理みたい！
+EN Sorryyy!
+EN I don't think I can do it anymore!
+
+@ 011.226
+# wrestler (voiced), used 2x
+JP 体力の限界を感じちゃいました！
+JP 普通の女の子に戻りますッ！
+EN I've hit my physical limit!
+EN I'm going back to being a normal
+EN girl!
+
+@ 011.233
+# wrestler (voiced), used 2x
+JP やることはすべてやり尽くした…。
+EN I've done everything there is to
+EN do...
+
+@ 011.240
+# wrestler (voiced), used 2x
+JP もう疲れちゃいました～…。
+EN I'm all tired out~...
+
+@ 011.247
+# wrestler (voiced), used 2x
+JP 女たるもの
+JP 引き際は美しくありたいもの。
+EN A woman should always bow out
+EN gracefully.
+
+@ 011.254
+# wrestler (voiced), used 2x
+JP 限界…か……。
+EN So this... is my limit......
+
+@ 011.261
+# wrestler (voiced), used 2x
+JP そろそろ潮時のようですね…。
+EN It seems it's about time...
+
+@ 011.268
+# wrestler (voiced), used 2x
+JP くっそー！
+JP 体がついてこないんだよね。
+EN Dammit!
+EN My body just can't keep up.
+
+@ 011.275
+# wrestler (voiced), used 2x
+JP 今まで精一杯やってきました。
+JP 悔いはありません…。
+EN I gave it everything I had.
+EN I have no regrets...
+
+@ 011.282
+# wrestler (voiced), used 2x
+JP 今後は見守っていく立場に
+JP なろうと思います！
+EN From now on, I want to be
+EN the one watching over them!
+
+@ 011.289
+# wrestler (voiced), used 2x
+JP ……バイバイ……。
+EN ......Bye-bye......
+
+@ 011.296
+# wrestler (voiced), used 2x
+JP 潮時ですね…。
+JP 引き際を誤れば思わぬ事故に
+JP 繋がりますし…。
+EN It's time... Misjudge when to
+EN quit, and accidents can happen...
+
+@ 011.303
+# wrestler (voiced), used 2x
+JP …私のことは
+JP 伝説として語り継がれるに違いない。
+EN ...No doubt my name shall live on
+EN in legend.
+
+@ 011.310
+# wrestler (voiced), used 2x
+JP ……もう無理っぽい……。
+EN ......I don't think I can
+EN anymore......
+
+@ 011.317
+# wrestler (voiced), used 2x
+JP さびしいけど
+JP 引き際が肝心だよね…。
+EN It's sad, but knowing when
+EN to quit is what counts...
+
+@ 011.324
+# wrestler (voiced), used 2x
+JP 体が動かない…。
+EN My body won't move...
+
+@ 011.331
+# wrestler (voiced), used 2x
+JP どうやら自分はもう戦えない
+JP ようです…。
+EN It seems I can no longer
+EN fight...
+
+@ 011.338
+# wrestler (voiced), used 2x
+JP やっぱ女は引き際が肝心や
+JP 思うねんけど…。
+JP 社長どう思う？
+EN I figure a woman's gotta know
+EN when to bow out...
+EN What do you think, Boss?
+
+@ 011.345
+# wrestler (voiced), used 2x
+JP もうヘトヘトだよ～！
+EN I'm totally pooped!
+
+@ 011.352
+# wrestler (voiced), used 2x
+JP ちょっともう体力的にもきつくて。
+JP ごめんなさい…。
+EN It's getting physically tough for
+EN me.
+EN I'm sorry...
+
+@ 011.359
+# wrestler (voiced), used 2x
+JP どうやら…もう戦える体では
+JP ないようです…。
+JP …クッ！
+EN It seems... my body can no
+EN longer fight...
+EN ...Ngh!
+
+@ 011.366
+# wrestler (voiced), used 2x
+JP 私としては
+JP まだ続けたかったのですが…。
+JP 体力的にもう…。
+EN I wanted to keep going, but...
+EN physically, I just can't...
+
+@ 011.373
+# wrestler (voiced), used 2x
+JP ごめんなさ～い。
+JP 私そろそろ限界のようですわ～。
+EN I'm sorryyy.
+EN I seem to have reached my limit~.
+
+@ 011.380
+# wrestler (voiced), used 2x
+JP まだまだがんばりたいんだけど…。
+JP 体が言うこと聞いてくれないの～！
+EN I still want to keep at it, but...
+EN my body won't listen to me!
+
+@ 011.387
+# wrestler (voiced), used 2x
+JP ま、こんなもんで十分だろ。
+EN Eh, I've done enough.
+
+@ 011.394
+# wrestler (voiced), used 2x
+JP ま、そこそこ稼げたし
+JP いつまでも続けてられないよ。
+EN Eh, I made decent money, and
+EN I can't keep this up forever.
+
+@ 011.401
+# wrestler (voiced), used 2x
+JP あたしも引き際は
+JP わかってるつもりだからねぇ。
+EN I like to think I know when
+EN it's time to call it quits.
+
+@ 011.408
+# wrestler (voiced), used 2x
+JP 正直もう潮時のようだ…。
+EN Honestly, it seems it's time...
+
+@ 011.415
+# wrestler (voiced), used 2x
+JP ……フンッ！
+EN ......Hmph!
+
+@ 011.421
+# other, used 16x
+JP …………さらば……。
+EN ............Farewell......
+
+@ 011.430
+# wrestler (voiced)
+JP 私の役目は終わった…。
+EN My role is over...
+
+@ 011.437
+# wrestler (voiced)
+JP やりたい事やったし
+JP そんな時期かな～って…。
+EN I did what I wanted to do,
+EN so I figure it's about time...
+
+@ 011.444
+# wrestler (voiced)
+JP 悔しいけど仕方ないか…。
+EN It's frustrating, but I guess it
+EN can't be helped...
+
+@ 011.448
+# wrestler (voiced)
+JP 社長、元気でね…。
+EN Boss, take care of yourself...
+
+@ 011.455
+# wrestler (voiced)
+JP ごめん…。
+JP 正直限界みたい…。
+EN Sorry...
+EN Honestly, I think I've hit my
+EN limit...
+
+@ 011.462
+# wrestler (voiced)
+JP このまま戦い続けるのは
+JP 不可能と判断しました…。
+EN I've concluded that it is impossible
+EN to keep fighting like this...
+
+@ 011.469
+# wrestler (voiced)
+JP もう限界かなって……。
+EN I think I've hit my limit......
+
+@ 011.476
+# wrestler (voiced)
+JP やっぱりもう
+JP わたしがプロレス続けるのは
+JP 無理かなって…。
+EN I just don't think I can
+EN keep doing pro wrestling
+EN anymore...
+
+@ 011.483
+# wrestler (voiced)
+JP 完全に燃え尽きました…。
+JP 悔いはないです。
+EN I'm completely burnt out...
+EN I have no regrets.
+
+@ 011.490
+# wrestler (voiced)
+JP ヒロインは一番輝いているときに
+JP 引退するものですわ。
+EN A heroine retires when she
+EN shines her brightest.
+
+@ 011.497
+# wrestler (voiced)
+JP なんか限界みたいです～。
+EN I think I've hit my limit~.
+
+@ 011.504
+# wrestler (voiced)
+JP もう無理なのかな…。
+EN I guess I can't do it anymore...
+
+@ 011.511
+# wrestler (voiced)
+JP まだいけるって
+JP 思ってたんだけどな…。
+EN I thought I still had it in me...
+
+@ 011.518
+# wrestler (voiced)
+JP すいません。
+JP もう無理みたいです。
+EN I'm sorry.
+EN I don't think I can anymore.
+
+@ 011.525
+# wrestler (voiced)
+JP すみません…。
+JP でもさすがに限界みたい…。
+EN I'm sorry...
+EN But I think this is my limit...
+
+@ 011.532
+# wrestler (voiced)
+JP ずっと考えていたんです…。
+JP もうそういう頃かなって…。
+EN I've been thinking about it a lot...
+EN I think it's about that time...
+
+@ 011.539
+# wrestler (voiced)
+JP 体力の…限界です…。
+EN I've reached... my physical limit...

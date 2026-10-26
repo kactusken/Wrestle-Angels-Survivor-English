@@ -1,0 +1,167 @@
+# Event script entry 061 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 061.82
+# President, case 0, used 2x
+JP （さて、どう告げたものか…。）
+EN (Now, how do I break it to her...)
+
+@ 061.85
+# President, case 0, used 2x
+JP （うーん…。）
+EN (Hmm...)
+
+@ 061.88
+# President, case 0, used 2x
+JP （よし、これだ！）
+EN (All right, that's it!)
+
+@ 061.108
+# President, case 0, used 2x
+JP …ああ。
+JP 実はお前に挑戦するヤツが
+JP 現れてな…。
+EN ...Yeah. Actually, someone's
+EN come along with a challenge
+EN for you...
+
+@ 061.116
+# wrestler (voiced), case 0, used 2x
+JP …挑戦？
+EN ...A challenge?
+
+@ 061.122
+# President, case 0, used 2x
+JP …ああ。
+JP 今は内容を言う訳には
+JP いかないんだが…。
+EN ...Yeah. I can't tell you
+EN the details yet, but...
+
+@ 061.125
+# President, case 0, used 2x
+JP 実はお前が苦手とするタイプの
+JP 戦いかもしれない…。
+EN Actually, it might be the kind of
+EN fight you're not good at...
+
+@ 061.133
+# wrestler (voiced), case 0, used 2x
+JP …苦手…。
+EN ...Not good at...
+
+@ 061.139
+# President, case 0, used 2x
+JP やっぱり無理だよな…。
+JP 呼んでおいてすまないが断るか。
+EN Yeah, it's too much, huh... Sorry
+EN for calling you in. I'll decline.
+
+@ 061.147
+# wrestler (voiced), case 0, used 2x
+JP …ま、待ってください！
+EN ...W-wait!
+
+@ 061.153
+# President, case 0, used 2x
+JP …ん？
+JP どうした？
+EN ...Hm?
+EN What is it?
+
+@ 061.161
+# wrestler (voiced), case 0, used 2x
+JP やります！
+EN I'll do it!
+
+@ 061.167
+# President, case 0, used 2x
+JP いいのか？
+JP 内容も聞かないで。
+EN You're sure?
+EN Without even hearing the details?
+
+@ 061.175
+# wrestler (voiced), case 0, used 2x
+JP かまいません！
+JP どんな勝負だろうと
+JP 受けてみせます。
+EN I don't mind! Whatever the contest,
+EN I'll take it on.
+
+@ 061.181
+# President, case 0, used 2x
+JP そうか。
+JP わかった。
+EN I see.
+EN All right.
+
+@ 061.276
+# wrestler (voiced), case 0, used 2x
+JP だッ、騙しましたね！？
+EN Y-you tricked me, didn't you!?
+
+@ 061.282
+# President, case 0, used 2x
+JP 騙してないって。
+JP お前が苦手な戦いって
+JP 言ったじゃないか。
+EN I didn't trick you. I said it was
+EN a fight you're not good at.
+
+@ 061.290
+# wrestler (voiced), case 0, used 2x
+JP それはそうですがッ！
+JP しかし、戦いというから
+JP てっきり試合形式かと…。
+EN That may be so! But when you said
+EN "fight," I assumed it was
+EN a match...
+
+@ 061.296
+# President, case 0, used 2x
+JP すまん、すまん。
+JP でも、よく逃げなかったな。
+JP 正直ひやひやしてたよ。
+EN Sorry, sorry. But good on you for
+EN not running. Honestly, I was
+EN nervous.
+
+@ 061.304
+# wrestler (voiced), case 0, used 2x
+JP 一度受けたものを投げ出すほど
+JP 無責任ではありませんから。
+EN I'm not so irresponsible as to
+EN abandon something I've accepted.
+
+@ 061.310
+# President, case 0, used 2x
+JP うんうん。
+JP 偉いぞ。
+EN Uh-huh.
+EN Good girl.
+
+@ 061.318
+# wrestler (voiced), case 0, used 2x
+JP ほめられても
+JP うれしくありません！
+EN Praise doesn't make me happy!
+
+@ 061.324
+# President, case 0, used 2x
+JP しかし、こうやって見ると綺麗だな。
+JP やっぱり。
+EN But looking at these,
+EN you really are beautiful.
+
+@ 061.332
+# wrestler (voiced), case 0, used 2x
+JP み、見ないでください…。
+EN P-please don't look...

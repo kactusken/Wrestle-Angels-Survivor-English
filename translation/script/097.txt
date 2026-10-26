@@ -1,0 +1,150 @@
+# Event script entry 097 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 097.88
+# wrestler (voiced), case 0, used 2x
+JP は～い！
+JP 呼んだかな？
+EN Hi-i! Did you call?
+
+@ 097.94
+# President, case 0, used 2x
+JP ああ、来たか。
+JP 実はお前に写真集のオファーが
+JP 来ててな…。
+EN Ah, you're here. Actually, there's
+EN an offer for a photo book of you...
+
+@ 097.102
+# wrestler (voiced), case 0, used 2x
+JP …へッ、写真集？
+JP 写真集ってアレ？
+JP あの水着ねーちゃんとかの…。
+EN ...Huh, a photo book? You mean
+EN those?
+EN With the swimsuit babes and all...
+
+@ 097.108
+# President, case 0, used 2x
+JP そうそう。
+EN That's right.
+
+@ 097.130
+# wrestler (voiced), case 0, used 2x
+JP …き……。
+EN ...It's......
+
+@ 097.136
+# President, case 0, used 2x
+JP …き？
+EN ...It's?
+
+@ 097.144
+# wrestler (voiced), case 0, used 2x
+JP き、きたーーッ！！
+JP ついに来たッ！
+JP あたしの時代の幕開けがッ！
+EN I-it's HERE!! It's finally here!
+EN The dawn of my era!
+
+@ 097.150
+# President, case 0, used 2x
+JP 時代の幕開けって…。
+JP じゃ、ＯＫ？
+EN Dawn of your era... So that's
+EN an okay?
+
+@ 097.158
+# wrestler (voiced), case 0, used 2x
+JP ＯＫ、ＯＫ。
+JP ダンゼンＯＫ！
+JP もうドンドン進めちゃって！
+EN Okay, okay. Totally okay!
+EN Go ahead and set it all up!
+
+@ 097.164
+# President, case 0, used 2x
+JP …そうか。
+JP じゃ、さっそく手配しよう。
+EN ...All right. I'll arrange it
+EN right away.
+
+@ 097.261
+# wrestler (voiced), case 0, used 2x
+JP ふゃ～！
+JP 楽しかった！
+EN Fyaah! That was fun!
+
+@ 097.267
+# President, case 0, used 2x
+JP お疲れさん。
+JP いい感じに撮れてるぞ。
+EN Good work. These came out nicely.
+
+@ 097.276
+# wrestler (voiced), case 0, used 2x
+JP ムフフッ！
+JP …当然なのだよ…。
+JP これで新規ファン獲得もバッチシ！
+EN Muhuhu! ...But of course...
+EN That'll win me loads of new fans!
+
+@ 097.282
+# President, case 0, used 2x
+JP そうだな。
+EN I guess so.
+
+@ 097.290
+# wrestler (voiced), case 0, used 2x
+JP ただ～、ひとつ残念だったのは…。
+EN But there was just one
+EN disappointment...
+
+@ 097.296
+# President, case 0, used 2x
+JP …残念だったのは？
+EN ...One disappointment?
+
+@ 097.304
+# wrestler (voiced), case 0, used 2x
+JP 社長との仲がなーにも
+JP 進展しなかったことですかにゃ…。
+EN That things with you didn't
+EN progress one bit, Boss, nya...
+
+@ 097.312
+# wrestler (voiced), case 0, used 2x
+JP こんなに魅力的な子と
+JP 一緒にいたのに…。
+EN Even though you were with such
+EN an attractive girl...
+
+@ 097.320
+# wrestler (voiced), case 0, used 2x
+JP …うんうん。
+JP いけませんねぇ。
+EN ...Mm-hmm. That's no good at all.
+
+@ 097.326
+# President, case 0, used 2x
+JP …お前なあ。
+EN ...Seriously, you.
+
+@ 097.333
+# other, case 0, used 2x
+JP またこんな仕事まわしてね～。
+JP 社長、愛してる～♪
+EN Send more jobs like this my way!
+EN Love you, Boss~♪
+
+@ 097.341
+# President, case 0, used 2x
+JP あー、はいはい…。
+EN Yeah, yeah...

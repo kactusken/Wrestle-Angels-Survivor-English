@@ -1,0 +1,182 @@
+# Event script entry 078 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 078.88
+# wrestler (voiced), case 0, used 2x
+JP 参りましたわ。
+JP お呼びでしょうか、社長？
+EN I have arrived. You called for me,
+EN President?
+
+@ 078.94
+# President, case 0, used 2x
+JP ああ、来てくれたか…。
+JP 実はお前に写真集のオファーが
+JP 来ててな…。
+EN Ah, you came... Actually, there's
+EN an offer for a photo book of you...
+
+@ 078.102
+# wrestler (voiced), case 0, used 2x
+JP …写真集？
+JP どのような？
+EN ...A photo book? What sort?
+
+@ 078.108
+# President, case 0, used 2x
+JP ほらアイドルなんかの…。
+JP よくある水着のヤツだ。
+EN You know, like idols do...
+EN The usual swimsuit kind.
+
+@ 078.116
+# wrestler (voiced), case 0, used 2x
+JP なるほど。
+EN I see.
+
+@ 078.127
+# wrestler (voiced), case 0, used 2x
+JP 写真越しとは言え
+JP 欲望深い連中に
+JP 私の肢体を晒せと？
+EN You wish me to bare my body to
+EN lustful men, even if only through
+EN a photograph?
+
+@ 078.133
+# President, case 0, used 2x
+JP あー、いや…。
+EN Ah, well...
+
+@ 078.141
+# wrestler (voiced), case 0, used 2x
+JP 違うのですか？
+EN Is that not so?
+
+@ 078.147
+# President, case 0, used 2x
+JP 違いはしないが
+JP もう少し言い方というか…。
+EN It's not wrong, but maybe there's
+EN a nicer way to put it...
+
+@ 078.155
+# wrestler (voiced), case 0, used 2x
+JP やることが同じなら
+JP 言い回しだけ変えても
+JP 無意味ですわ。
+EN If the deed is the same, changing
+EN the words means nothing.
+
+@ 078.161
+# President, case 0, used 2x
+JP つまりイヤというわけか？
+EN So you're saying you don't want to?
+
+@ 078.169
+# wrestler (voiced), case 0, used 2x
+JP いいえ…。
+EN No...
+
+@ 078.175
+# President, case 0, used 4x
+JP …ん？
+EN ...Hm?
+
+@ 078.183
+# wrestler (voiced), case 0, used 2x
+JP 光栄なことですわ。
+JP 喜んでお引き受けしましょう。
+EN It is an honor. I shall gladly
+EN accept.
+
+@ 078.276
+# President, case 0, used 2x
+JP すごいな…。
+JP 妖艶と言うか、なんと言うか。
+EN Wow... Bewitching, or whatever
+EN you'd call it.
+
+@ 078.285
+# wrestler (voiced), case 0, used 2x
+JP フフッ…。
+JP これくらいのサービスで
+JP 良かったのかしら？
+EN Fufu... Was that enough service,
+EN I wonder?
+
+@ 078.291
+# President, case 0, used 2x
+JP ああ、十分だ。
+JP 写真越しなのに何か訴えかけて
+JP くるような感じがするよ。
+EN Yeah, plenty. Even through a photo,
+EN it feels like you're trying to
+EN tell me something.
+
+@ 078.299
+# wrestler (voiced), case 0, used 2x
+JP そう感じて当然ですわ。
+JP 訴えかけてますもの。
+EN Naturally you feel that way.
+EN I am telling you something.
+
+@ 078.305
+# President, case 0, used 2x
+JP そうなのか？
+EN You are?
+
+@ 078.313
+# wrestler (voiced), case 0, used 2x
+JP ウフフフッ…。
+JP 現実にそういう目で見つめたい
+JP 相手がいるということです。
+EN Ufufufu... It means there is someone
+EN I truly wish to gaze at like that.
+
+@ 078.319
+# President, case 0, used 2x
+JP 恋人か？
+EN A lover?
+
+@ 078.327
+# wrestler (voiced), case 0, used 2x
+JP いいえ…。
+JP 相手は私の気持ちに気づいて
+JP いないようですわ…。
+EN No... It seems that person hasn't
+EN noticed my feelings...
+
+@ 078.333
+# President, case 0, used 2x
+JP へぇ…。
+EN Huh...
+
+@ 078.341
+# wrestler (voiced), case 0, used 2x
+JP まあ、気づいてくれるまで
+JP 実際にその人には絶対こんな目を
+JP 向けてあげませんわ。
+EN Well, until he notices, I shall
+EN never actually look at him with
+EN such eyes.
+
+@ 078.347
+# President, case 0, used 2x
+JP そうなのか…。
+JP そいつは果報者だな。
+EN I see... He's a lucky guy.
+
+@ 078.355
+# wrestler (voiced), case 0, used 2x
+JP ホントにその通りですわ。
+JP 果報者と自覚して欲しいですわ。
+EN Truly he is. I wish he would
+EN realize how lucky he is.

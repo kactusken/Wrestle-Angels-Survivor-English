@@ -1,0 +1,426 @@
+# Event script entry 268 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 268.39
+# wrestler (voiced), used 2x
+JP 今日は調子が良かったな！
+EN I was in good form today!
+
+@ 268.47
+# wrestler (voiced), used 2x
+JP いやー！
+JP 今日はがんばったなぁ！
+EN Man!
+EN I really worked hard today!
+
+@ 268.55
+# wrestler (voiced), used 2x
+JP たまには特訓もいいかもしれない。
+EN Special training now and then
+EN might not be so bad.
+
+@ 268.63
+# wrestler (voiced), used 2x
+JP 技が身についていくのがわかる！
+JP もっともっとがんばらないと！
+EN I can feel the moves sinking in!
+EN I have to work even harder!
+
+@ 268.71
+# wrestler (voiced), used 2x
+JP なんなくこなせました～！
+EN That was a breeze~!
+
+@ 268.78
+# other, used 2x
+JP いい特訓ができたようだ。
+EN Looks like that was good training.
+
+@ 268.87
+# wrestler (voiced), used 2x
+JP もしかして、あたし
+JP 自分磨きまくっちゃった？
+EN Could it be that I've
+EN totally leveled myself up?
+
+@ 268.95
+# wrestler (voiced), used 2x
+JP あたしがんばったよね？
+EN I did good, right?
+
+@ 268.103
+# wrestler (voiced), used 2x
+JP 私もやればできますね！
+EN I can do it when I try!
+
+@ 268.111
+# wrestler (voiced), used 2x
+JP フゥ…。
+JP ありがとうございました。
+EN Phew...
+EN Thank you very much.
+
+@ 268.119
+# wrestler (voiced), used 2x
+JP よしッ！
+JP 確実に体に叩き込んだな。
+EN All right!
+EN That's drilled into my body for
+EN sure.
+
+@ 268.127
+# wrestler (voiced), used 2x
+JP エッヘン！
+JP 特訓成功ー！
+EN Ta-dah!
+EN Special training, success!
+
+@ 268.135
+# wrestler (voiced), used 2x
+JP いや～！
+JP なかなかいいもんね！
+EN Wow!
+EN That was pretty good!
+
+@ 268.143
+# wrestler (voiced), used 2x
+JP ウフ…。
+JP こういうのも
+JP たまにはいいものですね！
+EN Ufufu...
+EN Something like this
+EN is nice once in a while!
+
+@ 268.151
+# wrestler (voiced), used 2x
+JP 特訓もたまにはいいですわね！
+EN Special training is rather nice
+EN once in a while!
+
+@ 268.159
+# wrestler (voiced), used 2x
+JP よーし！
+JP これで完璧ね！
+EN All right!
+EN Now it's perfect!
+
+@ 268.167
+# wrestler (voiced), used 6x
+JP ありがとうございました！
+EN Thank you very much!
+
+@ 268.175
+# wrestler (voiced), used 2x
+JP いい感じに仕上がったな！
+EN That came together nicely!
+
+@ 268.183
+# wrestler (voiced), used 2x
+JP エッヘヘッ！
+JP 次の試合はこれで完璧ね！
+EN Ehehe!
+EN With this, my next match is in the
+EN bag!
+
+@ 268.191
+# wrestler (voiced), used 2x
+JP 完璧だわ…。
+EN Perfect...
+
+@ 268.199
+# wrestler (voiced), used 2x
+JP がんばっちゃいました！
+EN I gave it my all!
+
+@ 268.207
+# wrestler (voiced), used 2x
+JP まあ、こんなものかな。
+EN Well, I guess that'll do.
+
+@ 268.215
+# wrestler (voiced), used 2x
+JP へっへへーん！
+JP いい感じじゃない？
+EN Heh-heh-heh!
+EN Pretty good, huh?
+
+@ 268.223
+# wrestler (voiced), used 2x
+JP これから特訓を増やしてください！
+JP お願いします！
+EN Please give me more special training
+EN from now on! Please!
+
+@ 268.231
+# wrestler (voiced), used 2x
+JP ま、たまにはいいのかもな…。
+EN Well, maybe it's okay once in a
+EN while...
+
+@ 268.239
+# wrestler (voiced), used 2x
+JP 思ったより怖くなかった！
+EN It wasn't as scary as I thought!
+
+@ 268.247
+# wrestler (voiced), used 2x
+JP たまにはこんな練習もいいものね。
+EN This kind of practice is nice
+EN once in a while.
+
+@ 268.255
+# wrestler (voiced), used 2x
+JP 充実した時間でした。
+EN That was time well spent.
+
+@ 268.263
+# wrestler (voiced), used 2x
+JP なんとか乗り切れたみたいですね。
+EN Looks like I made it through
+EN somehow.
+
+@ 268.271
+# wrestler (voiced), used 2x
+JP エッヘヘッ。
+JP 特訓もいいかもね！
+EN Ehehe.
+EN Special training's not bad!
+
+@ 268.279
+# wrestler (voiced), used 2x
+JP 特訓…最高です！
+EN Special training... is the best!
+
+@ 268.287
+# wrestler (voiced), used 2x
+JP 次回も猛特訓お願いします！
+EN Please give me hard training
+EN next time too!
+
+@ 268.295
+# wrestler (voiced), used 2x
+JP ……終わったの……？
+EN ...Is it over...?
+
+@ 268.303
+# wrestler (voiced), used 2x
+JP 成功したようですね。
+JP 力が漲ってくるようです。
+EN It seems to have worked.
+EN I can feel the power welling up.
+
+@ 268.311
+# wrestler (voiced), used 2x
+JP たまには汗にまみれることも
+JP 悪くない。
+EN Getting covered in sweat
+EN now and then isn't bad.
+
+@ 268.319
+# wrestler (voiced), used 2x
+JP ……やってよかった……。
+EN ...I'm glad I did it...
+
+@ 268.327
+# wrestler (voiced), used 2x
+JP へへッ。
+JP やったよ、ボク！
+EN Hehe.
+EN I did it!
+
+@ 268.335
+# wrestler (voiced), used 2x
+JP うん！
+JP 大満足だ！
+EN Yeah!
+EN Totally satisfied!
+
+@ 268.343
+# wrestler (voiced), used 2x
+JP 成果が出て良かったです。
+EN I'm glad it paid off.
+
+@ 268.351
+# wrestler (voiced), used 2x
+JP へっへーん！
+JP よかったんちゃうん？
+EN Heh-heh!
+EN Went pretty good, didn't it?
+
+@ 268.359
+# wrestler (voiced), used 2x
+JP わあ、特訓もなかなか
+JP いいもんじゃん…
+JP じゃなくて、いいものですね！
+EN Wow, special training's pretty
+EN dang good... I mean,
+EN it's very good!
+
+@ 268.367
+# wrestler (voiced), used 2x
+JP これで次の試合も！
+EN Now for the next match!
+
+@ 268.375
+# wrestler (voiced), used 2x
+JP やっぱり特訓をして正解でしたッ！
+EN Special training was the right call!
+
+@ 268.383
+# wrestler (voiced), used 2x
+JP 完璧とはいきませんが
+JP ある程度完成されたものは
+JP できそうです。
+EN It's not perfect,
+EN but I think I can make
+EN something fairly complete.
+
+@ 268.391
+# wrestler (voiced), used 2x
+JP 驚きました～。
+JP こんなに成果が出るなんて～。
+EN I was surprised~
+EN I didn't expect such results~
+
+@ 268.399
+# wrestler (voiced), used 2x
+JP あたしったら
+JP やればできるじゃーん！
+EN Look at me,
+EN I can do it when I try!
+
+@ 268.407
+# wrestler (voiced), used 2x
+JP …フンッ！
+JP まー結果だけはな。
+EN ...Hmph!
+EN Well, the results, anyway.
+
+@ 268.415
+# wrestler (voiced), used 2x
+JP …フンッ！
+JP まー結果だけは認めてやるよ。
+EN ...Hmph!
+EN Well, I'll give you the results.
+
+@ 268.423
+# wrestler (voiced), used 2x
+JP やっぱ特訓はやりがいがあるねぇ！
+EN Special training sure is worth it!
+
+@ 268.431
+# wrestler (voiced), used 2x
+JP 意外にいいものだな。
+EN Not bad, surprisingly.
+
+@ 268.439
+# wrestler (voiced), used 2x
+JP はっはっは！
+JP こりゃすげえや！
+EN Hahaha!
+EN Now that's something!
+
+@ 268.456
+# wrestler (voiced)
+JP まずまずだな。
+EN Not bad.
+
+@ 268.464
+# wrestler (voiced)
+JP やったー！
+JP 完璧、カンペキ！
+EN Yay!
+EN Perfect, perfect!
+
+@ 268.472
+# wrestler (voiced)
+JP とーぜんの結果ね！
+EN Naturally!
+
+@ 268.480
+# wrestler (voiced)
+JP 効果てきめんッ！
+EN Works like a charm!
+
+@ 268.488
+# wrestler (voiced)
+JP 予想通りの結果です。
+EN Exactly the result I expected.
+
+@ 268.496
+# wrestler (voiced)
+JP 成功……。
+EN Success...
+
+@ 268.504
+# wrestler (voiced)
+JP フゥ～。
+JP がんばったかいが
+JP ありました！
+EN Phew~
+EN All that effort
+EN paid off!
+
+@ 268.512
+# wrestler (voiced)
+JP よしッ！
+JP いい感じ！
+EN All right!
+EN Feeling good!
+
+@ 268.520
+# wrestler (voiced)
+JP …あら？
+JP なかなかよろしい感じですわね。
+EN ...Oh?
+EN That went rather nicely.
+
+@ 268.528
+# wrestler (voiced)
+JP なんか強くなった気がします～。
+EN I feel like I got stronger~
+
+@ 268.536
+# wrestler (voiced)
+JP …お、なんか強くなった気がするよ。
+EN ...Oh, I feel like I got stronger.
+
+@ 268.544
+# wrestler (voiced)
+JP うっしゃーーッ！
+EN Yeaaah!
+
+@ 268.552
+# wrestler (voiced)
+JP フゥ～…。
+JP 充実した時間を過ごせました。
+EN Phew...
+EN That was time well spent.
+
+@ 268.560
+# wrestler (voiced)
+JP うんッ！
+JP うまくいったみたい！
+EN Yeah!
+EN Looks like it worked!
+
+@ 268.568
+# wrestler (voiced)
+JP ウフフッ！
+JP バッチリ！
+EN Ufufu!
+EN Nailed it!
+
+@ 268.1007
+# Secretary
+JP 特訓に成功しました！
+JP 今回の成果が楽しみですね。
+EN The special training was a success!
+EN I'm looking forward to the results.

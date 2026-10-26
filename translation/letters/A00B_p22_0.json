@@ -1,0 +1,305 @@
+{
+ "english": "Entered",
+ "boxes": [
+  [
+   276,
+   3,
+   40,
+   19
+  ]
+ ],
+ "draw": "system.draw",
+ "fill": [
+  255,
+  255,
+  255
+ ],
+ "ground": "keep",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 11,
+ "margin": 0,
+ "inpaint": [
+  {
+   "rect": [
+    272,
+    3,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    4,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    5,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    6,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    7,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    8,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    9,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    10,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    11,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    12,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    13,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    14,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    15,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    16,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    17,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    18,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    19,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    20,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    21,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    22,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  },
+  {
+   "rect": [
+    272,
+    23,
+    48,
+    1
+   ],
+   "mode": "copy",
+   "from": [
+    272,
+    2
+   ]
+  }
+ ],
+ "notes": "wrestler list bar: the entered tag (as A024_t3_0; WAS2: Entered)",
+ "catalogue": {
+  "source": "/A000/A00B. entry 22",
+  "width": 640,
+  "height": 32,
+  "bpp": 8,
+  "category": "button",
+  "japanese": "出場"
+ }
+}

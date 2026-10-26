@@ -1,0 +1,26 @@
+{
+ "english": "Miki Akiyama",
+ "boxes": [
+  [
+   456,
+   0,
+   56,
+   304
+  ]
+ ],
+ "ground": "transparent",
+ "font": "BarlowCondensed-Bold.ttf",
+ "cap": 28,
+ "draw": "names.draw",
+ "mode": "portrait",
+ "notes": "vertical name on the full portrait, turned 90 degrees clockwise, reads top to bottom (tools/namegfx.py)",
+ "catalogue": {
+  "source": "/A000/A015. part 65",
+  "width": 512,
+  "height": 512,
+  "bpp": 8,
+  "category": "name",
+  "japanese": "秋山 美姫"
+ },
+ "top": 4
+}

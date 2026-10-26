@@ -1,0 +1,13 @@
+{
+ "english": "The names of all promotions, people and facilities | appearing in this game are fictitious | and have no connection whatsoever | to any real persons, organizations or places.",
+ "boxes": [[20, 136, 600, 32], [20, 184, 600, 32], [20, 232, 600, 32], [20, 280, 600, 32]],
+ "draw": "system.draw",
+ "font": "Barlow-Medium.ttf",
+ "cap": 16,
+ "fill": [255, 255, 255],
+ "ground": "interpolate",
+ "clear": [[100, 130, 440, 190]],
+ "margin": 1,
+ "notes": "start-up notice (fiction disclaimer): four centred lines, Barlow Medium, anti-aliased in the picture's greys; same wording and layout as WAS2's SYS_WARNING_0 (tools/letter_ext/system.py)",
+ "catalogue": {"source": "/A000/A009.", "width": 640, "height": 448, "bpp": 8, "category": "screen", "japanese": "このゲームに登場する団体名、個人名、施設名などはすべて架空のものであり実在のものとは一切関係がありません。"}
+}

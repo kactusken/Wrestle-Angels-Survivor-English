@@ -1,0 +1,467 @@
+# Event script entry 267 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 267.65
+# wrestler (voiced), used 2x
+JP よーし！
+JP 特訓しちゃいます～！
+EN All right!
+EN Special training time~!
+
+@ 267.77
+# wrestler (voiced), used 2x
+JP 特訓いっくぞ～！
+EN Here goes special training~!
+
+@ 267.89
+# wrestler (voiced), used 2x
+JP …特訓？
+JP これは私に必要なのか…。
+EN ...Special training?
+EN Do I really need this...
+
+@ 267.101
+# wrestler (voiced), used 2x
+JP 気を引き締めて特訓します！
+EN I'll stay sharp in special training!
+
+@ 267.113
+# wrestler (voiced), used 2x
+JP お手柔らかにお願いしま～す！
+EN Please go easy on me~!
+
+@ 267.124
+# other, used 2x
+JP …手加減は無用。
+EN ...Don't hold back.
+
+@ 267.137
+# wrestler (voiced), used 2x
+JP 強くなるためには
+JP 特訓もしなくちゃね！
+EN To get stronger,
+EN you need special training too!
+
+@ 267.149
+# wrestler (voiced), used 2x
+JP …トックン？
+JP なんか怖いよ～…。
+EN ...Special training?
+EN Sounds kinda scary...
+
+@ 267.161
+# wrestler (voiced), used 2x
+JP 無理は禁物ですよね？
+EN Mustn't overdo it, right?
+
+@ 267.173
+# wrestler (voiced), used 2x
+JP 気を引き締めていかないと…。
+EN I need to stay sharp...
+
+@ 267.185
+# wrestler (voiced), used 2x
+JP きつめでよろしく！
+EN Make it tough!
+
+@ 267.197
+# wrestler (voiced), used 2x
+JP 特訓開始ッ！
+EN Special training, start!
+
+@ 267.209
+# wrestler (voiced), used 2x
+JP …げッ、特訓～？
+JP …ハァ～…。
+JP めんどくさいなぁ…。
+EN ...Ugh, special training?
+EN ...Haaah...
+EN What a pain...
+
+@ 267.221
+# wrestler (voiced), used 2x
+JP 準備はできています。
+JP よろしくお願いします。
+EN I'm ready.
+EN Let's begin.
+
+@ 267.233
+# wrestler (voiced), used 2x
+JP 私に特訓などという言葉は
+JP 似合いませんわ。
+EN The words "special training"
+EN hardly suit me.
+
+@ 267.245
+# wrestler (voiced), used 2x
+JP …特訓？
+JP うん、いいわよ。
+JP やるからには精一杯がんばるから！
+EN ...Special training?
+EN Sure, that's fine.
+EN If I'm doing it, I'll go all out!
+
+@ 267.257
+# wrestler (voiced), used 2x
+JP 準備は万全です！
+JP よろしくお願いします！
+EN I'm fully prepared!
+EN Let's do it!
+
+@ 267.269
+# wrestler (voiced), used 2x
+JP …特訓だぁ？
+JP おもしれぇ！
+JP やってやるよ！
+EN ...Special training?
+EN Interesting!
+EN Bring it on!
+
+@ 267.281
+# wrestler (voiced), used 2x
+JP …特訓？
+JP やるやるッ！
+JP よーし、がんばるよ！
+EN ...Special training?
+EN I'm in, I'm in!
+EN Okay, I'll do my best!
+
+@ 267.293
+# wrestler (voiced), used 2x
+JP やると決めたら
+JP 完璧を目指さないと…。
+JP さあ、特訓するわよ。
+EN Once I decide to do something,
+EN I have to aim for perfection...
+EN Now, let's train.
+
+@ 267.305
+# wrestler (voiced), used 2x
+JP …特訓？
+JP なんだか怖そうですね…。
+EN ...Special training?
+EN That sounds kind of scary...
+
+@ 267.317
+# wrestler (voiced), used 2x
+JP …特訓？
+JP わかった…。
+JP やるわ。
+EN ...Special training?
+EN Fine...
+EN I'll do it.
+
+@ 267.329
+# wrestler (voiced), used 2x
+JP …特訓？
+JP いいじゃない！
+JP ドンドン来なさーい！
+EN ...Special training?
+EN Sounds good!
+EN Bring it on!
+
+@ 267.341
+# wrestler (voiced), used 2x
+JP ガンガン鍛えてください！
+JP よろしくお願いしますッ！
+EN Train me hard!
+EN I'm counting on you!
+
+@ 267.353
+# wrestler (voiced), used 2x
+JP …チッ！
+JP 好きにやらせろっつうの。
+EN ...Tch!
+EN Just let me do things my way.
+
+@ 267.365
+# wrestler (voiced), used 2x
+JP 特訓…やらなくちゃダメ？
+EN Special training... do I have to?
+
+@ 267.377
+# wrestler (voiced), used 2x
+JP お手柔らかに頼みますわ。
+EN Please be gentle with me.
+
+@ 267.389
+# wrestler (voiced), used 2x
+JP 強くなれるなら望むところです。
+EN If it'll make me stronger,
+EN I'm all for it.
+
+@ 267.401
+# wrestler (voiced), used 2x
+JP 特訓ですか。
+JP 全力を尽くします。
+EN Special training, is it?
+EN I'll give it everything I have.
+
+@ 267.413
+# wrestler (voiced), used 2x
+JP …え～！
+JP 特訓？
+JP めんどくさいなぁ…。
+EN ...Whaaat!
+EN Special training?
+EN What a pain...
+
+@ 267.425
+# wrestler (voiced), used 2x
+JP …特訓。
+JP いい響きです。
+JP よし、いきましょう！
+EN ...Special training.
+EN It has a nice ring to it.
+EN All right, let's go!
+
+@ 267.437
+# wrestler (voiced), used 2x
+JP 手加減なしでお願いします！
+EN Please don't hold back!
+
+@ 267.449
+# wrestler (voiced), used 2x
+JP ……特訓と練習って……
+JP ……何が違うんだろ……？
+EN ...What's the difference between
+EN special training and practice...?
+
+@ 267.461
+# wrestler (voiced), used 2x
+JP この特訓が成功する確率を
+JP 計算します。
+EN I'll calculate the probability
+EN this training will succeed.
+
+@ 267.473
+# wrestler (voiced), used 2x
+JP もっとスマートにいきませんか？
+EN Shall we not do this
+EN with a little more elegance?
+
+@ 267.485
+# wrestler (voiced), used 2x
+JP ……と、特訓…怖くない……？
+EN ...S-special training...
+EN it isn't scary...?
+
+@ 267.497
+# wrestler (voiced), used 2x
+JP 特訓かー！
+JP すぐにでもお願いします！
+EN Special training!
+EN Let's start right away!
+
+@ 267.509
+# wrestler (voiced), used 2x
+JP …トックン？
+JP それはうまいのか？
+EN ...Special training?
+EN Is that something yummy?
+
+@ 267.521
+# wrestler (voiced), used 2x
+JP 特訓ですか？
+JP 仕事なら仕方ないですね。
+EN Special training?
+EN Well, if it's work, I can't refuse.
+
+@ 267.533
+# wrestler (voiced), used 2x
+JP 特訓～？
+JP しゃあないなぁ…。
+JP やるかッ！
+EN Special training?
+EN Oh, all right...
+EN Let's do it!
+
+@ 267.545
+# wrestler (voiced), used 2x
+JP ちえーッ！
+JP 特訓やだなぁ…。
+EN Aww, man!
+EN I hate special training...
+
+@ 267.557
+# wrestler (voiced), used 2x
+JP 琉球空手の道場時代を
+JP 思い出すなー！
+EN This takes me back to my
+EN Ryukyu karate dojo days!
+
+@ 267.569
+# wrestler (voiced), used 2x
+JP …特訓…。
+JP いい響きです！
+JP お願いしますッ！
+EN ...Special training...
+EN It has a nice ring to it!
+EN Let's do it!
+
+@ 267.581
+# wrestler (voiced), used 2x
+JP 私には妥協は許されない…。
+EN I can't allow myself to
+EN compromise...
+
+@ 267.593
+# wrestler (voiced), used 2x
+JP 特訓…。
+JP あまり馴染みがありませんねぇ～。
+EN Special training...
+EN Not something I'm used to~
+
+@ 267.605
+# wrestler (voiced), used 2x
+JP 特訓やだなぁ。
+JP めんどくさいよぅ！
+JP ブーーッ！
+EN I hate special training.
+EN It's such a pain!
+EN Boooo!
+
+@ 267.617
+# wrestler (voiced), used 2x
+JP 特訓って…。
+JP アホらしい。
+EN Special training...?
+EN How stupid.
+
+@ 267.629
+# wrestler (voiced), used 2x
+JP 特訓って…。
+JP バカバカしい。
+EN Special training...?
+EN How ridiculous.
+
+@ 267.641
+# wrestler (voiced), used 2x
+JP よっしゃーッ！
+JP 根性入れてくよー！
+EN All right!
+EN Let's put some guts into it!
+
+@ 267.653
+# wrestler (voiced), used 2x
+JP 正直あまり気乗りせんな…。
+EN Honestly, I'm not too keen on it...
+
+@ 267.665
+# wrestler (voiced), used 2x
+JP 特訓だあ？
+JP …チッ！
+JP 面倒くせえ！
+EN Special training?
+EN ...Tch!
+EN What a pain!
+
+@ 267.689
+# wrestler (voiced)
+JP 特訓か…。
+EN Special training, huh...
+
+@ 267.701
+# wrestler (voiced)
+JP 特訓始めまーす！
+JP 気合、キアイ！
+EN Starting special training!
+EN Fired up, fired up!
+
+@ 267.713
+# wrestler (voiced)
+JP …特訓？
+JP …フンッ！
+JP クールにきめてあげるわ！
+EN ...Special training?
+EN ...Hmph!
+EN I'll pull it off, nice and cool!
+
+@ 267.725
+# wrestler (voiced)
+JP 特訓がんばります！
+EN I'll do my best in special training!
+
+@ 267.737
+# wrestler (voiced)
+JP …特訓？
+JP 了解です。
+EN ...Special training?
+EN Understood.
+
+@ 267.749
+# wrestler (voiced)
+JP 特訓しないと……。
+EN I have to do special training...
+
+@ 267.761
+# wrestler (voiced)
+JP 特訓ですか？
+JP 大丈夫かなぁ…。
+EN Special training?
+EN I hope I'll be okay...
+
+@ 267.773
+# wrestler (voiced)
+JP 特訓！
+JP やります！
+JP やりますッ！
+EN Special training!
+EN I'll do it!
+EN I'll do it!
+
+@ 267.785
+# wrestler (voiced)
+JP 特訓などやらなくても…。
+EN I hardly need special training...
+
+@ 267.797
+# wrestler (voiced)
+JP 特訓してみます～。
+EN I'll try some special training~
+
+@ 267.809
+# wrestler (voiced)
+JP うへえ…。
+JP 特訓かあ…。
+EN Ugh...
+EN Special training, huh...
+
+@ 267.821
+# wrestler (voiced)
+JP …特訓？
+JP なんかかっこいいな！
+EN ...Special training?
+EN That sounds kinda cool!
+
+@ 267.833
+# wrestler (voiced)
+JP 特訓ですか？
+JP やりがいがありますね。
+EN Special training?
+EN That sounds worthwhile.
+
+@ 267.845
+# wrestler (voiced)
+JP 気合い入れてがんばらないと！
+EN I have to get fired up and do my
+EN best!
+
+@ 267.857
+# wrestler (voiced)
+JP …特訓？
+JP オッケー！
+EN ...Special training?
+EN Okay!
+
+@ 267.869
+# wrestler (voiced)
+JP 特訓ですか。
+EN Special training, is it.

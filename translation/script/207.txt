@@ -1,0 +1,207 @@
+# Event script entry 207 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 207.80
+# President, used 2x
+JP そろそろホテルに戻るか。
+EN Time to head back to the hotel.
+
+@ 207.84
+# President, used 2x
+JP （南がいない？）
+EN (Minami isn't here?)
+
+@ 207.87
+# President, used 2x
+JP （他のスタッフに南の事を聞くと）
+EN (I asked the other staff about
+EN Minami.)
+
+@ 207.89
+# President, used 2x
+JP （どうやら泳ぐのに飽きて町の方に
+JP 行ったらしい。）
+EN (Apparently she got bored of
+EN swimming
+EN and went into town.)
+
+@ 207.91
+# President, used 2x
+JP （ホテルにも戻っていないようだ。）
+EN (She doesn't seem to be back
+EN at the hotel either.)
+
+@ 207.108
+# President, used 2x
+JP （すっかり夜になった。）
+EN (Night had fallen.)
+
+@ 207.110
+# President, used 2x
+JP （俺は夜の町に向かった。）
+EN (I headed into the town at night.)
+
+@ 207.115
+# President, used 2x
+JP （まさか犯罪に巻き込まれたり
+JP してないだろうな。）
+EN (She hasn't gotten mixed up
+EN in a crime, has she?)
+
+@ 207.117
+# President, used 2x
+JP （不安に駆られながら
+JP １時間ほど走り回っただろうか。）
+EN (Worried sick, I must have run
+EN around
+EN for about an hour.)
+
+@ 207.119
+# President, used 2x
+JP （……あれは、南か！？）
+EN (...Is that Minami!?)
+
+@ 207.122
+# President, used 2x
+JP 南ッ！
+EN Minami!
+
+@ 207.135
+# other, used 2x
+JP …しゃ、社長…。
+EN ...B-Boss...
+
+@ 207.142
+# President, used 2x
+JP こんな時間まで何をやってるんだ！
+EN What are you doing out this late!?
+
+@ 207.148
+# other, used 2x
+JP ご…ごめんなさい……。
+EN I... I'm sorry...
+
+@ 207.155
+# President, used 2x
+JP （いつもは気の強い南が
+JP 素直に謝った。）
+EN (Minami, normally so strong-willed,
+EN apologized meekly.)
+
+@ 207.161
+# other, used 2x
+JP 迷ってしまって…。
+EN I got lost...
+
+@ 207.168
+# President, used 2x
+JP …迷った？
+EN ...Lost?
+
+@ 207.174
+# other, used 2x
+JP 町に出たのはいいけれど
+JP 途中で道に迷って…。
+EN I went into town, fine,
+EN but then I lost my way...
+
+@ 207.187
+# other, used 2x
+JP 困ってたら
+JP ポリスに声をかけられたから…。
+EN While I was stuck,
+EN a policeman called out to me...
+
+@ 207.200
+# other, used 2x
+JP 条件反射で逃げ出しちゃって…。
+EN So I ran away on reflex...
+
+@ 207.207
+# President, used 2x
+JP ちょっと待て。
+EN Hold on.
+
+@ 207.213
+# other, used 2x
+JP そうしたら行く先にも
+JP ポリスがいて…。
+JP だんだん町からも離れていって…。
+EN Then there were police up ahead,
+EN and I kept getting farther
+EN from town...
+
+@ 207.220
+# President, used 2x
+JP だから待て。
+JP なんでそこで逃げるんだ？
+EN I said hold on.
+EN Why would you run?
+
+@ 207.226
+# other, used 2x
+JP うん、冷静に考えれば
+JP 別に今はバイクに乗ってないんだし。
+JP 逃げる必要はないのに…。
+EN Yeah, if I'd thought calmly...
+EN I'm not even on my bike now.
+EN There was no need to run...
+
+@ 207.235
+# President, used 2x
+JP 日本でどういう運転をしているか
+JP じっくり聞く必要がありそうだが…。
+EN I think we need a long talk about
+EN how you ride back in Japan...
+
+@ 207.237
+# President, used 2x
+JP まあ、無事でよかった。
+EN Well, I'm glad you're safe.
+
+@ 207.250
+# President, used 2x
+JP （よほど心細かったのか
+JP 目には涙が浮かんでいる。）
+EN (She must have been scared,
+EN there were tears in her eyes.)
+
+@ 207.252
+# President, used 2x
+JP さ、帰るぞ。
+JP すっかり冷えてるじゃないか。
+EN Come on, let's go back.
+EN You're freezing.
+
+@ 207.258
+# other, used 2x
+JP 日のあるうちに
+JP 戻ろうと思ってたから…。
+EN I meant to get back
+EN while it was still light...
+
+@ 207.265
+# President, used 2x
+JP このあたりも夜は冷えるからな。
+JP とりあえず、これをはおってろ。
+EN It gets cold around here at night.
+EN For now, put this on.
+
+@ 207.278
+# other, used 2x
+JP ありがとう…。
+JP …あったかい……。
+EN Thank you...
+EN ...It's warm...
+
+@ 207.287
+# President, used 2x
+JP みんなも心配してるから帰るぞ。
+EN Everyone's worried. Let's go back.

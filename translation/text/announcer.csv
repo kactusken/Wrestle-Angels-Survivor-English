@@ -1,0 +1,20 @@
+key,japanese,english,notes
+0,ただ今から\n{0}{1}{8}選手権試合\n６０分一本勝負を行います！,"Ladies and gentlemen!\n{0} {1}{8} Title Match,\none fall, 60-minute time limit!","{0} promotion, {1} division (Junior, Tag...), {8} suffix; filled in by the game"
+1,青コーナーから挑戦者\n{5}選手の入場です！,"From the blue corner, the challenger:\n{5}!","{2}-{7} wrestler names: red {2}{3}{4}, blue {5}{6}{7}"
+2,つづきまして\n赤コーナーからチャンピオン\n{2}選手の入場です！,"And from the red corner,\nthe champion:\n{2}!",
+3,青コーナーから挑戦者\n{5}選手\n{6}選手組の入場です！,"From the blue corner, the challengers:\n{5}\nand {6}!",
+4,赤コーナーからチャンピオン\n{2}選手\n{3}選手組の入場です！,"From the red corner, the champions:\n{2}\nand {3}!",
+5,青コーナーから挑戦者\n{5}選手、{6}選手\n{7}選手組の入場です！,"From the blue corner, the challengers:\n{5}, {6}\nand {7}!",
+6,赤コーナーからチャンピオン\n{2}選手、{3}選手\n{4}選手組の入場です！,"From the red corner, the champions:\n{2}, {3}\nand {4}!",
+7,青コーナーから\n{5}選手の入場です！,From the blue corner:\n{5}!,
+8,つづきまして\n赤コーナーから、\n{2}選手の入場です！,"And next,\nfrom the red corner:\n{2}!",
+9,青コーナーから\n{5}選手\n{6}選手組の入場です！,From the blue corner:\n{5}\nand {6}!,
+10,赤コーナーから\n{2}選手\n{3}選手組の入場です！,From the red corner:\n{2}\nand {3}!,
+11,青コーナーから\n{5}選手、{6}選手\n{7}選手組の入場です！,"From the blue corner:\n{5}, {6}\nand {7}!",
+12,赤コーナーから\n{2}選手、{3}選手\n{4}選手組の入場です！,"From the red corner:\n{2}, {3}\nand {4}!",
+13,青コーナーからチャンピオン\n{5}選手の入場です！,"From the blue corner, the champion:\n{5}!",
+14,つづきまして\n赤コーナーからチャンピオン\n{2}選手の入場です！,"And from the red corner,\nthe champion:\n{2}!",
+15,青コーナーからチャンピオン\n{5}選手\n{6}選手組の入場です！,"From the blue corner, the champions:\n{5}\nand {6}!",
+16,赤コーナーからチャンピオン\n{2}選手\n{3}選手組の入場です！,"From the red corner, the champions:\n{2}\nand {3}!",
+17,青コーナーからチャンピオン\n{5}選手、{6}選手\n{7}選手組の入場です！,"From the blue corner, the champions:\n{5}, {6}\nand {7}!",
+18,赤コーナーからチャンピオン\n{2}選手、{3}選手\n{4}選手組の入場です！,"From the red corner, the champions:\n{2}, {3}\nand {4}!",

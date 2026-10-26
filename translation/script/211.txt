@@ -1,0 +1,247 @@
+# Event script entry 211 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 211.93
+# President, used 6x
+JP （……ん、あれは？）
+EN (...Hm, what's that?)
+
+@ 211.95
+# President, used 2x
+JP （海の前に立って何してるんだ？）
+EN (What's she doing standing
+EN in front of the sea?)
+
+@ 211.112
+# other, used 2x
+JP は、はいッ！
+EN Y-yes, sir!
+
+@ 211.119
+# President, used 2x
+JP （なぜかガチガチに
+JP 緊張しているらしい…。）
+EN (For some reason she seems
+EN nervous as all get-out...)
+
+@ 211.121
+# President, used 2x
+JP お前、海の前で何を緊張してるんだ？
+EN What are you so nervous about?
+EN It's just the sea.
+
+@ 211.127
+# other, used 2x
+JP …え。
+JP いや…その……。
+EN ...Huh?
+EN Um... well...
+
+@ 211.130
+# wrestler (voiced), used 2x
+JP 海だなあって…。
+EN It's just... it's the sea...
+
+@ 211.137
+# President, used 2x
+JP ……？
+JP まあ、海だ。
+EN ...?
+EN Well, yes, it's the sea.
+
+@ 211.150
+# President, used 2x
+JP 入らないのか？
+EN Aren't you going in?
+
+@ 211.159
+# other, used 2x
+JP は、入っていいんでしょうか！？
+EN A-am I allowed to go in!?
+
+@ 211.166
+# President, used 2x
+JP いいんでしょうかって、お前…。
+EN "Allowed"? Come on...
+
+@ 211.175
+# other, used 2x
+JP …だ、だって
+JP こんなに綺麗な海ですよ？
+EN ...B-but
+EN the water's so beautiful!
+
+@ 211.182
+# other, used 2x
+JP テレビや写真でしか
+JP 見たことのないような…。
+JP 故郷の海と全然違うし！
+EN I've only ever seen water
+EN like this on TV or in photos...
+EN It's nothing like the sea back home!
+
+@ 211.189
+# President, used 2x
+JP まあ、日本の海とは
+JP イメージも違うが…。
+EN Well, it's not quite
+EN the image of a Japanese beach...
+
+@ 211.195
+# other, used 2x
+JP そんな海にボクが入って
+JP いいんでしょうか？
+EN Is someone like me really
+EN allowed to go in it?
+
+@ 211.204
+# President, used 2x
+JP えーと…なあ…？
+EN Um... say...
+
+@ 211.213
+# other, used 2x
+JP はい？
+EN Yes?
+
+@ 211.220
+# President, used 2x
+JP お前…実はバカだろ？
+EN You're... kind of an idiot, aren't
+EN you?
+
+@ 211.229
+# other, used 2x
+JP はいぃ！？
+EN Whaaat!?
+
+@ 211.236
+# President, used 2x
+JP 熱血バカ真面目も
+JP ここまでくると
+JP 手が付けられんな…。
+EN When an earnest hothead gets
+EN this earnest, there's just
+EN no helping her...
+
+@ 211.245
+# other, used 2x
+JP い、いくら社長でも
+JP その言葉はあんまり…。
+EN E-even from you, Boss,
+EN that's a bit much...
+
+@ 211.252
+# President, used 2x
+JP まあ、いい。
+JP 下は水着なんだろ。
+JP そんなもの早く脱げ。
+EN Never mind.
+EN You've got a swimsuit on under that.
+EN Off with it.
+
+@ 211.268
+# President, used 2x
+JP ほら、入るぞ！
+EN Come on, in we go!
+
+@ 211.293
+# other, used 2x
+JP あ、でも…そのッ……。
+JP うわッ、水が冷たいッ！
+JP でも気持ちいい！
+EN Ah, but... um...!
+EN Whoa, the water's cold!
+EN But it feels great!
+
+@ 211.300
+# President, used 2x
+JP ほら、習うより慣れろだ。
+EN See? Practice makes perfect.
+
+@ 211.313
+# other, used 2x
+JP うわッ！
+JP 冷たッ！
+EN Whoa!
+EN Cold!
+
+@ 211.320
+# President, used 2x
+JP （俺は思いっきり水をかけた。）
+EN (I splashed her as hard as I could.)
+
+@ 211.326
+# other, used 2x
+JP …な、何を…。
+EN ...Wh-what are you...
+
+@ 211.333
+# President, used 2x
+JP だから習うより慣れろだって。
+JP ほれほれッ！
+EN Like I said, practice makes perfect.
+EN Take that! And that!
+
+@ 211.341
+# other, used 2x
+JP …わ…た…ちょっと！
+EN ...Wah... hey... stop it!
+
+@ 211.348
+# President, used 2x
+JP どうした、どうした？
+JP 防戦一方か？
+EN What's wrong, what's wrong?
+EN All defense and no offense?
+
+@ 211.354
+# other, used 2x
+JP て…てえいッ！
+EN T-take this!
+
+@ 211.363
+# President, used 2x
+JP （ようやく相羽も反撃を開始する。）
+EN (At last, Aiba started fighting
+EN back.)
+
+@ 211.369
+# other, used 2x
+JP たあぁぁッ！
+JP 負けるかぁッ！
+EN Haaah!
+EN I won't lose!
+
+@ 211.378
+# President, used 2x
+JP ほらほら、そんなもんか？
+EN Come on, is that all you've got?
+
+@ 211.384
+# other, used 2x
+JP たああぁぁぁッ！
+JP ケホッ…りゃあーッ！
+EN Haaaaah!
+EN *cough*... Hyaaah!
+
+@ 211.391
+# President, used 2x
+JP （自分にも水がかかって
+JP むせている。）
+EN (She was splashing herself too,
+EN and choking on it.)
+
+@ 211.393
+# President, used 2x
+JP （まあ、この調子ならあっという間に
+JP 海にも慣れるだろう。）
+EN (Well, at this rate she'll get
+EN used to the sea in no time.)

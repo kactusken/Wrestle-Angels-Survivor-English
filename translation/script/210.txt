@@ -1,0 +1,154 @@
+# Event script entry 210 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 210.78
+# President, used 2x
+JP （なんの人だかりだ？）
+EN (What's this crowd about?)
+
+@ 210.80
+# President, used 2x
+JP （看板が立ってるな。）
+EN (There's a sign up.)
+
+@ 210.82
+# President, used 2x
+JP （ダンスクイーンコンテスト？）
+EN (A Dance Queen Contest?)
+
+@ 210.84
+# President, used 2x
+JP （ああ、よくあるな…。
+JP こういうイベント。）
+EN (Ah, the usual kind
+EN of beach event...)
+
+@ 210.86
+# President, used 2x
+JP （飛び入り歓迎…か…。）
+EN (Walk-ins welcome, huh...)
+
+@ 210.88
+# President, used 2x
+JP （ウチにも出たがりそうなのが
+JP いるなぁ…。）
+EN (I know someone in my promotion
+EN who'd love to jump in...)
+
+@ 210.102
+# other, used 2x
+JP イエ―――イッ！
+EN Yeeeeah!
+
+@ 210.120
+# President, used 2x
+JP （…って、出てるし…。）
+EN (...And there she is...)
+
+@ 210.126
+# other, used 2x
+JP ガンガンとばすぞ――ッ！
+EN Let's crank it up!
+
+@ 210.133
+# President, used 2x
+JP （なんつーか…。）
+EN (How do I put it...)
+
+@ 210.135
+# President, used 2x
+JP （すごい波に乗ってるな…。）
+EN (She's really riding the wave...)
+
+@ 210.137
+# President, used 2x
+JP （というか。）
+EN (Or rather...)
+
+@ 210.139
+# President, used 2x
+JP （リングに上がっているより
+JP 元気に見えるのは気のせいか？）
+EN (Is it just me, or does she look
+EN livelier than she does in the ring?)
+
+@ 210.141
+# President, used 2x
+JP （気のせいだと思いたい…。）
+EN (I'd like to think it's just me...)
+
+@ 210.143
+# President, used 2x
+JP （ステージの上の渡辺と目があった。）
+EN (Watanabe, on stage, caught my eye.)
+
+@ 210.155
+# other, used 2x
+JP 社長ーッ！
+JP 見に来てくれたのー！？
+EN Boss!
+EN You came to watch me!?
+
+@ 210.162
+# President, used 2x
+JP （思いっきり手を振る渡辺。
+JP 他の観客も俺を見る。）
+EN (Watanabe waved like crazy.
+EN The rest of the crowd looked at me.)
+
+@ 210.168
+# other, used 2x
+JP 団体のためにがんばるからねーッ！
+JP ちっともがんばってないじゃないか
+JP なんて言わせないからッ！
+EN I'm working hard for the promotion!
+EN Nobody's gonna say
+EN I'm slacking off!
+
+@ 210.175
+# President, used 2x
+JP （結構はずかしいんだが…。）
+EN (This is pretty embarrassing...)
+
+@ 210.181
+# other, used 2x
+JP 愛してるよ、社長ーーッ！
+EN I love you, Boss!
+
+@ 210.188
+# President, used 2x
+JP （その場のノリとテンションだけで
+JP 発言するのはやめてくれ…。）
+EN (Please stop saying things just
+EN because you're caught up in the
+EN moment...)
+
+@ 210.200
+# other, used 2x
+JP …え、もう持ち時間終わり？
+JP これからがいいとこなのに…。
+JP あ、待って、待ってよ～！
+EN ...Huh, my time's up already?
+EN It was just getting good...
+EN Hey, wait, wait!
+
+@ 210.211
+# President, used 2x
+JP （結局。）
+EN (In the end...)
+
+@ 210.213
+# President, used 2x
+JP （渡辺はユニーク賞という
+JP 褒めていいのか微妙な賞を
+JP もらった…。）
+EN (Watanabe won the "Most Unique"
+EN award. Not sure if that counts
+EN as a compliment...)

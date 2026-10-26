@@ -1,0 +1,117 @@
+# Event script entry 081 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 081.88
+# wrestler (voiced), case 0, used 2x
+JP はーい！
+JP 小早川来ました！
+EN Hi-i! Kobayakawa's here!
+
+@ 081.94
+# President, case 0, used 2x
+JP お、来たか。
+JP 実はお前に写真集のオファーが
+JP 来てるんだが…。
+EN Oh, you're here. Actually, there's
+EN an offer for a photo book of you...
+
+@ 081.102
+# wrestler (voiced), case 0, used 2x
+JP …へッ！？
+JP 写真集？
+EN ...Huh!? A photo book?
+
+@ 081.116
+# wrestler (voiced), case 0, used 2x
+JP 写真集って
+JP あのアイドルとかの？
+JP まさか…ヌードとかじゃないよね？
+EN A photo book, like idols do?
+EN No way... It's not a nude one,
+EN right?
+
+@ 081.122
+# President, case 0, used 2x
+JP それはない。
+JP アイドルっぽい水着のヤツだよ。
+EN No, nothing like that. It's an
+EN idol-type swimsuit thing.
+
+@ 081.130
+# wrestler (voiced), case 0, used 2x
+JP へー、あたしにねぇ。
+JP びっくり。
+EN Wow, for me, huh. That's a shock.
+
+@ 081.143
+# other, case 0, used 2x
+JP だって、あたしそういうキャラじゃ
+JP ないじゃん。
+EN I mean, I'm not that kind of
+EN character, you know?
+
+@ 081.151
+# President, case 0, used 2x
+JP そんなことないぞ。
+JP お前は十分魅力的だ。
+EN That's not true. You're plenty
+EN attractive.
+
+@ 081.159
+# wrestler (voiced), case 0, used 2x
+JP …えッ。
+JP や、やだなぁ、社長！
+JP からかわないでよ！
+EN ...Huh. C-come on, Boss!
+EN Don't tease me!
+
+@ 081.252
+# President, case 0, used 2x
+JP ほら、魅力的だろ？
+EN See? Attractive, right?
+
+@ 081.261
+# wrestler (voiced), case 0, used 2x
+JP …うッ。
+JP 見せないで…。
+EN ...Urk. Don't show me...
+
+@ 081.275
+# wrestler (voiced), case 0, used 2x
+JP なんか、あたしじゃないみたい！
+EN It's like it isn't even me!
+
+@ 081.281
+# President, case 0, used 2x
+JP 間違いなくお前だよ。
+JP オファーが来たのもわかるって。
+EN It's definitely you. I can see
+EN why they made the offer.
+
+@ 081.289
+# wrestler (voiced), case 0, used 2x
+JP だから見せないでってば！
+JP なんか自分じゃないみたいで嫌なの！
+EN I said don't show me! It's like it
+EN isn't me, and I hate that!
+
+@ 081.295
+# President, case 0, used 2x
+JP そういうもんか？
+JP しばらくしたら書店に並ぶんだぞ。
+EN Is that how it is? It'll be in
+EN bookstores before long, you know.
+
+@ 081.303
+# wrestler (voiced), case 0, used 2x
+JP う～…。
+JP しばらく書店に近寄らないッ！
+EN Ugh... I'm staying away from
+EN bookstores for a while!

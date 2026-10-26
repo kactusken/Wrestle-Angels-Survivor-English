@@ -1,0 +1,134 @@
+{
+ "english": "Current Difficulty | Move | Type | Difficulty",
+ "boxes": [
+  [
+   462,
+   4,
+   107,
+   20
+  ],
+  [
+   142,
+   29,
+   52,
+   22
+  ],
+  [
+   330,
+   29,
+   52,
+   22
+  ],
+  [
+   462,
+   29,
+   52,
+   22
+  ]
+ ],
+ "draw": "movelist.draw",
+ "font": "BarlowCondensed-Bold.ttf",
+ "ground": "keep",
+ "fill": [
+  248,
+  247,
+  185
+ ],
+ "groups": [
+  {
+   "draw": "movelist.draw",
+   "ground": "keep",
+   "font": "BarlowCondensed-Bold.ttf",
+   "cap": 13,
+   "align": "left",
+   "fill": [
+    248,
+    247,
+    185
+   ],
+   "outline": {
+    "w": 1.5,
+    "rgb": [
+     46,
+     48,
+     144
+    ]
+   },
+   "margin": 1,
+   "labels": [
+    0
+   ],
+   "patches": [
+    [
+     460,
+     4,
+     113,
+     20,
+     "inpaint",
+     {
+      "expr": "r < 50 and g >= 100 and b > 140",
+      "grow": 1
+     }
+    ]
+   ]
+  },
+  {
+   "draw": "movelist.draw",
+   "ground": "keep",
+   "font": "BarlowCondensed-Bold.ttf",
+   "cap": 12,
+   "fill": [
+    248,
+    247,
+    185
+   ],
+   "outline": {
+    "w": 1.75,
+    "rgb": [
+     46,
+     48,
+     144
+    ]
+   },
+   "margin": 1,
+   "labels": [
+    1,
+    2,
+    3
+   ],
+   "tag_model": {
+    "tags": [
+     [
+      142,
+      29,
+      52,
+      22
+     ],
+     [
+      330,
+      29,
+      52,
+      22
+     ],
+     [
+      462,
+      29,
+      52,
+      22
+     ]
+    ],
+    "expr": "g - r > 60 and (r <= 25 or g >= 150) and g >= b - 15",
+    "grow": 1
+   }
+  }
+ ],
+ "notes": "move list panel (difficulty): (? icon) 現在の難易度 Current Difficulty; column tags 技名 Move, 種類 Type, 難易度 Difficulty (WAS2 wording); digits kept. Tag grounds rebuilt by a Laplace fill (tools/letter_ext/movelist.py)",
+ "catalogue": {
+  "source": "/A000/A00B. entry 7",
+  "width": 640,
+  "height": 304,
+  "bpp": 8,
+  "category": "screen",
+  "japanese": "現在の難易度 | 技名 | 種類 | 難易度"
+ }
+}

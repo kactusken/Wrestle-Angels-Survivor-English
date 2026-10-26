@@ -1,0 +1,558 @@
+# Event script entry 307 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 307.37
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長。
+JP 私もうれしいです～。
+JP ウフフッ！
+EN Congratulations, Boss.
+EN I'm so happy too!
+EN Ufufu!
+
+@ 307.45
+# wrestler (voiced), used 2x
+JP やったね、社長！
+JP やっぱり最強と言えば
+JP あたしたちだよね！
+EN We did it, Boss!
+EN When it comes to the strongest,
+EN it's gotta be us!
+
+@ 307.53
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長。
+JP この団体に入れて私もうれしいです！
+EN Congratulations, Boss.
+EN I'm so glad I joined this promotion!
+
+@ 307.61
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長。
+JP 今度は秘書として
+JP 社長のお力になりたいですね。
+EN Congratulations, Boss.
+EN Next time, I'd like to help you
+EN out as your secretary.
+
+@ 307.69
+# wrestler (voiced), used 2x
+JP 社長、おめでとう！
+JP そうだ！
+JP お祝いの準備しなくちゃ！
+EN Congrats, Boss!
+EN Oh, I know!
+EN I've gotta get a party ready!
+
+@ 307.77
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長。
+JP みんなで喜びをわかち合うのも
+JP いいものですね。
+EN Congratulations, Boss.
+EN It's nice to share the joy
+EN with everyone, isn't it?
+
+@ 307.85
+# wrestler (voiced), used 2x
+JP やったね、社長！
+JP あたしも少しは役に立てた？
+EN We did it, Boss!
+EN Was I a little bit of help?
+
+@ 307.93
+# wrestler (voiced), used 2x
+JP やったーッ！
+JP 社長オメデトー！
+JP あたしも役に立ったよね、ね？
+EN Yaaay!
+EN Congrats, Boss!
+EN I helped out, right? Right?
+
+@ 307.101
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長！
+JP 実家のレストランで
+JP お祝いパーティーしましょうか？
+EN Congratulations, Boss!
+EN Shall we throw a party at
+EN my family's restaurant?
+
+@ 307.109
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長。
+JP みんなで喜びあえるというのも
+JP いいですね。
+EN Congratulations, Boss.
+EN It's nice that we can all
+EN celebrate together.
+
+@ 307.117
+# wrestler (voiced), used 2x
+JP 社長、ついにやったな！
+JP あんたについてきて正解だったよ！
+EN You finally did it, Boss!
+EN Following you was the right call!
+
+@ 307.125
+# wrestler (voiced), used 2x
+JP 社長、オメデト！
+JP 私もがんばったかいが
+JP あったにゃん！
+EN Congrats, Boss!
+EN All my hard work paid off,
+EN nya!
+
+@ 307.133
+# wrestler (voiced), used 2x
+JP 社長、やったじゃない！
+JP やっぱり私の活躍が大きかった？
+EN You did it, Boss!
+EN I was the big reason, wasn't I?
+
+@ 307.141
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長。
+JP 私からのお祝いは何がいいですか？
+JP ウフッ…。
+EN Congratulations, Boss.
+EN What would you like from me
+EN as a present? Ufu...
+
+@ 307.149
+# wrestler (voiced), used 2x
+JP さすがですわ、社長。
+JP 私と社長がいれば
+JP 不可能はありませんわ！
+EN Splendid, Boss.
+EN With you and me together,
+EN nothing is impossible!
+
+@ 307.157
+# wrestler (voiced), used 2x
+JP 社長、やったじゃない。
+JP 人気面では私も貢献したでしょ？
+EN You did it, Boss.
+EN I helped with the popularity, right?
+
+@ 307.165
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP 私も少しは役に立てたなら
+JP うれしいですね。
+EN Congratulations, Boss.
+EN If I was even a little help,
+EN I'm happy.
+
+@ 307.173
+# wrestler (voiced), used 2x
+JP 社長、やったじゃねぇか！
+JP みんなで胴上げしてやろうか？
+EN You did it, Boss!
+EN Want us all to toss you
+EN in the air?
+
+@ 307.181
+# wrestler (voiced), used 2x
+JP 社長、おめでとう！
+JP お祝いになんか食事おごって
+JP くれる？
+EN Congrats, Boss!
+EN Wanna treat me to dinner
+EN to celebrate?
+
+@ 307.189
+# wrestler (voiced), used 2x
+JP 社長、おめでとう。
+JP あなたはきっとそういう星の下に
+JP 生まれてきたのね。
+EN Congratulations, Boss.
+EN You must have been born
+EN under a lucky star.
+
+@ 307.197
+# wrestler (voiced), used 2x
+JP おめでとうございます、社長。
+JP あたしたちって
+JP やっぱり強かったんですね！
+EN Congratulations, Boss.
+EN So we really were strong
+EN after all!
+
+@ 307.205
+# wrestler (voiced), used 2x
+JP 社長、おめでとう。
+JP 抱きしめてあげようか？
+JP ウフフッ！
+EN Congrats, Boss.
+EN Want me to give you a hug?
+EN Ufufu!
+
+@ 307.213
+# wrestler (voiced), used 2x
+JP 社長、おめでとう！
+JP 今夜は踊りあかそうか？
+EN Congrats, Boss!
+EN Shall we dance the night away?
+
+@ 307.221
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございますッ！
+JP 社長についてきて良かったです！
+EN Congratulations, Boss!
+EN I'm so glad I followed you!
+
+@ 307.229
+# wrestler (voiced), used 2x
+JP 社長、やったじゃねぇか。
+JP ちっとは見直してやるぜ。
+EN You did it, Boss.
+EN Guess I'll think a bit better of ya.
+
+@ 307.237
+# wrestler (voiced), used 2x
+JP 社長、オメデトーッ！
+JP だーいスキッ！
+EN Congraaats, Boss!
+EN Love youuu!
+
+@ 307.245
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP さすが私が見込んだ男ですわ。
+EN Congratulations, Boss.
+EN Just what I'd expect from
+EN the man I chose.
+
+@ 307.253
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP 社長にだけなら素顔を見せても
+JP いいかもしれませんね。
+EN Congratulations, Boss.
+EN For you alone, perhaps I could
+EN show my true face.
+
+@ 307.261
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP これで私も心おきなく…。
+EN Congratulations, Boss.
+EN Now I can rest easy...
+
+@ 307.269
+# wrestler (voiced), used 2x
+JP 社長、やったじゃん！
+JP あたしの大活躍のおかげだよね？
+EN You did it, Boss!
+EN It's thanks to my big performance,
+EN right?
+
+@ 307.277
+# wrestler (voiced), used 2x
+JP 社長、やりましたね！
+JP あたしの拳も役に立ちましたか？
+EN We did it, Boss!
+EN Did my fists help out?
+
+@ 307.285
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます！
+JP ついに天下取ったッス！
+EN Congratulations, Boss!
+EN We've finally conquered it all!
+
+@ 307.293
+# wrestler (voiced), used 2x
+JP ……社長…良かったね……。
+JP ……風船買ってくれる……？
+EN ......Boss... that's great......
+EN ......Will you buy me a
+EN balloon......?
+
+@ 307.301
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP 社長は私の計算では
+JP 計りきれない方ですね。
+EN Congratulations, Boss.
+EN You're beyond what even my
+EN calculations can measure.
+
+@ 307.309
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP あなたこそが伝説！
+EN Congratulations, Boss.
+EN You are the true legend!
+
+@ 307.317
+# wrestler (voiced), used 2x
+JP ……社長、お、おめでとう……。
+JP ……私…これからも
+JP ……社長と一緒にいたい……。
+EN ......B-Boss, congratulations......
+EN ......I... want to stay with you
+EN ......from now on, too......
+
+@ 307.325
+# wrestler (voiced), used 2x
+JP やったね、社長。
+JP ボクをこの団体に入れてくれて
+JP ありがとう！
+EN We did it, Boss.
+EN Thanks for bringing me
+EN into this promotion!
+
+@ 307.333
+# wrestler (voiced), used 2x
+JP 社長、やったな！
+JP 真帆は次は誰と戦えばいい？
+EN We did it, Boss!
+EN So who does Maho fight next?
+
+@ 307.341
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP 自分も仕事を果たせて
+JP ほっとしています。
+EN Congratulations, Boss.
+EN I'm relieved I did my part, too.
+
+@ 307.349
+# wrestler (voiced), used 2x
+JP 社長、やったやん！
+JP 一緒にやってきたかいあったわ～！
+EN Ya did it, Boss!
+EN Stickin' with ya was worth it!
+
+@ 307.357
+# wrestler (voiced), used 2x
+JP 社長、おめでとう！
+JP あたしも少しは
+JP 大人っぽくなりました？
+EN Congrats, Boss!
+EN Have I gotten a little more
+EN grown-up, too?
+
+@ 307.365
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます！
+JP ちーちゃんも喜んでくれました！
+EN Congratulations, Boss!
+EN Chii's happy about it too!
+
+@ 307.373
+# wrestler (voiced), used 2x
+JP 社長、やりましたね！
+JP 最後まで戦い抜いた結果ですよね
+JP キャプテン！
+EN We did it, Boss!
+EN That's what fighting to the end
+EN gets you, right, Captain?
+
+@ 307.381
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます。
+JP 完璧という言葉は
+JP あなたにこそふさわしい。
+EN Congratulations, Boss.
+EN The word "perfect" suits
+EN no one better than you.
+
+@ 307.389
+# wrestler (voiced), used 2x
+JP 社長、おめでとうございます～。
+JP ゆっくりお茶でもしましょうか～？
+EN Congratulations, Boss~.
+EN Shall we relax over some tea~?
+
+@ 307.397
+# wrestler (voiced), used 2x
+JP 社長、おめーッ！
+JP これもあたしの
+JP 愛のパワーのおかげ？
+EN Congrats, Boss!
+EN Was it all thanks to
+EN the power of my love?
+
+@ 307.405
+# wrestler (voiced), used 2x
+JP 社長、よかったなぁ。
+JP 誰のおかげかわかってんだろうな？
+EN Good for you, Boss.
+EN You know who to thank, right?
+
+@ 307.413
+# wrestler (voiced), used 2x
+JP 社長、よかったな。
+JP あたしのおかげだって
+JP わかってんだろうね？
+EN Good for you, Boss.
+EN You know it's all thanks
+EN to me, right?
+
+@ 307.421
+# wrestler (voiced), used 2x
+JP 社長、やったじゃねぇか！
+JP あんたはいつか天下取ると
+JP 思ってたけどね。
+EN You did it, Boss!
+EN I always figured you'd
+EN take the top someday.
+
+@ 307.429
+# wrestler (voiced), used 2x
+JP 社長、おめでとう。
+JP あなたの下で働くことができた
+JP 私は幸せ者だ。
+EN Congratulations, Boss.
+EN I am fortunate to have
+EN worked under you.
+
+@ 307.437
+# wrestler (voiced), used 2x
+JP なんだ、社長？
+JP 「おめでとう」とでも
+JP 言って欲しいのか？
+EN What is it, Boss?
+EN You want me to say
+EN "congratulations" or something?
+
+@ 307.445
+# wrestler (voiced), used 2x
+JP …………社長……。
+JP …………お、おめでとう……。
+EN ............Boss......
+EN ............C-congratulations......
+
+@ 307.453
+# wrestler (voiced)
+JP 社長、おめでとう。
+JP 私もうれしいよ…。
+EN Congratulations, Boss.
+EN I'm happy too...
+
+@ 307.461
+# wrestler (voiced)
+JP 社長、やりましたね！
+JP あは…私も最高、サイコーです！
+EN We did it, Boss!
+EN Aha... I feel great, just great!
+
+@ 307.469
+# wrestler (voiced)
+JP 社長、おめでとう。
+JP まぁ、私がいるんだから当然よね。
+EN Congrats, Boss.
+EN Well, with me here, it's only
+EN natural.
+
+@ 307.477
+# wrestler (voiced)
+JP やったね、社長！
+JP やっぱり正義は
+JP 私たちとともにあったみたいね！
+EN We did it, Boss!
+EN Justice was on our side
+EN after all!
+
+@ 307.485
+# wrestler (voiced)
+JP さすがです、社長。
+JP その統率力を
+JP 私にも勉強させてください！
+EN Impressive, Boss.
+EN Please let me learn from
+EN your leadership!
+
+@ 307.493
+# wrestler (voiced)
+JP 社長、おめでとう……。
+JP これも運命……天運……。
+EN Congratulations, Boss......
+EN This too is fate... Heaven's will...
+
+@ 307.501
+# wrestler (voiced)
+JP おめでとうございます、社長！
+JP わたしみたいなトロい子でも
+JP やればできるんですね。
+EN Congratulations, Boss!
+EN So even a slowpoke like me
+EN can do it if I try.
+
+@ 307.509
+# wrestler (voiced)
+JP 社長、おめでとうございます！
+JP 光も完全燃焼できましたッ！
+EN Congratulations, Boss!
+EN Hikaru burned all-out too!
+
+@ 307.517
+# wrestler (voiced)
+JP ほーっほっほっほ！
+JP わたくしがいれば当然ですわ。
+JP ねぇ、社長。
+EN Oh-ho-ho-ho!
+EN With me here, it's only natural.
+EN Isn't that right, Boss?
+
+@ 307.525
+# wrestler (voiced)
+JP 社長、おめでとうございます～。
+JP わたしもうれしいです～。
+EN Congratulations, Boss~.
+EN I'm so happy too~.
+
+@ 307.533
+# wrestler (voiced)
+JP 社長、やったね。
+JP やっぱり最後はパワーの差でしょ？
+EN We did it, Boss.
+EN In the end, it came down
+EN to power, right?
+
+@ 307.541
+# wrestler (voiced)
+JP やったじゃねぇか、社長！
+JP アタシも少しは役に立っただろ？
+EN We did it, Boss!
+EN I was some help, wasn't I?
+
+@ 307.549
+# wrestler (voiced)
+JP やりましたね、社長。
+JP 私も少しは貢献できたのでしょうか？
+EN We did it, Boss.
+EN I wonder if I contributed a little.
+
+@ 307.557
+# wrestler (voiced)
+JP 社長、やりましたね！
+JP 私もすごくうれしいですッ！
+EN We did it, Boss!
+EN I'm so, so happy!
+
+@ 307.565
+# wrestler (voiced)
+JP 社長、やったね！
+JP 私の霊感も役に立つって
+JP わかったでしょ？
+EN We did it, Boss!
+EN Now you know my psychic powers
+EN come in handy, right?
+
+@ 307.573
+# wrestler (voiced)
+JP おめでとうございます、社長。
+JP 私も貢献できたのでしょうか？
+EN Congratulations, Boss.
+EN Did I contribute, I wonder?

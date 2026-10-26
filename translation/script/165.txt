@@ -1,0 +1,422 @@
+# Event script entry 165 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 165.46
+# Secretary
+JP {name:0}選手が
+JP なにやら不穏な雰囲気です…。
+EN {name:0} seems to be
+EN in a dangerous mood...
+
+@ 165.57
+# wrestler (voiced), used 2x
+JP イタタタ…。
+JP もうひどいです～。
+EN Ow-ow-ow...
+EN That was so mean!
+
+@ 165.64
+# wrestler (voiced), used 2x
+JP ムゥ～！
+JP あったまきたーッ！
+EN Mmmh!
+EN That makes me SO mad!
+
+@ 165.71
+# wrestler (voiced), used 2x
+JP 我慢にも限界がありますッ！
+EN Even my patience has its limits!
+
+@ 165.78
+# wrestler (voiced), used 2x
+JP いくら私でも我慢には限界が…。
+EN Even I can only take so much...
+
+@ 165.85
+# wrestler (voiced), used 2x
+JP 私だって怒るときはあるんだよ！
+EN I get angry sometimes too, you know!
+
+@ 165.92
+# wrestler (voiced), used 2x
+JP …ゆ、許さんッ！
+EN ...I-I won't forgive this!
+
+@ 165.99
+# wrestler (voiced), used 2x
+JP もう我慢できませんッ！
+EN I can't take it anymore!
+
+@ 165.106
+# wrestler (voiced), used 2x
+JP ふぇ～ん！
+JP ひどいよ～…。
+EN Waaah!
+EN That's so mean...
+
+@ 165.113
+# wrestler (voiced), used 2x
+JP もう怒りました！
+EN Now I'm angry!
+
+@ 165.120
+# wrestler (voiced), used 2x
+JP クッ、クソッ…。
+EN Gh... Damn it...
+
+@ 165.127
+# wrestler (voiced), used 2x
+JP …チッ！
+JP あのやろうッ！
+EN ...Tch!
+EN That jerk!
+
+@ 165.134
+# wrestler (voiced), used 2x
+JP …フーッ！
+JP フーーッ！
+JP 猫の恨みは怖いよー！
+EN ...Hsss!
+EN Hsssss!
+EN A cat's grudge is a scary thing!
+
+@ 165.141
+# wrestler (voiced), used 2x
+JP んもうッ！
+JP なんなのよ！
+EN Ugh, seriously!
+EN What's her problem?!
+
+@ 165.148
+# wrestler (voiced), used 2x
+JP フンッ…。
+JP 私だって怒るときはあるのよ！
+EN Hmph...
+EN I get angry sometimes too, you know!
+
+@ 165.155
+# wrestler (voiced), used 2x
+JP キーーッ！
+JP あの方だけは絶対に許しませんわ！
+EN Grrrr!
+EN That woman... I shall never forgive
+EN her!
+
+@ 165.162
+# wrestler (voiced), used 2x
+JP もうプンプンッ！
+EN I'm totally fuming!
+
+@ 165.169
+# wrestler (voiced), used 2x
+JP …クッ！
+JP なめられたものですね…。
+EN ...Gh!
+EN So she thinks I'm a pushover...
+
+@ 165.176
+# wrestler (voiced), used 2x
+JP …クソッ！
+JP あいつ…。
+EN ...Damn it!
+EN Her...
+
+@ 165.183
+# wrestler (voiced), used 2x
+JP …クッ！
+JP こんなことまで…。
+EN ...Gh!
+EN To go this far...
+
+@ 165.190
+# wrestler (voiced), used 2x
+JP タダじゃおかないわ！
+EN She won't get away with this!
+
+@ 165.197
+# wrestler (voiced), used 2x
+JP さすがに我慢の限界ですね…。
+EN This really is the last straw...
+
+@ 165.204
+# wrestler (voiced), used 2x
+JP 目の敵にされてるみたいね…。
+EN Looks like she's got it in for me...
+
+@ 165.211
+# wrestler (voiced), used 2x
+JP もう許さないんだからッ！
+EN I'm never forgiving her!
+
+@ 165.218
+# wrestler (voiced), used 2x
+JP ボク怒ってますからッ！
+EN I'm angry, okay?!
+
+@ 165.225
+# wrestler (voiced), used 2x
+JP この落とし前は
+JP きっちり付けてやるぜ！
+EN I'm gonna make her pay
+EN for this, every last bit!
+
+@ 165.232
+# wrestler (voiced), used 2x
+JP ふえ～ん！
+JP ひどいよー！
+EN Waaah!
+EN That's so mean!
+
+@ 165.239
+# wrestler (voiced), used 2x
+JP この私に…。
+JP 許しませんわ！
+EN To me, of all people...
+EN Unforgivable!
+
+@ 165.253
+# wrestler (voiced), used 2x
+JP これはさすがに…。
+EN This is going too far...
+
+@ 165.260
+# wrestler (voiced), used 2x
+JP もうッ！
+JP あったまきたー！
+EN Argh!
+EN I'm so mad!
+
+@ 165.267
+# wrestler (voiced), used 2x
+JP こ、このーッ！
+EN Wh-why, you...!
+
+@ 165.274
+# wrestler (voiced), used 2x
+JP チキショーッ！
+EN Dammit!
+
+@ 165.281
+# wrestler (voiced), used 2x
+JP ……わたし…怒ってる……。
+EN ......I'm...angry......
+
+@ 165.288
+# wrestler (voiced), used 2x
+JP この戦い記録しておきます…。
+EN I shall keep a record of this
+EN battle...
+
+@ 165.295
+# wrestler (voiced), used 2x
+JP 私を侮辱した罪は
+JP 必ず償ってもらう！
+EN You will pay for
+EN insulting me!
+
+@ 165.302
+# wrestler (voiced), used 2x
+JP ……こ…こんなことって……。
+EN ......H-how could this......
+
+@ 165.309
+# wrestler (voiced), used 2x
+JP もう、ボク怒ってるんだからッ！
+EN Hey, I'm really angry, you know!
+
+@ 165.316
+# wrestler (voiced), used 2x
+JP 絶対に許さないぞ！
+EN Maho will NEVER forgive this!
+
+@ 165.330
+# wrestler (voiced), used 2x
+JP ううぅ～。
+JP この落とし前どないつけたろか！
+EN Grrr...
+EN How'm I gonna make her pay for
+EN this?!
+
+@ 165.337
+# wrestler (voiced), used 2x
+JP む～～ッ！
+JP この恨み忘れないんだから！
+EN Mmmmh!
+EN I won't forget this, ever!
+
+@ 165.344
+# wrestler (voiced), used 2x
+JP うぅ…。
+JP こんな…。
+EN Ugh...
+EN This is...
+
+@ 165.351
+# wrestler (voiced), used 2x
+JP ヒロインは何度でも立ち上がる！
+EN A heroine always rises again!
+
+@ 165.358
+# wrestler (voiced), used 2x
+JP この恨み生涯忘れません…。
+EN I will never forget this grudge...
+
+@ 165.365
+# wrestler (voiced), used 2x
+JP …こんなのひどいです～。
+EN ...This is so mean...
+
+@ 165.372
+# wrestler (voiced), used 2x
+JP ムゥ～ッ！
+JP どうやって仕返しを…。
+EN Mmmh!
+EN How should I get back at her...
+
+@ 165.379
+# wrestler (voiced), used 2x
+JP こ、この恨み一生忘れねーッ！
+EN I-I'll never forget this as long as
+EN I live!
+
+@ 165.386
+# wrestler (voiced), used 2x
+JP こ、この恨み忘れねーぞ！
+JP ウラーッ！
+EN I-I won't forget this!
+EN Urraaa!
+
+@ 165.393
+# wrestler (voiced), used 2x
+JP …この傷がうずいて
+JP 仕方ないんだよ！
+EN ...This scar of mine
+EN just won't stop aching!
+
+@ 165.400
+# wrestler (voiced), used 2x
+JP この恨み…いずれ必ず…！
+EN This grudge... someday, I swear...!
+
+@ 165.407
+# wrestler (voiced), used 2x
+JP この恨み一生忘れねーぜ！
+EN I'll never forget this as long as I
+EN live!
+
+@ 165.413
+# other, used 4x
+JP …………クッ……！
+EN ......Gh......!
+
+@ 165.422
+# wrestler (voiced)
+JP …ンッ…。
+JP この借りは必ず…。
+EN ...Nn...
+EN I'll pay this back, I swear...
+
+@ 165.429
+# wrestler (voiced)
+JP アタタタッ…。もうプンプンッ！
+EN Ow-ow-ow... I'm totally fuming!
+
+@ 165.436
+# wrestler (voiced)
+JP クールに…。
+JP いけるわけないでしょッ！
+EN Stay cool...
+EN Like I could!
+
+@ 165.443
+# wrestler (voiced)
+JP もう許しませんッ！
+EN I won't forgive this!
+
+@ 165.450
+# wrestler (voiced)
+JP この屈辱…。
+JP 忘れはしない…！
+EN This humiliation...
+EN I won't forget it...!
+
+@ 165.457
+# wrestler (voiced)
+JP 憎むのも運命……？
+EN Is hatred also fate......?
+
+@ 165.464
+# wrestler (voiced)
+JP うぅ…。
+JP こんなことまで…。
+EN Ugh...
+EN To go this far...
+
+@ 165.471
+# wrestler (voiced)
+JP このままでは済ませませんッ！
+EN I won't let this slide!
+
+@ 165.478
+# wrestler (voiced)
+JP このわたくしに対して…。
+JP 無礼なッ！
+EN To treat me this way...
+EN How insolent!
+
+@ 165.485
+# wrestler (voiced)
+JP イタタッ…。
+JP こんなのひどいです～。
+EN Ow-ow...
+EN This is so mean...
+
+@ 165.492
+# wrestler (voiced)
+JP あいつだけは絶対やっつける！
+EN I'm gonna beat her, no matter what!
+
+@ 165.499
+# wrestler (voiced)
+JP …チキショーッ！
+JP 絶対許さねぇ！
+EN ...Dammit!
+EN I'll never forgive her!
+
+@ 165.506
+# wrestler (voiced)
+JP まさかあんなことまで…。
+EN I can't believe she'd go that far...
+
+@ 165.513
+# wrestler (voiced)
+JP もう許せませんッ！
+EN This is unforgivable!
+
+@ 165.520
+# wrestler (voiced)
+JP …この恨みはらさでおくべきか～！
+EN ...You think I'll let this grudge
+EN go?!
+
+@ 165.527
+# wrestler (voiced)
+JP ンンンッ…。
+JP ただでは済まさないッ！
+EN Nnngh...
+EN She won't get off lightly!
+
+@ 165.908
+# Secretary
+JP どうやら
+JP {name:1}選手に対して
+JP 遺恨が残る試合だったようです。
+EN It seems that match left
+EN bad blood with {name:1}.

@@ -1,0 +1,136 @@
+# Event script entry 092 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 092.88
+# wrestler (voiced), case 0, used 2x
+JP はいッ！
+JP お呼びですか？
+EN Yes! You called?
+
+@ 092.108
+# President, case 0, used 2x
+JP 会社としては受けたいと
+JP 思っているんだが…。
+JP どうかな？
+EN The company would like to accept,
+EN but... what do you say?
+
+@ 092.116
+# wrestler (voiced), case 0, used 2x
+JP そ、それって
+JP えっと、あの～？
+EN Th-that means, um, uh...?
+
+@ 092.122
+# President, case 0, used 2x
+JP 言っておくがヌードじゃないぞ。
+JP 水着の普通のやつだからな。
+EN I'll tell you now, it's not a nude.
+EN It's just ordinary swimsuits.
+
+@ 092.130
+# wrestler (voiced), case 0, used 2x
+JP そ、そうなんだ。
+EN O-oh, I see.
+
+@ 092.144
+# wrestler (voiced), case 0, used 2x
+JP えっと…。
+JP はい、お受けします。
+JP はい、やりとげてみせますッ！
+EN Um... Yes, I'll accept.
+EN Yes, I'll pull it off, just watch!
+
+@ 092.240
+# other, case 0, used 4x
+JP …む～～ッ！
+EN ...Mmmmph!
+
+@ 092.248
+# President, case 0, used 2x
+JP 不機嫌な顔してどうした？
+JP 何か不満でもあったのか？
+EN Why the long face? Something
+EN you're not happy with?
+
+@ 092.257
+# wrestler (voiced), case 0, used 2x
+JP うん、あるッ！
+JP …あ、いや、あります！
+EN Yeah, there is! ...Ah, I mean,
+EN yes, there is!
+
+@ 092.263
+# President, case 0, used 2x
+JP 何が不満なんだ？
+JP こんなにかわいく撮れてるのに。
+EN What's wrong? You came out
+EN so cute.
+
+@ 092.271
+# wrestler (voiced), case 0, used 2x
+JP そのかわいく撮れているところが！
+JP もっとこう…大人っぽい雰囲気を
+JP 出したかったというか…。
+EN That's the problem, coming out cute!
+EN I wanted to give off a more...
+EN grown-up vibe...
+
+@ 092.277
+# President, case 0, used 2x
+JP 大人っぽい…ねぇ…。
+EN Grown-up... huh...
+
+@ 092.285
+# wrestler (voiced), case 0, used 2x
+JP なのに用意されてる衣装も水着も
+JP 子供っぽいものばかりだったし！
+EN But all the outfits and swimsuits
+EN they gave me were so childish!
+
+@ 092.291
+# President, case 0, used 2x
+JP かわいいのもいいじゃないか。
+JP それも武器だぞ。
+EN Isn't cute good too?
+EN That's a weapon too.
+
+@ 092.299
+# wrestler (voiced), case 0, used 2x
+JP あたしは嫌なのッ
+JP じゃなくて…嫌なんですッ！
+EN I hate it! ...I mean, I really
+EN don't like it!
+
+@ 092.303
+# wrestler (voiced), case 0, used 2x
+JP もっとこう…セクシ～に
+JP いきたかったというか…。
+EN I wanted to go more... sexy,
+EN you know...
+
+@ 092.308
+# wrestler (voiced), case 0, used 2x
+JP これじゃまた
+JP みんなに子供みたいって
+JP バカにされるじゃないですかッ！
+EN At this rate, everyone's going to
+EN make fun of me for looking like
+EN a kid again!
+
+@ 092.314
+# President, case 0, used 2x
+JP だから、それも武器だって。
+EN Like I said, that's a weapon too.
+
+@ 092.322
+# wrestler (voiced), case 0, used 2x
+JP だから、それが嫌なのーッ！
+EN And like I said, I hate that!

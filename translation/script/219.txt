@@ -1,0 +1,269 @@
+# Event script entry 219 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 219.102
+# other, used 2x
+JP 暑いですねー。
+EN It's hot, huh?
+
+@ 219.118
+# other, used 2x
+JP いや、むしろ熱いッ！
+EN No, it's blazing!
+
+@ 219.125
+# President, used 2x
+JP …あ、ああ、暑いな。
+EN ...Y-yeah, it's hot.
+
+@ 219.131
+# other, used 2x
+JP いや、熱いんですよ。
+JP 見てください、あの太陽…。
+JP すげぇ、まぶしいでしょう。
+EN No, it's BLAZING.
+EN Look at that sun...
+EN Crazy bright, right?
+
+@ 219.138
+# President, used 2x
+JP 直視はできんな。
+EN Can't look straight at it.
+
+@ 219.147
+# other, used 2x
+JP なんかこう、挑戦されてるって
+JP 気がしないですか？
+EN Doesn't it feel like
+EN it's challenging you somehow?
+
+@ 219.154
+# President, used 2x
+JP 何に挑戦されてるんだ？
+EN What's challenging me?
+
+@ 219.163
+# other, used 2x
+JP 太陽に！
+JP そして南国にッ！
+EN The sun!
+EN And the tropics!
+
+@ 219.172
+# President, used 2x
+JP バカンスに来て
+JP うれしいのはわかったから…。
+JP 少し落ち着け。
+EN I get that you're happy
+EN to be on vacation...
+EN Calm down a little.
+
+@ 219.181
+# other, used 2x
+JP 落ち着いたら負けでしょう！
+EN Calming down means losing!
+
+@ 219.190
+# President, used 2x
+JP そうか。
+JP 負けなのか…。
+EN I see.
+EN That means losing...
+
+@ 219.196
+# other, used 4x
+JP そっス！
+EN Yes, sir!
+
+@ 219.203
+# President, used 2x
+JP 負けとけ…。
+EN Then just lose...
+
+@ 219.212
+# other, used 2x
+JP な、何を言うんですか、社長！？
+JP 仮にも女子プロレス団体の社長が
+JP 負けを認めろなんて！？
+EN Wh-what are you saying, Boss!?
+EN A wrestling promotion's president
+EN telling me to admit defeat!?
+
+@ 219.219
+# President, used 2x
+JP いや、別に太陽と戦うために
+JP 来たわけじゃないし。
+EN Well, we didn't come here
+EN to fight the sun.
+
+@ 219.221
+# President, used 2x
+JP （まさか、コイツがトレーニング
+JP ウェアのままなのは…。）
+EN (Don't tell me that's why she's
+EN still in her training clothes...)
+
+@ 219.223
+# President, used 2x
+JP お前、水着は着てきたか？
+EN Did you bring a swimsuit?
+
+@ 219.232
+# other, used 2x
+JP 着てますよ。
+EN I'm wearing it.
+
+@ 219.239
+# President, used 2x
+JP その下にか？
+EN Under that?
+
+@ 219.252
+# President, used 2x
+JP どうして脱がないんだ？
+EN So why not take that off?
+
+@ 219.261
+# other, used 2x
+JP 脱いだら負けかなと思って。
+JP ほら、北風と太陽ってあるじゃ
+JP ないですか？
+EN Taking it off means losing.
+EN You know, like in the story of
+EN the North Wind and the Sun?
+
+@ 219.279
+# other, used 2x
+JP なんです、社長？
+EN What is it, Boss?
+
+@ 219.286
+# President, used 2x
+JP いいか、バカンスでは
+JP たくさん泳いだヤツが勝者だ。
+EN Listen. On vacation, whoever
+EN swims the most is the winner.
+
+@ 219.304
+# President, used 2x
+JP （難易度８の技のダメージを
+JP 受けたようだ。）
+EN (Looks like that hit her like
+EN a difficulty-8 move.)
+
+@ 219.314
+# other, used 2x
+JP なんと…本当ですか！？
+EN Wha... Is that true!?
+
+@ 219.321
+# President, used 2x
+JP …本当だ。
+JP 他のみんなは戦っているだろう？
+EN ...It's true.
+EN Everyone else is out there fighting,
+EN see?
+
+@ 219.323
+# President, used 2x
+JP （ただ泳いで遊んでるだけだが。）
+EN (They're just swimming and playing.)
+
+@ 219.332
+# other, used 2x
+JP く、くそ～…。
+JP 不覚…。
+JP 出遅れたかッ！？
+EN D-dammit...
+EN Careless of me...
+EN Did I fall behind!?
+
+@ 219.335
+# wrestler (voiced), used 2x
+JP 女子プロレスラー・真田
+JP 行きまーすッ！
+EN Pro wrestler Sanada,
+EN here I goooo!
+
+@ 219.358
+# President, used 2x
+JP あ、おい、なぜ俺の手を引っ張る？
+EN Hey, why are you pulling my hand?
+
+@ 219.364
+# other, used 2x
+JP 当然、社長も戦うために！
+EN So you can fight too, of course!
+
+@ 219.371
+# President, used 2x
+JP ためにって…。
+JP あ、おい、そんなに勢いよく
+JP 泳がなくても…。
+EN So I can... what?
+EN Hey, you don't have to swim
+EN that hard...
+
+@ 219.384
+# other, used 2x
+JP うおおぉーーッ！
+EN Raaaaaah!
+
+@ 219.391
+# President, used 2x
+JP 聞いちゃいねぇ…。
+EN She's not listening...
+
+@ 219.397
+# other, used 2x
+JP いくぞ、南国の海ぃぃッ！
+EN Here I come, tropical sea!
+
+@ 219.404
+# President, used 2x
+JP （まあ、バカンスの楽しみ方は
+JP 人それぞれか。）
+EN (Well, everyone enjoys
+EN a vacation in their own way.)
+
+@ 219.410
+# other, used 2x
+JP おりゃああああぁぁぁっ！
+JP がっ、ぐぷぷ……。
+EN Oryaaaaaah!
+EN Gah, glbbb...
+
+@ 219.419
+# President, used 2x
+JP （あ、水飲んだ。）
+EN (She swallowed water.)
+
+@ 219.425
+# other, used 2x
+JP ゲホ、ゲホッ！
+JP くそぉ、負けるかぁッ！
+EN *cough* *cough*!
+EN Dammit, I won't lose!
+
+@ 219.432
+# President, used 2x
+JP （まあ…。）
+EN (Well...)
+
+@ 219.434
+# President, used 2x
+JP （あの調子なら十分満喫できるな。）
+EN (At this rate she'll have plenty of
+EN fun.)
+
+@ 219.440
+# other, used 2x
+JP どりゃあああぁぁーーッ！
+EN Doryaaaaah!

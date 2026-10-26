@@ -1,0 +1,169 @@
+# Event script entry 096 of the archive in SLPM_662.39 (Wrestle Angels Survivor).
+# One block per message; JP lines are the original's screen lines. Write the English as EN lines.
+# The window shows 3 lines; `python3 tools/script.py wrap` re-breaks lines wider than
+# 340 pixels, so write naturally and add a line break only where you want one.
+# Comments: the speaker (President = the player, Secretary, or the line's speaker if voiced) and,
+# inside a branch, `case N` (the branch taken - often one per wrestler personality).
+# A message used again later (here or in another entry) takes the same English.
+# Allowed: plain ASCII except \ ; ~ is drawn as ～; ♪ ♥ … are fine.
+# {name:N} is a wrestler's name (filled in by the game): keep it, move it where English needs it.
+
+@ 096.88
+# wrestler (voiced), case 0, used 2x
+JP あの～。
+JP お呼びでしょうか～、社長？
+EN Um~ You called for me, Boss~?
+
+@ 096.102
+# wrestler (voiced), case 0, used 4x
+JP はぁ…。
+EN I see...
+
+@ 096.108
+# President, case 0, used 2x
+JP そういやお前は箱入り娘だったな。
+JP 写真集ってわかるか？
+EN Come to think of it, you're a
+EN sheltered girl. Do you know what
+EN a photo book is?
+
+@ 096.116
+# wrestler (voiced), case 0, used 2x
+JP もちろんです～。
+JP 私も持ってますから～。
+EN Of course~ I own some myself~
+
+@ 096.122
+# President, case 0, used 2x
+JP …ほう？
+JP 誰の写真集だ？
+EN ...Oh? Whose photo book?
+
+@ 096.130
+# wrestler (voiced), case 0, used 2x
+JP 誰と表現なさるとは
+JP 社長も趣がありますね～。
+JP 京津線です～。
+EN How charming of you to say "whose,"
+EN Boss~ It's the Keishin Line~
+
+@ 096.136
+# President, case 0, used 2x
+JP …ケイシンセン？
+EN ...The Keishin Line?
+
+@ 096.138
+# President, case 0, used 2x
+JP （誰だそれ？）
+EN (Who's that?)
+
+@ 096.146
+# wrestler (voiced), case 0, used 2x
+JP あの素朴な顔がいいんです～。
+JP 駅に入ってくるときのあの感じが…。
+EN I love its simple, honest face~
+EN The way it pulls into the station...
+
+@ 096.152
+# President, case 0, used 2x
+JP 良くわからんが…。
+JP まあ、写真集なわけだが…。
+EN I don't really get it... Anyway,
+EN about this photo book...
+
+@ 096.160
+# wrestler (voiced), case 0, used 2x
+JP はい。
+JP お受けいたします。
+EN Yes. I'll accept.
+
+@ 096.256
+# wrestler (voiced), case 0, used 5x
+JP フゥ～…。
+EN Phew~...
+
+@ 096.270
+# wrestler (voiced), case 0, used 2x
+JP 驚きました～…。
+JP まさか撮られる側だったなんて…。
+EN I was surprised~... To think I was
+EN the one being photographed...
+
+@ 096.276
+# President, case 0, used 2x
+JP 俺はお前が完全装備の
+JP カメラマンスタイルで来たときが
+JP 一番驚いたけれどな…。
+EN What surprised me most was when you
+EN showed up fully kitted out as
+EN a photographer...
+
+@ 096.284
+# wrestler (voiced), case 0, used 2x
+JP だって、てっきり私が
+JP 撮る側だとばかり～。
+JP 実家から取り寄せましたの…。
+EN Well, I was so sure I'd be the one
+EN taking the pictures~ I had it all
+EN sent from home...
+
+@ 096.290
+# President, case 0, used 2x
+JP 撮る方はプロに頼むから。
+JP 女子プロレスラーには頼まないから。
+EN We hire pros for the photography.
+EN Not women pro wrestlers.
+
+@ 096.298
+# wrestler (voiced), case 0, used 2x
+JP そうですか…。
+JP でも私なんかが被写体で
+JP 良かったのでしょうか～？
+EN I see... But was someone like me
+EN really all right as the subject~?
+
+@ 096.304
+# President, case 0, used 2x
+JP バッチリだよ。
+JP ほら、こんなに綺麗に撮れてる。
+EN It was perfect. Look how
+EN beautifully these came out.
+
+@ 096.312
+# wrestler (voiced), case 0, used 2x
+JP まあ、本当～。
+JP さすがプロのカメラマンですねぇ。
+EN My, so they did~ Just what you'd
+EN expect from a pro photographer.
+
+@ 096.318
+# President, case 0, used 2x
+JP 被写体もいいからだよ。
+EN It's because the subject's good too.
+
+@ 096.326
+# wrestler (voiced), case 0, used 2x
+JP …は、はあ…。
+JP そんなことはないと…思います～。
+EN ...O-oh... I don't think...
+EN that's true~
+
+@ 096.332
+# President, case 0, used 2x
+JP そんなことあるんだよ。
+EN It IS true.
+
+@ 096.340
+# wrestler (voiced), case 0, used 2x
+JP そ、そうですか～…？
+EN I-is that so~...?
+
+@ 096.346
+# President, case 0, used 2x
+JP ああ、そうだって。
+EN Yeah, it is.
+
+@ 096.361
+# wrestler (voiced), case 0, used 2x
+JP あ、ありがとうございます～。
+EN Th-thank you very much~
