@@ -14,6 +14,9 @@ code (info pages, rankings, save slots, map titles, menu highlights).
 > ([how to report](#reporting-problems)). [CHANGELOG.md](CHANGELOG.md) lists what's in each
 > release. [Screenshots](docs/SCREENSHOTS.md).
 
+> **New to the game?** The [player's guide](https://kactusken.github.io/Wrestle-Angels-Survivor-English/guide/) explains how matches and the card system work, how to
+> run a promotion through to the Final Series, and has the whole roster and every move, with search.
+
 ## Downloads
 
 Get the latest zip from the [Releases](../../releases) page. It contains three patches - pick
@@ -60,6 +63,9 @@ Then:
 - **Hidden content.** Hold R1 during events to hide the message window. More - a cut game mode,
   unused scenes and pictures, two wrestlers management mode never uses - in
   [docs/HIDDEN_CONTENT.md](docs/HIDDEN_CONTENT.md).
+- **Player's guide.** [The guide](https://kactusken.github.io/Wrestle-Angels-Survivor-English/guide/) covers the modes and controls, how a match is decided
+  (with an exchange calculator), management mode month by month, all 206 wrestlers and 105 moves,
+  the secrets, a Japanese glossary and Q&A.
 - **How management mode works.** [docs/MANAGEMENT.md](docs/MANAGEMENT.md) explains the systems,
   events, endings and strategy.
 - **How matches work.** [docs/MATCHES.md](docs/MATCHES.md) explains the controls, the cards, how
@@ -90,6 +96,7 @@ the game's formats.
 | [docs/TECHNICAL.md](docs/TECHNICAL.md) | The game's disc layout, archives, compression, data formats, and memory map |
 | [docs/PLATFORM.md](docs/PLATFORM.md) | PS2 pitfalls for this kind of work |
 | [docs/MANAGEMENT.md](docs/MANAGEMENT.md) | How management mode works, from the code |
+| [docs/guide/](https://kactusken.github.io/Wrestle-Angels-Survivor-English/guide/) | The player's guide (one page; its data comes from tools/guidedata.py) |
 | [docs/MATCHES.md](docs/MATCHES.md) | How matches work: cards, exchanges, damage, pins and submissions, the CPU |
 | [docs/HIDDEN_CONTENT.md](docs/HIDDEN_CONTENT.md) | Unlockables, debug features, and unused and cut content |
 | [docs/EVENT_TESTING.md](docs/EVENT_TESTING.md) | Making rare events happen with the test cheats |

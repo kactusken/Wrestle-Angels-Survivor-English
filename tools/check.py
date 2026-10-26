@@ -27,6 +27,8 @@ TOOLS = Path(__file__).resolve().parent
 # (name, command, quick) - commands run from the project folder; exit status != 0 = failed
 CHECKS = [
     ('lint', [PY, 'tools/lint.py'], True),
+    # passes (nothing to check) while docs/guide/index.html doesn't exist
+    ('guide data', [PY, 'tools/guidedata.py', '--check'], False),
     # ('layout', [PY, 'tools/storycheck.py'], False),
     # ('vwf hook', [PY, 'tools/test_vwf.py'], False),
 ]
