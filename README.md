@@ -12,7 +12,7 @@ code (info pages, rankings, save slots, map titles, menu highlights).
 > **Status: v0.1, first public release.** Tested in PCSX2 across exhibition (Special Match,
 > Tournament, League) and management mode. Please report anything that looks wrong
 > ([how to report](#reporting-problems)). [CHANGELOG.md](CHANGELOG.md) lists what's in each
-> release.
+> release. [Screenshots](docs/SCREENSHOTS.md).
 
 ## Downloads
 
