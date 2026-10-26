@@ -62,6 +62,8 @@ Then:
   [docs/HIDDEN_CONTENT.md](docs/HIDDEN_CONTENT.md).
 - **How management mode works.** [docs/MANAGEMENT.md](docs/MANAGEMENT.md) explains the systems,
   events, endings and strategy.
+- **How matches work.** [docs/MATCHES.md](docs/MATCHES.md) explains the controls, the cards, how
+  the game decides whose move happens, pins and submissions, and strategy.
 
 ## Reporting problems
 
@@ -88,6 +90,7 @@ the game's formats.
 | [docs/TECHNICAL.md](docs/TECHNICAL.md) | The game's disc layout, archives, compression, data formats, and memory map |
 | [docs/PLATFORM.md](docs/PLATFORM.md) | PS2 pitfalls for this kind of work |
 | [docs/MANAGEMENT.md](docs/MANAGEMENT.md) | How management mode works, from the code |
+| [docs/MATCHES.md](docs/MATCHES.md) | How matches work: cards, exchanges, damage, pins and submissions, the CPU |
 | [docs/HIDDEN_CONTENT.md](docs/HIDDEN_CONTENT.md) | Unlockables, debug features, and unused and cut content |
 | [docs/EVENT_TESTING.md](docs/EVENT_TESTING.md) | Making rare events happen with the test cheats |
 | [tools/README.md](tools/README.md) | Every tool, what it's for and how to run it |
