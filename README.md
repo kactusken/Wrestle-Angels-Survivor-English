@@ -45,6 +45,8 @@ Then:
      with a 2.4 GB image.
 2. Open the patched image in your emulator. Tested in PCSX2.
 
+> **PCSX2: the opening movie can crash the game.** This is a known PCSX2 issue with this game, the original Japanese version included (https://github.com/PCSX2/pcsx2/issues/12179). Press START as soon as the movie begins to skip it, or set the EE Cycle Rate to 50% (underclock) before the movie plays and put it back afterwards.
+
 ## Notes for players
 
 - **Names.** Western order (given name first). Ring names stay as ring names; the rival

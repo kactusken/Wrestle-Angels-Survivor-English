@@ -14,7 +14,7 @@ cheat file with a section for each item below (docs/EVENT_TESTING.md explains ho
   name entry compares no strings, and the executable has no debug menu or debug print of its
   own (*from the code*). Fans agree: "no hidden events, no 裏技".
 - **One undocumented control:** **hold R1 to hide the message window** during events and Yes/No
-  questions, to see the picture behind it (*from the code* 0x1b3100, 0x190434; not during the
+  questions, to see the picture behind it (*verified in game*; 0x1b3100, 0x190434; not during the
   staff roll).
 - **A cut mode:** the title menu has a slot for **団体戦 "TEAM EVENT"** that the cursor skips.
 - **Gallery:** always open (title menu); 166 pictures unlock by seeing them in management mode.
@@ -29,7 +29,7 @@ cheat file with a section for each item below (docs/EVENT_TESTING.md explains ho
 - Pad state words: 0x7e5fa0 held, 0x7e5fa2 pressed, 0x7e5fa8 repeat. Every use is a single
   button (○, ×, △, □, d-pad, L1/R1 pages, START to skip logos) (*from the code*).
 - **R1 held hides the message window** in event scripts (0x1b3100) and Yes/No boxes (0x190434),
-  restoring it on release; off for the staff roll (entries 319/320) (*from the code*).
+  restoring it on release; off for the staff roll (entries 319/320) (*verified in game*).
 - No sequence checks, no held-button-at-boot checks, no name-entry passwords (*from the code*).
 
 ## 2. Cut and test modes
